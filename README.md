@@ -35,6 +35,10 @@ The complete dream8 winning submission can be recreated with:
 
 make dream8
 
+To use PGC, you will need to at least do:
+
+make lasso.so
+
 Within R, the data methods take a single data cube as input.  This cube Z is a list of n by m
 matrices, where each element of the list is a replicate of n time steps by m genes.  The result that
 is returned is a single m by m matrix of gene-gene interaction predictions.
@@ -49,3 +53,7 @@ PGC_result=full.granger(Z)
 #for Prophetic GENIE3
 
 PG3_result=prophetic_GENIE3(Z)
+
+See also the synapse for this project:
+
+https://www.synapse.org/#!Synapse:syn2347433/wiki/62276
