@@ -1,0 +1,188 @@
+protein	AKT1
+protein	Adenylyl Cyclase
+protein	BCAR1
+protein	CRK
+SmallMolecule	Ca ++
+SmallMolecule	Ca2+
+SmallMolecule	DAG
+protein	EDN1
+protein	EDN2
+protein	EDN3
+protein	EDNRA
+protein	EDNRB
+protein	ERK1-2
+complex	ETA receptor/Endothelin-1
+complex	ETA receptor/Endothelin-1/G12/GTP
+complex	ETA receptor/Endothelin-1/Gq/GTP
+complex	ETA receptor/Endothelin-1/Gq/GTP/PLC beta
+complex	ETA receptor/Endothelin-1/Gs/GTP
+complex	ETA receptor/Endothelin-2
+complex	ETA receptor/Endothelin-3
+complex	ETB receptor/Endothelin-1
+complex	ETB receptor/Endothelin-1/Gi/GTP
+complex	ETB receptor/Endothelin-1/Gq/GTP
+complex	ETB receptor/Endothelin-1/Gq/GTP/PLC beta
+complex	ETB receptor/Endothelin-2
+complex	ETB receptor/Endothelin-3
+protein	Erk1-2-active
+SmallMolecule	GDP
+protein	GNA12
+SmallMolecule	GTP
+protein	Gi family
+protein	Gq family
+protein	Gs family
+protein	HRAS
+complex	HRAS/GDP
+complex	HRAS/GTP
+SmallMolecule	IP3
+protein	JAK2
+SmallMolecule	K +
+protein	MAPK14
+protein	MAPK8
+protein	MEK1-2
+protein	MEK1-2-active
+protein	None
+SmallMolecule	PI-4-5-P2
+protein	PLA2G4A
+protein	PLC beta
+protein	PTK2B
+protein	RAC1
+complex	RAC1/GDP
+complex	RAC1/GTP
+protein	RAF1
+complex	Rho family GTPase
+complex	Rho family GTPase-active
+protein	SLC9A1
+protein	SLC9A3
+protein	SRC
+protein	TRPC6
+protein	Typical PKCs
+protein	http://pid.nci.nih.gov/biopaxpid_172732
+protein	http://pid.nci.nih.gov/biopaxpid_172844
+protein	http://pid.nci.nih.gov/biopaxpid_172876
+protein	http://pid.nci.nih.gov/biopaxpid_172925
+protein	http://pid.nci.nih.gov/biopaxpid_172970
+protein	http://pid.nci.nih.gov/biopaxpid_172974
+protein	http://pid.nci.nih.gov/biopaxpid_172977
+complex	p130Cas/CRK/Src/PYK2
+Erk1-2-active	None	ACTIVATION
+SRC	p130Cas/CRK/Src/PYK2	component>
+HRAS	HRAS/GTP	component>
+HRAS	HRAS/GDP	component>
+ETA receptor/Endothelin-1/G12/GTP	Rho family GTPase-active	ACTIVATION
+MAPK14	MAPK14	-a>
+IP3	Ca ++	ACTIVATION
+PTK2B	p130Cas/CRK/Src/PYK2	component>
+BCAR1	p130Cas/CRK/Src/PYK2	component>
+ETA receptor/Endothelin-1/Gs/GTP	Adenylyl Cyclase	ACTIVATION
+Gi family	ETB receptor/Endothelin-1/Gi/GTP	component>
+CRK	p130Cas/CRK/Src/PYK2	component>
+EDNRA	ETA receptor/Endothelin-1/Gq/GTP	component>
+EDNRA	ETA receptor/Endothelin-1/G12/GTP	component>
+EDNRA	ETA receptor/Endothelin-1	component>
+EDNRA	ETA receptor/Endothelin-3	component>
+EDNRA	ETA receptor/Endothelin-2	component>
+EDNRA	ETA receptor/Endothelin-1/Gs/GTP	component>
+EDNRA	ETA receptor/Endothelin-1/Gq/GTP/PLC beta	component>
+EDNRB	ETB receptor/Endothelin-1/Gq/GTP	component>
+EDNRB	ETB receptor/Endothelin-1/Gq/GTP/PLC beta	component>
+EDNRB	ETB receptor/Endothelin-2	component>
+EDNRB	ETB receptor/Endothelin-3	component>
+EDNRB	ETB receptor/Endothelin-1/Gi/GTP	component>
+EDNRB	ETB receptor/Endothelin-1	component>
+RAF1	MEK1-2-active	ACTIVATION
+RAF1	RAF1	-a>
+Gq family	ETA receptor/Endothelin-1/Gq/GTP	component>
+Gq family	ETA receptor/Endothelin-1/Gq/GTP/PLC beta	component>
+Gq family	ETB receptor/Endothelin-1/Gq/GTP/PLC beta	component>
+Gq family	ETB receptor/Endothelin-1/Gq/GTP	component>
+Rho family GTPase-active	MAPK8	ACTIVATION
+DAG	Typical PKCs	ACTIVATION
+ETB receptor/Endothelin-1/Gq/GTP/PLC beta	MAPK14	ACTIVATION
+ETB receptor/Endothelin-1/Gq/GTP/PLC beta	IP3	ACTIVATION
+SLC9A1	SLC9A1	-a>
+ETB receptor/Endothelin-1	SLC9A3	ACTIVATION
+Gs family	ETA receptor/Endothelin-1/Gs/GTP	component>
+Ca2+	Ca2+	transport
+Ca2+	PLA2G4A	ACTIVATION
+Ca2+	p130Cas/CRK/Src/PYK2	ACTIVATION
+Ca2+	SLC9A3	ACTIVATION
+ETA receptor/Endothelin-1	RAC1/GTP	ACTIVATION
+ETA receptor/Endothelin-1	Ca ++	ACTIVATION
+ETA receptor/Endothelin-1	JAK2	ACTIVATION
+ETA receptor/Endothelin-1	SLC9A1	ACTIVATION
+ETA receptor/Endothelin-1	AKT1	ACTIVATION
+JAK2	JAK2	-a>
+PI-4-5-P2	IP3	-a>
+PI-4-5-P2	DAG	-a>
+EDN1	ETA receptor/Endothelin-1/Gq/GTP	component>
+EDN1	ETB receptor/Endothelin-1/Gi/GTP	component>
+EDN1	ETB receptor/Endothelin-1/Gq/GTP/PLC beta	component>
+EDN1	ETB receptor/Endothelin-1	component>
+EDN1	ETA receptor/Endothelin-1/G12/GTP	component>
+EDN1	ETB receptor/Endothelin-1/Gq/GTP	component>
+EDN1	ETA receptor/Endothelin-1	component>
+EDN1	ETA receptor/Endothelin-1/Gs/GTP	component>
+EDN1	ETA receptor/Endothelin-1/Gq/GTP/PLC beta	component>
+RAC1/GTP	None	ACTIVATION
+EDN3	ETB receptor/Endothelin-3	component>
+EDN3	ETA receptor/Endothelin-3	component>
+HRAS/GTP	RAF1	ACTIVATION
+None	http://pid.nci.nih.gov/biopaxpid_172977	ACTIVATION
+None	Rho family GTPase-active	ACTIVATION
+None	http://pid.nci.nih.gov/biopaxpid_172844	ACTIVATION
+None	SLC9A1	ACTIVATION
+None	http://pid.nci.nih.gov/biopaxpid_172970	ACTIVATION
+None	http://pid.nci.nih.gov/biopaxpid_172876	ACTIVATION
+None	http://pid.nci.nih.gov/biopaxpid_172925	ACTIVATION
+None	AKT1	ACTIVATION
+None	http://pid.nci.nih.gov/biopaxpid_172974	ACTIVATION
+None	RAC1/GTP	ACTIVATION
+None	http://pid.nci.nih.gov/biopaxpid_172732	ACTIVATION
+MEK1-2-active	Erk1-2-active	ACTIVATION
+MEK1-2-active	PLA2G4A	ACTIVATION
+Ca ++	Ca ++	transport
+Ca ++	Ca ++	INHIBITION
+RAC1/GDP	GDP	-a>
+RAC1/GDP	RAC1/GTP	-a>
+ETB receptor/Endothelin-1/Gi/GTP	None	INHIBITION
+HRAS/GDP	GDP	-a>
+HRAS/GDP	HRAS/GTP	-a>
+GTP	GDP	-a>
+GTP	ETA receptor/Endothelin-1/Gq/GTP	component>
+GTP	ETB receptor/Endothelin-1/Gq/GTP	component>
+GTP	ETB receptor/Endothelin-1/Gq/GTP/PLC beta	component>
+GTP	ETB receptor/Endothelin-1/Gi/GTP	component>
+GTP	ETA receptor/Endothelin-1/G12/GTP	component>
+GTP	ETA receptor/Endothelin-1/Gs/GTP	component>
+GTP	RAC1/GTP	component>
+GTP	ETA receptor/Endothelin-1/Gq/GTP/PLC beta	component>
+GTP	HRAS/GTP	component>
+K +	PLA2G4A	INHIBITION
+MEK1-2	MEK1-2-active	-a>
+PLA2G4A	PLA2G4A	-a>
+PLA2G4A	None	ACTIVATION
+ETA receptor/Endothelin-1/Gq/GTP/PLC beta	DAG	ACTIVATION
+Rho family GTPase	Rho family GTPase-active	-a>
+MAPK8	MAPK8	-a>
+PLC beta	ETA receptor/Endothelin-1/Gq/GTP/PLC beta	component>
+PLC beta	ETB receptor/Endothelin-1/Gq/GTP/PLC beta	component>
+GDP	RAC1/GDP	component>
+GDP	HRAS/GDP	component>
+EDN2	ETB receptor/Endothelin-2	component>
+EDN2	ETA receptor/Endothelin-2	component>
+AKT1	AKT1	-a>
+AKT1	None	ACTIVATION
+Adenylyl Cyclase	Adenylyl Cyclase	-a>
+Adenylyl Cyclase	None	ACTIVATION
+SLC9A3	SLC9A3	-a>
+p130Cas/CRK/Src/PYK2	MAPK8	ACTIVATION
+ERK1-2	Erk1-2-active	-a>
+GNA12	ETA receptor/Endothelin-1/G12/GTP	component>
+RAC1	RAC1/GTP	component>
+RAC1	RAC1/GDP	component>
+TRPC6	Ca2+	ACTIVATION
+ETA receptor/Endothelin-1/Gq/GTP	MAPK8	ACTIVATION
+Typical PKCs	Typical PKCs	transport
+Typical PKCs	HRAS/GTP	ACTIVATION
+Typical PKCs	p130Cas/CRK/Src/PYK2	ACTIVATION

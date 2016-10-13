@@ -1,0 +1,284 @@
+protein	AKT1
+protein	B2M
+protein	B7 family
+complex	B7 family/CD28
+protein	BCL10
+protein	CARD11
+protein	CBL
+protein	CD247
+protein	CD28
+protein	CD3D
+protein	CD3E
+protein	CD3G
+protein	CD8A
+protein	CD8B
+protein	CHUK
+complex	COT/AKT1
+protein	CSK
+complex	CSK/PAG1
+SmallMolecule	Ca2+
+SmallMolecule	DAG
+SmallMolecule	GDP
+protein	GRAP2
+complex	GRAP2/SLP76
+protein	GRB2
+complex	GRB2/SOS1/SHC
+SmallMolecule	GTP
+protein	HLA-A
+protein	IKBKB
+protein	IKBKG
+complex	IKK complex
+SmallMolecule	IP3
+complex	L-type voltage-dependent calcium channel
+protein	LAT
+complex	LAT/GRAP2/SLP76
+complex	LAT/GRAP2/SLP76/VAV1
+complex	LAT/GRAP2/SLP76/VAV1/PI3K Class IA
+complex	LAT/GRAP2/SLP76/VAV1/PLCgamma1
+protein	LCK
+protein	LCP2
+protein	MALT1
+protein	MAP3K14
+protein	MAP3K8
+protein	None
+protein	ORAI1
+protein	PAG1
+complex	PDK1/CARD11/BCL10/MALT1
+complex	PDK1/CARD11/BCL10/MALT1/TRAF6
+complex	PDK1/PKC theta
+protein	PDPK1
+SmallMolecule	PI-3-4-5-P3
+SmallMolecule	PI-4-5-P2
+protein	PI3K Class IA
+protein	PLCG1
+protein	PRF1
+protein	PRKCA
+protein	PRKCB
+protein	PRKCE
+protein	PRKCQ
+protein	PTPN6
+protein	PTPRC
+protein	RAP1A
+complex	RAP1A/GDP
+complex	RAP1A/GTP
+complex	RAP1A/GTP/RAPL
+protein	RAS family
+complex	RAS family/GDP
+complex	RAS family/GTP
+protein	RASGRP1
+protein	RASGRP2
+protein	RASSF5
+protein	SHC1
+protein	SOS1
+protein	STIM1
+protein	TCR-alpha
+protein	TCR-beta
+complex	TCR/CD3/MHC I/CD8
+complex	TCR/CD3/MHC I/CD8/Fyn
+complex	TCR/CD3/MHC I/CD8/LCK
+complex	TCR/CD3/MHC I/CD8/LCK/ZAP-70
+complex	TCR/CD3/MHC I/CD8/LCK/ZAP-70/CBL/ubiquitin
+protein	TRAF6
+protein	TRPV6
+protein	VAV1
+protein	ZAP70
+protein	peptide
+RASGRP2	RAP1A/GTP	ACTIVATION
+RASGRP2	RASGRP2	transport
+STIM1	STIM1	transport
+STIM1	ORAI1	ACTIVATION
+RASGRP1	GDP	ACTIVATION
+RASGRP1	RASGRP1	transport
+GRAP2	GRAP2/SLP76	component>
+GRAP2	LAT/GRAP2/SLP76/VAV1/PI3K Class IA	component>
+GRAP2	LAT/GRAP2/SLP76/VAV1/PLCgamma1	component>
+GRAP2	LAT/GRAP2/SLP76/VAV1	component>
+GRAP2	LAT/GRAP2/SLP76	component>
+TCR/CD3/MHC I/CD8/LCK/ZAP-70/CBL/ubiquitin	None	ACTIVATION
+GRB2/SOS1/SHC	GDP	ACTIVATION
+PAG1	CSK/PAG1	component>
+HLA-A	TCR/CD3/MHC I/CD8/LCK	component>
+HLA-A	TCR/CD3/MHC I/CD8/LCK/ZAP-70	component>
+HLA-A	TCR/CD3/MHC I/CD8/Fyn	component>
+HLA-A	TCR/CD3/MHC I/CD8/LCK/ZAP-70/CBL/ubiquitin	component>
+HLA-A	TCR/CD3/MHC I/CD8	component>
+RASSF5	RAP1A/GTP/RAPL	component>
+PI-3-4-5-P3	AKT1	ACTIVATION
+PI-3-4-5-P3	PDPK1	ACTIVATION
+RAP1A/GDP	RAP1A/GTP	-a>
+RAP1A/GDP	GDP	-a>
+IP3	Ca2+	ACTIVATION
+B2M	TCR/CD3/MHC I/CD8/LCK	component>
+B2M	TCR/CD3/MHC I/CD8/LCK/ZAP-70	component>
+B2M	TCR/CD3/MHC I/CD8/Fyn	component>
+B2M	TCR/CD3/MHC I/CD8/LCK/ZAP-70/CBL/ubiquitin	component>
+B2M	TCR/CD3/MHC I/CD8	component>
+CD28	B7 family/CD28	component>
+MAP3K14	MAP3K14	-a>
+L-type voltage-dependent calcium channel	Ca2+	ACTIVATION
+CD8B	TCR/CD3/MHC I/CD8/LCK	component>
+CD8B	TCR/CD3/MHC I/CD8/LCK/ZAP-70	component>
+CD8B	TCR/CD3/MHC I/CD8/Fyn	component>
+CD8B	TCR/CD3/MHC I/CD8/LCK/ZAP-70/CBL/ubiquitin	component>
+CD8B	TCR/CD3/MHC I/CD8	component>
+CD247	TCR/CD3/MHC I/CD8/LCK	component>
+CD247	TCR/CD3/MHC I/CD8/LCK/ZAP-70	component>
+CD247	TCR/CD3/MHC I/CD8/Fyn	component>
+CD247	TCR/CD3/MHC I/CD8/LCK/ZAP-70/CBL/ubiquitin	component>
+CD247	TCR/CD3/MHC I/CD8	component>
+MAP3K8	COT/AKT1	component>
+DAG	RASGRP2	ACTIVATION
+DAG	RASGRP1	ACTIVATION
+DAG	PRKCA	ACTIVATION
+DAG	PRKCB	ACTIVATION
+DAG	PRKCE	ACTIVATION
+DAG	PRKCQ	ACTIVATION
+CSK	CSK/PAG1	component>
+PI3K Class IA	LAT/GRAP2/SLP76/VAV1/PI3K Class IA	component>
+PI3K Class IA	PI3K Class IA	-a>
+LAT/GRAP2/SLP76/VAV1/PLCgamma1	IP3	ACTIVATION
+PDK1/PKC theta	IKK complex	ACTIVATION
+PDK1/CARD11/BCL10/MALT1/TRAF6	IKBKG	ACTIVATION
+Ca2+	RASGRP2	ACTIVATION
+Ca2+	Ca2+	transport
+Ca2+	TRPV6	INHIBITION
+Ca2+	STIM1	INHIBITION
+PTPN6	LCK	ACTIVATION
+PTPN6	ZAP70	ACTIVATION
+PTPN6	PTPN6	-a>
+GRB2	GRB2/SOS1/SHC	component>
+PRKCQ	PRKCQ	transport
+PRKCQ	PDK1/PKC theta	component>
+PRKCQ	RASGRP1	ACTIVATION
+ZAP70	TCR/CD3/MHC I/CD8/LCK/ZAP-70	component>
+ZAP70	ZAP70	-a>
+ZAP70	TCR/CD3/MHC I/CD8/LCK/ZAP-70/CBL/ubiquitin	component>
+ZAP70	TCR/CD3/MHC I/CD8/Fyn	component>
+PI-4-5-P2	IP3	-a>
+PI-4-5-P2	DAG	-a>
+PI-4-5-P2	PI-3-4-5-P3	-a>
+LAT/GRAP2/SLP76/VAV1/PI3K Class IA	PRKCQ	ACTIVATION
+LAT/GRAP2/SLP76/VAV1/PI3K Class IA	PI-3-4-5-P3	ACTIVATION
+PTPRC	ZAP70	ACTIVATION
+PTPRC	LCK	ACTIVATION
+TRPV6	Ca2+	ACTIVATION
+TRPV6	TRPV6	-a>
+TCR-beta	TCR/CD3/MHC I/CD8/LCK	component>
+TCR-beta	TCR/CD3/MHC I/CD8/LCK/ZAP-70	component>
+TCR-beta	TCR/CD3/MHC I/CD8/Fyn	component>
+TCR-beta	TCR/CD3/MHC I/CD8/LCK/ZAP-70/CBL/ubiquitin	component>
+TCR-beta	TCR/CD3/MHC I/CD8	component>
+TCR-alpha	TCR/CD3/MHC I/CD8/LCK	component>
+TCR-alpha	TCR/CD3/MHC I/CD8/LCK/ZAP-70	component>
+TCR-alpha	TCR/CD3/MHC I/CD8/Fyn	component>
+TCR-alpha	TCR/CD3/MHC I/CD8/LCK/ZAP-70/CBL/ubiquitin	component>
+TCR-alpha	TCR/CD3/MHC I/CD8	component>
+TCR/CD3/MHC I/CD8/LCK	LAT/GRAP2/SLP76/VAV1/PI3K Class IA	ACTIVATION
+TCR/CD3/MHC I/CD8/LCK	PTPN6	ACTIVATION
+TCR/CD3/MHC I/CD8/LCK	B7 family/CD28	ACTIVATION
+ORAI1	Ca2+	ACTIVATION
+ORAI1	ORAI1	-a>
+peptide	TCR/CD3/MHC I/CD8/LCK	component>
+peptide	TCR/CD3/MHC I/CD8/LCK/ZAP-70	component>
+peptide	TCR/CD3/MHC I/CD8/Fyn	component>
+peptide	TCR/CD3/MHC I/CD8/LCK/ZAP-70/CBL/ubiquitin	component>
+peptide	TCR/CD3/MHC I/CD8	component>
+SHC1	GRB2/SOS1/SHC	component>
+SHC1	SHC1	-a>
+TRAF6	PDK1/CARD11/BCL10/MALT1/TRAF6	component>
+B7 family/CD28	TCR/CD3/MHC I/CD8/LCK	ACTIVATION
+B7 family/CD28	TCR/CD3/MHC I/CD8/LCK/ZAP-70	ACTIVATION
+B7 family/CD28	PI3K Class IA	ACTIVATION
+B7 family/CD28	B7 family/CD28	-a>
+PRKCA	IKK complex	ACTIVATION
+PRKCA	PRKCA	transport
+CARD11	PDK1/CARD11/BCL10/MALT1	component>
+CARD11	PDK1/CARD11/BCL10/MALT1/TRAF6	component>
+PRKCB	IKK complex	ACTIVATION
+PRKCB	PRKCB	transport
+PRKCE	IKK complex	ACTIVATION
+PRKCE	PRKCE	transport
+CHUK	IKK complex	component>
+B7 family	B7 family/CD28	component>
+CD3E	TCR/CD3/MHC I/CD8/LCK	component>
+CD3E	TCR/CD3/MHC I/CD8/LCK/ZAP-70	component>
+CD3E	TCR/CD3/MHC I/CD8/Fyn	component>
+CD3E	TCR/CD3/MHC I/CD8/LCK/ZAP-70/CBL/ubiquitin	component>
+CD3E	TCR/CD3/MHC I/CD8	component>
+GTP	RAP1A/GTP	component>
+GTP	RAP1A/GTP/RAPL	component>
+GTP	RAS family/GTP	component>
+GTP	GDP	-a>
+GRAP2/SLP76	GRAP2/SLP76	-a>
+RAP1A	RAP1A/GTP	component>
+RAP1A	RAP1A/GDP	component>
+RAP1A	RAP1A/GTP/RAPL	component>
+TCR/CD3/MHC I/CD8/LCK/ZAP-70	GRAP2/SLP76	ACTIVATION
+TCR/CD3/MHC I/CD8/LCK/ZAP-70	SHC1	ACTIVATION
+TCR/CD3/MHC I/CD8/LCK/ZAP-70	CSK	ACTIVATION
+TCR/CD3/MHC I/CD8/LCK/ZAP-70	VAV1	ACTIVATION
+TCR/CD3/MHC I/CD8/LCK/ZAP-70	PRKCQ	ACTIVATION
+TCR/CD3/MHC I/CD8/LCK/ZAP-70	LAT	ACTIVATION
+CD8A	TCR/CD3/MHC I/CD8/LCK	component>
+CD8A	TCR/CD3/MHC I/CD8/LCK/ZAP-70	component>
+CD8A	TCR/CD3/MHC I/CD8/Fyn	component>
+CD8A	TCR/CD3/MHC I/CD8/LCK/ZAP-70/CBL/ubiquitin	component>
+CD8A	TCR/CD3/MHC I/CD8	component>
+LCP2	GRAP2/SLP76	component>
+LCP2	LAT/GRAP2/SLP76/VAV1/PI3K Class IA	component>
+LCP2	LAT/GRAP2/SLP76/VAV1/PLCgamma1	component>
+LCP2	LAT/GRAP2/SLP76/VAV1	component>
+LCP2	LAT/GRAP2/SLP76	component>
+IKBKG	IKK complex	component>
+IKBKG	IKBKG	-a>
+PRF1	None	ACTIVATION
+BCL10	PDK1/CARD11/BCL10/MALT1	component>
+BCL10	PDK1/CARD11/BCL10/MALT1/TRAF6	component>
+GDP	RAP1A/GDP	component>
+GDP	RAS family/GDP	component>
+IKBKB	IKK complex	component>
+CSK/PAG1	ZAP70	ACTIVATION
+CSK/PAG1	LCK	ACTIVATION
+SOS1	GRB2/SOS1/SHC	component>
+AKT1	AKT1	transport
+AKT1	None	ACTIVATION
+AKT1	COT/AKT1	component>
+RAP1A/GTP/RAPL	None	ACTIVATION
+CD3D	TCR/CD3/MHC I/CD8/LCK	component>
+CD3D	TCR/CD3/MHC I/CD8/LCK/ZAP-70	component>
+CD3D	TCR/CD3/MHC I/CD8/Fyn	component>
+CD3D	TCR/CD3/MHC I/CD8/LCK/ZAP-70/CBL/ubiquitin	component>
+CD3D	TCR/CD3/MHC I/CD8	component>
+PLCG1	LAT/GRAP2/SLP76/VAV1/PLCgamma1	component>
+CBL	TCR/CD3/MHC I/CD8/LCK/ZAP-70/CBL/ubiquitin	component>
+IKK complex	IKK complex	-a>
+VAV1	LAT/GRAP2/SLP76/VAV1/PLCgamma1	component>
+VAV1	VAV1	transport
+VAV1	LAT/GRAP2/SLP76/VAV1	component>
+VAV1	LAT/GRAP2/SLP76/VAV1/PI3K Class IA	component>
+RAS family/GDP	GDP	-a>
+RAS family/GDP	RAS family/GTP	-a>
+COT/AKT1	MAP3K14	ACTIVATION
+MALT1	PDK1/CARD11/BCL10/MALT1	component>
+MALT1	PDK1/CARD11/BCL10/MALT1/TRAF6	component>
+LAT	LAT/GRAP2/SLP76/VAV1/PLCgamma1	component>
+LAT	LAT/GRAP2/SLP76/VAV1/PI3K Class IA	component>
+LAT	LAT/GRAP2/SLP76/VAV1	component>
+LAT	LAT	-a>
+LAT	LAT/GRAP2/SLP76	component>
+PDPK1	PDPK1	transport
+PDPK1	AKT1	ACTIVATION
+PDPK1	PDK1/CARD11/BCL10/MALT1	component>
+PDPK1	PDK1/CARD11/BCL10/MALT1/TRAF6	component>
+PDPK1	PDK1/PKC theta	component>
+RAS family	RAS family/GDP	component>
+RAS family	RAS family/GTP	component>
+LCK	TCR/CD3/MHC I/CD8/LCK	component>
+LCK	LCK	-a>
+LCK	TCR/CD3/MHC I/CD8/LCK/ZAP-70/CBL/ubiquitin	component>
+LCK	TCR/CD3/MHC I/CD8/LCK/ZAP-70	component>
+CD3G	TCR/CD3/MHC I/CD8/LCK	component>
+CD3G	TCR/CD3/MHC I/CD8/LCK/ZAP-70	component>
+CD3G	TCR/CD3/MHC I/CD8/Fyn	component>
+CD3G	TCR/CD3/MHC I/CD8/LCK/ZAP-70/CBL/ubiquitin	component>
+CD3G	TCR/CD3/MHC I/CD8	component>

@@ -1,0 +1,129 @@
+protein	CDK5
+protein	CDK5R1
+complex	CDK5R1/CDK5
+protein	Cbp/p300
+protein	Erk1-2-active
+protein	FKBP4
+protein	FKBP5
+protein	FOS
+complex	GR alpha/HSP90/FKBP51/HSP90/14-3-3
+complex	GR alpha/HSP90/FKBP51/HSP90/PP5C
+complex	GR/PKAc
+protein	GSK3B
+protein	HDAC2
+protein	HSP90AA1
+protein	JNK family-active
+protein	JUN
+complex	JUN (dimer)
+complex	JUN/FOS
+protein	MAPK8
+protein	MDM2
+protein	NCOA1
+protein	NCOA2
+complex	NF kappa B1 p50/RelA/Cbp/cortisol/GR alpha (monomer)/HDAC2
+protein	NFKB1
+protein	NR3C1
+protein	None
+protein	PKA Family-active
+protein	PPP5C
+protein	RELA
+protein	SFN
+protein	SMARCA4
+protein	SMARCC1
+protein	SMARCC2
+protein	SMARCD1
+protein	SUMO2
+protein	SUV420H1
+complex	TIF2/SUV420H1
+protein	TP53
+protein	TSG101
+protein	YWHAH
+SmallMolecule	cortisol
+complex	cortisol/GR alpha (dimer)
+complex	cortisol/GR alpha (dimer)/Src-1
+complex	cortisol/GR alpha (dimer)/TIF2
+complex	cortisol/GR alpha (dimer)/p53
+complex	cortisol/GR alpha (monomer)
+complex	cortisol/GR alpha (monomer)/JUN/FOS
+complex	cortisol/GR alpha/BRG1/BAF155/BAF170/BAF60A
+protein	http://pid.nci.nih.gov/biopaxpid_122208
+protein	http://pid.nci.nih.gov/biopaxpid_122352
+protein	http://pid.nci.nih.gov/biopaxpid_122486
+protein	http://pid.nci.nih.gov/biopaxpid_122568
+protein	http://pid.nci.nih.gov/biopaxpid_122615
+protein	p38alpha-beta-active
+SMARCC2	cortisol/GR alpha/BRG1/BAF155/BAF170/BAF60A	component>
+TSG101	None	ACTIVATION
+Erk1-2-active	cortisol/GR alpha (dimer)	ACTIVATION
+CDK5R1/CDK5	cortisol/GR alpha (dimer)	ACTIVATION
+SUMO2	cortisol/GR alpha (dimer)	ACTIVATION
+None	None	ACTIVATION
+None	http://pid.nci.nih.gov/biopaxpid_122568	ACTIVATION
+None	cortisol/GR alpha (dimer)	ACTIVATION
+None	http://pid.nci.nih.gov/biopaxpid_122486	ACTIVATION
+None	NF kappa B1 p50/RelA/Cbp/cortisol/GR alpha (monomer)/HDAC2	ACTIVATION
+None	http://pid.nci.nih.gov/biopaxpid_122352	ACTIVATION
+None	http://pid.nci.nih.gov/biopaxpid_122615	ACTIVATION
+None	http://pid.nci.nih.gov/biopaxpid_122208	ACTIVATION
+None	MDM2	ACTIVATION
+FKBP5	GR alpha/HSP90/FKBP51/HSP90/PP5C	component>
+FKBP5	GR alpha/HSP90/FKBP51/HSP90/14-3-3	component>
+SMARCC1	cortisol/GR alpha/BRG1/BAF155/BAF170/BAF60A	component>
+SMARCA4	cortisol/GR alpha/BRG1/BAF155/BAF170/BAF60A	component>
+NCOA2	TIF2/SUV420H1	component>
+NCOA2	cortisol/GR alpha (dimer)/TIF2	component>
+PKA Family-active	GR/PKAc	component>
+NCOA1	cortisol/GR alpha (dimer)/Src-1	component>
+JUN	JUN (dimer)	component>
+JUN	JUN/FOS	component>
+JUN	cortisol/GR alpha (monomer)/JUN/FOS	component>
+JUN	JUN	-a>
+YWHAH	None	INHIBITION
+CDK5R1	CDK5R1/CDK5	component>
+HDAC2	NF kappa B1 p50/RelA/Cbp/cortisol/GR alpha (monomer)/HDAC2	component>
+NFKB1	NF kappa B1 p50/RelA/Cbp/cortisol/GR alpha (monomer)/HDAC2	component>
+MAPK8	MAPK8	-a>
+MAPK8	JUN	ACTIVATION
+cortisol/GR alpha (monomer)	None	INHIBITION
+cortisol/GR alpha (monomer)	MAPK8	INHIBITION
+p38alpha-beta-active	cortisol/GR alpha (dimer)	ACTIVATION
+NR3C1	cortisol/GR alpha (monomer)	component>
+NR3C1	cortisol/GR alpha/BRG1/BAF155/BAF170/BAF60A	component>
+NR3C1	GR alpha/HSP90/FKBP51/HSP90/14-3-3	component>
+NR3C1	cortisol/GR alpha (dimer)	component>
+NR3C1	cortisol/GR alpha (monomer)/JUN/FOS	component>
+NR3C1	cortisol/GR alpha (dimer)/TIF2	component>
+NR3C1	NF kappa B1 p50/RelA/Cbp/cortisol/GR alpha (monomer)/HDAC2	component>
+NR3C1	GR/PKAc	component>
+NR3C1	cortisol/GR alpha (dimer)/p53	component>
+NR3C1	GR alpha/HSP90/FKBP51/HSP90/PP5C	component>
+NR3C1	cortisol/GR alpha (dimer)/Src-1	component>
+cortisol	cortisol/GR alpha (monomer)	component>
+cortisol	cortisol/GR alpha/BRG1/BAF155/BAF170/BAF60A	component>
+cortisol	cortisol/GR alpha (dimer)	component>
+cortisol	cortisol/GR alpha (monomer)/JUN/FOS	component>
+cortisol	cortisol/GR alpha (dimer)/TIF2	component>
+cortisol	NF kappa B1 p50/RelA/Cbp/cortisol/GR alpha (monomer)/HDAC2	component>
+cortisol	MDM2	ACTIVATION
+cortisol	cortisol/GR alpha (dimer)/p53	component>
+cortisol	cortisol/GR alpha (dimer)/Src-1	component>
+cortisol/GR alpha (dimer)	None	ACTIVATION
+cortisol/GR alpha (dimer)	cortisol/GR alpha (dimer)	-a>
+FOS	JUN/FOS	component>
+FOS	cortisol/GR alpha (monomer)/JUN/FOS	component>
+JNK family-active	cortisol/GR alpha (dimer)	ACTIVATION
+SMARCD1	cortisol/GR alpha/BRG1/BAF155/BAF170/BAF60A	component>
+MDM2	None	ACTIVATION
+MDM2	MDM2	transport
+SUV420H1	TIF2/SUV420H1	component>
+Cbp/p300	None	ACTIVATION
+Cbp/p300	NF kappa B1 p50/RelA/Cbp/cortisol/GR alpha (monomer)/HDAC2	component>
+RELA	NF kappa B1 p50/RelA/Cbp/cortisol/GR alpha (monomer)/HDAC2	component>
+TP53	cortisol/GR alpha (dimer)/p53	component>
+PPP5C	GR alpha/HSP90/FKBP51/HSP90/PP5C	component>
+cortisol/GR alpha/BRG1/BAF155/BAF170/BAF60A	None	ACTIVATION
+GSK3B	cortisol/GR alpha (dimer)	ACTIVATION
+SFN	GR alpha/HSP90/FKBP51/HSP90/14-3-3	component>
+CDK5	CDK5R1/CDK5	component>
+HSP90AA1	GR alpha/HSP90/FKBP51/HSP90/PP5C	component>
+HSP90AA1	GR alpha/HSP90/FKBP51/HSP90/14-3-3	component>

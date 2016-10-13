@@ -1,0 +1,218 @@
+protein	AKT1
+protein	ARHGEF1
+protein	ARR3
+protein	ARRB2
+SmallMolecule	Ca2+
+SmallMolecule	DAG
+protein	DNM1
+protein	EGF
+complex	EGF/EGFR
+protein	EGFR
+complex	G beta/gamma
+complex	G beta5/gamma2
+protein	G12 family
+complex	G12 family/GTP
+SmallMolecule	GDP
+protein	GNAI2
+complex	GNAI2/GTP
+protein	GNB1
+protein	GNB5
+protein	GNG2
+protein	GRK2-3
+SmallMolecule	GTP
+complex	Gi family/GTP
+protein	Gq family
+complex	Gq family/GTP/EBP50
+SmallMolecule	IP3
+SmallMolecule	L-arginine
+SmallMolecule	L-citrulline
+SmallMolecule	NADP
+SmallMolecule	NADPH
+SmallMolecule	NO
+protein	NOS3
+protein	None
+SmallMolecule	O2
+SmallMolecule	PDG2
+complex	PGD2/DP
+SmallMolecule	PGI2
+complex	PGI2/IP
+complex	PGK/cGMP
+SmallMolecule	PI-4-5-P2
+complex	PI3K Class IA
+complex	PI3K Class IB family
+protein	PLCB2
+protein	PRKACA
+protein	PRKCZ
+protein	PRKG1
+protein	PTGDR
+protein	PTGIR
+protein	RAB11A
+protein	RAC1
+complex	RAC1/GTP
+protein	RHOA
+complex	RHOA/GDP
+complex	RHOA/GTP
+protein	ROCK1
+complex	RhoA/GTP/ROCK1
+protein	SLC9A3R1
+protein	SYK
+protein	Src Family Kinases
+protein	Src Family Kinases-active
+protein	TBXA2R
+protein	TGM2
+complex	TGM2/GTP
+SmallMolecule	TXA2
+protein	TXA2-R family
+protein	TXA2-R family-inactive
+complex	TXA2/TP alpha
+complex	TXA2/TP beta
+complex	TXA2/TP beta/beta Arrestin2
+complex	TXA2/TP beta/beta Arrestin2/RAB11/GDP
+complex	TXA2/TP beta/beta Arrestin3
+complex	TXA2/TP beta/beta Arrestin3/RAB11/GDP
+complex	TXA2/TXA2-R family
+protein	Typical PKCs
+SmallMolecule	cGMP
+protein	http://pid.nci.nih.gov/biopaxpid_86159
+protein	http://pid.nci.nih.gov/biopaxpid_86164
+protein	http://pid.nci.nih.gov/biopaxpid_86180
+protein	p38alpha-beta
+protein	p38alpha-beta-active
+EGF	EGF/EGFR	component>
+TGM2	TGM2/GTP	component>
+ARRB2	TXA2/TP beta/beta Arrestin2	component>
+ARRB2	TXA2/TP beta/beta Arrestin2/RAB11/GDP	component>
+cGMP	PGK/cGMP	component>
+GRK2-3	TXA2/TP beta	ACTIVATION
+TXA2/TP alpha	None	ACTIVATION
+TXA2/TP alpha	TGM2/GTP	INHIBITION
+TXA2/TP alpha	TXA2/TP alpha	-a>
+TXA2/TP alpha	Gi family/GTP	INHIBITION
+GNB5	G beta5/gamma2	component>
+AKT1	AKT1	-a>
+G beta/gamma	PI3K Class IB family	ACTIVATION
+TGM2/GTP	PLCB2	ACTIVATION
+PTGDR	PGD2/DP	component>
+ARHGEF1	GDP	ACTIVATION
+ARHGEF1	ARHGEF1	-a>
+G12 family/GTP	None	ACTIVATION
+G12 family/GTP	ARHGEF1	ACTIVATION
+GNAI2	GNAI2/GTP	component>
+O2	NADP	-a>
+O2	L-citrulline	-a>
+O2	NO	-a>
+RhoA/GTP/ROCK1	None	ACTIVATION
+PGD2/DP	PRKACA	ACTIVATION
+DAG	Typical PKCs	ACTIVATION
+DAG	None	ACTIVATION
+G12 family	G12 family/GTP	component>
+PI3K Class IA	None	ACTIVATION
+PI3K Class IA	PI3K Class IA	transport
+NO	PGK/cGMP	ACTIVATION
+SLC9A3R1	Gq family/GTP/EBP50	component>
+Gq family	Gq family/GTP/EBP50	component>
+Gq family	Gi family/GTP	component>
+RAB11A	TXA2/TP beta/beta Arrestin2/RAB11/GDP	component>
+RAB11A	TXA2/TP beta/beta Arrestin3/RAB11/GDP	component>
+PGI2	PGI2/IP	component>
+p38alpha-beta	p38alpha-beta-active	-a>
+PRKG1	PGK/cGMP	component>
+PI-4-5-P2	IP3	-a>
+PI-4-5-P2	DAG	-a>
+GNAI2/GTP	None	ACTIVATION
+GNAI2/GTP	Src Family Kinases-active	ACTIVATION
+TXA2/TP beta	GDP	INHIBITION
+TXA2/TP beta	TXA2/TP beta	-a>
+RAC1/GTP	TXA2/TP beta/beta Arrestin2	INHIBITION
+RAC1/GTP	TXA2/TP beta/beta Arrestin3	INHIBITION
+Gq family/GTP/EBP50	TXA2/TP beta/beta Arrestin2	INHIBITION
+Gq family/GTP/EBP50	TXA2/TP beta/beta Arrestin3	INHIBITION
+p38alpha-beta-active	None	ACTIVATION
+PLCB2	PLCB2	-a>
+PLCB2	DAG	ACTIVATION
+NOS3	NADP	ACTIVATION
+PTGIR	PGI2/IP	component>
+RAC1	RAC1/GTP	component>
+TXA2-R family-inactive	TXA2/TXA2-R family	component>
+EGFR	EGF/EGFR	component>
+GNB1	G beta/gamma	component>
+EGF/EGFR	EGF/EGFR	-a>
+GTP	GDP	-a>
+GTP	GNAI2/GTP	component>
+GTP	RHOA/GTP	component>
+GTP	TGM2/GTP	component>
+GTP	RAC1/GTP	component>
+GTP	G12 family/GTP	component>
+GTP	Gi family/GTP	component>
+GTP	Gq family/GTP/EBP50	component>
+GTP	RhoA/GTP/ROCK1	component>
+RHOA/GTP	AKT1	ACTIVATION
+RHOA/GTP	None	ACTIVATION
+PRKCZ	AKT1	ACTIVATION
+PRKCZ	PRKCZ	transport
+ARR3	TXA2/TP beta/beta Arrestin3/RAB11/GDP	component>
+ARR3	TXA2/TP beta/beta Arrestin3	component>
+Src Family Kinases	Src Family Kinases-active	-a>
+None	http://pid.nci.nih.gov/biopaxpid_86159	ACTIVATION
+None	None	ACTIVATION
+None	http://pid.nci.nih.gov/biopaxpid_86180	ACTIVATION
+None	TXA2/TP beta/beta Arrestin2	ACTIVATION
+None	http://pid.nci.nih.gov/biopaxpid_86164	ACTIVATION
+PRKACA	TBXA2R	ACTIVATION
+PRKACA	None	ACTIVATION
+PRKACA	PRKACA	-a>
+RHOA	RHOA/GDP	component>
+RHOA	RHOA/GTP	component>
+RHOA	RhoA/GTP/ROCK1	component>
+GNG2	G beta/gamma	component>
+GNG2	G beta5/gamma2	component>
+PGI2/IP	PRKACA	ACTIVATION
+TBXA2R	TXA2/TP beta/beta Arrestin3/RAB11/GDP	component>
+TBXA2R	TXA2/TP beta/beta Arrestin2/RAB11/GDP	component>
+TBXA2R	TXA2/TP alpha	component>
+TBXA2R	TXA2/TP beta/beta Arrestin2	component>
+TBXA2R	TXA2/TP beta/beta Arrestin3	component>
+TBXA2R	TXA2/TP beta	component>
+GDP	RHOA/GDP	component>
+GDP	TXA2/TP beta/beta Arrestin2/RAB11/GDP	component>
+GDP	TXA2/TP beta/beta Arrestin3/RAB11/GDP	component>
+NADPH	NADP	-a>
+NADPH	L-citrulline	-a>
+NADPH	NO	-a>
+Src Family Kinases-active	EGF/EGFR	ACTIVATION
+IP3	Ca2+	ACTIVATION
+SYK	SYK	-a>
+SYK	p38alpha-beta-active	ACTIVATION
+Ca2+	Ca2+	transport
+Ca2+	None	ACTIVATION
+L-arginine	NADP	-a>
+L-arginine	L-citrulline	-a>
+L-arginine	NO	-a>
+PDG2	PGD2/DP	component>
+PI3K Class IB family	None	ACTIVATION
+PI3K Class IB family	PI3K Class IB family	transport
+ROCK1	RhoA/GTP/ROCK1	component>
+TXA2	TXA2/TP beta/beta Arrestin3/RAB11/GDP	component>
+TXA2	TXA2/TP beta/beta Arrestin2/RAB11/GDP	component>
+TXA2	TXA2/TP alpha	component>
+TXA2	TXA2/TP beta/beta Arrestin2	component>
+TXA2	TXA2/TP beta/beta Arrestin3	component>
+TXA2	TXA2/TXA2-R family	component>
+TXA2	TXA2/TP beta	component>
+PGK/cGMP	TXA2/TP alpha	ACTIVATION
+TXA2/TXA2-R family	None	ACTIVATION
+TXA2/TXA2-R family	PI3K Class IA	ACTIVATION
+TXA2/TXA2-R family	SYK	ACTIVATION
+TXA2/TXA2-R family	PRKCZ	ACTIVATION
+TXA2/TXA2-R family	TXA2/TXA2-R family	-a>
+TXA2/TXA2-R family	G12 family/GTP	INHIBITION
+TXA2-R family	TXA2/TXA2-R family	component>
+DNM1	TXA2/TP beta/beta Arrestin2	ACTIVATION
+DNM1	TXA2/TP beta/beta Arrestin3	ACTIVATION
+Typical PKCs	Typical PKCs	transport
+Typical PKCs	None	ACTIVATION
+Typical PKCs	TXA2/TP alpha	ACTIVATION
+Typical PKCs	TXA2/TXA2-R family	ACTIVATION
+RHOA/GDP	GDP	-a>
+RHOA/GDP	RHOA/GTP	-a>
+G beta5/gamma2	PLCB2	ACTIVATION

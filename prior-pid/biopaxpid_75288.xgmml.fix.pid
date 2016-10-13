@@ -1,0 +1,97 @@
+protein	AKT1
+protein	CARM1
+protein	EP300
+complex	ER alpha/ER alpha/GRIP1/CARM1/p300
+protein	ERBB 1/3/4
+protein	ERBB ligand
+complex	ERBB ligand/ERBB2/ERBB 1/3/4
+protein	ERBB2
+complex	ERBB2/ERBB3
+protein	ERBB3
+protein	ESR1
+protein	GRB2
+protein	GRIP1
+protein	HRAS
+complex	IL-6/IL-6/IL-6R-alpha/IL-6R-alpha/GP130/GP130
+complex	IL-6/IL-6/IL-6R-alpha/IL-6R-alpha/GP130/GP130/ERBB2
+complex	IL-6/IL-6/IL-6R-alpha/IL-6R-alpha/GP130/GP130/JAKs
+protein	IL6
+protein	IL6R
+protein	JAKs
+protein	LRPPRC
+protein	MAP2K1
+protein	MAP2K2
+protein	MAPK1
+protein	MAPK3
+protein	PDPK1
+complex	PI3K
+protein	PIK3CA
+protein	PIK3R1
+SmallMolecule	PIP2
+SmallMolecule	PIP3
+protein	RAF1
+complex	SHC/GRB2/SOS-1
+protein	SHC1
+protein	SOS1
+protein	STAT3
+SmallMolecule	guanosine 5'-triphosphate
+SmallMolecule	guanosine diphosphate
+LRPPRC	IL-6/IL-6/IL-6R-alpha/IL-6R-alpha/GP130/GP130/JAKs	component>
+LRPPRC	IL-6/IL-6/IL-6R-alpha/IL-6R-alpha/GP130/GP130/ERBB2	component>
+LRPPRC	IL-6/IL-6/IL-6R-alpha/IL-6R-alpha/GP130/GP130	component>
+HRAS	HRAS	-a>
+HRAS	guanosine diphosphate	-a>
+HRAS	RAF1	ACTIVATION
+HRAS	PI3K	ACTIVATION
+ERBB 1/3/4	ERBB ligand/ERBB2/ERBB 1/3/4	component>
+MAP2K2	MAP2K2	-a>
+MAP2K2	MAP2K1	-a>
+MAP2K2	MAPK3	ACTIVATION
+MAP2K1	MAP2K2	-a>
+MAP2K1	MAP2K1	-a>
+MAP2K1	MAPK3	ACTIVATION
+SHC/GRB2/SOS-1	SHC/GRB2/SOS-1	-a>
+SHC/GRB2/SOS-1	guanosine diphosphate	ACTIVATION
+ERBB ligand	ERBB ligand/ERBB2/ERBB 1/3/4	component>
+RAF1	MAP2K2	ACTIVATION
+RAF1	RAF1	-a>
+IL6	IL-6/IL-6/IL-6R-alpha/IL-6R-alpha/GP130/GP130/JAKs	component>
+IL6	IL-6/IL-6/IL-6R-alpha/IL-6R-alpha/GP130/GP130/ERBB2	component>
+IL6	IL-6/IL-6/IL-6R-alpha/IL-6R-alpha/GP130/GP130	component>
+STAT3	STAT3	-a>
+PIK3CA	PI3K	component>
+PIP2	PIP3	-a>
+MAPK3	MAPK3	transport
+MAPK3	MAPK1	transport
+MAPK3	ESR1	ACTIVATION
+MAPK1	MAPK3	transport
+MAPK1	MAPK1	transport
+MAPK1	ESR1	ACTIVATION
+AKT1	AKT1	-a>
+PIK3R1	PI3K	component>
+guanosine 5'-triphosphate	HRAS	-a>
+guanosine 5'-triphosphate	guanosine diphosphate	-a>
+ERBB2	IL-6/IL-6/IL-6R-alpha/IL-6R-alpha/GP130/GP130/ERBB2	component>
+ERBB2	ERBB ligand/ERBB2/ERBB 1/3/4	component>
+ERBB2	ERBB2/ERBB3	component>
+ERBB3	ERBB2/ERBB3	component>
+ERBB ligand/ERBB2/ERBB 1/3/4	SHC/GRB2/SOS-1	ACTIVATION
+SHC1	SHC/GRB2/SOS-1	component>
+PIP3	PDPK1	ACTIVATION
+PI3K	PIP3	ACTIVATION
+PI3K	PI3K	-a>
+IL6R	IL-6/IL-6/IL-6R-alpha/IL-6R-alpha/GP130/GP130/JAKs	component>
+IL6R	IL-6/IL-6/IL-6R-alpha/IL-6R-alpha/GP130/GP130/ERBB2	component>
+IL6R	IL-6/IL-6/IL-6R-alpha/IL-6R-alpha/GP130/GP130	component>
+EP300	ER alpha/ER alpha/GRIP1/CARM1/p300	component>
+SOS1	SHC/GRB2/SOS-1	component>
+ESR1	ER alpha/ER alpha/GRIP1/CARM1/p300	component>
+ESR1	ESR1	-a>
+ERBB2/ERBB3	SHC/GRB2/SOS-1	ACTIVATION
+CARM1	ER alpha/ER alpha/GRIP1/CARM1/p300	component>
+IL-6/IL-6/IL-6R-alpha/IL-6R-alpha/GP130/GP130/JAKs	STAT3	ACTIVATION
+GRB2	SHC/GRB2/SOS-1	component>
+JAKs	IL-6/IL-6/IL-6R-alpha/IL-6R-alpha/GP130/GP130/JAKs	component>
+GRIP1	ER alpha/ER alpha/GRIP1/CARM1/p300	component>
+PDPK1	AKT1	ACTIVATION
+PDPK1	PDPK1	-a>

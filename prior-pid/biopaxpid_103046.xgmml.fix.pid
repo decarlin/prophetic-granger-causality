@@ -1,0 +1,73 @@
+SmallMolecule	(5z,8z,11z,14z)-icosatetraenoic acid
+SmallMolecule	DAG
+protein	F2
+protein	F2R
+protein	F2RL3
+protein	GNAI1
+protein	GNB1
+protein	GNGT1
+protein	HRAS
+SmallMolecule	IP3
+protein	MAP2K1
+protein	MAPK1
+protein	MAPK3
+protein	None
+complex	PAR1/PAR4/G-alpha-I/G-beta/G-gamma
+SmallMolecule	PIP2
+protein	PKC
+protein	PLA2G4A
+protein	PLCB1
+protein	PTGS1
+protein	RAF1
+protein	TBXAS1
+SmallMolecule	Thromboxin A2
+SmallMolecule	aspirin (jp14/usp)
+SmallMolecule	calcium
+SmallMolecule	guanosine 5'-diphosphate
+SmallMolecule	guanosine 5'-triphosphate
+SmallMolecule	prostaglandin g2
+PTGS1	PTGS1	-a>
+PTGS1	prostaglandin g2	ACTIVATION
+HRAS	HRAS	-a>
+HRAS	guanosine 5'-diphosphate	-a>
+HRAS	RAF1	ACTIVATION
+IP3	PKC	ACTIVATION
+IP3	calcium	ACTIVATION
+MAP2K1	MAPK3	ACTIVATION
+MAP2K1	MAP2K1	-a>
+aspirin (jp14/usp)	PTGS1	ACTIVATION
+RAF1	MAP2K1	ACTIVATION
+RAF1	RAF1	-a>
+GNAI1	PAR1/PAR4/G-alpha-I/G-beta/G-gamma	component>
+DAG	PKC	ACTIVATION
+MAPK3	MAPK3	-a>
+MAPK3	PLA2G4A	ACTIVATION
+MAPK3	MAPK1	-a>
+PKC	PKC	-a>
+MAPK1	MAPK3	-a>
+MAPK1	PLA2G4A	ACTIVATION
+MAPK1	MAPK1	-a>
+guanosine 5'-triphosphate	HRAS	-a>
+guanosine 5'-triphosphate	guanosine 5'-diphosphate	-a>
+PLCB1	IP3	ACTIVATION
+PLCB1	PLCB1	-a>
+TBXAS1	Thromboxin A2	ACTIVATION
+PIP2	IP3	-a>
+PIP2	DAG	-a>
+GNB1	PAR1/PAR4/G-alpha-I/G-beta/G-gamma	component>
+PLA2G4A	(5z,8z,11z,14z)-icosatetraenoic acid	ACTIVATION
+PLA2G4A	PLA2G4A	-a>
+F2	PAR1/PAR4/G-alpha-I/G-beta/G-gamma	ACTIVATION
+(5z,8z,11z,14z)-icosatetraenoic acid	(5z,8z,11z,14z)-icosatetraenoic acid	transport
+(5z,8z,11z,14z)-icosatetraenoic acid	prostaglandin g2	-a>
+calcium	calcium	transport
+calcium	PLA2G4A	ACTIVATION
+F2R	PAR1/PAR4/G-alpha-I/G-beta/G-gamma	component>
+PAR1/PAR4/G-alpha-I/G-beta/G-gamma	PLCB1	ACTIVATION
+PAR1/PAR4/G-alpha-I/G-beta/G-gamma	PAR1/PAR4/G-alpha-I/G-beta/G-gamma	-a>
+PAR1/PAR4/G-alpha-I/G-beta/G-gamma	HRAS	ACTIVATION
+GNGT1	PAR1/PAR4/G-alpha-I/G-beta/G-gamma	component>
+F2RL3	PAR1/PAR4/G-alpha-I/G-beta/G-gamma	component>
+Thromboxin A2	None	ACTIVATION
+Thromboxin A2	Thromboxin A2	transport
+prostaglandin g2	Thromboxin A2	-a>

@@ -1,0 +1,138 @@
+protein	ADAM10
+protein	AES
+protein	APC
+protein	APH1A
+protein	APH1B
+protein	AXIN1
+complex	Axin1/APC//beta catenin
+protein	BTRC
+protein	CREBBP
+protein	CSNK1A1
+protein	CSNK2A1
+protein	CTBP1
+protein	CTNNB1
+complex	CtBP/CBP/TCF1/TLE1/AES
+protein	DKK2
+complex	DKK2/LRP6/Kremen 2
+protein	DLL1
+protein	DVL1
+complex	Delta 1/NOTCHprecursor
+protein	FOS
+protein	FRAT1
+protein	FZD1
+protein	GSK3B
+complex	Gamma Secretase
+protein	HDAC1
+protein	HNF1A
+protein	JUN
+complex	JUN/FOS
+protein	KREMEN2
+protein	LRP6
+complex	LRP6/FZD1
+protein	MAP3K7
+protein	MAPK1
+protein	MAPK3
+protein	NCSTN
+protein	NEDD4
+complex	NICD/RBPSUH
+protein	NKD1
+protein	NLK
+complex	NOTCH/Deltex homolog 1
+protein	NOTCH1
+complex	NOTCH1 precursor/DVL1
+complex	NOTCH1 precursor/Deltex homolog 1
+protein	None
+protein	PPP2R5D
+protein	PSEN1
+protein	PSENEN
+protein	RBPJ
+protein	TAB1
+protein	TLE1
+protein	WIF1
+protein	WNT1
+complex	WNT1/LRP6/FZD1
+complex	beta catenin/TCF1/CtBP/CBP/TLE1/AES/SMAD4
+complex	beta catenin/beta TrCP1
+HDAC1	CtBP/CBP/TCF1/TLE1/AES	ACTIVATION
+AES	beta catenin/TCF1/CtBP/CBP/TLE1/AES/SMAD4	component>
+AES	CtBP/CBP/TCF1/TLE1/AES	component>
+JUN	JUN/FOS	component>
+TLE1	beta catenin/TCF1/CtBP/CBP/TLE1/AES/SMAD4	component>
+TLE1	CtBP/CBP/TCF1/TLE1/AES	component>
+HNF1A	beta catenin/TCF1/CtBP/CBP/TLE1/AES/SMAD4	component>
+HNF1A	CtBP/CBP/TCF1/TLE1/AES	component>
+NCSTN	Gamma Secretase	component>
+ADAM10	NOTCH/Deltex homolog 1	ACTIVATION
+WIF1	WNT1/LRP6/FZD1	INHIBITION
+KREMEN2	DKK2/LRP6/Kremen 2	component>
+PSENEN	Gamma Secretase	component>
+APH1B	Gamma Secretase	component>
+APH1A	Gamma Secretase	component>
+AXIN1	CTNNB1	-a>
+AXIN1	APC	-a>
+AXIN1	AXIN1	-a>
+AXIN1	Axin1/APC//beta catenin	component>
+CtBP/CBP/TCF1/TLE1/AES	CtBP/CBP/TCF1/TLE1/AES	-a>
+PSEN1	Gamma Secretase	component>
+NEDD4	NOTCH1 precursor/Deltex homolog 1	component>
+NEDD4	None	ACTIVATION
+NEDD4	NOTCH/Deltex homolog 1	component>
+MAP3K7	NLK	ACTIVATION
+MAPK3	JUN/FOS	ACTIVATION
+MAPK1	JUN/FOS	ACTIVATION
+DVL1	CTNNB1	INHIBITION
+DVL1	PPP2R5D	ACTIVATION
+DVL1	DVL1	-a>
+DVL1	NOTCH1 precursor/DVL1	component>
+NLK	beta catenin/TCF1/CtBP/CBP/TLE1/AES/SMAD4	INHIBITION
+NLK	NLK	-a>
+FOS	JUN/FOS	component>
+NKD1	PPP2R5D	INHIBITION
+NKD1	JUN/FOS	ACTIVATION
+FZD1	WNT1/LRP6/FZD1	component>
+FZD1	LRP6/FZD1	component>
+DLL1	Delta 1/NOTCHprecursor	component>
+Gamma Secretase	CTNNB1	ACTIVATION
+Gamma Secretase	NOTCH1	ACTIVATION
+APC	CTNNB1	-a>
+APC	APC	-a>
+APC	AXIN1	-a>
+APC	Axin1/APC//beta catenin	component>
+JUN/FOS	JUN/FOS	-a>
+JUN/FOS	None	ACTIVATION
+WNT1	WNT1/LRP6/FZD1	component>
+CSNK2A1	DVL1	ACTIVATION
+CTNNB1	None	ACTIVATION
+CTNNB1	AXIN1	-a>
+CTNNB1	CTNNB1	-a>
+CTNNB1	beta catenin/TCF1/CtBP/CBP/TLE1/AES/SMAD4	component>
+CTNNB1	APC	-a>
+CTNNB1	beta catenin/beta TrCP1	component>
+CTNNB1	Axin1/APC//beta catenin	component>
+LRP6	DKK2/LRP6/Kremen 2	component>
+LRP6	WNT1/LRP6/FZD1	component>
+LRP6	LRP6/FZD1	component>
+CSNK1A1	DVL1	ACTIVATION
+TAB1	NLK	ACTIVATION
+BTRC	beta catenin/beta TrCP1	component>
+DKK2	DKK2/LRP6/Kremen 2	component>
+NOTCH1	NOTCH1 precursor/DVL1	component>
+NOTCH1	NOTCH1 precursor/Deltex homolog 1	component>
+NOTCH1	Delta 1/NOTCHprecursor	component>
+NOTCH1	NOTCH1	transport
+NOTCH1	NICD/RBPSUH	component>
+NOTCH1	NOTCH/Deltex homolog 1	component>
+NOTCH1	JUN/FOS	INHIBITION
+NOTCH1	APC	ACTIVATION
+GSK3B	CTNNB1	ACTIVATION
+GSK3B	APC	ACTIVATION
+FRAT1	APC	INHIBITION
+PPP2R5D	CTNNB1	INHIBITION
+PPP2R5D	APC	ACTIVATION
+PPP2R5D	PPP2R5D	-a>
+CTBP1	beta catenin/TCF1/CtBP/CBP/TLE1/AES/SMAD4	component>
+CTBP1	CtBP/CBP/TCF1/TLE1/AES	component>
+WNT1/LRP6/FZD1	DVL1	ACTIVATION
+RBPJ	NICD/RBPSUH	component>
+CREBBP	beta catenin/TCF1/CtBP/CBP/TLE1/AES/SMAD4	component>
+CREBBP	CtBP/CBP/TCF1/TLE1/AES	component>

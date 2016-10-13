@@ -1,0 +1,130 @@
+protein	ACTA1
+protein	ATF2
+protein	CDC42
+protein	CDKN1B
+protein	CFL1
+protein	CIT
+protein	DIAPH1
+protein	ERM family
+protein	F2RL2
+SmallMolecule	GTP
+protein	JUN
+complex	JUN/ATF2
+protein	LIMK1-LIMK2
+complex	MAL(dimer)
+protein	MAP2K4
+protein	MAPK12
+protein	MAPK8
+protein	MKK3-MKK6
+protein	MKK3-MKK6-active
+protein	MKL1
+protein	MYL2
+protein	None
+protein	PARD6A
+SmallMolecule	PI-4-5-P2
+SmallMolecule	PI-4-P
+protein	PI5K Type 1 family
+complex	PKC zeta/Par6/CDC42/GTP
+protein	PKN1
+protein	PKN2
+protein	PLD1-2
+protein	PPP1R12A
+protein	PRKCZ
+protein	PTEN
+protein	RHOA
+complex	RHOA/GTP
+protein	ROCK1-ROCK2
+protein	SCAI
+protein	SH3GL2
+protein	SLC9A1
+protein	SLC9A3
+protein	SRF
+complex	SRF(dimer)/MAL(dimer)
+complex	SRF(dimer)/MAL(dimer)/SCAI
+protein	TLN1
+protein	VCL
+complex	Vinculin/Talin
+complex	myosin II complex
+complex	myosin phosphatase complex
+SCAI	SRF(dimer)/MAL(dimer)/SCAI	component>
+MKK3-MKK6	MKK3-MKK6-active	-a>
+MAP2K4	MAPK8	ACTIVATION
+MAP2K4	MAP2K4	-a>
+RHOA/GTP	None	ACTIVATION
+RHOA/GTP	DIAPH1	ACTIVATION
+RHOA/GTP	PKN1	ACTIVATION
+RHOA/GTP	CDKN1B	ACTIVATION
+RHOA/GTP	PKN2	ACTIVATION
+RHOA/GTP	CIT	ACTIVATION
+RHOA/GTP	ROCK1-ROCK2	ACTIVATION
+RHOA/GTP	PLD1-2	ACTIVATION
+ERM family	ERM family	-a>
+ERM family	None	ACTIVATION
+MYL2	myosin II complex	component>
+MYL2	MYL2	-a>
+MAPK12	MAPK12	-a>
+MAPK12	ATF2	ACTIVATION
+CIT	None	ACTIVATION
+CIT	MYL2	ACTIVATION
+CIT	CIT	-a>
+SH3GL2	SH3GL2	-a>
+SLC9A1	None	ACTIVATION
+SLC9A1	SLC9A1	-a>
+SLC9A3	SLC9A3	-a>
+JUN	JUN	-a>
+JUN	JUN/ATF2	component>
+MKL1	SRF(dimer)/MAL(dimer)	component>
+MKL1	MAL(dimer)	component>
+MKL1	SRF(dimer)/MAL(dimer)/SCAI	component>
+PARD6A	PKC zeta/Par6/CDC42/GTP	component>
+TLN1	Vinculin/Talin	component>
+MKK3-MKK6-active	MAPK12	ACTIVATION
+PLD1-2	PLD1-2	-a>
+PPP1R12A	myosin phosphatase complex	component>
+PI-4-5-P2	Vinculin/Talin	ACTIVATION
+CDKN1B	CDKN1B	-a>
+MAPK8	MAPK8	-a>
+MAPK8	JUN	ACTIVATION
+MAPK8	ATF2	ACTIVATION
+PI5K Type 1 family	PI5K Type 1 family	-a>
+PI5K Type 1 family	PI-4-5-P2	ACTIVATION
+PI-4-P	PI-4-5-P2	-a>
+SRF	SRF(dimer)/MAL(dimer)	component>
+SRF	SRF(dimer)/MAL(dimer)/SCAI	component>
+DIAPH1	ACTA1	ACTIVATION
+DIAPH1	DIAPH1	-a>
+LIMK1-LIMK2	CFL1	ACTIVATION
+LIMK1-LIMK2	LIMK1-LIMK2	-a>
+PKN1	PKN1	-a>
+PKN1	MKK3-MKK6-active	ACTIVATION
+PKN2	None	ACTIVATION
+PKN2	PKN2	-a>
+VCL	Vinculin/Talin	component>
+GTP	RHOA/GTP	component>
+GTP	PKC zeta/Par6/CDC42/GTP	component>
+PRKCZ	PKC zeta/Par6/CDC42/GTP	component>
+CFL1	None	INHIBITION
+CFL1	ACTA1	ACTIVATION
+CFL1	CFL1	-a>
+RHOA	RHOA/GTP	component>
+Vinculin/Talin	None	ACTIVATION
+myosin phosphatase complex	myosin II complex	ACTIVATION
+myosin phosphatase complex	myosin phosphatase complex	-a>
+myosin II complex	myosin II complex	-a>
+PTEN	PTEN	-a>
+PKC zeta/Par6/CDC42/GTP	None	INHIBITION
+ROCK1-ROCK2	PI5K Type 1 family	ACTIVATION
+ROCK1-ROCK2	myosin II complex	ACTIVATION
+ROCK1-ROCK2	myosin phosphatase complex	ACTIVATION
+ROCK1-ROCK2	LIMK1-LIMK2	ACTIVATION
+ROCK1-ROCK2	ROCK1-ROCK2	-a>
+ROCK1-ROCK2	ERM family	ACTIVATION
+ROCK1-ROCK2	PTEN	ACTIVATION
+ROCK1-ROCK2	SLC9A1	ACTIVATION
+ROCK1-ROCK2	MAP2K4	ACTIVATION
+ROCK1-ROCK2	F2RL2	ACTIVATION
+ROCK1-ROCK2	SLC9A3	ACTIVATION
+ROCK1-ROCK2	SH3GL2	ACTIVATION
+ATF2	JUN/ATF2	component>
+ATF2	ATF2	-a>
+CDC42	PKC zeta/Par6/CDC42/GTP	component>

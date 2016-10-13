@@ -1,0 +1,98 @@
+protein	14-3-3 family
+protein	AKT1
+protein	CDK2
+protein	CDKN1B
+protein	CHUK
+protein	CK1 family
+protein	CTNNB1
+protein	Cbp/p300
+protein	FOXO1
+protein	FOXO1-3a-4
+complex	FOXO1-3a-4/beta catenin
+complex	FOXO1/14-3-3 family
+complex	FOXO1/SIRT1
+complex	FOXO1/SKP2
+protein	FOXO3
+complex	FOXO3A/14-3-3
+complex	FOXO3A/SIRT1
+protein	FOXO4
+complex	FOXO4/14-3-3 family
+protein	FOXO6
+SmallMolecule	GDP
+SmallMolecule	GTP
+protein	IKBKB
+protein	JNK family
+protein	JNK family-active
+protein	KAT2B
+protein	MST1
+protein	None
+protein	RAL
+complex	RAL/GDP
+complex	RAL/GTP
+protein	RAN
+complex	Ran/GTP
+complex	Ran/GTP/Exportin 1
+protein	SGK1
+protein	SIRT1
+protein	SKP2
+protein	USP7
+protein	XPO1
+FOXO4/14-3-3 family	FOXO4/14-3-3 family	transport
+FOXO4/14-3-3 family	FOXO4	transport
+KAT2B	FOXO3	ACTIVATION
+USP7	FOXO4	ACTIVATION
+FOXO3	FOXO3	-a>
+FOXO3	FOXO3A/14-3-3	component>
+FOXO3	FOXO3A/SIRT1	component>
+AKT1	FOXO3	ACTIVATION
+AKT1	FOXO1	ACTIVATION
+AKT1	FOXO6	ACTIVATION
+AKT1	FOXO4	ACTIVATION
+FOXO1	FOXO1/SKP2	component>
+FOXO1	FOXO1	transport
+FOXO1	FOXO1/14-3-3 family	component>
+FOXO1	FOXO1/SIRT1	component>
+FOXO6	FOXO6	-a>
+FOXO4	FOXO4/14-3-3 family	component>
+FOXO4	FOXO4	-a>
+XPO1	Ran/GTP/Exportin 1	component>
+SKP2	FOXO1/SKP2	component>
+RAN	Ran/GTP/Exportin 1	component>
+RAN	Ran/GTP	component>
+RAL	RAL/GDP	component>
+RAL	RAL/GTP	component>
+JNK family	JNK family-active	-a>
+FOXO1/14-3-3 family	FOXO1/14-3-3 family	-a>
+FOXO1/14-3-3 family	FOXO1/14-3-3 family	transport
+MST1	FOXO3	ACTIVATION
+CTNNB1	FOXO1-3a-4/beta catenin	component>
+CDKN1B	FOXO1	INHIBITION
+RAL/GTP	JNK family-active	ACTIVATION
+FOXO1-3a-4	FOXO1-3a-4/beta catenin	component>
+14-3-3 family	FOXO4/14-3-3 family	component>
+14-3-3 family	FOXO3A/14-3-3	component>
+14-3-3 family	FOXO1/14-3-3 family	component>
+None	FOXO3	ACTIVATION
+None	FOXO1	ACTIVATION
+RAL/GDP	GDP	-a>
+RAL/GDP	RAL/GTP	-a>
+CK1 family	FOXO1/14-3-3 family	ACTIVATION
+CHUK	FOXO3	ACTIVATION
+Ran/GTP	FOXO4	ACTIVATION
+GTP	RAL/GTP	component>
+GTP	GDP	-a>
+GTP	Ran/GTP/Exportin 1	component>
+GTP	Ran/GTP	component>
+JNK family-active	FOXO4	ACTIVATION
+Cbp/p300	FOXO1	ACTIVATION
+GDP	RAL/GDP	component>
+IKBKB	FOXO3	ACTIVATION
+FOXO1/SKP2	None	ACTIVATION
+SGK1	FOXO3	ACTIVATION
+Ran/GTP/Exportin 1	FOXO4/14-3-3 family	ACTIVATION
+Ran/GTP/Exportin 1	FOXO3A/14-3-3	ACTIVATION
+Ran/GTP/Exportin 1	FOXO1/14-3-3 family	ACTIVATION
+CDK2	FOXO1	ACTIVATION
+FOXO3A/14-3-3	FOXO3A/14-3-3	transport
+SIRT1	FOXO3A/SIRT1	component>
+SIRT1	FOXO1/SIRT1	component>

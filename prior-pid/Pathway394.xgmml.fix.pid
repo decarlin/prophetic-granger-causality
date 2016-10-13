@@ -1,0 +1,11 @@
+SmallMolecule	5'-adenylphosphoric acid
+protein	CHEK1
+protein	CHEK2
+SmallMolecule	adenosine 5'-(tetrahydrogen triphosphate)
+CHEK2	5'-adenylphosphoric acid	-a>
+CHEK2	CHEK2	-a>
+adenosine 5'-(tetrahydrogen triphosphate)	5'-adenylphosphoric acid	-a>
+adenosine 5'-(tetrahydrogen triphosphate)	CHEK2	-a>
+adenosine 5'-(tetrahydrogen triphosphate)	CHEK1	-a>
+CHEK1	5'-adenylphosphoric acid	-a>
+CHEK1	CHEK1	-a>

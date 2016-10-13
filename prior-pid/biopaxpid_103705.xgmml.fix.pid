@@ -1,0 +1,45 @@
+complex	ADP:P2Y prurinoceptor 1:G-protein Gq (active)
+complex	ADP:P2Y purinoceptor 1
+complex	ADP:P2Y purinoceptor 1:G-protein Gq (inactive)
+SmallMolecule	Adenosine 5'-diphosphate
+SmallMolecule	Adenosine 5'-triphosphate
+protein	G-protein alpha (q/11)
+complex	G-protein alpha (q/11): GTP
+complex	G-protein alpha (q/11):GDP
+complex	G-protein beta-gamma complex
+protein	GNB1
+protein	GNG2
+SmallMolecule	Guanosine 5'-diphosphate
+SmallMolecule	Guanosine 5'-triphosphate
+complex	Heterotrimeric G-protein Gq (active)
+complex	Heterotrimeric G-protein Gq/11 (inactive)
+protein	MAPK14
+protein	P2RY1
+protein	PLA2G4A
+protein	SRC
+Adenosine 5'-diphosphate	ADP:P2Y purinoceptor 1	component>
+Heterotrimeric G-protein Gq/11 (inactive)	ADP:P2Y purinoceptor 1:G-protein Gq (inactive)	component>
+G-protein alpha (q/11)	G-protein alpha (q/11):GDP	component>
+G-protein alpha (q/11)	G-protein alpha (q/11): GTP	component>
+G-protein alpha (q/11):GDP	Heterotrimeric G-protein Gq/11 (inactive)	component>
+Heterotrimeric G-protein Gq (active)	ADP:P2Y prurinoceptor 1:G-protein Gq (active)	component>
+SRC	SRC	-a>
+GNB1	G-protein beta-gamma complex	component>
+MAPK14	Adenosine 5'-diphosphate	ACTIVATION
+ADP:P2Y purinoceptor 1	ADP:P2Y purinoceptor 1:G-protein Gq (inactive)	component>
+ADP:P2Y purinoceptor 1	ADP:P2Y prurinoceptor 1:G-protein Gq (active)	component>
+ADP:P2Y purinoceptor 1:G-protein Gq (inactive)	Guanosine 5'-diphosphate	-a>
+ADP:P2Y purinoceptor 1:G-protein Gq (inactive)	ADP:P2Y prurinoceptor 1:G-protein Gq (active)	-a>
+Adenosine 5'-triphosphate	Adenosine 5'-diphosphate	transport
+Adenosine 5'-triphosphate	PLA2G4A	transport
+Guanosine 5'-diphosphate	G-protein alpha (q/11):GDP	component>
+GNG2	G-protein beta-gamma complex	component>
+G-protein alpha (q/11): GTP	Heterotrimeric G-protein Gq (active)	component>
+G-protein beta-gamma complex	Heterotrimeric G-protein Gq/11 (inactive)	component>
+G-protein beta-gamma complex	Heterotrimeric G-protein Gq (active)	component>
+PLA2G4A	Adenosine 5'-diphosphate	transport
+PLA2G4A	PLA2G4A	transport
+P2RY1	ADP:P2Y purinoceptor 1	component>
+Guanosine 5'-triphosphate	Guanosine 5'-diphosphate	-a>
+Guanosine 5'-triphosphate	ADP:P2Y prurinoceptor 1:G-protein Gq (active)	-a>
+Guanosine 5'-triphosphate	G-protein alpha (q/11): GTP	component>

@@ -1,0 +1,23 @@
+complex	Activated RAF1 complex
+complex	Activated RAF1 complex:MEK
+protein	KRAS
+protein	MAP2K1
+protein	MAP2K2
+family	MEK
+protein	NRAS
+protein	RAF1
+protein	YWHAB
+SmallMolecule	guanosine 5'-triphosphoric acid
+family	p21 RAS
+complex	p21 RAS:GTP
+Activated RAF1 complex	Activated RAF1 complex:MEK	component>
+NRAS	p21 RAS	member>
+MAP2K2	MEK	member>
+MAP2K1	MEK	member>
+guanosine 5'-triphosphoric acid	p21 RAS:GTP	component>
+MEK	Activated RAF1 complex:MEK	component>
+p21 RAS	p21 RAS:GTP	component>
+YWHAB	Activated RAF1 complex	component>
+p21 RAS:GTP	Activated RAF1 complex	component>
+RAF1	Activated RAF1 complex	component>
+KRAS	p21 RAS	member>

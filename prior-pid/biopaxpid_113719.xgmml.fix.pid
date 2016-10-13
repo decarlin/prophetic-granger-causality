@@ -1,0 +1,500 @@
+protein	14-3-3
+complex	14-3-3 (dimer)
+protein	14-3-3 family
+protein	ABI1
+protein	ABL1
+protein	ACTN4
+protein	ACTR2
+protein	ACTR3
+protein	ARAP1
+protein	ARHGAP35
+protein	ARHGDIA
+protein	ARPC1B
+protein	ARPC2
+protein	ARPC3
+protein	ARPC4
+protein	ARPC5
+complex	Arp2/3 complex
+protein	BAIAP2
+protein	BRAF
+complex	BRAF/14-3-3
+protein	BRK1
+protein	CRK
+protein	CSK
+protein	CTTN
+protein	CYFIP2
+SmallMolecule	Ca2+
+SmallMolecule	DAG
+protein	DNM2
+protein	DOCK4
+protein	DOK1
+protein	EIF2AK2
+protein	ELK1
+complex	ELK1/SRF
+complex	ELK1/SRF(dimer)
+protein	EPS8
+protein	ERK1-2
+complex	Eps8/ABI1/SOS1
+protein	Erk1-2-active
+protein	FOS
+protein	GAB1
+SmallMolecule	GDP
+protein	GRB10
+protein	GRB2
+SmallMolecule	GTP
+SmallMolecule	IP3
+protein	IQGAP1
+protein	ITGAV
+protein	ITGB3
+protein	JAK2
+protein	JNK family
+protein	JNK family-active
+protein	JUN
+complex	JUN/JUND
+protein	JUND
+complex	KSR/14-3-3 (dimer)/MEK1-2
+complex	KSR/14-3-3 (dimer)/MEK1-2-active
+complex	KSR/14-3-3 /MEK1-2
+protein	KSR1
+protein	LRP1
+protein	MEK1-2
+protein	MEK1-2-active
+protein	MKK4-MKK7
+protein	MLLT4
+protein	MYC
+protein	MYOCD
+protein	NCK1-2
+complex	NCK1-2/p130 Cas
+protein	NCKAP1
+protein	NHERF1-2
+complex	Necl-5 (dimer)
+protein	None
+protein	PAG1
+protein	PAK1
+complex	PDGF-BB/PDGFR (dimer)
+complex	PDGF-BB/PDGFRB
+complex	PDGF-BB/PDGFRB (dimer)
+complex	PDGF-BB/PDGFRB (dimer)/GAB1/N-WASP
+complex	PDGF-BB/PDGFRB (dimer)/GAB1/N-WASP/NCK1-2
+complex	PDGF-BB/PDGFRB (dimer)/GRB10
+complex	PDGF-BB/PDGFRB (dimer)/GRB2/DOCK4/Dynamin 2
+complex	PDGF-BB/PDGFRB (dimer)/GRB2/SOS1/SHP2
+complex	PDGF-BB/PDGFRB (dimer)/LRP1
+complex	PDGF-BB/PDGFRB (dimer)/NHERF1-2
+complex	PDGF-BB/PDGFRB (dimer)/NHERF1-2/PTEN
+complex	PDGF-BB/PDGFRB (dimer)/PLCgamma1
+complex	PDGF-BB/PDGFRB (dimer)/RasGAP
+complex	PDGF-BB/PDGFRB (dimer)/RasGAP/Src Family Kinases
+complex	PDGF-BB/PDGFRB (dimer)/SHP2
+complex	PDGF-BB/PDGFRB (dimer)/alphav/beta3 Integrin/Necl-5 (dimer)
+complex	PDGF-BB/PDGFRB (dimer)/p52 SHC
+complex	PDGF-BB/PDGFRB (dimer)/p52 SHC/GRB2/SOS1
+protein	PDGFB
+complex	PDGFR-BB
+protein	PDGFRB
+SmallMolecule	PI-3-4-5-P3
+SmallMolecule	PI-4-5-P2
+complex	PI3K Class I family
+protein	PIN1
+protein	PLCG1
+complex	PP2A
+protein	PPP2CA
+protein	PPP2R1A
+protein	PPP2R2B
+protein	PRKCA
+protein	PRKCD
+protein	PRKCE
+protein	PTEN
+protein	PTPN1
+protein	PTPN11
+protein	PTPRJ
+protein	RAB4A
+complex	RAB4A/GDP
+complex	RAB4A/GTP
+complex	RAB5/GDP
+complex	RAB5/GTP
+complex	RAB5/GTP/RNTRE/alpha actinin 4
+protein	RAB5A
+protein	RAC1
+complex	RAC1/GDP
+complex	RAC1/GTP
+protein	RAF1
+complex	RAF1/14-3-3
+complex	RAF1/BRAF/14-3-3/14-3-3
+protein	RAP1
+complex	RAP1/GDP
+complex	RAP1/GTP
+complex	RAP1/GTP/afadin
+protein	RAPGEF1
+protein	RAS family
+complex	RAS family/GDP
+complex	RAS family/GTP
+protein	RASA1
+protein	RHOA
+complex	RHOA/GDP
+complex	RHOA/GTP
+protein	RPS6KA3
+complex	S1P1/Sphingosine-1-phosphate
+complex	S1P1/Sphingosine-1-phosphate/PDGF-BB/PDGFRB (dimer)
+protein	S1PR1
+protein	SHC1
+protein	SIPA1
+protein	SLA
+protein	SOS1
+complex	SOS1/Eps8/ABI1
+protein	SPHK1
+protein	SRF
+complex	SRF (dimer)/Myocardin
+protein	STAT1
+complex	STAT1 (dimer)-active
+protein	STAT3
+protein	STAT5
+complex	STAT5 (dimer)-active
+protein	STAT5-active
+SmallMolecule	Sphingosine-1-phosphate
+protein	Src Family Kinases
+protein	Src Family Kinases-active
+protein	USP6NL
+protein	VAV2
+protein	WASF2
+protein	WASL
+complex	WAVE2/Nap1/Sra1/ABI1/HSPC300
+complex	afadin/SHP2
+protein	c-Abl-Arg
+SmallMolecule	phosphate
+SmallMolecule	sphingosine
+Src Family Kinases	PDGF-BB/PDGFRB (dimer)/RasGAP/Src Family Kinases	component>
+Src Family Kinases	Src Family Kinases-active	-a>
+RAB4A	RAB4A/GTP	component>
+RAB4A	RAB4A/GDP	component>
+BRK1	WAVE2/Nap1/Sra1/ABI1/HSPC300	component>
+IP3	Ca2+	ACTIVATION
+RAPGEF1	RAP1/GTP	ACTIVATION
+RAPGEF1	RAPGEF1	-a>
+Sphingosine-1-phosphate	S1P1/Sphingosine-1-phosphate/PDGF-BB/PDGFRB (dimer)	component>
+Sphingosine-1-phosphate	S1P1/Sphingosine-1-phosphate	component>
+PDGF-BB/PDGFRB (dimer)/GRB2/SOS1/SHP2	GDP	ACTIVATION
+Arp2/3 complex	None	ACTIVATION
+Arp2/3 complex	Arp2/3 complex	-a>
+SOS1/Eps8/ABI1	RAC1/GTP	ACTIVATION
+RAF1/BRAF/14-3-3/14-3-3	KSR/14-3-3 (dimer)/MEK1-2-active	ACTIVATION
+Erk1-2-active	RAF1/14-3-3	ACTIVATION
+Erk1-2-active	Erk1-2-active	transport
+Erk1-2-active	STAT3	ACTIVATION
+Erk1-2-active	FOS	ACTIVATION
+Erk1-2-active	KSR/14-3-3 (dimer)/MEK1-2	ACTIVATION
+Erk1-2-active	ELK1	ACTIVATION
+Erk1-2-active	BRAF	ACTIVATION
+RAF1/14-3-3	RAF1/14-3-3	-a>
+RAF1/14-3-3	KSR/14-3-3 (dimer)/MEK1-2-active	ACTIVATION
+RAB4A/GTP	None	ACTIVATION
+MEK1-2-active	Erk1-2-active	ACTIVATION
+MEK1-2-active	KSR/14-3-3 (dimer)/MEK1-2-active	component>
+RAB5A	RAB5/GTP/RNTRE/alpha actinin 4	component>
+RAB5A	RAB5/GTP	component>
+RAB5A	RAB5/GDP	component>
+SHC1	PDGF-BB/PDGFRB (dimer)/p52 SHC/GRB2/SOS1	component>
+SHC1	PDGF-BB/PDGFRB (dimer)/p52 SHC	component>
+Src Family Kinases-active	STAT3	ACTIVATION
+Src Family Kinases-active	MLLT4	ACTIVATION
+Src Family Kinases-active	VAV2	ACTIVATION
+Src Family Kinases-active	PRKCD	ACTIVATION
+Src Family Kinases-active	c-Abl-Arg	ACTIVATION
+Src Family Kinases-active	DOK1	ACTIVATION
+Src Family Kinases-active	Src Family Kinases	-a>
+Src Family Kinases-active	ABL1	ACTIVATION
+PPP2R2B	PP2A	component>
+ELK1/SRF	ELK1/SRF	-a>
+JNK family-active	JUN/JUND	ACTIVATION
+KSR1	14-3-3 family	ACTIVATION
+KSR1	KSR/14-3-3 (dimer)/MEK1-2	component>
+KSR1	KSR/14-3-3 /MEK1-2	component>
+KSR1	RAF1/14-3-3	ACTIVATION
+KSR1	KSR/14-3-3 (dimer)/MEK1-2-active	component>
+JUN/JUND	JUN/JUND	-a>
+PPP2CA	PP2A	component>
+ARPC1B	Arp2/3 complex	component>
+PTPN11	PDGF-BB/PDGFRB (dimer)/GRB2/SOS1/SHP2	component>
+PTPN11	afadin/SHP2	component>
+PTPN11	PDGF-BB/PDGFRB (dimer)/SHP2	component>
+PTEN	PDGF-BB/PDGFRB (dimer)/NHERF1-2/PTEN	component>
+ELK1	ELK1/SRF(dimer)	component>
+ELK1	ELK1/SRF	component>
+ELK1	ELK1	-a>
+ELK1	MYOCD	-a>
+14-3-3 (dimer)	KSR/14-3-3 (dimer)/MEK1-2	component>
+14-3-3 (dimer)	KSR/14-3-3 (dimer)/MEK1-2-active	component>
+GRB10	PDGF-BB/PDGFRB (dimer)/GRB10	component>
+PDGF-BB/PDGFRB (dimer)/GAB1/N-WASP/NCK1-2	RAC1/GTP	ACTIVATION
+PDGF-BB/PDGFRB (dimer)/GAB1/N-WASP/NCK1-2	PDGF-BB/PDGFRB (dimer)/GAB1/N-WASP/NCK1-2	-a>
+PDGF-BB/PDGFRB (dimer)/GAB1/N-WASP/NCK1-2	Arp2/3 complex	ACTIVATION
+PDGF-BB/PDGFRB	S1P1/Sphingosine-1-phosphate/PDGF-BB/PDGFRB (dimer)	component>
+PAK1	RAF1	ACTIVATION
+PAK1	PAK1	-a>
+PAK1	ARHGDIA	ACTIVATION
+RAB5/GTP/RNTRE/alpha actinin 4	None	ACTIVATION
+PDGF-BB/PDGFRB (dimer)/RasGAP	RAS family/GDP	ACTIVATION
+RHOA/GTP	phosphate	-a>
+RHOA/GTP	RHOA/GDP	-a>
+ITGB3	PDGF-BB/PDGFRB (dimer)/alphav/beta3 Integrin/Necl-5 (dimer)	component>
+DOCK4	PDGF-BB/PDGFRB (dimer)/GRB2/DOCK4/Dynamin 2	component>
+GAB1	PDGF-BB/PDGFRB (dimer)/GAB1/N-WASP	component>
+GAB1	PDGF-BB/PDGFRB (dimer)/GAB1/N-WASP/NCK1-2	component>
+DOK1	DOK1	transport
+DOK1	CSK	ACTIVATION
+PDGF-BB/PDGFRB (dimer)/PLCgamma1	DAG	ACTIVATION
+PDGF-BB/PDGFRB (dimer)/NHERF1-2	None	ACTIVATION
+Necl-5 (dimer)	PDGF-BB/PDGFRB (dimer)/alphav/beta3 Integrin/Necl-5 (dimer)	component>
+DNM2	PDGF-BB/PDGFRB (dimer)/GRB2/DOCK4/Dynamin 2	component>
+CRK	CRK	-a>
+CRK	RAPGEF1	ACTIVATION
+PDGF-BB/PDGFRB (dimer)/alphav/beta3 Integrin/Necl-5 (dimer)	CRK	ACTIVATION
+WAVE2/Nap1/Sra1/ABI1/HSPC300	WAVE2/Nap1/Sra1/ABI1/HSPC300	-a>
+WAVE2/Nap1/Sra1/ABI1/HSPC300	Arp2/3 complex	ACTIVATION
+NCKAP1	WAVE2/Nap1/Sra1/ABI1/HSPC300	component>
+14-3-3	RAF1/BRAF/14-3-3/14-3-3	component>
+JUN	JUN/JUND	component>
+Ca2+	PRKCA	ACTIVATION
+Ca2+	Ca2+	transport
+Ca2+	SPHK1	ACTIVATION
+GRB2	PDGF-BB/PDGFRB (dimer)/GRB2/SOS1/SHP2	component>
+GRB2	PDGF-BB/PDGFRB (dimer)/GRB2/DOCK4/Dynamin 2	component>
+GRB2	PDGF-BB/PDGFRB (dimer)/p52 SHC/GRB2/SOS1	component>
+JAK2	STAT3	ACTIVATION
+JAK2	JAK2	-a>
+ARPC2	Arp2/3 complex	component>
+RAC1/GTP	MKK4-MKK7	ACTIVATION
+RAC1/GTP	WAVE2/Nap1/Sra1/ABI1/HSPC300	ACTIVATION
+RAC1/GTP	ARHGAP35	ACTIVATION
+RAC1/GTP	PDGF-BB/PDGFRB (dimer)/GAB1/N-WASP/NCK1-2	ACTIVATION
+afadin/SHP2	PDGF-BB/PDGFRB (dimer)	ACTIVATION
+None	BRAF/14-3-3	ACTIVATION
+None	14-3-3 family	ACTIVATION
+None	PDGF-BB/PDGFRB (dimer)	ACTIVATION
+None	PDGF-BB/PDGFR (dimer)	ACTIVATION
+None	RAF1/14-3-3	ACTIVATION
+CSK	Src Family Kinases	ACTIVATION
+CSK	CSK	transport
+FOS	FOS	-a>
+ARPC3	Arp2/3 complex	component>
+RAB4A/GDP	GDP	-a>
+RAB4A/GDP	RAB4A/GTP	-a>
+ARPC5	Arp2/3 complex	component>
+ARPC4	Arp2/3 complex	component>
+c-Abl-Arg	c-Abl-Arg	-a>
+c-Abl-Arg	CTTN	ACTIVATION
+RHOA	RHOA/GDP	component>
+RHOA	RHOA/GTP	component>
+RAP1/GTP	phosphate	-a>
+RAP1/GTP	RAP1/GDP	-a>
+RAP1/GTP	ARAP1	ACTIVATION
+RAP1/GTP	VAV2	ACTIVATION
+NCK1-2	PDGF-BB/PDGFRB (dimer)/GAB1/N-WASP/NCK1-2	component>
+RPS6KA3	ELK1/SRF	ACTIVATION
+VAV2	RAC1/GTP	ACTIVATION
+VAV2	VAV2	-a>
+RAP1/GDP	GDP	-a>
+RAP1/GDP	None	ACTIVATION
+RAP1/GDP	RAP1/GTP	-a>
+ITGAV	PDGF-BB/PDGFRB (dimer)/alphav/beta3 Integrin/Necl-5 (dimer)	component>
+ERK1-2	Erk1-2-active	-a>
+S1P1/Sphingosine-1-phosphate/PDGF-BB/PDGFRB (dimer)	Src Family Kinases-active	ACTIVATION
+BAIAP2	WAVE2/Nap1/Sra1/ABI1/HSPC300	ACTIVATION
+NCK1-2/p130 Cas	None	ACTIVATION
+ACTR3	Arp2/3 complex	component>
+ACTR2	Arp2/3 complex	component>
+PDGFRB	PDGF-BB/PDGFRB (dimer)/RasGAP/Src Family Kinases	component>
+PDGFRB	PDGF-BB/PDGFRB (dimer)/GRB2/SOS1/SHP2	component>
+PDGFRB	PDGF-BB/PDGFR (dimer)	component>
+PDGFRB	PDGF-BB/PDGFRB (dimer)/GRB2/DOCK4/Dynamin 2	component>
+PDGFRB	PDGF-BB/PDGFRB (dimer)/LRP1	component>
+PDGFRB	PDGF-BB/PDGFRB (dimer)/GRB10	component>
+PDGFRB	PDGF-BB/PDGFRB (dimer)/p52 SHC/GRB2/SOS1	component>
+PDGFRB	PDGF-BB/PDGFRB (dimer)/p52 SHC	component>
+PDGFRB	PDGF-BB/PDGFRB (dimer)/PLCgamma1	component>
+PDGFRB	PDGF-BB/PDGFRB (dimer)/NHERF1-2	component>
+PDGFRB	PDGF-BB/PDGFRB (dimer)/SHP2	component>
+PDGFRB	PDGF-BB/PDGFRB (dimer)/RasGAP	component>
+PDGFRB	PDGF-BB/PDGFRB (dimer)	component>
+PDGFRB	PDGF-BB/PDGFRB (dimer)/alphav/beta3 Integrin/Necl-5 (dimer)	component>
+PDGFRB	PDGF-BB/PDGFRB (dimer)/NHERF1-2/PTEN	component>
+PDGFRB	PDGF-BB/PDGFRB (dimer)/GAB1/N-WASP	component>
+PDGFRB	PDGF-BB/PDGFRB (dimer)/GAB1/N-WASP/NCK1-2	component>
+PAG1	PAG1	-a>
+PAG1	CSK	INHIBITION
+SPHK1	SPHK1	transport
+SPHK1	Sphingosine-1-phosphate	ACTIVATION
+ABL1	None	ACTIVATION
+ABL1	SOS1/Eps8/ABI1	ACTIVATION
+ABL1	PLCG1	ACTIVATION
+ABL1	ABL1	-a>
+ABL1	RAC1/GTP	ACTIVATION
+ABL1	PDGF-BB/PDGFRB (dimer)	ACTIVATION
+ABL1	WAVE2/Nap1/Sra1/ABI1/HSPC300	ACTIVATION
+PDGF-BB/PDGFRB (dimer)	GDP	ACTIVATION
+PDGF-BB/PDGFRB (dimer)	None	INHIBITION
+PDGF-BB/PDGFRB (dimer)	PDGF-BB/PDGFR (dimer)	-a>
+PDGF-BB/PDGFRB (dimer)	STAT3	ACTIVATION
+PDGF-BB/PDGFRB (dimer)	STAT1	ACTIVATION
+PDGF-BB/PDGFRB (dimer)	Src Family Kinases-active	ACTIVATION
+PDGF-BB/PDGFRB (dimer)	STAT5-active	ACTIVATION
+PDGF-BB/PDGFRB (dimer)	PI3K Class I family	ACTIVATION
+PDGF-BB/PDGFRB (dimer)	JAK2	ACTIVATION
+PDGF-BB/PDGFRB (dimer)	PDGF-BB/PDGFRB (dimer)	-a>
+PDGF-BB/PDGFRB (dimer)	PAK1	ACTIVATION
+PDGF-BB/PDGFRB (dimer)	NCK1-2/p130 Cas	ACTIVATION
+RAF1	MEK1-2-active	ACTIVATION
+RAF1	RAF1/14-3-3	component>
+RAF1	RAF1	-a>
+RAF1	RAF1/BRAF/14-3-3/14-3-3	component>
+PTPN1	PDGF-BB/PDGFR (dimer)	ACTIVATION
+STAT5	STAT5-active	-a>
+STAT3	STAT3	-a>
+STAT1	STAT1	transport
+S1PR1	S1P1/Sphingosine-1-phosphate/PDGF-BB/PDGFRB (dimer)	component>
+S1PR1	S1P1/Sphingosine-1-phosphate	component>
+JNK family	JNK family-active	-a>
+RASA1	PDGF-BB/PDGFRB (dimer)/RasGAP/Src Family Kinases	component>
+RASA1	PDGF-BB/PDGFRB (dimer)/RasGAP	component>
+BRAF/14-3-3	BRAF/14-3-3	-a>
+BRAF/14-3-3	KSR/14-3-3 (dimer)/MEK1-2-active	ACTIVATION
+SIPA1	RAP1/GDP	ACTIVATION
+SRF	ELK1/SRF(dimer)	component>
+SRF	ELK1/SRF	component>
+SRF	SRF (dimer)/Myocardin	component>
+SRF (dimer)/Myocardin	ELK1/SRF(dimer)	-a>
+SRF (dimer)/Myocardin	MYOCD	-a>
+RAC1/GDP	GDP	-a>
+RAC1/GDP	RAC1/GTP	-a>
+PDGF-BB/PDGFRB (dimer)/p52 SHC/GRB2/SOS1	GDP	ACTIVATION
+PI3K Class I family	Eps8/ABI1/SOS1	ACTIVATION
+PI3K Class I family	PI3K Class I family	-a>
+PI3K Class I family	PI-3-4-5-P3	ACTIVATION
+GTP	GDP	-a>
+GTP	RAS family/GTP	component>
+GTP	RAB5/GTP/RNTRE/alpha actinin 4	component>
+GTP	RAB5/GTP	component>
+GTP	RHOA/GTP	component>
+GTP	RAP1/GTP/afadin	component>
+GTP	RAC1/GTP	component>
+GTP	RAB4A/GTP	component>
+GTP	RAP1/GTP	component>
+RAB5/GDP	GDP	-a>
+RAB5/GDP	RAB5/GTP	-a>
+MEK1-2	KSR/14-3-3 (dimer)/MEK1-2	component>
+MEK1-2	KSR/14-3-3 /MEK1-2	component>
+MEK1-2	MEK1-2-active	-a>
+KSR/14-3-3 /MEK1-2	KSR/14-3-3 /MEK1-2	transport
+KSR/14-3-3 /MEK1-2	KSR/14-3-3 (dimer)/MEK1-2-active	-a>
+GDP	RAB4A/GDP	component>
+GDP	RAP1/GDP	component>
+GDP	RAS family/GDP	component>
+GDP	RAB5/GDP	component>
+GDP	RAC1/GDP	component>
+GDP	RHOA/GDP	component>
+LRP1	PDGF-BB/PDGFRB (dimer)/LRP1	component>
+SOS1	Eps8/ABI1/SOS1	component>
+SOS1	PDGF-BB/PDGFRB (dimer)/GRB2/SOS1/SHP2	component>
+SOS1	SOS1/Eps8/ABI1	component>
+SOS1	PDGF-BB/PDGFRB (dimer)/p52 SHC/GRB2/SOS1	component>
+EIF2AK2	STAT3	ACTIVATION
+PDGF-BB/PDGFRB (dimer)/SHP2	PAG1	ACTIVATION
+RAS family	RAS family/GDP	component>
+RAS family	RAS family/GTP	component>
+WASL	PDGF-BB/PDGFRB (dimer)/GAB1/N-WASP	component>
+WASL	PDGF-BB/PDGFRB (dimer)/GAB1/N-WASP/NCK1-2	component>
+PPP2R1A	PP2A	component>
+RAS family/GTP	14-3-3 family	ACTIVATION
+RAS family/GTP	RAF1/14-3-3	ACTIVATION
+RAS family/GTP	RAS family/GDP	-a>
+RAS family/GTP	phosphate	-a>
+RAS family/GTP	BRAF	ACTIVATION
+RAS family/GTP	RAF1	ACTIVATION
+CTTN	None	ACTIVATION
+CTTN	CTTN	-a>
+MKK4-MKK7	JNK family-active	ACTIVATION
+MKK4-MKK7	MKK4-MKK7	-a>
+CYFIP2	WAVE2/Nap1/Sra1/ABI1/HSPC300	component>
+JUND	JUN/JUND	component>
+PLCG1	ABL1	ACTIVATION
+PLCG1	PLCG1	-a>
+PLCG1	PDGF-BB/PDGFRB (dimer)/PLCgamma1	component>
+MYOCD	SRF (dimer)/Myocardin	component>
+EPS8	Eps8/ABI1/SOS1	component>
+EPS8	SOS1/Eps8/ABI1	component>
+PIN1	BRAF/14-3-3	ACTIVATION
+PIN1	RAF1/14-3-3	ACTIVATION
+PDGF-BB/PDGFRB (dimer)/NHERF1-2/PTEN	PI-4-5-P2	ACTIVATION
+IQGAP1	BRAF	ACTIVATION
+DAG	PRKCA	ACTIVATION
+DAG	PRKCE	ACTIVATION
+DAG	PRKCD	ACTIVATION
+PDGFR-BB	PDGF-BB/PDGFR (dimer)	component>
+WASF2	WAVE2/Nap1/Sra1/ABI1/HSPC300	component>
+MLLT4	MLLT4	-a>
+MLLT4	RAP1/GTP/afadin	component>
+MLLT4	afadin/SHP2	component>
+PP2A	14-3-3 family	ACTIVATION
+PP2A	BRAF/14-3-3	ACTIVATION
+PP2A	RAF1/14-3-3	ACTIVATION
+PI-4-5-P2	IP3	-a>
+PI-4-5-P2	DAG	-a>
+PI-4-5-P2	PI-3-4-5-P3	-a>
+USP6NL	RAB5/GTP/RNTRE/alpha actinin 4	component>
+KSR/14-3-3 (dimer)/MEK1-2-active	KSR/14-3-3 (dimer)/MEK1-2	-a>
+KSR/14-3-3 (dimer)/MEK1-2-active	Erk1-2-active	ACTIVATION
+ARHGAP35	ARHGAP35	transport
+14-3-3 family	BRAF/14-3-3	component>
+14-3-3 family	KSR/14-3-3 /MEK1-2	component>
+14-3-3 family	RAF1/14-3-3	component>
+14-3-3 family	KSR/14-3-3 (dimer)/MEK1-2-active	component>
+14-3-3 family	RAF1/BRAF/14-3-3/14-3-3	component>
+PDGFB	PDGF-BB/PDGFRB (dimer)/RasGAP/Src Family Kinases	component>
+PDGFB	PDGF-BB/PDGFRB (dimer)/GRB2/SOS1/SHP2	component>
+PDGFB	PDGF-BB/PDGFRB (dimer)/alphav/beta3 Integrin/Necl-5 (dimer)	component>
+PDGFB	PDGF-BB/PDGFRB (dimer)/GRB2/DOCK4/Dynamin 2	component>
+PDGFB	PDGF-BB/PDGFRB (dimer)/LRP1	component>
+PDGFB	PDGF-BB/PDGFRB (dimer)/GRB10	component>
+PDGFB	PDGF-BB/PDGFRB (dimer)/p52 SHC/GRB2/SOS1	component>
+PDGFB	PDGF-BB/PDGFRB (dimer)/p52 SHC	component>
+PDGFB	PDGF-BB/PDGFRB (dimer)/PLCgamma1	component>
+PDGFB	PDGF-BB/PDGFRB (dimer)/NHERF1-2	component>
+PDGFB	PDGF-BB/PDGFRB (dimer)/SHP2	component>
+PDGFB	PDGF-BB/PDGFRB (dimer)/RasGAP	component>
+PDGFB	PDGF-BB/PDGFRB (dimer)	component>
+PDGFB	PDGF-BB/PDGFRB (dimer)/GAB1/N-WASP	component>
+PDGFB	PDGF-BB/PDGFRB (dimer)/NHERF1-2/PTEN	component>
+PDGFB	PDGF-BB/PDGFRB (dimer)/GAB1/N-WASP/NCK1-2	component>
+PDGF-BB/PDGFRB (dimer)/GRB2/DOCK4/Dynamin 2	PDGF-BB/PDGFRB (dimer)/GRB2/DOCK4/Dynamin 2	transport
+RAC1	RAC1/GTP	component>
+RAC1	RAC1/GDP	component>
+PRKCA	PRKCA	-a>
+PRKCA	RAB4A/GTP	ACTIVATION
+NHERF1-2	PDGF-BB/PDGFRB (dimer)/NHERF1-2/PTEN	component>
+NHERF1-2	PDGF-BB/PDGFRB (dimer)/NHERF1-2	component>
+PRKCE	PRKCE	transport
+PRKCD	PRKCD	-a>
+sphingosine	Sphingosine-1-phosphate	-a>
+SLA	Src Family Kinases-active	INHIBITION
+ARAP1	RHOA/GDP	ACTIVATION
+ARAP1	ARAP1	-a>
+ACTN4	RAB5/GTP/RNTRE/alpha actinin 4	component>
+RAP1	RAP1/GDP	component>
+RAP1	RAP1/GTP/afadin	component>
+RAP1	RAP1/GTP	component>
+ABI1	Eps8/ABI1/SOS1	component>
+ABI1	SOS1/Eps8/ABI1	component>
+ABI1	WAVE2/Nap1/Sra1/ABI1/HSPC300	component>
+PI-3-4-5-P3	Eps8/ABI1/SOS1	ACTIVATION
+PI-3-4-5-P3	DOK1	ACTIVATION
+PI-3-4-5-P3	WAVE2/Nap1/Sra1/ABI1/HSPC300	ACTIVATION
+PI-3-4-5-P3	PI-4-5-P2	-a>
+Eps8/ABI1/SOS1	Eps8/ABI1/SOS1	-a>
+Eps8/ABI1/SOS1	SOS1/Eps8/ABI1	-a>
+RAS family/GDP	GDP	-a>
+RAS family/GDP	RAS family/GTP	-a>
+BRAF	BRAF/14-3-3	component>
+BRAF	MEK1-2-active	ACTIVATION
+BRAF	BRAF	transport
+BRAF	RAF1/BRAF/14-3-3/14-3-3	component>
+PTPRJ	PDGF-BB/PDGFR (dimer)	ACTIVATION

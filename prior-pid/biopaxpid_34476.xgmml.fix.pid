@@ -1,0 +1,324 @@
+protein	ABL1
+protein	ARHGAP32
+protein	Atypical PKCs
+protein	BDNF
+complex	BDNF (dimer)/TRKB
+complex	BDNF (dimer)/TRKB/GIPC
+protein	CDC42
+complex	CDC42/GDP
+complex	CDC42/GTP
+protein	CRK family
+protein	CRKL
+protein	DNAJA3
+protein	DNM1
+protein	DOCK1
+protein	DYNLT1
+protein	EHD4
+protein	ELMO1
+protein	ERK1-2
+protein	Erk1-2-active
+protein	FAIM
+protein	FRS2 family
+protein	FRS2 family-active
+complex	FRS2 family/GRB2/SOS1
+complex	FRS2 family/SHP2
+complex	FRS2 family/SHP2/CRK family
+complex	FRS2 family/SHP2/CRK family/C3G/GAB2
+complex	FRS2 family/SHP2/GRB2/SOS1
+protein	GAB1
+protein	GAB2
+protein	GDP
+protein	GIPC1
+protein	GRB2
+SmallMolecule	GTP
+protein	KIDINS220
+complex	KIDINS220/CRKL
+complex	KIDINS220/CRKL/C3G
+protein	MAGED1
+protein	MAP2K1
+protein	MATK
+protein	MCF2L
+protein	NEDD4L
+protein	NGF
+complex	NGF (dimer)/TRKA
+complex	NGF (dimer)/TRKA/FAIM
+complex	NGF (dimer)/TRKA/GIPC/GAIP
+complex	NGF (dimer)/TRKA/GRIT
+complex	NGF (dimer)/TRKA/MATK
+complex	NGF (dimer)/TRKA/NEDD4-2
+complex	NGF (dimer)/TRKA/p62/Atypical PKCs
+complex	NGF/NGFR-active
+protein	NGFR
+complex	NT-4/5 (dimer)/TRKB
+complex	NT3 (dimer)/TRKA
+complex	NT3 (dimer)/TRKB
+complex	NT3 (dimer)/TRKC
+protein	NTF3
+protein	NTF4
+protein	NTRK1
+protein	NTRK2
+protein	NTRK3
+protein	None
+complex	PI3K
+protein	PIK3CA
+protein	PIK3R1
+protein	PLCG1
+protein	PTPN11
+protein	RAC1
+complex	RAC1/GDP
+complex	RAC1/GTP
+protein	RAP1
+complex	RAP1/GDP
+complex	RAP1/GTP
+protein	RAPGEF1
+protein	RAS family
+complex	RAS family/GDP
+complex	RAS family/GTP
+complex	RAS family/GTP/PI3K
+complex	RAS family/GTP/Tiam1
+protein	RASA1
+protein	RASGRF1
+protein	RGS19
+protein	RHOG
+complex	RIN/GDP
+complex	RIN/GTP
+protein	RIT1
+complex	RIT1/GDP
+complex	RIT1/GTP
+protein	RIT2
+complex	Rho family GTPase
+complex	Rho family GTPase-active
+complex	RhoG/GDP
+complex	RhoG/GTP
+complex	RhoG/GTP/ELMO1/DOCK1
+complex	SH2B
+complex	SH2B family/GRB2/SOS1
+complex	SH2B1
+complex	SH2B1 (homopentamer)
+protein	SHC 2-3
+complex	SHC 2-3/Grb2
+complex	SHC/GRB2/SOS1
+complex	SHC/GRB2/SOS1/GAB1
+complex	SHC/Grb2/SOS1/GAB1/PI3K
+complex	SHC/RasGAP
+protein	SHC1
+protein	SOS1
+protein	SQSTM1
+protein	STAT3
+complex	STAT3 (dimer)
+protein	TIAM1
+complex	TRKA/NEDD4-2
+complex	TRKA/c-Abl
+CRKL	KIDINS220/CRKL/C3G	component>
+CRKL	KIDINS220/CRKL	component>
+RAS family/GTP/Tiam1	GDP	ACTIVATION
+NT3 (dimer)/TRKC	RAS family/GTP/Tiam1	ACTIVATION
+NT3 (dimer)/TRKC	MCF2L	ACTIVATION
+RAPGEF1	FRS2 family/SHP2/CRK family/C3G/GAB2	component>
+RAPGEF1	KIDINS220/CRKL/C3G	component>
+SH2B1 (homopentamer)	NGF (dimer)/TRKA	ACTIVATION
+PIK3CA	PI3K	component>
+PIK3CA	SHC/Grb2/SOS1/GAB1/PI3K	component>
+PIK3CA	RAS family/GTP/PI3K	component>
+DYNLT1	NGF (dimer)/TRKA/GIPC/GAIP	ACTIVATION
+DYNLT1	BDNF (dimer)/TRKB/GIPC	ACTIVATION
+NTRK1	NGF (dimer)/TRKA/FAIM	component>
+NTRK1	NGF (dimer)/TRKA/p62/Atypical PKCs	component>
+NTRK1	NGF (dimer)/TRKA/GRIT	component>
+NTRK1	NT3 (dimer)/TRKA	component>
+NTRK1	NGF (dimer)/TRKA/NEDD4-2	component>
+NTRK1	NGF (dimer)/TRKA/MATK	component>
+NTRK1	NGF (dimer)/TRKA	component>
+NTRK1	TRKA/NEDD4-2	component>
+NTRK1	NGF (dimer)/TRKA/GIPC/GAIP	component>
+NTRK1	TRKA/c-Abl	component>
+NTRK2	BDNF (dimer)/TRKB	component>
+NTRK2	BDNF (dimer)/TRKB/GIPC	component>
+NTRK2	NT3 (dimer)/TRKB	component>
+NTRK2	NT-4/5 (dimer)/TRKB	component>
+NTRK3	NT3 (dimer)/TRKC	component>
+FRS2 family	SHC1	-a>
+FRS2 family	FRS2 family-active	-a>
+SHC 2-3/Grb2	None	ACTIVATION
+SHC1	SHC1	-a>
+SHC1	FRS2 family-active	-a>
+SHC1	SHC/GRB2/SOS1	component>
+SHC1	SHC/Grb2/SOS1/GAB1/PI3K	component>
+SHC1	SHC/RasGAP	component>
+SHC1	SHC/GRB2/SOS1/GAB1	component>
+STAT3 (dimer)	None	ACTIVATION
+RIN/GDP	GDP	-a>
+RIN/GDP	RIN/GTP	-a>
+RAC1/GTP	None	ACTIVATION
+GIPC1	NGF (dimer)/TRKA/GIPC/GAIP	component>
+GIPC1	BDNF (dimer)/TRKB/GIPC	component>
+DNAJA3	DNAJA3	-a>
+DNAJA3	None	ACTIVATION
+SH2B	SH2B family/GRB2/SOS1	component>
+SHC/GRB2/SOS1	GDP	ACTIVATION
+MAGED1	NGF (dimer)/TRKA	INHIBITION
+PTPN11	FRS2 family/SHP2/CRK family/C3G/GAB2	component>
+PTPN11	FRS2 family/SHP2/GRB2/SOS1	component>
+PTPN11	FRS2 family/SHP2/CRK family	component>
+PTPN11	FRS2 family/SHP2	component>
+PLCG1	PLCG1	-a>
+GRB2	FRS2 family/SHP2/GRB2/SOS1	component>
+GRB2	SHC/GRB2/SOS1	component>
+GRB2	FRS2 family/GRB2/SOS1	component>
+GRB2	SHC/Grb2/SOS1/GAB1/PI3K	component>
+GRB2	SHC/GRB2/SOS1/GAB1	component>
+GRB2	SH2B family/GRB2/SOS1	component>
+GRB2	SHC 2-3/Grb2	component>
+NGF (dimer)/TRKA/MATK	Erk1-2-active	ACTIVATION
+ELMO1	RhoG/GTP/ELMO1/DOCK1	component>
+RhoG/GTP/ELMO1/DOCK1	GDP	ACTIVATION
+NGF	NGF (dimer)/TRKA/FAIM	component>
+NGF	NGF (dimer)/TRKA/p62/Atypical PKCs	component>
+NGF	NGF (dimer)/TRKA/GRIT	component>
+NGF	NGF (dimer)/TRKA/NEDD4-2	component>
+NGF	NGF (dimer)/TRKA/MATK	component>
+NGF	NGF (dimer)/TRKA	component>
+NGF	NGF (dimer)/TRKA/GIPC/GAIP	component>
+DOCK1	RhoG/GTP/ELMO1/DOCK1	component>
+GAB2	FRS2 family/SHP2/CRK family/C3G/GAB2	component>
+RIT2	RIN/GTP	component>
+RIT2	RIN/GDP	component>
+RIT1	RIT1/GTP	component>
+RIT1	RIT1/GDP	component>
+GAB1	SHC/GRB2/SOS1/GAB1	component>
+GAB1	SHC/Grb2/SOS1/GAB1/PI3K	component>
+DNM1	NGF (dimer)/TRKA/GIPC/GAIP	ACTIVATION
+BDNF	BDNF (dimer)/TRKB	component>
+BDNF	BDNF (dimer)/TRKB/GIPC	component>
+RhoG/GDP	GDP	-a>
+RhoG/GDP	RhoG/GTP	-a>
+RIT1/GDP	RIT1/GTP	-a>
+RIT1/GDP	GDP	-a>
+TIAM1	RAS family/GTP/Tiam1	component>
+PIK3R1	PI3K	component>
+PIK3R1	SHC/Grb2/SOS1/GAB1/PI3K	component>
+PIK3R1	RAS family/GTP/PI3K	component>
+BDNF (dimer)/TRKB	GDP	ACTIVATION
+BDNF (dimer)/TRKB	BDNF (dimer)/TRKB	transport
+BDNF (dimer)/TRKB	SHC 2-3	ACTIVATION
+BDNF (dimer)/TRKB	CDC42/GTP	ACTIVATION
+None	None	ACTIVATION
+KIDINS220/CRKL/C3G	GDP	ACTIVATION
+SHC/RasGAP	RAS family/GDP	ACTIVATION
+SHC/GRB2/SOS1/GAB1	MAP2K1	ACTIVATION
+RAP1/GDP	GDP	-a>
+RAP1/GDP	RAP1/GTP	-a>
+ERK1-2	Erk1-2-active	-a>
+MATK	NGF (dimer)/TRKA/MATK	component>
+EHD4	BDNF (dimer)/TRKB	ACTIVATION
+EHD4	NGF/NGFR-active	ACTIVATION
+FRS2 family/GRB2/SOS1	GDP	ACTIVATION
+FRS2 family/SHP2/CRK family/C3G/GAB2	RAP1/GTP	ACTIVATION
+RAS family/GTP	RAS family/GDP	-a>
+CDC42/GTP	None	ACTIVATION
+ABL1	TRKA/c-Abl	component>
+SH2B family/GRB2/SOS1	GDP	ACTIVATION
+STAT3	STAT3 (dimer)	component>
+RHOG	RhoG/GTP/ELMO1/DOCK1	component>
+RHOG	RhoG/GDP	component>
+RHOG	RhoG/GTP	component>
+CDC42/GDP	GDP	-a>
+CDC42/GDP	CDC42/GTP	-a>
+NTF3	NT3 (dimer)/TRKC	component>
+NTF3	NT3 (dimer)/TRKB	component>
+NTF3	NT3 (dimer)/TRKA	component>
+NTF4	NT-4/5 (dimer)/TRKB	component>
+NGF (dimer)/TRKA/FAIM	None	ACTIVATION
+PI3K	NGF (dimer)/TRKA	ACTIVATION
+RAC1/GDP	GDP	-a>
+RAC1/GDP	RAC1/GTP	-a>
+KIDINS220	KIDINS220/CRKL/C3G	component>
+KIDINS220	KIDINS220	-a>
+KIDINS220	KIDINS220/CRKL	component>
+GTP	RIT1/GTP	component>
+GTP	GDP	-a>
+GTP	RAS family/GTP	component>
+GTP	RIN/GTP	component>
+GTP	RAS family/GTP/Tiam1	component>
+GTP	RAS family/GTP/PI3K	component>
+GTP	CDC42/GTP	component>
+GTP	RAC1/GTP	component>
+GTP	RhoG/GTP/ELMO1/DOCK1	component>
+GTP	RAP1/GTP	component>
+GTP	RhoG/GTP	component>
+SH2B1	SH2B1 (homopentamer)	component>
+FAIM	NGF (dimer)/TRKA/FAIM	component>
+GDP	CDC42/GDP	component>
+GDP	RAC1/GDP	component>
+GDP	RAP1/GDP	component>
+GDP	RhoG/GDP	component>
+GDP	RIT1/GDP	component>
+GDP	RAS family/GDP	component>
+GDP	RIN/GDP	component>
+Rho family GTPase	Rho family GTPase-active	-a>
+RASGRF1	GDP	ACTIVATION
+RASGRF1	RAS family/GTP	ACTIVATION
+RASGRF1	RASGRF1	-a>
+SOS1	FRS2 family/SHP2/GRB2/SOS1	component>
+SOS1	SHC/GRB2/SOS1	component>
+SOS1	FRS2 family/GRB2/SOS1	component>
+SOS1	SHC/Grb2/SOS1/GAB1/PI3K	component>
+SOS1	SHC/GRB2/SOS1/GAB1	component>
+SOS1	SH2B family/GRB2/SOS1	component>
+MCF2L	GDP	ACTIVATION
+MCF2L	MCF2L	-a>
+RGS19	NGF (dimer)/TRKA/GIPC/GAIP	component>
+RAS family	RAS family/GTP/Tiam1	component>
+RAS family	RAS family/GDP	component>
+RAS family	RAS family/GTP	component>
+RAS family	RAS family/GTP/PI3K	component>
+CDC42	CDC42/GDP	component>
+CDC42	CDC42/GTP	component>
+NGF (dimer)/TRKA/GRIT	Rho family GTPase-active	ACTIVATION
+NGF (dimer)/TRKA/NEDD4-2	None	ACTIVATION
+CRK family	FRS2 family/SHP2/CRK family/C3G/GAB2	component>
+CRK family	FRS2 family/SHP2/CRK family	component>
+MAP2K1	MAP2K1	-a>
+NGFR	NT3 (dimer)/TRKA	INHIBITION
+NGFR	NT-4/5 (dimer)/TRKB	INHIBITION
+NGFR	NGF (dimer)/TRKA	ACTIVATION
+NGFR	NT3 (dimer)/TRKB	INHIBITION
+NGF (dimer)/TRKA/GIPC/GAIP	None	INHIBITION
+FRS2 family/SHP2/GRB2/SOS1	RAS family/GTP	ACTIVATION
+RAS family/GDP	GDP	-a>
+RAS family/GDP	RAS family/GTP	-a>
+SHC 2-3	SHC 2-3	-a>
+SHC 2-3	SHC 2-3/Grb2	component>
+RAC1	RAC1/GTP	component>
+RAC1	RAC1/GDP	component>
+RASA1	SHC/RasGAP	component>
+NGF/NGFR-active	RIT1/GTP	ACTIVATION
+NGF/NGFR-active	GDP	ACTIVATION
+NGF/NGFR-active	FRS2 family-active	ACTIVATION
+NGF/NGFR-active	FRS2 family/GRB2/SOS1	ACTIVATION
+NGF/NGFR-active	STAT3 (dimer)	ACTIVATION
+NGF/NGFR-active	KIDINS220	ACTIVATION
+NGF/NGFR-active	SHC/RasGAP	ACTIVATION
+NGF/NGFR-active	NGF/NGFR-active	transport
+NGF/NGFR-active	PLCG1	ACTIVATION
+NGF/NGFR-active	FRS2 family/SHP2	ACTIVATION
+NGF/NGFR-active	SHC/GRB2/SOS1/GAB1	ACTIVATION
+NGF/NGFR-active	SH2B family/GRB2/SOS1	ACTIVATION
+NGF/NGFR-active	FRS2 family/SHP2/CRK family	ACTIVATION
+SQSTM1	NGF (dimer)/TRKA/p62/Atypical PKCs	component>
+FRS2 family-active	FRS2 family/GRB2/SOS1	component>
+FRS2 family-active	FRS2 family/SHP2/CRK family/C3G/GAB2	component>
+FRS2 family-active	FRS2 family/SHP2/GRB2/SOS1	component>
+FRS2 family-active	FRS2 family/SHP2/CRK family	component>
+FRS2 family-active	FRS2 family/SHP2	component>
+Atypical PKCs	NGF (dimer)/TRKA/p62/Atypical PKCs	component>
+RAP1	RAP1/GDP	component>
+RAP1	RAP1/GTP	component>
+NEDD4L	TRKA/NEDD4-2	component>
+NEDD4L	NGF (dimer)/TRKA/NEDD4-2	component>
+ARHGAP32	NGF (dimer)/TRKA/GRIT	component>
+NGF (dimer)/TRKA	DNAJA3	ACTIVATION
+NGF (dimer)/TRKA	RhoG/GTP	ACTIVATION
+NGF (dimer)/TRKA	SHC 2-3	ACTIVATION
+NGF (dimer)/TRKA	NGF (dimer)/TRKA	transport
+NGF (dimer)/TRKA	RASGRF1	ACTIVATION

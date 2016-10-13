@@ -1,0 +1,120 @@
+protein	AKT1
+protein	COL1A1
+protein	COL1A2
+protein	CREB1
+protein	CRK
+protein	ERK1-2
+protein	Erk1-2-active
+protein	FIGF
+protein	FLT4
+protein	FN1
+protein	GRB2
+protein	ITGA1
+protein	ITGA2
+protein	ITGA4
+protein	ITGA5
+protein	ITGB1
+protein	MAP2K4
+protein	None
+complex	PI3K
+protein	PIK3CA
+protein	PIK3R1
+protein	PKC
+protein	RPS6KA1
+complex	SHC/GRB2/SOS1
+protein	SHC1
+protein	SOS1
+protein	VEGFC-D
+complex	VEGFR3/Fibronectin/alpha4/beta1 Integrin
+complex	VEGFR3/Fibronectin/alpha5/beta1 Integrin
+complex	VEGFR3/Type I Collagen/alpha1/beta1 Integrin
+complex	VEGFR3/Type I Collagen/alpha2/beta1 Integrin
+complex	VEGFR3/VEGFC-D
+complex	VEGFR3/VEGFC-D/Crk
+complex	VEGFR3/VEGFD/Fibronectin/alpha4/beta1 Integrin
+complex	VEGFR3/VEGFD/Fibronectin/alpha5/beta1 Integrin
+complex	VEGFR3/VEGFD/Type I Collagen/alpha1/beta1 Integrin
+complex	VEGFR3/VEGFD/Type I Collagen/alpha2/beta1 Integrin
+protein	p38alpha-beta-active
+ITGB1	VEGFR3/Type I Collagen/alpha2/beta1 Integrin	component>
+ITGB1	VEGFR3/Type I Collagen/alpha1/beta1 Integrin	component>
+ITGB1	VEGFR3/VEGFD/Type I Collagen/alpha1/beta1 Integrin	component>
+ITGB1	VEGFR3/VEGFD/Type I Collagen/alpha2/beta1 Integrin	component>
+ITGB1	VEGFR3/Fibronectin/alpha5/beta1 Integrin	component>
+ITGB1	VEGFR3/VEGFD/Fibronectin/alpha4/beta1 Integrin	component>
+ITGB1	VEGFR3/VEGFD/Fibronectin/alpha5/beta1 Integrin	component>
+ITGB1	VEGFR3/Fibronectin/alpha4/beta1 Integrin	component>
+Erk1-2-active	RPS6KA1	ACTIVATION
+Erk1-2-active	None	ACTIVATION
+VEGFR3/Type I Collagen/alpha1/beta1 Integrin	None	ACTIVATION
+ITGA1	VEGFR3/VEGFD/Type I Collagen/alpha1/beta1 Integrin	component>
+ITGA1	VEGFR3/Type I Collagen/alpha1/beta1 Integrin	component>
+ITGA2	VEGFR3/Type I Collagen/alpha2/beta1 Integrin	component>
+ITGA2	VEGFR3/VEGFD/Type I Collagen/alpha2/beta1 Integrin	component>
+ITGA4	VEGFR3/VEGFD/Fibronectin/alpha4/beta1 Integrin	component>
+ITGA4	VEGFR3/Fibronectin/alpha4/beta1 Integrin	component>
+ITGA5	VEGFR3/VEGFD/Fibronectin/alpha5/beta1 Integrin	component>
+ITGA5	VEGFR3/Fibronectin/alpha5/beta1 Integrin	component>
+AKT1	AKT1	-a>
+MAP2K4	None	ACTIVATION
+MAP2K4	MAP2K4	-a>
+CRK	VEGFR3/VEGFC-D/Crk	component>
+FLT4	VEGFR3/VEGFC-D	component>
+FLT4	VEGFR3/Type I Collagen/alpha1/beta1 Integrin	component>
+FLT4	VEGFR3/VEGFD/Type I Collagen/alpha2/beta1 Integrin	component>
+FLT4	VEGFR3/VEGFD/Fibronectin/alpha5/beta1 Integrin	component>
+FLT4	VEGFR3/Fibronectin/alpha5/beta1 Integrin	component>
+FLT4	VEGFR3/VEGFD/Fibronectin/alpha4/beta1 Integrin	component>
+FLT4	VEGFR3/VEGFD/Type I Collagen/alpha1/beta1 Integrin	component>
+FLT4	VEGFR3/VEGFC-D/Crk	component>
+FLT4	VEGFR3/Type I Collagen/alpha2/beta1 Integrin	component>
+FLT4	VEGFR3/Fibronectin/alpha4/beta1 Integrin	component>
+VEGFR3/VEGFC-D	SHC/GRB2/SOS1	ACTIVATION
+VEGFR3/VEGFC-D	PKC	ACTIVATION
+VEGFR3/VEGFC-D	None	ACTIVATION
+VEGFR3/VEGFC-D	PI3K	ACTIVATION
+PIK3CA	PI3K	component>
+VEGFR3/Fibronectin/alpha4/beta1 Integrin	None	ACTIVATION
+VEGFR3/Fibronectin/alpha5/beta1 Integrin	None	ACTIVATION
+PKC	PKC	-a>
+PKC	Erk1-2-active	ACTIVATION
+VEGFR3/VEGFD/Fibronectin/alpha4/beta1 Integrin	None	ACTIVATION
+PIK3R1	PI3K	component>
+VEGFR3/VEGFD/Fibronectin/alpha5/beta1 Integrin	None	ACTIVATION
+FIGF	VEGFR3/VEGFD/Fibronectin/alpha5/beta1 Integrin	component>
+FIGF	VEGFR3/VEGFD/Fibronectin/alpha4/beta1 Integrin	component>
+FIGF	VEGFR3/VEGFD/Type I Collagen/alpha2/beta1 Integrin	component>
+FIGF	VEGFR3/VEGFD/Type I Collagen/alpha1/beta1 Integrin	component>
+p38alpha-beta-active	CREB1	ACTIVATION
+None	None	ACTIVATION
+SHC1	SHC/GRB2/SOS1	component>
+PI3K	AKT1	ACTIVATION
+PI3K	PI3K	-a>
+VEGFR3/VEGFD/Type I Collagen/alpha2/beta1 Integrin	None	ACTIVATION
+CREB1	CREB1	-a>
+VEGFR3/VEGFC-D/Crk	MAP2K4	ACTIVATION
+VEGFR3/Type I Collagen/alpha2/beta1 Integrin	None	ACTIVATION
+RPS6KA1	RPS6KA1	-a>
+RPS6KA1	CREB1	ACTIVATION
+FN1	VEGFR3/VEGFD/Fibronectin/alpha5/beta1 Integrin	component>
+FN1	VEGFR3/VEGFD/Fibronectin/alpha4/beta1 Integrin	component>
+FN1	VEGFR3/Fibronectin/alpha4/beta1 Integrin	component>
+FN1	VEGFR3/Fibronectin/alpha5/beta1 Integrin	component>
+SOS1	SHC/GRB2/SOS1	component>
+SHC/GRB2/SOS1	SHC/GRB2/SOS1	-a>
+SHC/GRB2/SOS1	Erk1-2-active	ACTIVATION
+SHC/GRB2/SOS1	None	INHIBITION
+SHC/GRB2/SOS1	PI3K	ACTIVATION
+VEGFR3/VEGFD/Type I Collagen/alpha1/beta1 Integrin	None	ACTIVATION
+ERK1-2	Erk1-2-active	-a>
+GRB2	SHC/GRB2/SOS1	component>
+COL1A2	VEGFR3/VEGFD/Type I Collagen/alpha1/beta1 Integrin	component>
+COL1A2	VEGFR3/Type I Collagen/alpha2/beta1 Integrin	component>
+COL1A2	VEGFR3/VEGFD/Type I Collagen/alpha2/beta1 Integrin	component>
+COL1A2	VEGFR3/Type I Collagen/alpha1/beta1 Integrin	component>
+COL1A1	VEGFR3/VEGFD/Type I Collagen/alpha1/beta1 Integrin	component>
+COL1A1	VEGFR3/Type I Collagen/alpha2/beta1 Integrin	component>
+COL1A1	VEGFR3/VEGFD/Type I Collagen/alpha2/beta1 Integrin	component>
+COL1A1	VEGFR3/Type I Collagen/alpha1/beta1 Integrin	component>
+VEGFC-D	VEGFR3/VEGFC-D/Crk	component>
+VEGFC-D	VEGFR3/VEGFC-D	component>

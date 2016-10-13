@@ -1,0 +1,120 @@
+protein	ACTA1
+protein	AGRN
+protein	Ach R
+complex	Ach R/RAPSYN
+protein	CDC42
+protein	CTTN
+protein	DAG1
+protein	DMD
+protein	DVL1
+protein	EGFR
+protein	GIT2
+protein	ITGA1
+protein	ITGB1
+protein	JUN
+protein	Laminin
+protein	MAPK1
+protein	MAPK3
+protein	MAPK8
+protein	MUSK
+complex	MUSK/DVL/PAKs
+protein	PAKs
+protein	PIX
+protein	PTK2
+protein	PXN
+protein	RAC1
+protein	RAPSN
+protein	SP1
+protein	SRC
+protein	UTRN
+complex	agrin/Integrin-alpha/Integrin-beta/dystroglycan 1/SRC/FAK/Paxillin/PKL/PIX/PAKs/dystrophin/actin/laminin
+complex	agrin/Integrin-alpha/Integrin-beta/dystroglycan 1/SRC/FAK/Paxillin/PKL/PIX/PAKs/dystrophin/actin/laminin/cortactin
+complex	agrin/Integrin-alpha/Integrin-beta/dystroglycan 1/SRC/FAK/Paxillin/PKL/PIX/PAKs/dystrophin/actin/laminin/cortactin/Ach R/RAPSYN/utrophin
+SmallMolecule	guanosine 5'-diphosphate
+SmallMolecule	guanosine 5'-triphosphate
+protein	neuregulin
+complex	neuregulin/ErbB1
+MUSK	MUSK/DVL/PAKs	component>
+PTK2	agrin/Integrin-alpha/Integrin-beta/dystroglycan 1/SRC/FAK/Paxillin/PKL/PIX/PAKs/dystrophin/actin/laminin/cortactin	component>
+PTK2	agrin/Integrin-alpha/Integrin-beta/dystroglycan 1/SRC/FAK/Paxillin/PKL/PIX/PAKs/dystrophin/actin/laminin/cortactin/Ach R/RAPSYN/utrophin	component>
+PTK2	agrin/Integrin-alpha/Integrin-beta/dystroglycan 1/SRC/FAK/Paxillin/PKL/PIX/PAKs/dystrophin/actin/laminin	component>
+DMD	agrin/Integrin-alpha/Integrin-beta/dystroglycan 1/SRC/FAK/Paxillin/PKL/PIX/PAKs/dystrophin/actin/laminin/cortactin	component>
+DMD	agrin/Integrin-alpha/Integrin-beta/dystroglycan 1/SRC/FAK/Paxillin/PKL/PIX/PAKs/dystrophin/actin/laminin/cortactin/Ach R/RAPSYN/utrophin	component>
+DMD	agrin/Integrin-alpha/Integrin-beta/dystroglycan 1/SRC/FAK/Paxillin/PKL/PIX/PAKs/dystrophin/actin/laminin	component>
+MUSK/DVL/PAKs	MUSK/DVL/PAKs	-a>
+MUSK/DVL/PAKs	CDC42	ACTIVATION
+MUSK/DVL/PAKs	RAC1	ACTIVATION
+Laminin	agrin/Integrin-alpha/Integrin-beta/dystroglycan 1/SRC/FAK/Paxillin/PKL/PIX/PAKs/dystrophin/actin/laminin/cortactin	component>
+Laminin	agrin/Integrin-alpha/Integrin-beta/dystroglycan 1/SRC/FAK/Paxillin/PKL/PIX/PAKs/dystrophin/actin/laminin/cortactin/Ach R/RAPSYN/utrophin	component>
+Laminin	agrin/Integrin-alpha/Integrin-beta/dystroglycan 1/SRC/FAK/Paxillin/PKL/PIX/PAKs/dystrophin/actin/laminin	component>
+AGRN	agrin/Integrin-alpha/Integrin-beta/dystroglycan 1/SRC/FAK/Paxillin/PKL/PIX/PAKs/dystrophin/actin/laminin/cortactin	component>
+AGRN	agrin/Integrin-alpha/Integrin-beta/dystroglycan 1/SRC/FAK/Paxillin/PKL/PIX/PAKs/dystrophin/actin/laminin/cortactin/Ach R/RAPSYN/utrophin	component>
+AGRN	agrin/Integrin-alpha/Integrin-beta/dystroglycan 1/SRC/FAK/Paxillin/PKL/PIX/PAKs/dystrophin/actin/laminin	component>
+CTTN	agrin/Integrin-alpha/Integrin-beta/dystroglycan 1/SRC/FAK/Paxillin/PKL/PIX/PAKs/dystrophin/actin/laminin/cortactin	component>
+CTTN	agrin/Integrin-alpha/Integrin-beta/dystroglycan 1/SRC/FAK/Paxillin/PKL/PIX/PAKs/dystrophin/actin/laminin/cortactin/Ach R/RAPSYN/utrophin	component>
+CTTN	CTTN	-a>
+ITGA1	agrin/Integrin-alpha/Integrin-beta/dystroglycan 1/SRC/FAK/Paxillin/PKL/PIX/PAKs/dystrophin/actin/laminin/cortactin	component>
+ITGA1	agrin/Integrin-alpha/Integrin-beta/dystroglycan 1/SRC/FAK/Paxillin/PKL/PIX/PAKs/dystrophin/actin/laminin/cortactin/Ach R/RAPSYN/utrophin	component>
+ITGA1	agrin/Integrin-alpha/Integrin-beta/dystroglycan 1/SRC/FAK/Paxillin/PKL/PIX/PAKs/dystrophin/actin/laminin	component>
+neuregulin	neuregulin/ErbB1	component>
+UTRN	agrin/Integrin-alpha/Integrin-beta/dystroglycan 1/SRC/FAK/Paxillin/PKL/PIX/PAKs/dystrophin/actin/laminin/cortactin/Ach R/RAPSYN/utrophin	component>
+JUN	JUN	-a>
+PIX	agrin/Integrin-alpha/Integrin-beta/dystroglycan 1/SRC/FAK/Paxillin/PKL/PIX/PAKs/dystrophin/actin/laminin/cortactin	component>
+PIX	agrin/Integrin-alpha/Integrin-beta/dystroglycan 1/SRC/FAK/Paxillin/PKL/PIX/PAKs/dystrophin/actin/laminin/cortactin/Ach R/RAPSYN/utrophin	component>
+PIX	agrin/Integrin-alpha/Integrin-beta/dystroglycan 1/SRC/FAK/Paxillin/PKL/PIX/PAKs/dystrophin/actin/laminin	component>
+MAPK3	MAPK3	transport
+MAPK3	MAPK1	transport
+MAPK3	JUN	ACTIVATION
+MAPK3	SP1	ACTIVATION
+DVL1	MUSK/DVL/PAKs	component>
+PXN	agrin/Integrin-alpha/Integrin-beta/dystroglycan 1/SRC/FAK/Paxillin/PKL/PIX/PAKs/dystrophin/actin/laminin/cortactin	component>
+PXN	agrin/Integrin-alpha/Integrin-beta/dystroglycan 1/SRC/FAK/Paxillin/PKL/PIX/PAKs/dystrophin/actin/laminin/cortactin/Ach R/RAPSYN/utrophin	component>
+PXN	agrin/Integrin-alpha/Integrin-beta/dystroglycan 1/SRC/FAK/Paxillin/PKL/PIX/PAKs/dystrophin/actin/laminin	component>
+SP1	SP1	-a>
+MAPK8	SP1	ACTIVATION
+MAPK8	MAPK8	-a>
+MAPK8	JUN	ACTIVATION
+neuregulin/ErbB1	MAPK1	ACTIVATION
+guanosine 5'-triphosphate	guanosine 5'-diphosphate	-a>
+guanosine 5'-triphosphate	RAC1	-a>
+PAKs	MUSK/DVL/PAKs	component>
+PAKs	agrin/Integrin-alpha/Integrin-beta/dystroglycan 1/SRC/FAK/Paxillin/PKL/PIX/PAKs/dystrophin/actin/laminin/cortactin	component>
+PAKs	agrin/Integrin-alpha/Integrin-beta/dystroglycan 1/SRC/FAK/Paxillin/PKL/PIX/PAKs/dystrophin/actin/laminin/cortactin/Ach R/RAPSYN/utrophin	component>
+PAKs	agrin/Integrin-alpha/Integrin-beta/dystroglycan 1/SRC/FAK/Paxillin/PKL/PIX/PAKs/dystrophin/actin/laminin	component>
+ITGB1	agrin/Integrin-alpha/Integrin-beta/dystroglycan 1/SRC/FAK/Paxillin/PKL/PIX/PAKs/dystrophin/actin/laminin/cortactin	component>
+ITGB1	agrin/Integrin-alpha/Integrin-beta/dystroglycan 1/SRC/FAK/Paxillin/PKL/PIX/PAKs/dystrophin/actin/laminin/cortactin/Ach R/RAPSYN/utrophin	component>
+ITGB1	agrin/Integrin-alpha/Integrin-beta/dystroglycan 1/SRC/FAK/Paxillin/PKL/PIX/PAKs/dystrophin/actin/laminin	component>
+SRC	agrin/Integrin-alpha/Integrin-beta/dystroglycan 1/SRC/FAK/Paxillin/PKL/PIX/PAKs/dystrophin/actin/laminin/cortactin	component>
+SRC	agrin/Integrin-alpha/Integrin-beta/dystroglycan 1/SRC/FAK/Paxillin/PKL/PIX/PAKs/dystrophin/actin/laminin/cortactin/Ach R/RAPSYN/utrophin	component>
+SRC	agrin/Integrin-alpha/Integrin-beta/dystroglycan 1/SRC/FAK/Paxillin/PKL/PIX/PAKs/dystrophin/actin/laminin	component>
+RAC1	MUSK/DVL/PAKs	ACTIVATION
+RAC1	MAPK8	ACTIVATION
+RAC1	CTTN	ACTIVATION
+RAC1	guanosine 5'-diphosphate	-a>
+RAC1	RAC1	-a>
+EGFR	neuregulin/ErbB1	component>
+DAG1	agrin/Integrin-alpha/Integrin-beta/dystroglycan 1/SRC/FAK/Paxillin/PKL/PIX/PAKs/dystrophin/actin/laminin/cortactin	component>
+DAG1	agrin/Integrin-alpha/Integrin-beta/dystroglycan 1/SRC/FAK/Paxillin/PKL/PIX/PAKs/dystrophin/actin/laminin/cortactin/Ach R/RAPSYN/utrophin	component>
+DAG1	agrin/Integrin-alpha/Integrin-beta/dystroglycan 1/SRC/FAK/Paxillin/PKL/PIX/PAKs/dystrophin/actin/laminin	component>
+ACTA1	agrin/Integrin-alpha/Integrin-beta/dystroglycan 1/SRC/FAK/Paxillin/PKL/PIX/PAKs/dystrophin/actin/laminin/cortactin	component>
+ACTA1	agrin/Integrin-alpha/Integrin-beta/dystroglycan 1/SRC/FAK/Paxillin/PKL/PIX/PAKs/dystrophin/actin/laminin/cortactin/Ach R/RAPSYN/utrophin	component>
+ACTA1	agrin/Integrin-alpha/Integrin-beta/dystroglycan 1/SRC/FAK/Paxillin/PKL/PIX/PAKs/dystrophin/actin/laminin	component>
+RAPSN	agrin/Integrin-alpha/Integrin-beta/dystroglycan 1/SRC/FAK/Paxillin/PKL/PIX/PAKs/dystrophin/actin/laminin/cortactin/Ach R/RAPSYN/utrophin	component>
+RAPSN	Ach R/RAPSYN	component>
+GIT2	agrin/Integrin-alpha/Integrin-beta/dystroglycan 1/SRC/FAK/Paxillin/PKL/PIX/PAKs/dystrophin/actin/laminin/cortactin	component>
+GIT2	agrin/Integrin-alpha/Integrin-beta/dystroglycan 1/SRC/FAK/Paxillin/PKL/PIX/PAKs/dystrophin/actin/laminin/cortactin/Ach R/RAPSYN/utrophin	component>
+GIT2	agrin/Integrin-alpha/Integrin-beta/dystroglycan 1/SRC/FAK/Paxillin/PKL/PIX/PAKs/dystrophin/actin/laminin	component>
+MAPK1	MAPK3	transport
+MAPK1	MAPK1	transport
+MAPK1	JUN	ACTIVATION
+MAPK1	SP1	ACTIVATION
+Ach R	agrin/Integrin-alpha/Integrin-beta/dystroglycan 1/SRC/FAK/Paxillin/PKL/PIX/PAKs/dystrophin/actin/laminin/cortactin/Ach R/RAPSYN/utrophin	component>
+Ach R	Ach R/RAPSYN	component>
+Ach R	Ach R	transport
+agrin/Integrin-alpha/Integrin-beta/dystroglycan 1/SRC/FAK/Paxillin/PKL/PIX/PAKs/dystrophin/actin/laminin	guanosine 5'-diphosphate	ACTIVATION
+agrin/Integrin-alpha/Integrin-beta/dystroglycan 1/SRC/FAK/Paxillin/PKL/PIX/PAKs/dystrophin/actin/laminin	CTTN	ACTIVATION
+agrin/Integrin-alpha/Integrin-beta/dystroglycan 1/SRC/FAK/Paxillin/PKL/PIX/PAKs/dystrophin/actin/laminin	CDC42	ACTIVATION
+CDC42	MUSK/DVL/PAKs	ACTIVATION
+CDC42	MAPK8	ACTIVATION
+CDC42	CTTN	ACTIVATION
+CDC42	CDC42	-a>

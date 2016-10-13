@@ -1,0 +1,111 @@
+protein	ACTA1
+protein	ARHGAP5
+protein	BCAR1
+protein	CAPN1
+protein	CSK
+SmallMolecule	Ca ++
+SmallMolecule	DAG
+protein	DIAPH1
+protein	ECM
+complex	ECM/Integrin-alpha/Integrin-betaTalin/Calpain1/actin (active1)/p130cas/FAK/CSK/Paxillin/Vinculin/alp
+complex	ECM/Integrin-alpha/Integrin-betaTalin/Calpain1/actin/p130cas/FAK/CSK/Paxillin/Vinculin/alpha-actinin
+protein	GSN
+SmallMolecule	IP3
+protein	ITGA1
+protein	ITGB1
+protein	MAP2K1
+protein	MAPK1
+protein	MAPK3
+protein	MLC1
+protein	MYLK
+protein	None
+protein	PFN1
+complex	PI3K
+protein	PIK3CA
+protein	PIK3R1
+SmallMolecule	PIP2
+complex	PIP2/Gelsolin
+SmallMolecule	PIP3
+protein	PLCG1
+protein	PTK2
+protein	PXN
+protein	RHOA
+protein	ROCK1
+complex	Rho-Kinase Dia/Profilin
+protein	SRC
+protein	TLN1
+protein	TNS1
+protein	VCL
+protein	ZYX
+protein	alpha-actinin
+ACTA1	ECM/Integrin-alpha/Integrin-betaTalin/Calpain1/actin/p130cas/FAK/CSK/Paxillin/Vinculin/alpha-actinin	component>
+ACTA1	ECM/Integrin-alpha/Integrin-betaTalin/Calpain1/actin (active1)/p130cas/FAK/CSK/Paxillin/Vinculin/alp	component>
+ITGA1	ECM/Integrin-alpha/Integrin-betaTalin/Calpain1/actin/p130cas/FAK/CSK/Paxillin/Vinculin/alpha-actinin	component>
+ITGA1	ECM/Integrin-alpha/Integrin-betaTalin/Calpain1/actin (active1)/p130cas/FAK/CSK/Paxillin/Vinculin/alp	component>
+MYLK	MLC1	ACTIVATION
+MYLK	MYLK	-a>
+IP3	Ca ++	ACTIVATION
+MAP2K1	MAPK3	ACTIVATION
+MAP2K1	MAP2K1	-a>
+MAP2K1	MAPK1	ACTIVATION
+PTK2	ECM/Integrin-alpha/Integrin-betaTalin/Calpain1/actin/p130cas/FAK/CSK/Paxillin/Vinculin/alpha-actinin	component>
+PTK2	ECM/Integrin-alpha/Integrin-betaTalin/Calpain1/actin (active1)/p130cas/FAK/CSK/Paxillin/Vinculin/alp	component>
+ARHGAP5	ARHGAP5	-a>
+ARHGAP5	RHOA	ACTIVATION
+ZYX	ECM/Integrin-alpha/Integrin-betaTalin/Calpain1/actin/p130cas/FAK/CSK/Paxillin/Vinculin/alpha-actinin	component>
+ZYX	ECM/Integrin-alpha/Integrin-betaTalin/Calpain1/actin (active1)/p130cas/FAK/CSK/Paxillin/Vinculin/alp	component>
+GSN	PIP2/Gelsolin	component>
+PI3K	MAP2K1	ACTIVATION
+PI3K	PIP3	ACTIVATION
+PI3K	PI3K	-a>
+CSK	ECM/Integrin-alpha/Integrin-betaTalin/Calpain1/actin/p130cas/FAK/CSK/Paxillin/Vinculin/alpha-actinin	component>
+CSK	ECM/Integrin-alpha/Integrin-betaTalin/Calpain1/actin (active1)/p130cas/FAK/CSK/Paxillin/Vinculin/alp	component>
+PIK3CA	PI3K	component>
+ECM	ECM/Integrin-alpha/Integrin-betaTalin/Calpain1/actin/p130cas/FAK/CSK/Paxillin/Vinculin/alpha-actinin	component>
+ECM	ECM/Integrin-alpha/Integrin-betaTalin/Calpain1/actin (active1)/p130cas/FAK/CSK/Paxillin/Vinculin/alp	component>
+Ca ++	Ca ++	transport
+TLN1	ECM/Integrin-alpha/Integrin-betaTalin/Calpain1/actin/p130cas/FAK/CSK/Paxillin/Vinculin/alpha-actinin	component>
+TLN1	ECM/Integrin-alpha/Integrin-betaTalin/Calpain1/actin (active1)/p130cas/FAK/CSK/Paxillin/Vinculin/alp	component>
+MAPK3	MAPK3	-a>
+MAPK3	None	ACTIVATION
+MAPK3	MYLK	ACTIVATION
+MAPK1	None	ACTIVATION
+MAPK1	MAPK1	-a>
+MAPK1	MYLK	ACTIVATION
+PXN	ECM/Integrin-alpha/Integrin-betaTalin/Calpain1/actin/p130cas/FAK/CSK/Paxillin/Vinculin/alpha-actinin	component>
+PXN	ECM/Integrin-alpha/Integrin-betaTalin/Calpain1/actin (active1)/p130cas/FAK/CSK/Paxillin/Vinculin/alp	component>
+CAPN1	ECM/Integrin-alpha/Integrin-betaTalin/Calpain1/actin/p130cas/FAK/CSK/Paxillin/Vinculin/alpha-actinin	component>
+CAPN1	ECM/Integrin-alpha/Integrin-betaTalin/Calpain1/actin (active1)/p130cas/FAK/CSK/Paxillin/Vinculin/alp	component>
+TNS1	ECM/Integrin-alpha/Integrin-betaTalin/Calpain1/actin/p130cas/FAK/CSK/Paxillin/Vinculin/alpha-actinin	component>
+TNS1	ECM/Integrin-alpha/Integrin-betaTalin/Calpain1/actin (active1)/p130cas/FAK/CSK/Paxillin/Vinculin/alp	component>
+ITGB1	ECM/Integrin-alpha/Integrin-betaTalin/Calpain1/actin/p130cas/FAK/CSK/Paxillin/Vinculin/alpha-actinin	component>
+ITGB1	ECM/Integrin-alpha/Integrin-betaTalin/Calpain1/actin (active1)/p130cas/FAK/CSK/Paxillin/Vinculin/alp	component>
+SRC	SRC	-a>
+SRC	ARHGAP5	ACTIVATION
+ECM/Integrin-alpha/Integrin-betaTalin/Calpain1/actin/p130cas/FAK/CSK/Paxillin/Vinculin/alpha-actinin	SRC	ACTIVATION
+ECM/Integrin-alpha/Integrin-betaTalin/Calpain1/actin/p130cas/FAK/CSK/Paxillin/Vinculin/alpha-actinin	PI3K	ACTIVATION
+DIAPH1	Rho-Kinase Dia/Profilin	component>
+DIAPH1	DIAPH1	-a>
+PIP2	IP3	-a>
+PIP2	DAG	-a>
+PIP2	PIP2/Gelsolin	component>
+PIP2	PIP3	-a>
+VCL	ECM/Integrin-alpha/Integrin-betaTalin/Calpain1/actin/p130cas/FAK/CSK/Paxillin/Vinculin/alpha-actinin	component>
+VCL	ECM/Integrin-alpha/Integrin-betaTalin/Calpain1/actin (active1)/p130cas/FAK/CSK/Paxillin/Vinculin/alp	component>
+PIK3R1	PI3K	component>
+Rho-Kinase Dia/Profilin	None	ACTIVATION
+RHOA	RHOA	-a>
+RHOA	DIAPH1	ACTIVATION
+RHOA	ROCK1	ACTIVATION
+BCAR1	ECM/Integrin-alpha/Integrin-betaTalin/Calpain1/actin/p130cas/FAK/CSK/Paxillin/Vinculin/alpha-actinin	component>
+BCAR1	ECM/Integrin-alpha/Integrin-betaTalin/Calpain1/actin (active1)/p130cas/FAK/CSK/Paxillin/Vinculin/alp	component>
+ECM/Integrin-alpha/Integrin-betaTalin/Calpain1/actin (active1)/p130cas/FAK/CSK/Paxillin/Vinculin/alp	None	ACTIVATION
+ROCK1	MLC1	ACTIVATION
+ROCK1	ROCK1	-a>
+PLCG1	DAG	ACTIVATION
+PFN1	Rho-Kinase Dia/Profilin	component>
+MLC1	None	ACTIVATION
+MLC1	MLC1	-a>
+PIP2/Gelsolin	None	ACTIVATION
+alpha-actinin	ECM/Integrin-alpha/Integrin-betaTalin/Calpain1/actin/p130cas/FAK/CSK/Paxillin/Vinculin/alpha-actinin	component>
+alpha-actinin	ECM/Integrin-alpha/Integrin-betaTalin/Calpain1/actin (active1)/p130cas/FAK/CSK/Paxillin/Vinculin/alp	component>

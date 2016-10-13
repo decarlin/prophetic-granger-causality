@@ -1,0 +1,80 @@
+SmallMolecule	1-Phosphatidyl-1D-myo-inositol 4,5-bisphosphate
+family	AKT
+protein	AKT1
+protein	AKT2
+protein	AKT3
+complex	AKT:PIP3
+family	Active AKT
+SmallMolecule	Adenosine triphosphate
+PhysicalEntity	B7-1 homodimer/ B7-2
+protein	CD28
+complex	CD28:PI3K
+protein	FYN
+SmallMolecule	H3adp
+protein	LCK
+family	LCK, FYN
+protein	MAP3K14
+protein	MAP3K8
+protein	PDPK1
+complex	PDPK1:PIP3
+complex	PI3K alpha
+family	PI3K-regulatory subunits
+protein	PIK3CA
+protein	PIK3R1
+protein	PIK3R2
+protein	PIK3R3
+complex	Phospho CD28 homodimer
+SmallMolecule	PtsIns-3,4,5-P3
+family	p-S-AKT
+complex	p-S-AKT:PDPK1:PIP3
+complex	p-S-AKT:PIP3
+complex	phospho CD28:B7-1/B7-2
+Phospho CD28 homodimer	phospho CD28:B7-1/B7-2	component>
+phospho CD28:B7-1/B7-2	CD28:PI3K	component>
+FYN	LCK, FYN	member>
+AKT	AKT:PIP3	-a>
+AKT	AKT:PIP3	component>
+AKT1	p-S-AKT	member>
+AKT1	Active AKT	member>
+AKT1	AKT	member>
+AKT2	p-S-AKT	member>
+AKT2	Active AKT	member>
+AKT2	AKT	member>
+AKT3	p-S-AKT	member>
+AKT3	Active AKT	member>
+AKT3	AKT	member>
+PDPK1:PIP3	p-S-AKT:PDPK1:PIP3	component>
+1-Phosphatidyl-1D-myo-inositol 4,5-bisphosphate	H3adp	-a>
+1-Phosphatidyl-1D-myo-inositol 4,5-bisphosphate	PtsIns-3,4,5-P3	-a>
+MAP3K8	H3adp	-a>
+MAP3K8	MAP3K8	-a>
+PIK3CA	PI3K alpha	component>
+LCK, FYN	phospho CD28:B7-1/B7-2	component>
+Adenosine triphosphate	MAP3K8	-a>
+Adenosine triphosphate	Active AKT	-a>
+Adenosine triphosphate	MAP3K14	-a>
+Adenosine triphosphate	PtsIns-3,4,5-P3	-a>
+Adenosine triphosphate	PDPK1:PIP3	-a>
+Adenosine triphosphate	H3adp	-a>
+Adenosine triphosphate	p-S-AKT:PIP3	-a>
+PIK3R3	PI3K-regulatory subunits	member>
+PtsIns-3,4,5-P3	AKT:PIP3	component>
+PtsIns-3,4,5-P3	p-S-AKT:PIP3	component>
+PtsIns-3,4,5-P3	PDPK1:PIP3	component>
+PIK3R1	PI3K-regulatory subunits	member>
+B7-1 homodimer/ B7-2	phospho CD28:B7-1/B7-2	component>
+PIK3R2	PI3K-regulatory subunits	member>
+PI3K-regulatory subunits	PI3K alpha	component>
+CD28	Phospho CD28 homodimer	component>
+AKT:PIP3	H3adp	-a>
+AKT:PIP3	p-S-AKT:PIP3	-a>
+p-S-AKT	p-S-AKT:PIP3	component>
+PI3K alpha	CD28:PI3K	component>
+p-S-AKT:PIP3	p-S-AKT:PDPK1:PIP3	component>
+MAP3K14	H3adp	-a>
+MAP3K14	MAP3K14	-a>
+p-S-AKT:PDPK1:PIP3	H3adp	-a>
+p-S-AKT:PDPK1:PIP3	Active AKT	-a>
+p-S-AKT:PDPK1:PIP3	PDPK1:PIP3	-a>
+PDPK1	PDPK1:PIP3	component>
+LCK	LCK, FYN	member>

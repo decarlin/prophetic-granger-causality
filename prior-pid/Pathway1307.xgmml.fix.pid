@@ -1,0 +1,145 @@
+complex	Active PDGF dimers (AA, AB, BB)
+SmallMolecule	Adenosine triphosphate
+protein	BCAR1
+protein	CRK
+family	CRK, CRKL
+protein	CRKL
+protein	GRB2
+complex	GRB2:SOS1
+protein	GRB7
+SmallMolecule	H3adp
+SmallMolecule	H4gtp
+protein	HRAS
+protein	KRAS
+family	NCK
+protein	NCK1
+protein	NCK2
+protein	NRAS
+complex	PDGF B homodimer
+complex	PDGF:Phospho-PDGF receptor dimer
+complex	PDGF:Phospho-PDGF receptor dimer:Crk
+complex	PDGF:Phospho-PDGF receptor dimer:Crk:p130Cas:C3G
+complex	PDGF:Phospho-PDGF receptor dimer:Grb2:Sos1
+complex	PDGF:Phospho-PDGF receptor dimer:Grb7
+complex	PDGF:Phospho-PDGF receptor dimer:PI3K
+complex	PDGF:Phospho-PDGF receptor dimer:PLC-gamma
+complex	PDGF:Phospho-PDGF receptor dimer:SHP2
+complex	PDGF:Phospho-PDGF receptor dimer:Src
+complex	PDGF:Phospho-PDGF receptor dimer:phospho-Src
+complex	PDGF:Phospho-PDGFR receptor dimer:Nck
+complex	PDGF:p-PDGFR dimer:p-PLCgamma
+complex	PDGF:phospho-PDGF receptor dimer:STAT
+protein	PDGFB
+protein	PDGFRB
+complex	PI3K
+family	PI3K-catalytic subunit
+family	PI3K-regulatory subunit
+protein	PIK3CA
+protein	PIK3CB
+protein	PIK3R1
+protein	PIK3R2
+protein	PLCG1
+protein	PTPN11
+SmallMolecule	Phosphatidylinositol-4,5-bisphosphate
+complex	Phospho PDGF beta receptor: PDGF chain B homodimer
+complex	Phospho- PDGF receptor dimer
+complex	Phospho-beta receptor homodimer
+complex	Phospho-beta receptor homodimer:GAP
+family	Processed PDGF-B
+SmallMolecule	PtsIns-3,4,5-P3
+protein	RAPGEF1
+protein	RASA1
+protein	SOS1
+protein	SRC
+family	STAT family members
+protein	STAT1
+protein	STAT3
+protein	STAT5A
+protein	STAT5B
+protein	STAT6
+SmallMolecule	guanosine 5'-(trihydrogen diphosphate)
+family	p21 RAS
+complex	p21 RAS:GDP
+complex	p21 RAS:GTP
+PDGF:Phospho-PDGF receptor dimer	PDGF:Phospho-PDGF receptor dimer:PLC-gamma	-a>
+PDGF:Phospho-PDGF receptor dimer	PDGF:Phospho-PDGF receptor dimer:SHP2	-a>
+PDGF:Phospho-PDGF receptor dimer	PDGF:Phospho-PDGF receptor dimer:Src	-a>
+PDGF:Phospho-PDGF receptor dimer	PDGF:p-PDGFR dimer:p-PLCgamma	component>
+PDGF:Phospho-PDGF receptor dimer	PDGF:phospho-PDGF receptor dimer:STAT	component>
+PDGF:Phospho-PDGF receptor dimer	PDGF:Phospho-PDGF receptor dimer:Crk	component>
+PDGF:Phospho-PDGF receptor dimer	PDGF:Phospho-PDGF receptor dimer:Grb7	component>
+PDGF:Phospho-PDGF receptor dimer	PDGF:Phospho-PDGFR receptor dimer:Nck	component>
+PDGF:Phospho-PDGF receptor dimer	PDGF:Phospho-PDGF receptor dimer:Grb2:Sos1	-a>
+PDGF:Phospho-PDGF receptor dimer	PDGF:Phospho-PDGF receptor dimer:PI3K	-a>
+PDGF:Phospho-PDGF receptor dimer:PLC-gamma	PDGF:p-PDGFR dimer:p-PLCgamma	-a>
+CRKL	CRK, CRKL	member>
+PDGFRB	Phospho-beta receptor homodimer	component>
+PDGF:p-PDGFR dimer:p-PLCgamma	PDGF:Phospho-PDGF receptor dimer	-a>
+PDGF:p-PDGFR dimer:p-PLCgamma	PLCG1	-a>
+p21 RAS:GDP	p21 RAS:GTP	-a>
+p21 RAS:GDP	guanosine 5'-(trihydrogen diphosphate)	-a>
+PLCG1	PDGF:Phospho-PDGF receptor dimer:PLC-gamma	component>
+PLCG1	PDGF:p-PDGFR dimer:p-PLCgamma	component>
+RAPGEF1	PDGF:Phospho-PDGF receptor dimer:Crk:p130Cas:C3G	component>
+PI3K-regulatory subunit	PI3K	component>
+STAT6	STAT family members	member>
+H4gtp	p21 RAS:GTP	component>
+H4gtp	guanosine 5'-(trihydrogen diphosphate)	-a>
+STAT3	STAT family members	member>
+STAT1	STAT family members	member>
+PIK3CA	PI3K-catalytic subunit	member>
+PIK3CB	PI3K-catalytic subunit	member>
+NRAS	p21 RAS	member>
+STAT5A	STAT family members	member>
+Adenosine triphosphate	H3adp	-a>
+Adenosine triphosphate	PDGF:Phospho-PDGF receptor dimer:phospho-Src	-a>
+Adenosine triphosphate	PtsIns-3,4,5-P3	-a>
+STAT family members	PDGF:phospho-PDGF receptor dimer:STAT	component>
+PDGF:Phospho-PDGF receptor dimer:Crk	PDGF:Phospho-PDGF receptor dimer:Crk:p130Cas:C3G	component>
+GRB2	GRB2:SOS1	component>
+PIK3R2	PI3K-regulatory subunit	member>
+PIK3R1	PI3K-regulatory subunit	member>
+Phospho- PDGF receptor dimer	PDGF:Phospho-PDGF receptor dimer	component>
+Phospho- PDGF receptor dimer	PDGF:Phospho-PDGF receptor dimer:PLC-gamma	component>
+Phospho- PDGF receptor dimer	PDGF:Phospho-PDGF receptor dimer:phospho-Src	component>
+Phospho- PDGF receptor dimer	PDGF:Phospho-PDGF receptor dimer:SHP2	component>
+Phospho- PDGF receptor dimer	PDGF:Phospho-PDGF receptor dimer:Src	component>
+Phospho- PDGF receptor dimer	PDGF:Phospho-PDGF receptor dimer:Grb2:Sos1	component>
+Phospho- PDGF receptor dimer	PDGF:Phospho-PDGF receptor dimer:PI3K	component>
+KRAS	p21 RAS	member>
+Active PDGF dimers (AA, AB, BB)	PDGF:Phospho-PDGF receptor dimer	component>
+Active PDGF dimers (AA, AB, BB)	PDGF:Phospho-PDGF receptor dimer:PLC-gamma	component>
+Active PDGF dimers (AA, AB, BB)	PDGF:Phospho-PDGF receptor dimer:phospho-Src	component>
+Active PDGF dimers (AA, AB, BB)	PDGF:Phospho-PDGF receptor dimer:SHP2	component>
+Active PDGF dimers (AA, AB, BB)	PDGF:Phospho-PDGF receptor dimer:Src	component>
+Active PDGF dimers (AA, AB, BB)	PDGF:Phospho-PDGF receptor dimer:Grb2:Sos1	component>
+Active PDGF dimers (AA, AB, BB)	PDGF:Phospho-PDGF receptor dimer:PI3K	component>
+HRAS	p21 RAS	member>
+SRC	PDGF:Phospho-PDGF receptor dimer:Src	component>
+SRC	PDGF:Phospho-PDGF receptor dimer:phospho-Src	component>
+PDGFB	Processed PDGF-B	member>
+p21 RAS	p21 RAS:GDP	component>
+p21 RAS	p21 RAS:GTP	component>
+Phosphatidylinositol-4,5-bisphosphate	H3adp	-a>
+Phosphatidylinositol-4,5-bisphosphate	PtsIns-3,4,5-P3	-a>
+PI3K	PDGF:Phospho-PDGF receptor dimer:PI3K	component>
+Phospho-beta receptor homodimer	Phospho PDGF beta receptor: PDGF chain B homodimer	component>
+PI3K-catalytic subunit	PI3K	component>
+PDGF B homodimer	Phospho PDGF beta receptor: PDGF chain B homodimer	component>
+GRB2:SOS1	PDGF:Phospho-PDGF receptor dimer:Grb2:Sos1	component>
+Processed PDGF-B	PDGF B homodimer	component>
+NCK2	NCK	member>
+CRK	CRK, CRKL	member>
+BCAR1	PDGF:Phospho-PDGF receptor dimer:Crk:p130Cas:C3G	component>
+RASA1	Phospho-beta receptor homodimer:GAP	component>
+NCK1	NCK	member>
+SOS1	GRB2:SOS1	component>
+guanosine 5'-(trihydrogen diphosphate)	p21 RAS:GDP	component>
+PTPN11	PDGF:Phospho-PDGF receptor dimer:SHP2	component>
+Phospho PDGF beta receptor: PDGF chain B homodimer	Phospho-beta receptor homodimer:GAP	component>
+CRK, CRKL	PDGF:Phospho-PDGF receptor dimer:Crk	component>
+STAT5B	STAT family members	member>
+NCK	PDGF:Phospho-PDGFR receptor dimer:Nck	component>
+GRB7	PDGF:Phospho-PDGF receptor dimer:Grb7	component>
+PDGF:Phospho-PDGF receptor dimer:Src	H3adp	-a>
+PDGF:Phospho-PDGF receptor dimer:Src	PDGF:Phospho-PDGF receptor dimer:phospho-Src	-a>

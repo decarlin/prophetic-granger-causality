@@ -1,0 +1,70 @@
+protein	ATF2
+complex	ATF2 (dimer)
+complex	ATF2 (dimer)/ER alpha
+complex	ATF2/BRCA1/Oct-1/Neurofibromin
+complex	ATF2/CREB1
+complex	ATF2/JDP2
+complex	ATF2/JUN/ER alpha
+complex	ATF2/JUNB
+complex	ATF2/JUND
+complex	ATF2/JUND/macroH2A
+complex	ATF2/TIP49B
+complex	ATF2/p300
+protein	BRCA1
+protein	CREB1
+protein	CUL3
+protein	EP300
+protein	ESR1
+protein	Erk1-2-active
+protein	H2AFY
+protein	JDP2
+protein	JUN
+complex	JUN/ATF2
+protein	JUNB
+protein	JUND
+protein	KAT5
+protein	MAPK14
+protein	MAPK8
+protein	MAPK9
+protein	NF1
+protein	POU2F1
+protein	PRKCA
+protein	RUVBL2
+protein	p38alpha-beta-active
+Erk1-2-active	ATF2	ACTIVATION
+JUNB	ATF2/JUNB	component>
+JUND	ATF2/JUND	component>
+JUND	ATF2/JUND/macroH2A	component>
+KAT5	KAT5	-a>
+MAPK14	ATF2	ACTIVATION
+RUVBL2	ATF2/TIP49B	component>
+JUN	ATF2/JUN/ER alpha	component>
+JUN	JUN/ATF2	component>
+NF1	ATF2/BRCA1/Oct-1/Neurofibromin	component>
+MAPK8	ATF2	ACTIVATION
+MAPK9	ATF2	ACTIVATION
+CUL3	KAT5	ACTIVATION
+BRCA1	ATF2/BRCA1/Oct-1/Neurofibromin	component>
+p38alpha-beta-active	ATF2	ACTIVATION
+PRKCA	ATF2	ACTIVATION
+CREB1	ATF2/CREB1	component>
+EP300	ATF2/p300	component>
+ESR1	ATF2 (dimer)/ER alpha	component>
+ESR1	ATF2/JUN/ER alpha	component>
+JDP2	ATF2/JDP2	component>
+H2AFY	ATF2/JUND/macroH2A	component>
+POU2F1	ATF2/BRCA1/Oct-1/Neurofibromin	component>
+ATF2	ATF2/CREB1	component>
+ATF2	ATF2/JUN/ER alpha	component>
+ATF2	ATF2/TIP49B	component>
+ATF2	ATF2/BRCA1/Oct-1/Neurofibromin	component>
+ATF2	ATF2/JUND/macroH2A	component>
+ATF2	ATF2/JUNB	component>
+ATF2	ATF2 (dimer)/ER alpha	component>
+ATF2	KAT5	ACTIVATION
+ATF2	ATF2/JUND	component>
+ATF2	JUN/ATF2	component>
+ATF2	ATF2/JDP2	component>
+ATF2	ATF2 (dimer)	component>
+ATF2	ATF2/p300	component>
+ATF2	ATF2	-a>

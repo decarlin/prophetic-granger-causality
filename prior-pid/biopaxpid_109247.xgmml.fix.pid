@@ -1,0 +1,79 @@
+protein	ABL1
+protein	ATM
+protein	ATR
+protein	CCND1
+protein	CCNE1
+protein	CDC25A
+protein	CDK2
+protein	CDK4
+protein	CDK6
+protein	CDKN1A
+protein	CDKN1B
+protein	CDKN2B
+complex	CYCLIN D1/CDK4/CDK6
+complex	Cyclin E/CDK2
+complex	E2F-1/DP-1
+protein	E2F1
+protein	GSK3B
+protein	HDAC1
+protein	None
+complex	RB/HDAC/ABL/E2F-1/DP-1
+protein	RB1
+protein	SKP2
+protein	SMAD3
+complex	SMAD3/SMAD4
+protein	SMAD4
+protein	TFDP1
+protein	TGFB1
+protein	TP53
+protein	http://pid.nci.nih.gov/biopaxpid_109285
+protein	http://pid.nci.nih.gov/biopaxpid_109329
+protein	http://pid.nci.nih.gov/biopaxpid_109334
+protein	http://pid.nci.nih.gov/biopaxpid_109373
+protein	p14arf
+HDAC1	RB/HDAC/ABL/E2F-1/DP-1	component>
+TGFB1	SMAD3/SMAD4	ACTIVATION
+SMAD4	SMAD3/SMAD4	component>
+CDKN1B	Cyclin E/CDK2	ACTIVATION
+RB/HDAC/ABL/E2F-1/DP-1	E2F-1/DP-1	-a>
+ATM	ATM	-a>
+ATM	TP53	ACTIVATION
+SMAD3	SMAD3/SMAD4	component>
+ATR	TP53	ACTIVATION
+ATR	ATR	-a>
+ABL1	RB/HDAC/ABL/E2F-1/DP-1	component>
+CYCLIN D1/CDK4/CDK6	E2F-1/DP-1	ACTIVATION
+CYCLIN D1/CDK4/CDK6	CYCLIN D1/CDK4/CDK6	-a>
+SKP2	None	ACTIVATION
+CCNE1	Cyclin E/CDK2	component>
+RB1	RB/HDAC/ABL/E2F-1/DP-1	component>
+p14arf	CYCLIN D1/CDK4/CDK6	ACTIVATION
+CDKN1A	CDKN1A	-a>
+CDKN1A	Cyclin E/CDK2	ACTIVATION
+Cyclin E/CDK2	CDC25A	ACTIVATION
+Cyclin E/CDK2	CDKN1A	ACTIVATION
+Cyclin E/CDK2	E2F-1/DP-1	ACTIVATION
+Cyclin E/CDK2	Cyclin E/CDK2	-a>
+CDKN2B	CYCLIN D1/CDK4/CDK6	ACTIVATION
+None	http://pid.nci.nih.gov/biopaxpid_109373	ACTIVATION
+None	http://pid.nci.nih.gov/biopaxpid_109285	ACTIVATION
+None	ATM	ACTIVATION
+None	GSK3B	ACTIVATION
+None	ATR	ACTIVATION
+None	http://pid.nci.nih.gov/biopaxpid_109329	ACTIVATION
+None	http://pid.nci.nih.gov/biopaxpid_109334	ACTIVATION
+CDC25A	CYCLIN D1/CDK4/CDK6	ACTIVATION
+CDC25A	CDC25A	-a>
+CDC25A	Cyclin E/CDK2	ACTIVATION
+SMAD3/SMAD4	SMAD3/SMAD4	-a>
+TP53	TP53	-a>
+E2F1	RB/HDAC/ABL/E2F-1/DP-1	component>
+E2F1	E2F-1/DP-1	component>
+CCND1	CYCLIN D1/CDK4/CDK6	component>
+GSK3B	CYCLIN D1/CDK4/CDK6	ACTIVATION
+GSK3B	GSK3B	-a>
+CDK2	Cyclin E/CDK2	component>
+CDK4	CYCLIN D1/CDK4/CDK6	component>
+CDK6	CYCLIN D1/CDK4/CDK6	component>
+TFDP1	RB/HDAC/ABL/E2F-1/DP-1	component>
+TFDP1	E2F-1/DP-1	component>

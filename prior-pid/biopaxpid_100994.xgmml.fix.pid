@@ -1,0 +1,32 @@
+complex	ERM/c-JUN
+protein	ETV5
+protein	IL-12
+complex	IL-12/IL-12R/TYK2/JAK2
+protein	IL12RB1
+protein	IL12RB2
+protein	IL18R1
+protein	JAK2
+protein	JUN
+protein	MAP2K6
+protein	MAPK14
+protein	MAPK8
+protein	None
+protein	STAT4
+protein	TYK2
+STAT4	STAT4	-a>
+ETV5	ERM/c-JUN	component>
+ETV5	ETV5	transport
+IL12RB1	IL-12/IL-12R/TYK2/JAK2	component>
+JUN	ERM/c-JUN	component>
+JUN	JUN	transport
+IL12RB2	IL-12/IL-12R/TYK2/JAK2	component>
+IL-12	IL-12/IL-12R/TYK2/JAK2	component>
+IL18R1	None	ACTIVATION
+IL18R1	IL18R1	transport
+MAPK14	MAPK14	-a>
+MAPK14	STAT4	ACTIVATION
+JAK2	IL-12/IL-12R/TYK2/JAK2	component>
+MAP2K6	MAPK14	ACTIVATION
+MAPK8	JUN	ACTIVATION
+TYK2	IL-12/IL-12R/TYK2/JAK2	component>
+IL-12/IL-12R/TYK2/JAK2	STAT4	ACTIVATION

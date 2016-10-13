@@ -1,0 +1,37 @@
+SmallMolecule	1-O-(3-sn-phosphatidyl)-1D-myo-inositol 4,5-bis(dihydrogen phosphate)
+family	AKT
+protein	AKT1
+protein	AKT2
+protein	AKT3
+complex	AKT:PIP3
+complex	AKT:PIP3:THEM4/TRIB3
+family	Active AKT
+SmallMolecule	PtsIns-3,4,5-P3
+protein	THEM4
+family	THEM4/TRIB3
+protein	TRIB3
+SmallMolecule	Wasser
+family	p-T-AKT
+SmallMolecule	tetraoxophosphate(V)
+AKT:PIP3	AKT:PIP3:THEM4/TRIB3	component>
+THEM4	THEM4/TRIB3	member>
+THEM4/TRIB3	AKT:PIP3:THEM4/TRIB3	component>
+Active AKT	tetraoxophosphate(V)	-a>
+Active AKT	p-T-AKT	-a>
+AKT	AKT:PIP3	component>
+AKT1	p-T-AKT	member>
+AKT1	Active AKT	member>
+AKT1	AKT	member>
+AKT2	p-T-AKT	member>
+AKT2	Active AKT	member>
+AKT2	AKT	member>
+AKT3	p-T-AKT	member>
+AKT3	Active AKT	member>
+AKT3	AKT	member>
+PtsIns-3,4,5-P3	AKT:PIP3	component>
+PtsIns-3,4,5-P3	tetraoxophosphate(V)	-a>
+PtsIns-3,4,5-P3	1-O-(3-sn-phosphatidyl)-1D-myo-inositol 4,5-bis(dihydrogen phosphate)	-a>
+TRIB3	THEM4/TRIB3	member>
+Wasser	p-T-AKT	-a>
+Wasser	tetraoxophosphate(V)	-a>
+Wasser	1-O-(3-sn-phosphatidyl)-1D-myo-inositol 4,5-bis(dihydrogen phosphate)	-a>

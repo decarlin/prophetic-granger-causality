@@ -1,0 +1,106 @@
+protein	AC
+protein	AKT1
+protein	CAMKII
+complex	CAMKII/CaM/Ca ++/CaM/Ca ++
+complex	CAMKII/CaM/Ca ++/CaM/Ca ++/CaM/Ca ++/CaM/Ca ++
+complex	CREB/CREB
+protein	CREB1
+protein	CaM
+complex	CaM/Ca ++
+SmallMolecule	DAG
+protein	ERK1/ERK2
+protein	G-alpha-S
+protein	GF
+protein	GF R
+complex	GF/GF R
+protein	GPCR
+protein	GRB2
+protein	HRAS
+protein	MAPK14
+protein	NT (neurotransmitter)
+complex	NT/GPCR/AC/G-alpha-s
+protein	PDPK1
+complex	PI3K
+protein	PIK3CA
+protein	PIK3R1
+SmallMolecule	PIP2
+SmallMolecule	PIP3
+complex	PKA
+protein	PKC
+protein	PRKACB
+protein	PRKACG
+protein	PRKAR1A
+protein	PRKAR1B
+protein	PRKAR2A
+protein	PRKAR2B
+protein	RPS6KA1
+protein	RPS6KA5
+complex	SHC/GRB2/SOS-1
+protein	SHC1
+protein	SOS1
+SmallMolecule	adenosine 3',5'-phosphate
+SmallMolecule	adenosine 5'-triphosphate
+SmallMolecule	calcium
+SmallMolecule	guanosine 5'-diphosphate
+SmallMolecule	guanosine 5'-triphosphate
+CAMKII/CaM/Ca ++/CaM/Ca ++/CaM/Ca ++/CaM/Ca ++	CAMKII/CaM/Ca ++/CaM/Ca ++/CaM/Ca ++/CaM/Ca ++	-a>
+CAMKII/CaM/Ca ++/CaM/Ca ++/CaM/Ca ++/CaM/Ca ++	CREB/CREB	ACTIVATION
+HRAS	HRAS	-a>
+HRAS	guanosine 5'-diphosphate	-a>
+PRKAR2A	PKA	component>
+AKT1	AKT1	-a>
+AKT1	CREB/CREB	ACTIVATION
+PRKAR2B	PKA	component>
+SHC/GRB2/SOS-1	guanosine 5'-diphosphate	ACTIVATION
+SHC/GRB2/SOS-1	SHC/GRB2/SOS-1	-a>
+G-alpha-S	NT/GPCR/AC/G-alpha-s	component>
+NT (neurotransmitter)	NT/GPCR/AC/G-alpha-s	component>
+MAPK14	RPS6KA5	ACTIVATION
+NT/GPCR/AC/G-alpha-s	adenosine 3',5'-phosphate	ACTIVATION
+DAG	PKC	ACTIVATION
+adenosine 5'-triphosphate	adenosine 3',5'-phosphate	-a>
+PIK3CA	PI3K	component>
+PIP2	PIP3	-a>
+CREB/CREB	CREB/CREB	-a>
+ERK1/ERK2	RPS6KA1	ACTIVATION
+PKC	PKC	-a>
+PKC	HRAS	ACTIVATION
+GPCR	NT/GPCR/AC/G-alpha-s	component>
+PKA	PKA	-a>
+PKA	CREB/CREB	ACTIVATION
+PIK3R1	PI3K	component>
+guanosine 5'-triphosphate	HRAS	-a>
+guanosine 5'-triphosphate	guanosine 5'-diphosphate	-a>
+AC	NT/GPCR/AC/G-alpha-s	component>
+SHC1	SHC/GRB2/SOS-1	component>
+PIP3	PDPK1	ACTIVATION
+PI3K	PIP3	ACTIVATION
+PI3K	PI3K	-a>
+CREB1	CREB/CREB	component>
+GF	GF/GF R	component>
+PRKAR1A	PKA	component>
+PRKAR1B	PKA	component>
+GF/GF R	SHC/GRB2/SOS-1	ACTIVATION
+GF/GF R	PI3K	ACTIVATION
+GF R	GF/GF R	component>
+RPS6KA1	RPS6KA1	-a>
+RPS6KA1	CREB/CREB	ACTIVATION
+adenosine 3',5'-phosphate	PKA	ACTIVATION
+RPS6KA5	RPS6KA5	-a>
+RPS6KA5	CREB/CREB	ACTIVATION
+SOS1	SHC/GRB2/SOS-1	component>
+CAMKII	CAMKII/CaM/Ca ++/CaM/Ca ++	component>
+CAMKII	CAMKII/CaM/Ca ++/CaM/Ca ++/CaM/Ca ++/CaM/Ca ++	component>
+calcium	CAMKII/CaM/Ca ++/CaM/Ca ++	component>
+calcium	PKC	ACTIVATION
+calcium	CaM/Ca ++	component>
+calcium	CAMKII/CaM/Ca ++/CaM/Ca ++/CaM/Ca ++/CaM/Ca ++	component>
+calcium	calcium	transport
+PRKACG	PKA	component>
+GRB2	SHC/GRB2/SOS-1	component>
+CaM	CAMKII/CaM/Ca ++/CaM/Ca ++	component>
+CaM	CAMKII/CaM/Ca ++/CaM/Ca ++/CaM/Ca ++/CaM/Ca ++	component>
+CaM	CaM/Ca ++	component>
+PRKACB	PKA	component>
+PDPK1	PDPK1	-a>
+PDPK1	AKT1	ACTIVATION

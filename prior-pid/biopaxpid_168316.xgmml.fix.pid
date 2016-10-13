@@ -1,0 +1,187 @@
+protein	AKT1
+protein	BCL6
+protein	CBL
+protein	DOK2
+protein	ETS1
+protein	FES
+protein	GRB2
+protein	IL13RA1
+protein	IL2RG
+protein	IL4
+complex	IL4/IL4R/JAK1
+complex	IL4/IL4R/JAK1/IL13RA1/JAK2
+complex	IL4/IL4R/JAK1/IL2R gamma/JAK3
+complex	IL4/IL4R/JAK1/IL2R gamma/JAK3/Dok-R
+complex	IL4/IL4R/JAK1/IL2R gamma/JAK3/FES
+complex	IL4/IL4R/JAK1/IL2R gamma/JAK3/FES/IRS2
+complex	IL4/IL4R/JAK1/IL2R gamma/JAK3/IRS1
+complex	IL4/IL4R/JAK1/IL2R gamma/JAK3/SHC/SHIP
+complex	IL4/IL4R/JAK1/IL2R gamma/JAK3/SHC/SHIP/GRB2
+complex	IL4/IL4R/JAK1/IL2R gamma/JAK3/SHIP
+complex	IL4/IL4R/JAK1/IL2R gamma/JAK3/SHP1
+protein	IL4R
+protein	INPP5D
+protein	IRS1
+protein	IRS2
+protein	JAK1
+protein	JAK2
+protein	JAK3
+protein	MAPK14
+protein	MTOR
+protein	None
+SmallMolecule	PI-3-4-5-P3
+SmallMolecule	PI-4-5-P2
+complex	PI3K
+protein	PIK3CA
+protein	PIK3R1
+protein	PTPN6
+protein	RPS6KB1
+protein	SHC1
+protein	SOCS1
+protein	SOCS5
+complex	STAT5 (dimer)-active
+protein	STAT6
+complex	STAT6 (cleaved dimer)
+complex	STAT6 (dimer)
+complex	STAT6 (dimer)/ETS1
+protein	http://pid.nci.nih.gov/biopaxpid_168317
+protein	http://pid.nci.nih.gov/biopaxpid_168418
+protein	http://pid.nci.nih.gov/biopaxpid_168507
+protein	http://pid.nci.nih.gov/biopaxpid_168513
+protein	http://pid.nci.nih.gov/biopaxpid_168547
+protein	http://pid.nci.nih.gov/biopaxpid_168635
+protein	http://pid.nci.nih.gov/biopaxpid_168654
+protein	http://pid.nci.nih.gov/biopaxpid_168664
+protein	http://pid.nci.nih.gov/biopaxpid_168684
+protein	http://pid.nci.nih.gov/biopaxpid_168709
+protein	http://pid.nci.nih.gov/biopaxpid_168814
+protein	http://pid.nci.nih.gov/biopaxpid_168858
+protein	http://pid.nci.nih.gov/biopaxpid_168892
+protein	http://pid.nci.nih.gov/biopaxpid_168902
+protein	http://pid.nci.nih.gov/biopaxpid_168906
+protein	http://pid.nci.nih.gov/biopaxpid_168941
+PI-4-5-P2	PI-3-4-5-P3	-a>
+PI-3-4-5-P3	AKT1	ACTIVATION
+PI-3-4-5-P3	MTOR	ACTIVATION
+MAPK14	MAPK14	-a>
+AKT1	AKT1	transport
+IRS2	IL4/IL4R/JAK1/IL2R gamma/JAK3/FES/IRS2	component>
+IL4R	IL4/IL4R/JAK1/IL2R gamma/JAK3/SHC/SHIP	component>
+IL4R	IL4/IL4R/JAK1/IL2R gamma/JAK3/Dok-R	component>
+IL4R	IL4/IL4R/JAK1	component>
+IL4R	IL4/IL4R/JAK1/IL2R gamma/JAK3/FES	component>
+IL4R	IL4/IL4R/JAK1/IL2R gamma/JAK3/SHIP	component>
+IL4R	IL4/IL4R/JAK1/IL2R gamma/JAK3/SHP1	component>
+IL4R	IL4/IL4R/JAK1/IL2R gamma/JAK3/IRS1	component>
+IL4R	IL4/IL4R/JAK1/IL13RA1/JAK2	component>
+IL4R	IL4/IL4R/JAK1/IL2R gamma/JAK3/SHC/SHIP/GRB2	component>
+IL4R	IL4/IL4R/JAK1/IL2R gamma/JAK3/FES/IRS2	component>
+IL4R	IL4/IL4R/JAK1/IL2R gamma/JAK3	component>
+STAT6	STAT6 (dimer)	component>
+STAT6	STAT6 (dimer)/ETS1	component>
+STAT6	STAT6	-a>
+STAT6	STAT6 (cleaved dimer)	component>
+DOK2	IL4/IL4R/JAK1/IL2R gamma/JAK3/Dok-R	component>
+IL4/IL4R/JAK1/IL2R gamma/JAK3	STAT6	ACTIVATION
+IL4/IL4R/JAK1/IL2R gamma/JAK3	STAT6 (dimer)/ETS1	ACTIVATION
+IL4/IL4R/JAK1/IL2R gamma/JAK3	STAT6 (cleaved dimer)	ACTIVATION
+IL4/IL4R/JAK1/IL2R gamma/JAK3	CBL	ACTIVATION
+IL4/IL4R/JAK1/IL2R gamma/JAK3	MAPK14	ACTIVATION
+IL4/IL4R/JAK1/IL2R gamma/JAK3	STAT5 (dimer)-active	ACTIVATION
+IL4/IL4R/JAK1/IL2R gamma/JAK3/FES/IRS2	None	ACTIVATION
+IL4/IL4R/JAK1/IL2R gamma/JAK3/FES/IRS2	PI3K	ACTIVATION
+IL4/IL4R/JAK1/IL2R gamma/JAK3/SHP1	STAT6	INHIBITION
+IL4/IL4R/JAK1/IL2R gamma/JAK3/SHP1	PI3K	ACTIVATION
+RPS6KB1	RPS6KB1	transport
+IL4/IL4R/JAK1/IL2R gamma/JAK3/IRS1	PI3K	ACTIVATION
+STAT6 (dimer)	STAT6 (dimer)	transport
+STAT6 (dimer)	None	INHIBITION
+STAT6 (dimer)	STAT6 (cleaved dimer)	-a>
+ETS1	STAT6 (dimer)/ETS1	component>
+JAK2	IL4/IL4R/JAK1/IL13RA1/JAK2	component>
+JAK3	IL4/IL4R/JAK1/IL2R gamma/JAK3/SHC/SHIP	component>
+JAK3	IL4/IL4R/JAK1/IL2R gamma/JAK3/Dok-R	component>
+JAK3	IL4/IL4R/JAK1/IL2R gamma/JAK3	component>
+JAK3	IL4/IL4R/JAK1/IL2R gamma/JAK3/FES	component>
+JAK3	IL4/IL4R/JAK1/IL2R gamma/JAK3/SHIP	component>
+JAK3	IL4/IL4R/JAK1/IL2R gamma/JAK3/SHP1	component>
+JAK3	IL4/IL4R/JAK1/IL2R gamma/JAK3/IRS1	component>
+JAK3	IL4/IL4R/JAK1/IL2R gamma/JAK3/SHC/SHIP/GRB2	component>
+JAK3	IL4/IL4R/JAK1/IL2R gamma/JAK3/FES/IRS2	component>
+PIK3R1	PI3K	component>
+IL4/IL4R/JAK1/IL2R gamma/JAK3/SHC/SHIP/GRB2	None	ACTIVATION
+None	http://pid.nci.nih.gov/biopaxpid_168664	ACTIVATION
+None	IL4/IL4R/JAK1/IL2R gamma/JAK3/SHC/SHIP	ACTIVATION
+None	http://pid.nci.nih.gov/biopaxpid_168709	ACTIVATION
+None	http://pid.nci.nih.gov/biopaxpid_168418	ACTIVATION
+None	http://pid.nci.nih.gov/biopaxpid_168892	ACTIVATION
+None	PI3K	ACTIVATION
+None	STAT6 (cleaved dimer)	ACTIVATION
+None	http://pid.nci.nih.gov/biopaxpid_168317	ACTIVATION
+None	None	ACTIVATION
+None	http://pid.nci.nih.gov/biopaxpid_168635	ACTIVATION
+None	http://pid.nci.nih.gov/biopaxpid_168906	ACTIVATION
+None	http://pid.nci.nih.gov/biopaxpid_168684	ACTIVATION
+None	STAT5 (dimer)-active	ACTIVATION
+None	http://pid.nci.nih.gov/biopaxpid_168902	ACTIVATION
+None	http://pid.nci.nih.gov/biopaxpid_168858	ACTIVATION
+None	http://pid.nci.nih.gov/biopaxpid_168814	ACTIVATION
+None	http://pid.nci.nih.gov/biopaxpid_168507	ACTIVATION
+None	http://pid.nci.nih.gov/biopaxpid_168654	ACTIVATION
+JAK1	IL4/IL4R/JAK1/IL2R gamma/JAK3/SHC/SHIP	component>
+JAK1	IL4/IL4R/JAK1/IL2R gamma/JAK3/Dok-R	component>
+JAK1	IL4/IL4R/JAK1	component>
+JAK1	IL4/IL4R/JAK1/IL2R gamma/JAK3/FES	component>
+JAK1	IL4/IL4R/JAK1/IL2R gamma/JAK3/SHIP	component>
+JAK1	IL4/IL4R/JAK1/IL2R gamma/JAK3/SHP1	component>
+JAK1	IL4/IL4R/JAK1/IL2R gamma/JAK3/IRS1	component>
+JAK1	IL4/IL4R/JAK1/IL13RA1/JAK2	component>
+JAK1	IL4/IL4R/JAK1/IL2R gamma/JAK3/SHC/SHIP/GRB2	component>
+JAK1	IL4/IL4R/JAK1/IL2R gamma/JAK3/FES/IRS2	component>
+JAK1	IL4/IL4R/JAK1/IL2R gamma/JAK3	component>
+PI3K	AKT1	ACTIVATION
+PI3K	MTOR	ACTIVATION
+PI3K	PI-3-4-5-P3	ACTIVATION
+PI3K	PI3K	-a>
+MTOR	MTOR	-a>
+MTOR	None	ACTIVATION
+MTOR	RPS6KB1	ACTIVATION
+FES	IL4/IL4R/JAK1/IL2R gamma/JAK3/FES	component>
+FES	IL4/IL4R/JAK1/IL2R gamma/JAK3/FES/IRS2	component>
+INPP5D	IL4/IL4R/JAK1/IL2R gamma/JAK3/SHC/SHIP	component>
+INPP5D	IL4/IL4R/JAK1/IL2R gamma/JAK3/SHC/SHIP/GRB2	component>
+INPP5D	IL4/IL4R/JAK1/IL2R gamma/JAK3/SHIP	component>
+PTPN6	IL4/IL4R/JAK1/IL2R gamma/JAK3/SHP1	component>
+SOCS5	IL4/IL4R/JAK1/IL2R gamma/JAK3	INHIBITION
+IL13RA1	IL4/IL4R/JAK1/IL13RA1/JAK2	component>
+SOCS1	IL4/IL4R/JAK1/IL13RA1/JAK2	INHIBITION
+SOCS1	IL4/IL4R/JAK1/IL2R gamma/JAK3	INHIBITION
+IL2RG	IL4/IL4R/JAK1/IL2R gamma/JAK3/SHC/SHIP	component>
+IL2RG	IL4/IL4R/JAK1/IL2R gamma/JAK3/Dok-R	component>
+IL2RG	IL4/IL4R/JAK1/IL2R gamma/JAK3	component>
+IL2RG	IL4/IL4R/JAK1/IL2R gamma/JAK3/FES	component>
+IL2RG	IL4/IL4R/JAK1/IL2R gamma/JAK3/SHIP	component>
+IL2RG	IL4/IL4R/JAK1/IL2R gamma/JAK3/SHP1	component>
+IL2RG	IL4/IL4R/JAK1/IL2R gamma/JAK3/IRS1	component>
+IL2RG	IL4/IL4R/JAK1/IL2R gamma/JAK3/SHC/SHIP/GRB2	component>
+IL2RG	IL4/IL4R/JAK1/IL2R gamma/JAK3/FES/IRS2	component>
+IRS1	IL4/IL4R/JAK1/IL2R gamma/JAK3/IRS1	component>
+CBL	CBL	-a>
+CBL	PI3K	ACTIVATION
+IL4	IL4/IL4R/JAK1/IL2R gamma/JAK3/SHC/SHIP	component>
+IL4	IL4/IL4R/JAK1/IL2R gamma/JAK3/Dok-R	component>
+IL4	IL4/IL4R/JAK1	component>
+IL4	IL4/IL4R/JAK1/IL2R gamma/JAK3/FES	component>
+IL4	IL4/IL4R/JAK1/IL2R gamma/JAK3/SHIP	component>
+IL4	IL4/IL4R/JAK1/IL2R gamma/JAK3/SHP1	component>
+IL4	IL4/IL4R/JAK1/IL2R gamma/JAK3/IRS1	component>
+IL4	IL4/IL4R/JAK1/IL13RA1/JAK2	component>
+IL4	IL4/IL4R/JAK1/IL2R gamma/JAK3/SHC/SHIP/GRB2	component>
+IL4	IL4/IL4R/JAK1/IL2R gamma/JAK3/FES/IRS2	component>
+IL4	IL4/IL4R/JAK1/IL2R gamma/JAK3	component>
+GRB2	IL4/IL4R/JAK1/IL2R gamma/JAK3/SHC/SHIP/GRB2	component>
+IL4/IL4R/JAK1/IL13RA1/JAK2	STAT6	ACTIVATION
+PIK3CA	PI3K	component>
+BCL6	None	INHIBITION
+SHC1	IL4/IL4R/JAK1/IL2R gamma/JAK3/SHC/SHIP	component>
+SHC1	IL4/IL4R/JAK1/IL2R gamma/JAK3/SHC/SHIP/GRB2	component>

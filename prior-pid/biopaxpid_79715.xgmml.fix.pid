@@ -1,0 +1,206 @@
+protein	ABI1
+protein	ABI2
+protein	ACTR2
+protein	ACTR3
+protein	ARHGAP5
+protein	ARPC1B
+protein	ARPC2
+protein	ARPC3
+protein	ARPC4
+protein	ARPC5
+protein	ATF2
+complex	Arp2/3 complex
+protein	BAIAP2
+protein	BCAR1
+protein	BRK1
+protein	CDH1
+protein	CFL1
+protein	CRK
+protein	CTNNA1
+protein	CTNNB1
+protein	CYBA
+protein	CYBB
+protein	CYFIP2
+SmallMolecule	Ca2+
+complex	E-cadherin/Ca2+/beta catenin/alpha catenin
+complex	E-cadherin/beta catenin/IQGAP1
+SmallMolecule	GDP
+SmallMolecule	GTP
+protein	IQGAP1
+protein	IQGAP3
+protein	JUN
+protein	LIMK1
+protein	MAP2K4
+protein	MAP2K7
+protein	MAP3K1
+protein	MAP3K11
+protein	MAPK14
+protein	MAPK9
+protein	MKK3-MKK6
+protein	MKK3-MKK6-active
+protein	NCF1
+protein	NCF2
+protein	NCKAP1
+protein	NOX1
+protein	NOXA1
+protein	NOXO1
+protein	None
+protein	PAK1
+protein	PAK2
+SmallMolecule	PI-3-4-5-P3
+protein	PIP5K1A
+protein	PIP5K1B
+protein	PIP5K1C
+protein	PLCB2
+protein	RAC1
+complex	RAC1/GDP
+complex	RAC1/GTP
+complex	RAC1/GTP/IQGAP1
+complex	RAC1/GTP/NOX1/NOXA1/NOXO1
+protein	RACGAP1
+protein	STAT3
+complex	STAT3 (dimer)-active
+protein	STAT5A
+complex	STAT5A (dimer)-active
+protein	WASF1
+protein	WASF2
+complex	WAVE1/Sra1/Nap1/HSPC300/ABI2
+complex	WAVE2/Nap1/Sra1/ABI1/HSPC300
+complex	p130 CAS/CRK
+complex	p47 Phox/p67 Phox
+complex	p47 Phox/p67 Phox/cytochrome b-245
+complex	p47 Phox/p67 Phox/cytochrome b-245/RAC1/GTP
+NCF2	p47 Phox/p67 Phox/cytochrome b-245	component>
+NCF2	p47 Phox/p67 Phox/cytochrome b-245/RAC1/GTP	component>
+NCF2	p47 Phox/p67 Phox	component>
+NCF1	p47 Phox/p67 Phox/cytochrome b-245	component>
+NCF1	p47 Phox/p67 Phox/cytochrome b-245/RAC1/GTP	component>
+NCF1	p47 Phox/p67 Phox	component>
+p47 Phox/p67 Phox	p47 Phox/p67 Phox	-a>
+CYFIP2	WAVE1/Sra1/Nap1/HSPC300/ABI2	component>
+CYFIP2	WAVE2/Nap1/Sra1/ABI1/HSPC300	component>
+p47 Phox/p67 Phox/cytochrome b-245/RAC1/GTP	None	ACTIVATION
+NOXO1	RAC1/GTP/NOX1/NOXA1/NOXO1	component>
+LIMK1	LIMK1	-a>
+LIMK1	CFL1	ACTIVATION
+None	MAPK9	ACTIVATION
+None	MAP2K7	ACTIVATION
+NOX1	RAC1/GTP/NOX1/NOXA1/NOXO1	component>
+MAP3K11	MAP3K11	transport
+MAP3K11	MAP3K1	ACTIVATION
+MAP2K7	MAPK9	ACTIVATION
+MAP2K7	MAP2K7	-a>
+MAP2K4	MAPK14	ACTIVATION
+MAP2K4	MAP2K4	-a>
+NOXA1	RAC1/GTP/NOX1/NOXA1/NOXO1	component>
+CRK	p130 CAS/CRK	component>
+p130 CAS/CRK	MAP2K4	ACTIVATION
+IQGAP1	RAC1/GTP/IQGAP1	component>
+IQGAP1	Ca2+	-a>
+IQGAP1	E-cadherin/beta catenin/IQGAP1	component>
+IQGAP1	CTNNA1	-a>
+NCKAP1	WAVE1/Sra1/Nap1/HSPC300/ABI2	component>
+NCKAP1	WAVE2/Nap1/Sra1/ABI1/HSPC300	component>
+IQGAP3	None	ACTIVATION
+IQGAP3	IQGAP3	-a>
+RAC1/GTP/IQGAP1	Ca2+	INHIBITION
+WAVE1/Sra1/Nap1/HSPC300/ABI2	WAVE1/Sra1/Nap1/HSPC300/ABI2	transport
+WAVE1/Sra1/Nap1/HSPC300/ABI2	Arp2/3 complex	ACTIVATION
+STAT3	STAT3 (dimer)-active	component>
+WASF1	WAVE1/Sra1/Nap1/HSPC300/ABI2	component>
+WASF2	WAVE2/Nap1/Sra1/ABI1/HSPC300	component>
+Arp2/3 complex	None	ACTIVATION
+Arp2/3 complex	Arp2/3 complex	-a>
+RACGAP1	STAT3 (dimer)-active	ACTIVATION
+RACGAP1	STAT5A (dimer)-active	ACTIVATION
+WAVE2/Nap1/Sra1/ABI1/HSPC300	WAVE2/Nap1/Sra1/ABI1/HSPC300	transport
+WAVE2/Nap1/Sra1/ABI1/HSPC300	Arp2/3 complex	ACTIVATION
+MAP3K1	MAP3K1	-a>
+MAP3K1	MAP2K7	ACTIVATION
+MAP3K1	MAP2K4	ACTIVATION
+JUN	JUN	-a>
+ABI2	WAVE1/Sra1/Nap1/HSPC300/ABI2	component>
+Ca2+	E-cadherin/Ca2+/beta catenin/alpha catenin	component>
+CTNNB1	CTNNB1	transport
+CTNNB1	None	ACTIVATION
+CTNNB1	E-cadherin/beta catenin/IQGAP1	component>
+CTNNB1	E-cadherin/Ca2+/beta catenin/alpha catenin	component>
+MKK3-MKK6-active	MAPK14	ACTIVATION
+MKK3-MKK6	MKK3-MKK6-active	-a>
+CDH1	E-cadherin/beta catenin/IQGAP1	component>
+CDH1	E-cadherin/Ca2+/beta catenin/alpha catenin	component>
+RAC1/GTP	STAT3 (dimer)-active	ACTIVATION
+RAC1/GTP	STAT5A (dimer)-active	ACTIVATION
+RAC1/GTP	PIP5K1C	ACTIVATION
+RAC1/GTP	PLCB2	ACTIVATION
+RAC1/GTP	PIP5K1B	ACTIVATION
+RAC1/GTP	PIP5K1A	ACTIVATION
+RAC1/GTP	None	ACTIVATION
+RAC1/GTP	WAVE1/Sra1/Nap1/HSPC300/ABI2	ACTIVATION
+RAC1/GTP	MAP3K11	ACTIVATION
+RAC1/GTP	WAVE2/Nap1/Sra1/ABI1/HSPC300	ACTIVATION
+RAC1/GTP	ARHGAP5	ACTIVATION
+RAC1/GTP	MAPK9	ACTIVATION
+RAC1/GTP	p130 CAS/CRK	ACTIVATION
+RAC1/GTP	PAK1	ACTIVATION
+RAC1/GTP	PAK2	ACTIVATION
+RAC1/GTP	IQGAP3	ACTIVATION
+MAPK9	CTNNB1	ACTIVATION
+MAPK9	MAPK9	-a>
+MAPK9	ATF2	ACTIVATION
+MAPK14	MAPK14	-a>
+MAPK14	None	ACTIVATION
+MAPK14	JUN	ACTIVATION
+MAPK14	ATF2	ACTIVATION
+PLCB2	PLCB2	-a>
+CYBB	p47 Phox/p67 Phox/cytochrome b-245	component>
+CYBB	p47 Phox/p67 Phox/cytochrome b-245/RAC1/GTP	component>
+RAC1	RAC1/GTP/IQGAP1	component>
+RAC1	RAC1/GDP	component>
+RAC1	RAC1/GTP	component>
+RAC1	p47 Phox/p67 Phox/cytochrome b-245/RAC1/GTP	component>
+RAC1	RAC1/GTP/NOX1/NOXA1/NOXO1	component>
+ARPC3	Arp2/3 complex	component>
+ARPC2	Arp2/3 complex	component>
+RAC1/GTP/NOX1/NOXA1/NOXO1	None	ACTIVATION
+ARPC5	Arp2/3 complex	component>
+ARPC4	Arp2/3 complex	component>
+GTP	RAC1/GTP/IQGAP1	component>
+GTP	RAC1/GTP	component>
+GTP	p47 Phox/p67 Phox/cytochrome b-245/RAC1/GTP	component>
+GTP	RAC1/GTP/NOX1/NOXA1/NOXO1	component>
+CYBA	p47 Phox/p67 Phox/cytochrome b-245	component>
+CYBA	p47 Phox/p67 Phox/cytochrome b-245/RAC1/GTP	component>
+E-cadherin/Ca2+/beta catenin/alpha catenin	Ca2+	-a>
+E-cadherin/Ca2+/beta catenin/alpha catenin	E-cadherin/beta catenin/IQGAP1	-a>
+E-cadherin/Ca2+/beta catenin/alpha catenin	CTNNA1	-a>
+CFL1	None	INHIBITION
+CFL1	CFL1	-a>
+BCAR1	p130 CAS/CRK	component>
+CTNNA1	E-cadherin/Ca2+/beta catenin/alpha catenin	component>
+GDP	RAC1/GDP	component>
+BRK1	WAVE1/Sra1/Nap1/HSPC300/ABI2	component>
+BRK1	WAVE2/Nap1/Sra1/ABI1/HSPC300	component>
+ARHGAP5	ARHGAP5	-a>
+ARHGAP5	None	INHIBITION
+PIP5K1C	PIP5K1C	-a>
+ARPC1B	Arp2/3 complex	component>
+PIP5K1A	None	ACTIVATION
+PIP5K1A	PIP5K1A	-a>
+ABI1	WAVE2/Nap1/Sra1/ABI1/HSPC300	component>
+PI-3-4-5-P3	WAVE1/Sra1/Nap1/HSPC300/ABI2	ACTIVATION
+PI-3-4-5-P3	WAVE2/Nap1/Sra1/ABI1/HSPC300	ACTIVATION
+ACTR2	Arp2/3 complex	component>
+STAT3 (dimer)-active	STAT3 (dimer)-active	transport
+STAT5A	STAT5A (dimer)-active	component>
+PIP5K1B	PIP5K1B	-a>
+STAT5A (dimer)-active	STAT5A (dimer)-active	transport
+BAIAP2	WAVE2/Nap1/Sra1/ABI1/HSPC300	ACTIVATION
+ACTR3	Arp2/3 complex	component>
+PAK1	RAC1/GDP	ACTIVATION
+PAK1	None	ACTIVATION
+PAK1	MKK3-MKK6-active	ACTIVATION
+PAK1	p47 Phox/p67 Phox	ACTIVATION
+PAK1	LIMK1	ACTIVATION
+PAK2	PAK2	-a>
+ATF2	ATF2	-a>

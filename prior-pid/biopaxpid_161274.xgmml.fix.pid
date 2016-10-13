@@ -1,0 +1,103 @@
+complex	26S proteasome
+protein	ATM
+SmallMolecule	Adenosine 5'-diphosphate
+SmallMolecule	Adenosine 5'-triphosphate
+PhysicalEntity	Amino Acid
+protein	CDC25A
+protein	CHEK1
+protein	CHEK2
+protein	PSMA1
+protein	PSMA2
+protein	PSMA3
+protein	PSMA4
+protein	PSMA7
+protein	PSMB1
+protein	PSMB10
+protein	PSMB2
+protein	PSMB3
+protein	PSMB4
+protein	PSMB5
+protein	PSMB6
+protein	PSMB7
+protein	PSMB8
+protein	PSMB9
+protein	PSMC1
+protein	PSMC2
+protein	PSMC3
+protein	PSMC4
+protein	PSMC5
+protein	PSMC6
+protein	PSMD1
+protein	PSMD10
+protein	PSMD11
+protein	PSMD12
+protein	PSMD13
+protein	PSMD14
+protein	PSMD2
+protein	PSMD3
+protein	PSMD4
+protein	PSMD5
+protein	PSMD6
+protein	PSMD7
+protein	PSMD8
+protein	PSMD9
+protein	PSME1
+protein	PSME2
+protein	PSME3
+protein	PSMF1
+PhysicalEntity	Ubiquitin ligase
+complex	Ubiquitinated Phospho-Cdc25A
+protein	UniProt:P62988 RPS27A_subunit_1_76_subunit_1_76
+PSMD9	26S proteasome	component>
+PSMD8	26S proteasome	component>
+PSMB10	26S proteasome	component>
+PSMD5	26S proteasome	component>
+PSMD4	26S proteasome	component>
+PSMF1	26S proteasome	component>
+PSMD6	26S proteasome	component>
+PSMD1	26S proteasome	component>
+PSMD3	26S proteasome	component>
+PSMD2	26S proteasome	component>
+Adenosine 5'-triphosphate	Adenosine 5'-diphosphate	-a>
+Adenosine 5'-triphosphate	CDC25A	-a>
+Adenosine 5'-triphosphate	CHEK1	-a>
+PSMD12	26S proteasome	component>
+PSMA2	26S proteasome	component>
+PSMA3	26S proteasome	component>
+PSMA1	26S proteasome	component>
+UniProt:P62988 RPS27A_subunit_1_76_subunit_1_76	Ubiquitinated Phospho-Cdc25A	component>
+PSMA7	26S proteasome	component>
+PSMA4	26S proteasome	component>
+PSMC1	26S proteasome	component>
+PSMC2	26S proteasome	component>
+PSMC3	26S proteasome	component>
+CHEK2	Adenosine 5'-diphosphate	ACTIVATION
+PSMD7	26S proteasome	component>
+PSMC6	26S proteasome	component>
+CHEK1	Adenosine 5'-diphosphate	-a>
+CHEK1	CDC25A	ACTIVATION
+CHEK1	CHEK1	-a>
+ATM	CHEK1	ACTIVATION
+Ubiquitin ligase	Ubiquitinated Phospho-Cdc25A	ACTIVATION
+CDC25A	Adenosine 5'-diphosphate	-a>
+CDC25A	CDC25A	-a>
+CDC25A	Ubiquitinated Phospho-Cdc25A	component>
+PSME2	26S proteasome	component>
+PSME3	26S proteasome	component>
+PSME1	26S proteasome	component>
+26S proteasome	Amino Acid	ACTIVATION
+PSMD14	26S proteasome	component>
+PSMC4	26S proteasome	component>
+PSMD11	26S proteasome	component>
+PSMD10	26S proteasome	component>
+PSMD13	26S proteasome	component>
+PSMC5	26S proteasome	component>
+PSMB9	26S proteasome	component>
+PSMB8	26S proteasome	component>
+PSMB7	26S proteasome	component>
+PSMB6	26S proteasome	component>
+PSMB5	26S proteasome	component>
+PSMB4	26S proteasome	component>
+PSMB3	26S proteasome	component>
+PSMB2	26S proteasome	component>
+PSMB1	26S proteasome	component>

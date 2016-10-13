@@ -1,0 +1,24 @@
+SmallMolecule	Adenosine 5'-diphosphate
+SmallMolecule	Adenosine 5'-triphosphate
+protein	EEF2K
+protein	EIF4B
+protein	EIF4G1
+protein	RPS6
+protein	RPS6KB1
+EEF2K	Adenosine 5'-diphosphate	-a>
+EEF2K	EEF2K	-a>
+RPS6	Adenosine 5'-diphosphate	-a>
+RPS6	RPS6	-a>
+EIF4G1	Adenosine 5'-diphosphate	-a>
+EIF4G1	EIF4G1	-a>
+RPS6KB1	Adenosine 5'-diphosphate	ACTIVATION
+RPS6KB1	EEF2K	ACTIVATION
+RPS6KB1	EIF4G1	ACTIVATION
+RPS6KB1	EIF4B	ACTIVATION
+Adenosine 5'-triphosphate	Adenosine 5'-diphosphate	-a>
+Adenosine 5'-triphosphate	RPS6	-a>
+Adenosine 5'-triphosphate	EIF4G1	-a>
+Adenosine 5'-triphosphate	EIF4B	-a>
+Adenosine 5'-triphosphate	EEF2K	-a>
+EIF4B	Adenosine 5'-diphosphate	-a>
+EIF4B	EIF4B	-a>

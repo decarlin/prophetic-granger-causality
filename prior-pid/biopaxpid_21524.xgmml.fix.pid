@@ -1,0 +1,161 @@
+protein	AKT1
+protein	BCAR1
+protein	CAPN1
+complex	CAT1/PTP1B
+protein	CAV1
+protein	CDH2
+protein	CRK
+protein	CSF1
+complex	CSF1/CSF1R
+protein	CSF1R
+protein	DOK1
+protein	EGF
+complex	EGF/EGFR
+protein	EGFR
+protein	FCGR2A
+protein	FER
+protein	GRB2
+SmallMolecule	H2O2
+protein	INS
+protein	INSR
+protein	IRS1
+protein	ITGA2B
+protein	ITGB3
+complex	Insulin Receptor/Insulin
+complex	Insulin Receptor/Insulin/IRS1
+protein	JAK2
+complex	Jak2/Leptin Receptor/Leptin
+protein	LAT
+protein	LEP
+protein	LEPR
+SmallMolecule	NADPH
+protein	NOX4
+protein	None
+complex	PDGF-BB/PDGFRB (dimer)
+protein	PDGFB
+protein	PDGFRB
+complex	PI3K
+protein	PIK3CA
+protein	PIK3R1
+protein	PRL
+protein	PRLR
+complex	PTP1B/AKT1
+complex	PTP1B/IRS1/GRB2
+complex	PTP1B/N-cadherin
+complex	PTP1B/p130 Cas
+protein	PTPN1
+complex	Prolactin Receptor/Prolactin
+protein	RHOA
+protein	SOCS3
+protein	SPRY2
+protein	SRC
+protein	STAT3
+complex	STAT3 (dimer )
+protein	STAT5A
+protein	STAT5B
+protein	Src Family Kinases
+protein	TRPV6
+protein	TXN
+complex	alphaIIb/beta3 Integrin
+complex	p130 Cas/Crk
+protein	p210 bcr-abl
+complex	p210 bcr-abl/Grb2
+complex	p210 bcr-abl/PTP1B
+CDH2	PTP1B/N-cadherin	component>
+PTP1B/AKT1	Insulin Receptor/Insulin	INHIBITION
+EGFR	EGF/EGFR	component>
+EGF/EGFR	PTPN1	ACTIVATION
+EGF/EGFR	EGF/EGFR	-a>
+EGF/EGFR	CAV1	ACTIVATION
+INSR	Insulin Receptor/Insulin/IRS1	component>
+INSR	Insulin Receptor/Insulin	component>
+IRS1	PTP1B/IRS1/GRB2	component>
+IRS1	Insulin Receptor/Insulin/IRS1	component>
+AKT1	PTP1B/AKT1	component>
+p210 bcr-abl/PTP1B	None	INHIBITION
+Insulin Receptor/Insulin	PTPN1	ACTIVATION
+Insulin Receptor/Insulin	DOK1	ACTIVATION
+Insulin Receptor/Insulin	PI3K	ACTIVATION
+Insulin Receptor/Insulin	Insulin Receptor/Insulin	-a>
+Insulin Receptor/Insulin	CAV1	ACTIVATION
+CRK	p130 Cas/Crk	component>
+PDGF-BB/PDGFRB (dimer)	PDGF-BB/PDGFRB (dimer)	-a>
+PDGF-BB/PDGFRB (dimer)	DOK1	ACTIVATION
+EGF	EGF/EGFR	component>
+CAV1	CAV1	-a>
+TXN	PTPN1	ACTIVATION
+PIK3CA	PI3K	component>
+H2O2	PTPN1	ACTIVATION
+PRLR	Prolactin Receptor/Prolactin	component>
+PRL	Prolactin Receptor/Prolactin	component>
+CSF1R	CSF1/CSF1R	component>
+Prolactin Receptor/Prolactin	JAK2	ACTIVATION
+PTP1B/p130 Cas	p130 Cas/Crk	INHIBITION
+DOK1	DOK1	-a>
+JAK2	STAT5B	ACTIVATION
+JAK2	STAT5A	ACTIVATION
+JAK2	Jak2/Leptin Receptor/Leptin	component>
+JAK2	JAK2	-a>
+JAK2	None	ACTIVATION
+CAPN1	PTPN1	ACTIVATION
+TRPV6	TRPV6	-a>
+TRPV6	CAT1/PTP1B	component>
+PDGFRB	PDGF-BB/PDGFRB (dimer)	component>
+PDGFB	PDGF-BB/PDGFRB (dimer)	component>
+SRC	SRC	ACTIVATION
+SRC	SRC	-a>
+SRC	CAV1	ACTIVATION
+ITGB3	alphaIIb/beta3 Integrin	component>
+PIK3R1	PI3K	component>
+PI3K	PI3K	-a>
+RHOA	PTPN1	ACTIVATION
+FCGR2A	LAT	ACTIVATION
+NADPH	PTPN1	ACTIVATION
+FER	PTPN1	ACTIVATION
+alphaIIb/beta3 Integrin	PTPN1	ACTIVATION
+Src Family Kinases	TRPV6	ACTIVATION
+STAT3	STAT3 (dimer )	component>
+PTPN1	PTP1B/AKT1	component>
+PTPN1	EGF/EGFR	ACTIVATION
+PTPN1	p210 bcr-abl/PTP1B	component>
+PTPN1	PTP1B/N-cadherin	component>
+PTPN1	Insulin Receptor/Insulin	ACTIVATION
+PTPN1	PDGF-BB/PDGFRB (dimer)	ACTIVATION
+PTPN1	p130 Cas/Crk	ACTIVATION
+PTPN1	PTP1B/p130 Cas	component>
+PTPN1	CAV1	ACTIVATION
+PTPN1	PTP1B/IRS1/GRB2	component>
+PTPN1	DOK1	ACTIVATION
+PTPN1	JAK2	ACTIVATION
+PTPN1	Jak2/Leptin Receptor/Leptin	ACTIVATION
+PTPN1	SRC	ACTIVATION
+PTPN1	None	INHIBITION
+PTPN1	PI3K	INHIBITION
+PTPN1	PTPN1	-a>
+PTPN1	CSF1/CSF1R	ACTIVATION
+PTPN1	STAT5B	ACTIVATION
+PTPN1	STAT5A	ACTIVATION
+PTPN1	CAT1/PTP1B	component>
+PTPN1	LAT	ACTIVATION
+LEPR	Jak2/Leptin Receptor/Leptin	component>
+BCAR1	p130 Cas/Crk	component>
+BCAR1	PTP1B/p130 Cas	component>
+p210 bcr-abl/Grb2	None	ACTIVATION
+SPRY2	PTPN1	ACTIVATION
+Jak2/Leptin Receptor/Leptin	Jak2/Leptin Receptor/Leptin	-a>
+Jak2/Leptin Receptor/Leptin	STAT3 (dimer )	ACTIVATION
+SOCS3	Jak2/Leptin Receptor/Leptin	INHIBITION
+CSF1/CSF1R	CSF1/CSF1R	-a>
+p210 bcr-abl	p210 bcr-abl/PTP1B	component>
+p210 bcr-abl	p210 bcr-abl/Grb2	component>
+CSF1	CSF1/CSF1R	component>
+INS	Insulin Receptor/Insulin/IRS1	component>
+INS	Insulin Receptor/Insulin	component>
+LEP	Jak2/Leptin Receptor/Leptin	component>
+STAT5B	STAT5B	-a>
+STAT5A	STAT5A	-a>
+GRB2	PTP1B/IRS1/GRB2	component>
+GRB2	p210 bcr-abl/Grb2	component>
+LAT	LAT	-a>
+ITGA2B	alphaIIb/beta3 Integrin	component>
+NOX4	PTPN1	ACTIVATION

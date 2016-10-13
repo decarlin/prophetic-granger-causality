@@ -1,0 +1,64 @@
+protein	14-3-3 family
+complex	14-3-3 family/TSC2
+protein	CDC25B
+complex	CDC25B/14-3-3 family
+protein	CREB1
+protein	ETV1
+protein	HSPB1
+protein	LSP1
+protein	MAPK14
+protein	MAPKAPK2
+protein	MAPKAPK3
+protein	None
+protein	RAF1
+protein	SRF
+protein	TCF3
+protein	TH
+protein	TSC2
+protein	YWHAZ
+complex	YWHAZ (dimer)
+complex	YWHAZ (dimer)/RAF1
+protein	p38alpha-beta
+protein	p38alpha-beta-active
+complex	p38alpha-beta/MAPKAPK2
+complex	p38alpha-beta/MAPKAPK2/TCF3
+complex	p38alpha-beta/MAPKAPK3
+MAPK14	MAPK14	-a>
+CDC25B/14-3-3 family	None	ACTIVATION
+MAPKAPK3	p38alpha-beta/MAPKAPK3	component>
+MAPKAPK2	p38alpha-beta/MAPKAPK2/TCF3	component>
+MAPKAPK2	p38alpha-beta/MAPKAPK2	component>
+YWHAZ	YWHAZ	-a>
+YWHAZ	YWHAZ (dimer)	component>
+YWHAZ	YWHAZ (dimer)/RAF1	component>
+14-3-3 family	14-3-3 family/TSC2	component>
+14-3-3 family	CDC25B/14-3-3 family	component>
+TSC2	14-3-3 family/TSC2	component>
+TSC2	TSC2	-a>
+p38alpha-beta	p38alpha-beta/MAPKAPK2/TCF3	component>
+TH	TH	-a>
+p38alpha-beta-active	p38alpha-beta/MAPKAPK2	component>
+p38alpha-beta-active	p38alpha-beta/MAPKAPK3	component>
+SRF	SRF	-a>
+TCF3	p38alpha-beta/MAPKAPK2/TCF3	component>
+HSPB1	None	ACTIVATION
+HSPB1	HSPB1	-a>
+CDC25B	CDC25B	-a>
+CDC25B	CDC25B/14-3-3 family	component>
+CREB1	CREB1	-a>
+RAF1	YWHAZ (dimer)/RAF1	component>
+ETV1	ETV1	-a>
+LSP1	None	ACTIVATION
+LSP1	LSP1	-a>
+p38alpha-beta/MAPKAPK2	ETV1	ACTIVATION
+p38alpha-beta/MAPKAPK2	YWHAZ	ACTIVATION
+p38alpha-beta/MAPKAPK2	None	ACTIVATION
+p38alpha-beta/MAPKAPK2	SRF	ACTIVATION
+p38alpha-beta/MAPKAPK2	HSPB1	ACTIVATION
+p38alpha-beta/MAPKAPK2	CDC25B	ACTIVATION
+p38alpha-beta/MAPKAPK2	LSP1	ACTIVATION
+p38alpha-beta/MAPKAPK2	CREB1	ACTIVATION
+p38alpha-beta/MAPKAPK2	MAPK14	ACTIVATION
+p38alpha-beta/MAPKAPK2	TH	ACTIVATION
+p38alpha-beta/MAPKAPK2	TSC2	ACTIVATION
+p38alpha-beta/MAPKAPK3	HSPB1	ACTIVATION

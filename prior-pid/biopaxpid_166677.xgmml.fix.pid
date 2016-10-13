@@ -1,0 +1,42 @@
+protein	CCNB1
+protein	CCND1
+protein	CDK1
+protein	CDK2
+protein	CDK4
+protein	CDKN2A
+protein	CHEK2
+protein	Cbp/p300
+protein	Cyclin A-E1
+complex	Cyclin A-E1/CDK1-2
+complex	Cyclin B1/CDK1
+complex	Cyclin D1/CDK4
+protein	FOXM1
+complex	FOXM1B/Cbp/p300
+complex	FOXM1B/HNF6
+complex	FOXM1B/p14ARF
+complex	FOXM1C/SP1
+protein	GSK3A
+protein	MAP2K1
+protein	ONECUT1
+protein	SP1
+CCNB1	Cyclin B1/CDK1	component>
+CDKN2A	FOXM1B/p14ARF	component>
+CDK1	Cyclin B1/CDK1	component>
+CCND1	Cyclin D1/CDK4	component>
+SP1	FOXM1C/SP1	component>
+ONECUT1	FOXM1B/HNF6	component>
+Cyclin A-E1	Cyclin A-E1/CDK1-2	component>
+GSK3A	FOXM1	ACTIVATION
+Cyclin B1/CDK1	FOXM1	ACTIVATION
+Cyclin A-E1/CDK1-2	FOXM1	ACTIVATION
+MAP2K1	FOXM1	ACTIVATION
+CDK4	Cyclin D1/CDK4	component>
+FOXM1	FOXM1B/Cbp/p300	component>
+FOXM1	FOXM1C/SP1	component>
+FOXM1	FOXM1	-a>
+FOXM1	FOXM1B/HNF6	component>
+FOXM1	FOXM1B/p14ARF	component>
+Cyclin D1/CDK4	FOXM1	ACTIVATION
+CHEK2	FOXM1	ACTIVATION
+CDK2	Cyclin A-E1/CDK1-2	component>
+Cbp/p300	FOXM1B/Cbp/p300	component>

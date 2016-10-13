@@ -1,0 +1,156 @@
+protein	ACAP1
+protein	ACAP2
+protein	ADAP1
+protein	ADRB2
+protein	AGTR1
+protein	ARAP2
+protein	ARF6
+complex	ARF6/GDP
+complex	ARF6/GDP/GULP/ACAP1
+complex	ARNO/beta Arrestin1-2
+protein	ARRB2
+complex	Arf6/GTP
+complex	CENTA1/KIF13B
+protein	CYTH2
+protein	CYTH3
+protein	EFA6
+complex	EFA6/PI-4-5-P2
+protein	EFNA1
+protein	EGF
+protein	EGFR
+complex	EGFR/EGFR/EGF/EGF
+complex	EGFR/EGFR/EGF/EGF/ARFGEP100
+protein	EPHA2
+complex	Ephrin A1/EPHA2/NCK1/GIT1
+protein	FBXO8
+SmallMolecule	GDP
+protein	GIT1
+protein	GNAQ
+complex	GNAQ/ARNO
+SmallMolecule	GTP
+protein	GULP1
+protein	Gq family
+protein	HGF
+complex	HGF/MET
+protein	IPCEF1
+complex	IPCEF1/ARNO
+protein	IQSEC1
+protein	ITGA2B
+protein	ITGB3
+protein	KIF13B
+protein	LHCGR
+complex	LHCGR/beta Arrestin2
+protein	MET
+protein	NCK1
+protein	None
+SmallMolecule	PI-3-4-5-P3
+SmallMolecule	PI-4-5-P2
+protein	PXN
+SmallMolecule	Phosphatidic acid
+protein	SRC
+protein	TSHR
+protein	USP6
+complex	alphaIIb/beta3 Integrin
+complex	alphaIIb/beta3 Integrin/paxillin/GIT1
+protein	beta Arrestin1-2
+SmallMolecule	phosphate
+ARNO/beta Arrestin1-2	GDP	-a>
+ARNO/beta Arrestin1-2	ARNO/beta Arrestin1-2	-a>
+ARNO/beta Arrestin1-2	Arf6/GTP	-a>
+EGFR	EGFR/EGFR/EGF/EGF/ARFGEP100	component>
+EGFR	EGFR/EGFR/EGF/EGF	component>
+EPHA2	Ephrin A1/EPHA2/NCK1/GIT1	component>
+USP6	ARF6/GDP	ACTIVATION
+PI-3-4-5-P3	phosphate	ACTIVATION
+PI-3-4-5-P3	CYTH3	ACTIVATION
+PI-3-4-5-P3	CYTH2	ACTIVATION
+PI-3-4-5-P3	ARF6/GDP	ACTIVATION
+ITGB3	alphaIIb/beta3 Integrin	component>
+ITGB3	alphaIIb/beta3 Integrin/paxillin/GIT1	component>
+IQSEC1	GDP	ACTIVATION
+IQSEC1	EGFR/EGFR/EGF/EGF/ARFGEP100	component>
+EGFR/EGFR/EGF/EGF	IPCEF1/ARNO	ACTIVATION
+ARRB2	GDP	transport
+ARRB2	ARRB2	transport
+ARRB2	LHCGR/beta Arrestin2	component>
+ARRB2	Arf6/GTP	transport
+FBXO8	ARF6/GDP	ACTIVATION
+TSHR	GDP	ACTIVATION
+EGF	EGFR/EGFR/EGF/EGF/ARFGEP100	component>
+EGF	EGFR/EGFR/EGF/EGF	component>
+Phosphatidic acid	phosphate	ACTIVATION
+Phosphatidic acid	ARF6/GDP	ACTIVATION
+ARAP2	phosphate	ACTIVATION
+ITGA2B	alphaIIb/beta3 Integrin	component>
+ITGA2B	alphaIIb/beta3 Integrin/paxillin/GIT1	component>
+ARF6	Arf6/GTP	component>
+ARF6	ARF6/GDP/GULP/ACAP1	component>
+ARF6	ARF6/GDP	component>
+Ephrin A1/EPHA2/NCK1/GIT1	ARF6/GDP	ACTIVATION
+Gq family	Arf6/GTP	ACTIVATION
+ADAP1	CENTA1/KIF13B	component>
+ADAP1	ARF6/GDP	ACTIVATION
+HGF/MET	GDP	ACTIVATION
+EFNA1	Ephrin A1/EPHA2/NCK1/GIT1	component>
+PXN	alphaIIb/beta3 Integrin/paxillin/GIT1	component>
+PI-4-5-P2	phosphate	ACTIVATION
+PI-4-5-P2	EFA6/PI-4-5-P2	component>
+PI-4-5-P2	ARF6/GDP	ACTIVATION
+Arf6/GTP	phosphate	-a>
+Arf6/GTP	CYTH2	ACTIVATION
+Arf6/GTP	ARF6/GDP	-a>
+ADRB2	GDP	ACTIVATION
+EFA6	EFA6/PI-4-5-P2	component>
+CENTA1/KIF13B	ARF6/GDP	INHIBITION
+SRC	GDP	ACTIVATION
+None	GDP	ACTIVATION
+None	EFA6/PI-4-5-P2	ACTIVATION
+None	CENTA1/KIF13B	ACTIVATION
+None	Arf6/GTP	ACTIVATION
+EFA6/PI-4-5-P2	Arf6/GTP	ACTIVATION
+ARF6/GDP	GDP	-a>
+ARF6/GDP	GDP	transport
+ARF6/GDP	ARNO/beta Arrestin1-2	-a>
+ARF6/GDP	ARF6/GDP	-a>
+ARF6/GDP	ARF6/GDP	transport
+ARF6/GDP	ARRB2	transport
+ARF6/GDP	Arf6/GTP	-a>
+ARF6/GDP	Arf6/GTP	transport
+ARF6/GDP/GULP/ACAP1	ARF6/GDP	INHIBITION
+alphaIIb/beta3 Integrin/paxillin/GIT1	Arf6/GTP	INHIBITION
+ACAP1	ARF6/GDP/GULP/ACAP1	component>
+ACAP1	ARF6/GDP	ACTIVATION
+ACAP2	phosphate	ACTIVATION
+LHCGR/beta Arrestin2	None	ACTIVATION
+GTP	GDP	-a>
+GTP	ARNO/beta Arrestin1-2	-a>
+GTP	Arf6/GTP	component>
+GTP	ARRB2	transport
+GTP	ARF6/GDP	-a>
+alphaIIb/beta3 Integrin	Arf6/GTP	ACTIVATION
+HGF	HGF/MET	component>
+CYTH3	GDP	ACTIVATION
+CYTH3	CYTH3	transport
+CYTH2	ARNO/beta Arrestin1-2	component>
+CYTH2	CYTH2	transport
+CYTH2	IPCEF1/ARNO	component>
+CYTH2	GNAQ/ARNO	component>
+CYTH2	ARF6/GDP	ACTIVATION
+beta Arrestin1-2	ARNO/beta Arrestin1-2	component>
+AGTR1	Arf6/GTP	ACTIVATION
+NCK1	Ephrin A1/EPHA2/NCK1/GIT1	component>
+GDP	ARF6/GDP/GULP/ACAP1	component>
+GDP	ARF6/GDP	component>
+EGFR/EGFR/EGF/EGF/ARFGEP100	GDP	ACTIVATION
+GNAQ	GNAQ/ARNO	component>
+GULP1	ARF6/GDP/GULP/ACAP1	component>
+GNAQ/ARNO	GDP	ACTIVATION
+MET	HGF/MET	component>
+KIF13B	CENTA1/KIF13B	component>
+GIT1	alphaIIb/beta3 Integrin/paxillin/GIT1	component>
+GIT1	Ephrin A1/EPHA2/NCK1/GIT1	component>
+GIT1	ARF6/GDP	ACTIVATION
+LHCGR	GDP	ACTIVATION
+LHCGR	LHCGR/beta Arrestin2	component>
+IPCEF1	IPCEF1/ARNO	component>
+IPCEF1/ARNO	Arf6/GTP	ACTIVATION

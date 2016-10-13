@@ -1,0 +1,70 @@
+protein	ARRB2
+protein	BCL3
+complex	BCL3/NF kappa B1 p50
+complex	BCL3/RelA
+protein	BTRC
+complex	CK2
+protein	IKBKB
+protein	LCK
+protein	MAPK14
+complex	NF kappa B1 p105/RelA
+complex	NF kappa B1 p105/c-Rel
+complex	NF kappa B1 p105/p50
+complex	NF kappa B1 p50 dimer
+complex	NF kappa B1 p50/RelA
+complex	NF kappa B1 p50/RelA/I kappa B alpha/beta Arrestin2
+complex	NF kappa B1 p50/c-Rel
+protein	NFKB1
+protein	NFKBIA
+protein	None
+protein	REL
+protein	RELA
+complex	SCF ubiquitin ligase complex
+protein	SRC
+protein	SYK
+complex	beta TrCP1/SCF ubiquitin ligase complex
+NFKBIA	None	ACTIVATION
+NFKBIA	NF kappa B1 p50/RelA/I kappa B alpha/beta Arrestin2	component>
+MAPK14	NF kappa B1 p50/RelA	ACTIVATION
+MAPK14	ARRB2	ACTIVATION
+NF kappa B1 p105/p50	None	ACTIVATION
+NF kappa B1 p105/p50	NF kappa B1 p50 dimer	-a>
+ARRB2	ARRB2	-a>
+ARRB2	NF kappa B1 p50/RelA/I kappa B alpha/beta Arrestin2	component>
+REL	NF kappa B1 p105/c-Rel	component>
+REL	NF kappa B1 p50/c-Rel	component>
+SCF ubiquitin ligase complex	beta TrCP1/SCF ubiquitin ligase complex	component>
+NF kappa B1 p105/RelA	NF kappa B1 p50/RelA	-a>
+NF kappa B1 p50 dimer	NF kappa B1 p50 dimer	transport
+NFKB1	BCL3/NF kappa B1 p50	component>
+NFKB1	NF kappa B1 p50/c-Rel	component>
+NFKB1	NF kappa B1 p105/RelA	component>
+NFKB1	NF kappa B1 p50 dimer	component>
+NFKB1	NF kappa B1 p105/p50	component>
+NFKB1	NF kappa B1 p50/RelA	component>
+NFKB1	NFKB1	-a>
+NFKB1	NF kappa B1 p105/c-Rel	component>
+NFKB1	NF kappa B1 p50/RelA/I kappa B alpha/beta Arrestin2	component>
+RELA	NF kappa B1 p105/RelA	component>
+RELA	BCL3/RelA	component>
+RELA	NF kappa B1 p50/RelA	component>
+RELA	NF kappa B1 p50/RelA/I kappa B alpha/beta Arrestin2	component>
+NF kappa B1 p50/RelA/I kappa B alpha/beta Arrestin2	None	ACTIVATION
+NF kappa B1 p50/RelA/I kappa B alpha/beta Arrestin2	NF kappa B1 p50/RelA/I kappa B alpha/beta Arrestin2	transport
+SRC	NFKBIA	ACTIVATION
+None	ARRB2	ACTIVATION
+None	NFKBIA	ACTIVATION
+None	NF kappa B1 p50/RelA	ACTIVATION
+NF kappa B1 p50/RelA	None	ACTIVATION
+NF kappa B1 p50/RelA	NF kappa B1 p50/RelA	transport
+IKBKB	NFKB1	ACTIVATION
+IKBKB	NF kappa B1 p50 dimer	ACTIVATION
+beta TrCP1/SCF ubiquitin ligase complex	NF kappa B1 p105/p50	ACTIVATION
+SYK	NFKBIA	ACTIVATION
+BTRC	beta TrCP1/SCF ubiquitin ligase complex	component>
+CK2	NF kappa B1 p50/RelA	ACTIVATION
+CK2	ARRB2	ACTIVATION
+NF kappa B1 p105/c-Rel	NF kappa B1 p50/c-Rel	-a>
+LCK	NF kappa B1 p50/RelA	ACTIVATION
+BCL3	BCL3/NF kappa B1 p50	component>
+BCL3	BCL3/RelA	component>

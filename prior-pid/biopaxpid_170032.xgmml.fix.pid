@@ -1,0 +1,72 @@
+SmallMolecule	5'-amp
+protein	ACoAS
+protein	ADCY1
+complex	AMPK
+protein	G-alpha-S
+complex	GTP/G-alpha-S
+protein	MLXIPL
+complex	PKA
+protein	PPP2R5D
+protein	PRKAA1
+protein	PRKAA2
+protein	PRKAB1
+protein	PRKAB2
+protein	PRKACB
+protein	PRKACG
+protein	PRKAG1
+protein	PRKAG2
+protein	PRKAR1A
+protein	PRKAR1B
+protein	PRKAR2A
+protein	PRKAR2B
+SmallMolecule	acyl coenzyme a
+SmallMolecule	adenosine 3',5'-phosphate
+SmallMolecule	adenosine 5'-triphosphate
+SmallMolecule	coa-sh
+SmallMolecule	fatty acid
+SmallMolecule	glucose
+SmallMolecule	guanosine 5'-triphosphate
+SmallMolecule	pyrophosphate
+SmallMolecule	xylulose-5-phosphate
+GTP/G-alpha-S	ADCY1	ACTIVATION
+PRKAG1	AMPK	component>
+PRKAG2	AMPK	component>
+PRKAA2	AMPK	component>
+PRKAA1	AMPK	component>
+xylulose-5-phosphate	PPP2R5D	ACTIVATION
+5'-amp	AMPK	ACTIVATION
+PRKACG	PKA	component>
+adenosine 5'-triphosphate	5'-amp	-a>
+adenosine 5'-triphosphate	adenosine 3',5'-phosphate	-a>
+adenosine 5'-triphosphate	acyl coenzyme a	-a>
+adenosine 5'-triphosphate	pyrophosphate	-a>
+PKA	MLXIPL	ACTIVATION
+PKA	PKA	-a>
+PKA	PKA	transport
+guanosine 5'-triphosphate	GTP/G-alpha-S	component>
+glucose	xylulose-5-phosphate	-a>
+glucose	glucose	transport
+PRKAB2	AMPK	component>
+PRKAB1	AMPK	component>
+MLXIPL	MLXIPL	-a>
+PRKAR1A	PKA	component>
+PRKAR1B	PKA	component>
+G-alpha-S	GTP/G-alpha-S	component>
+AMPK	MLXIPL	ACTIVATION
+AMPK	AMPK	-a>
+coa-sh	5'-amp	-a>
+coa-sh	acyl coenzyme a	-a>
+coa-sh	pyrophosphate	-a>
+adenosine 3',5'-phosphate	PKA	ACTIVATION
+ADCY1	adenosine 3',5'-phosphate	ACTIVATION
+ADCY1	ADCY1	-a>
+ACoAS	acyl coenzyme a	ACTIVATION
+PRKAR2B	PKA	component>
+fatty acid	5'-amp	-a>
+fatty acid	acyl coenzyme a	-a>
+fatty acid	pyrophosphate	-a>
+fatty acid	fatty acid	transport
+PRKACB	PKA	component>
+PPP2R5D	PPP2R5D	-a>
+PPP2R5D	MLXIPL	ACTIVATION
+PRKAR2A	PKA	component>

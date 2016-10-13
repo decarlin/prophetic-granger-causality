@@ -1,0 +1,106 @@
+protein	14-3-3 family
+protein	AKT1
+complex	AKT1/ASK1
+complex	AKT1/RAF1
+protein	AKT2
+complex	AKT2/p21CIP1
+protein	AKT3
+protein	BAD
+complex	BAD/BCL-X(L)
+complex	BAD/BCL-X(L)/YWHAZ
+protein	BCL2L1
+protein	CASP9
+protein	CDKN1A
+protein	CDKN1B
+protein	CHUK
+protein	FOXO1-3a-4
+protein	FOXO1-3a-4-inactive
+complex	FOXO1-3a-4/14-3-3 family
+protein	GSK3
+protein	GSK3-inactive
+protein	HSP90AA1
+protein	KPNA1
+protein	MAP3K5
+protein	MAPKAP1
+protein	MLST8
+protein	MTOR
+protein	None
+complex	PDK1/Src/Hsp90
+protein	PDPK1
+SmallMolecule	PI-3-4-5-P3
+protein	PRKACA
+protein	PRKDC
+protein	RAF1
+protein	RICTOR
+protein	SLC2A4
+protein	SRC
+protein	TBC1D4
+protein	YWHAZ
+complex	mTORC2
+complex	p27Kip1/14-3-3 family
+complex	p27Kip1/KPNA1
+BCL2L1	BAD/BCL-X(L)	component>
+BCL2L1	None	ACTIVATION
+BCL2L1	BAD/BCL-X(L)/YWHAZ	component>
+CDKN1B	CDKN1B	-a>
+CDKN1B	p27Kip1/14-3-3 family	component>
+CDKN1B	p27Kip1/KPNA1	component>
+CDKN1A	AKT2/p21CIP1	component>
+CDKN1A	None	INHIBITION
+CDKN1A	CDKN1A	transport
+mTORC2	AKT1	ACTIVATION
+PRKDC	AKT1	ACTIVATION
+AKT1	BAD/BCL-X(L)	ACTIVATION
+AKT1	AKT1/RAF1	component>
+AKT1	CDKN1B	ACTIVATION
+AKT1	CHUK	ACTIVATION
+AKT1	GSK3-inactive	ACTIVATION
+AKT1	AKT1	-a>
+AKT1	AKT2/p21CIP1	ACTIVATION
+AKT1	AKT1/ASK1	component>
+AKT1	CASP9	ACTIVATION
+AKT1	FOXO1-3a-4-inactive	ACTIVATION
+AKT2	AKT2/p21CIP1	component>
+AKT2	AKT2	-a>
+AKT2	TBC1D4	ACTIVATION
+AKT3	AKT3	-a>
+AKT1/ASK1	None	INHIBITION
+RICTOR	mTORC2	component>
+FOXO1-3a-4-inactive	FOXO1-3a-4/14-3-3 family	component>
+YWHAZ	BAD/BCL-X(L)/YWHAZ	component>
+AKT1/RAF1	None	INHIBITION
+14-3-3 family	FOXO1-3a-4/14-3-3 family	component>
+14-3-3 family	p27Kip1/14-3-3 family	component>
+AKT2/p21CIP1	None	ACTIVATION
+RAF1	AKT1/RAF1	component>
+TBC1D4	SLC2A4	ACTIVATION
+TBC1D4	TBC1D4	-a>
+MAP3K5	AKT1/ASK1	component>
+MAPKAP1	mTORC2	component>
+FOXO1-3a-4	FOXO1-3a-4-inactive	-a>
+GSK3	GSK3-inactive	-a>
+PDK1/Src/Hsp90	AKT1	ACTIVATION
+SRC	PDK1/Src/Hsp90	component>
+None	AKT1/ASK1	ACTIVATION
+BAD/BCL-X(L)	BAD/BCL-X(L)	-a>
+CHUK	CHUK	-a>
+GSK3-inactive	None	ACTIVATION
+MTOR	mTORC2	component>
+PDPK1	AKT2	ACTIVATION
+PDPK1	AKT3	ACTIVATION
+PDPK1	PDK1/Src/Hsp90	component>
+MLST8	mTORC2	component>
+SLC2A4	None	ACTIVATION
+SLC2A4	SLC2A4	transport
+PI-3-4-5-P3	AKT1	ACTIVATION
+PI-3-4-5-P3	AKT2	ACTIVATION
+PI-3-4-5-P3	AKT3	ACTIVATION
+BAD	BAD/BCL-X(L)	component>
+BAD	BAD/BCL-X(L)/YWHAZ	component>
+CASP9	None	ACTIVATION
+CASP9	CASP9	-a>
+p27Kip1/14-3-3 family	None	INHIBITION
+PRKACA	BCL2L1	ACTIVATION
+KPNA1	p27Kip1/KPNA1	component>
+HSP90AA1	PDK1/Src/Hsp90	component>
+FOXO1-3a-4/14-3-3 family	None	ACTIVATION

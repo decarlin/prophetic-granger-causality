@@ -1,0 +1,115 @@
+protein	AKT1
+protein	APAF1
+complex	Apaf-1/Caspase 9
+protein	BAD
+protein	CASP3
+protein	CASP6
+protein	CASP7
+protein	CASP9
+protein	CTNNB1
+protein	CYCS
+protein	EGFR
+protein	ERBB2
+complex	GH/GH R
+protein	GH1
+protein	GHR
+protein	GRB2
+protein	HRAS
+protein	IKKs
+protein	MAP2K1
+protein	MAP2K2
+protein	MAPK1
+protein	MAPK3
+protein	None
+protein	PDPK1
+complex	PI3K
+protein	PIK3CA
+protein	PIK3R1
+SmallMolecule	PIP2
+SmallMolecule	PIP3
+protein	RAF1
+protein	RELA
+complex	RELA/p50
+protein	RHOA
+protein	RPS6KA1
+complex	SHC/GRB2/SOS-1
+protein	SHC1
+protein	SOS1
+protein	TFFs
+complex	TFFs/ErbB1/ERBB2
+SmallMolecule	guanosine 5'-triphosphate
+SmallMolecule	guanosine diphosphate
+protein	p50
+IKKs	None	ACTIVATION
+IKKs	IKKs	-a>
+HRAS	HRAS	-a>
+HRAS	RAF1	ACTIVATION
+HRAS	guanosine diphosphate	-a>
+EGFR	TFFs/ErbB1/ERBB2	component>
+CYCS	CYCS	transport
+CYCS	Apaf-1/Caspase 9	ACTIVATION
+CTNNB1	CTNNB1	-a>
+MAP2K2	MAP2K2	-a>
+MAP2K2	MAP2K1	-a>
+MAP2K2	MAPK1	ACTIVATION
+BAD	BAD	-a>
+BAD	CYCS	ACTIVATION
+CASP7	CASP7	-a>
+CASP7	None	ACTIVATION
+SHC/GRB2/SOS-1	SHC/GRB2/SOS-1	-a>
+SHC/GRB2/SOS-1	guanosine diphosphate	ACTIVATION
+RAF1	MAP2K1	ACTIVATION
+RAF1	RAF1	-a>
+Apaf-1/Caspase 9	CASP6	ACTIVATION
+Apaf-1/Caspase 9	CASP7	ACTIVATION
+Apaf-1/Caspase 9	CASP3	ACTIVATION
+Apaf-1/Caspase 9	Apaf-1/Caspase 9	-a>
+GHR	GH/GH R	component>
+PIK3CA	PI3K	component>
+PI3K	PIP3	ACTIVATION
+PI3K	PI3K	-a>
+RELA/p50	RELA/p50	transport
+MAPK3	MAPK3	transport
+MAPK3	RHOA	ACTIVATION
+MAPK3	MAPK1	transport
+MAPK3	RPS6KA1	ACTIVATION
+MAPK1	MAPK3	transport
+MAPK1	RHOA	ACTIVATION
+MAPK1	MAPK1	transport
+MAPK1	RPS6KA1	ACTIVATION
+PIK3R1	PI3K	component>
+RELA	RELA/p50	component>
+guanosine 5'-triphosphate	HRAS	-a>
+guanosine 5'-triphosphate	guanosine diphosphate	-a>
+APAF1	Apaf-1/Caspase 9	component>
+ERBB2	TFFs/ErbB1/ERBB2	component>
+SHC1	SHC/GRB2/SOS-1	component>
+PIP3	PDPK1	ACTIVATION
+PIP2	PIP3	-a>
+TFFs	GH/GH R	ACTIVATION
+TFFs	None	INHIBITION
+TFFs	TFFs/ErbB1/ERBB2	component>
+TFFs	TFFs	transport
+GH/GH R	PI3K	ACTIVATION
+RHOA	MAPK3	ACTIVATION
+RHOA	RHOA	-a>
+p50	RELA/p50	component>
+GH1	GH/GH R	component>
+CASP6	CASP6	-a>
+CASP6	None	ACTIVATION
+RPS6KA1	RPS6KA1	-a>
+RPS6KA1	IKKs	ACTIVATION
+CASP3	None	ACTIVATION
+CASP3	CASP3	-a>
+SOS1	SHC/GRB2/SOS-1	component>
+AKT1	AKT1	-a>
+AKT1	BAD	ACTIVATION
+MAP2K1	MAP2K2	-a>
+MAP2K1	MAP2K1	-a>
+MAP2K1	MAPK1	ACTIVATION
+CASP9	Apaf-1/Caspase 9	component>
+GRB2	SHC/GRB2/SOS-1	component>
+PDPK1	PDPK1	-a>
+PDPK1	AKT1	ACTIVATION
+TFFs/ErbB1/ERBB2	CTNNB1	ACTIVATION
+TFFs/ErbB1/ERBB2	SHC/GRB2/SOS-1	ACTIVATION

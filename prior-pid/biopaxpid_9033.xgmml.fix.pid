@@ -1,0 +1,296 @@
+protein	AKT1
+protein	Antigen
+complex	Antigen/IgE/Fc epsilon R1
+complex	Antigen/IgE/Fc epsilon R1/Fyn
+complex	Antigen/IgE/Fc epsilon R1/LYN/SYK
+complex	Antigen/IgE/Fc epsilon R1/LYN/SYK/WIP
+protein	BTK
+protein	CBL
+protein	CBLB
+SmallMolecule	Ca++
+SmallMolecule	Ca2+
+SmallMolecule	Choline
+SmallMolecule	DAG
+protein	DOK1
+protein	DUSP1
+protein	FCER1A
+protein	FCER1G
+protein	FCGR2B
+protein	FER
+protein	FOS
+protein	FYN
+complex	Fc epsilon R1/FcgammaRIIB
+complex	Fc epsilon R1/FcgammaRIIB/SHIP
+complex	Fc epsilon R1/FcgammaRIIB/SHIP/RasGAP/p62DOK
+protein	GAB2
+complex	GAB2/PI3K/SHP2
+protein	GADs
+SmallMolecule	GDP
+protein	GRB2
+SmallMolecule	GTP
+SmallMolecule	Glucocorticoid Dexamethasone
+protein	HCLS1
+protein	HRAS
+complex	HRAS/GDP
+complex	HRAS/GTP
+protein	IGHE
+protein	IKBKB
+protein	INPP5D
+protein	ITK
+protein	JUN
+complex	JUN/FOS
+protein	KLRG1
+complex	KLRG1/SHIP
+complex	KLRG1/SHP2
+protein	LAT
+complex	LAT/PLCgamma1/GRB2/SLP76/GADs
+protein	LAT2
+protein	LCP2
+protein	LYN
+protein	MAP2K1
+protein	MAP2K2
+protein	MAP2K4
+protein	MAP2K7
+protein	MAP3K1
+protein	MAPK1
+protein	MAPK3
+protein	MAPK8
+protein	MS4A2
+complex	NF-kappa-B/RelA
+protein	NFATC2
+protein	NFKB1
+complex	NTAL/PLCgamma1/GRB2/SLP76/GADs
+protein	None
+protein	PAK2
+SmallMolecule	PI-4-5-P2
+complex	PI3K
+protein	PIK3CA
+protein	PIK3R1
+SmallMolecule	PIP3
+protein	PKC
+protein	PLA2G1B
+protein	PLA2G4A
+protein	PLCG1
+protein	PLD2
+protein	PPAP2A
+protein	PRKCB
+protein	PTK2
+protein	PTPN11
+protein	PTPN13
+protein	PXN
+SmallMolecule	Phosphatidic acid
+SmallMolecule	Phosphotidylcholine
+protein	RAF1
+protein	RASA1
+protein	RELA
+complex	RasGAP/p62DOK
+protein	S1PR1
+complex	SHC/GRB2/SOS1
+protein	SHC1
+protein	SOS1
+protein	SPHK1
+protein	SYK
+SmallMolecule	Sphingosine-1-phosphate
+protein	VAV1
+protein	WIPF1
+PPAP2A	DAG	ACTIVATION
+LAT2	LAT	-a>
+LAT2	NTAL/PLCgamma1/GRB2/SLP76/GADs	component>
+LAT2	LAT2	-a>
+IKBKB	NF-kappa-B/RelA	ACTIVATION
+AKT1	AKT1	-a>
+AKT1	None	ACTIVATION
+Sphingosine-1-phosphate	Ca2+	ACTIVATION
+Sphingosine-1-phosphate	S1PR1	ACTIVATION
+MS4A2	Fc epsilon R1/FcgammaRIIB/SHIP	component>
+MS4A2	Antigen/IgE/Fc epsilon R1	component>
+MS4A2	Antigen/IgE/Fc epsilon R1/Fyn	component>
+MS4A2	Antigen/IgE/Fc epsilon R1/LYN/SYK	component>
+MS4A2	Antigen/IgE/Fc epsilon R1/LYN/SYK/WIP	component>
+MS4A2	Fc epsilon R1/FcgammaRIIB/SHIP/RasGAP/p62DOK	component>
+MS4A2	Fc epsilon R1/FcgammaRIIB	component>
+Glucocorticoid Dexamethasone	RasGAP/p62DOK	ACTIVATION
+Ca2+	Ca2+	transport
+Ca2+	PRKCB	ACTIVATION
+Ca2+	PTK2	ACTIVATION
+PIK3CA	GAB2/PI3K/SHP2	component>
+PIK3CA	PI3K	component>
+MAP3K1	MAP3K1	-a>
+MAP3K1	MAP2K4	ACTIVATION
+Phosphotidylcholine	Phosphatidic acid	-a>
+Phosphotidylcholine	Choline	-a>
+Antigen/IgE/Fc epsilon R1/LYN/SYK/WIP	None	INHIBITION
+RELA	NF-kappa-B/RelA	component>
+CBLB	CBLB	-a>
+SHC1	SHC/GRB2/SOS1	component>
+HRAS/GDP	GDP	-a>
+HRAS/GDP	HRAS/GTP	-a>
+JUN/FOS	JUN/FOS	-a>
+INPP5D	Fc epsilon R1/FcgammaRIIB/SHIP	component>
+INPP5D	Fc epsilon R1/FcgammaRIIB/SHIP/RasGAP/p62DOK	component>
+INPP5D	PRKCB	INHIBITION
+INPP5D	KLRG1/SHIP	component>
+PLD2	Choline	ACTIVATION
+PLD2	PLD2	-a>
+SYK	Antigen/IgE/Fc epsilon R1/LYN/SYK	component>
+SYK	Antigen/IgE/Fc epsilon R1/LYN/SYK/WIP	component>
+Antigen	Antigen/IgE/Fc epsilon R1	component>
+Antigen	Antigen/IgE/Fc epsilon R1/LYN/SYK	component>
+Antigen	Antigen/IgE/Fc epsilon R1/Fyn	component>
+Antigen	Antigen/IgE/Fc epsilon R1/LYN/SYK/WIP	component>
+PTPN11	KLRG1/SHP2	component>
+PTPN11	GAB2/PI3K/SHP2	component>
+SHC/GRB2/SOS1	SHC/GRB2/SOS1	-a>
+SHC/GRB2/SOS1	HRAS/GTP	ACTIVATION
+GRB2	SHC/GRB2/SOS1	component>
+GRB2	NTAL/PLCgamma1/GRB2/SLP76/GADs	component>
+GRB2	LAT/PLCgamma1/GRB2/SLP76/GADs	component>
+LAT/PLCgamma1/GRB2/SLP76/GADs	DAG	ACTIVATION
+LAT	LAT	-a>
+LAT	LAT/PLCgamma1/GRB2/SLP76/GADs	component>
+LAT	LAT2	-a>
+PAK2	MAP3K1	ACTIVATION
+PAK2	PAK2	-a>
+NFATC2	NFATC2	-a>
+HRAS	HRAS/GDP	component>
+HRAS	HRAS/GTP	component>
+GAB2	GAB2/PI3K/SHP2	component>
+PLA2G1B	PLA2G1B	-a>
+JUN	JUN/FOS	component>
+PKC	ITK	ACTIVATION
+PIK3R1	GAB2/PI3K/SHP2	component>
+PIK3R1	PI3K	component>
+PTPN13	PTPN13	-a>
+None	ITK	ACTIVATION
+FOS	JUN/FOS	component>
+Antigen/IgE/Fc epsilon R1/LYN/SYK	CBLB	ACTIVATION
+Antigen/IgE/Fc epsilon R1/LYN/SYK	SPHK1	ACTIVATION
+Antigen/IgE/Fc epsilon R1/LYN/SYK	PTK2	ACTIVATION
+Antigen/IgE/Fc epsilon R1/LYN/SYK	ITK	ACTIVATION
+Antigen/IgE/Fc epsilon R1/LYN/SYK	PI3K	ACTIVATION
+Antigen/IgE/Fc epsilon R1/LYN/SYK	SHC/GRB2/SOS1	ACTIVATION
+Antigen/IgE/Fc epsilon R1/LYN/SYK	Antigen/IgE/Fc epsilon R1/LYN/SYK	-a>
+Antigen/IgE/Fc epsilon R1/LYN/SYK	LAT2	ACTIVATION
+Antigen/IgE/Fc epsilon R1/LYN/SYK	CBL	ACTIVATION
+Antigen/IgE/Fc epsilon R1/LYN/SYK	VAV1	ACTIVATION
+Antigen/IgE/Fc epsilon R1/LYN/SYK	FER	ACTIVATION
+Antigen/IgE/Fc epsilon R1/LYN/SYK	HCLS1	ACTIVATION
+Antigen/IgE/Fc epsilon R1/LYN/SYK	JUN/FOS	INHIBITION
+Antigen/IgE/Fc epsilon R1/LYN/SYK	PLA2G4A	ACTIVATION
+Antigen/IgE/Fc epsilon R1/LYN/SYK	KLRG1	ACTIVATION
+Antigen/IgE/Fc epsilon R1/LYN/SYK	BTK	ACTIVATION
+Ca++	NFATC2	ACTIVATION
+KLRG1	KLRG1/SHIP	component>
+KLRG1	KLRG1	-a>
+KLRG1	KLRG1/SHP2	component>
+VAV1	GDP	ACTIVATION
+VAV1	VAV1	-a>
+VAV1	PLCG1	ACTIVATION
+VAV1	PI3K	ACTIVATION
+CBL	CBL	-a>
+BTK	GDP	ACTIVATION
+BTK	JUN/FOS	ACTIVATION
+BTK	PLCG1	ACTIVATION
+BTK	MAPK8	ACTIVATION
+BTK	BTK	transport
+Antigen/IgE/Fc epsilon R1	NFATC2	ACTIVATION
+Antigen/IgE/Fc epsilon R1	NTAL/PLCgamma1/GRB2/SLP76/GADs	ACTIVATION
+Antigen/IgE/Fc epsilon R1	LAT/PLCgamma1/GRB2/SLP76/GADs	ACTIVATION
+GAB2/PI3K/SHP2	AKT1	ACTIVATION
+RAF1	MAP2K2	ACTIVATION
+RAF1	RAF1	-a>
+FCER1G	Fc epsilon R1/FcgammaRIIB/SHIP	component>
+FCER1G	Antigen/IgE/Fc epsilon R1	component>
+FCER1G	Antigen/IgE/Fc epsilon R1/Fyn	component>
+FCER1G	Antigen/IgE/Fc epsilon R1/LYN/SYK	component>
+FCER1G	Antigen/IgE/Fc epsilon R1/LYN/SYK/WIP	component>
+FCER1G	Fc epsilon R1/FcgammaRIIB/SHIP/RasGAP/p62DOK	component>
+FCER1G	Fc epsilon R1/FcgammaRIIB	component>
+FCER1A	Fc epsilon R1/FcgammaRIIB/SHIP	component>
+FCER1A	Antigen/IgE/Fc epsilon R1	component>
+FCER1A	Antigen/IgE/Fc epsilon R1/Fyn	component>
+FCER1A	Antigen/IgE/Fc epsilon R1/LYN/SYK	component>
+FCER1A	Antigen/IgE/Fc epsilon R1/LYN/SYK/WIP	component>
+FCER1A	Fc epsilon R1/FcgammaRIIB/SHIP/RasGAP/p62DOK	component>
+FCER1A	Fc epsilon R1/FcgammaRIIB	component>
+Antigen/IgE/Fc epsilon R1/Fyn	GAB2/PI3K/SHP2	ACTIVATION
+Antigen/IgE/Fc epsilon R1/Fyn	PLD2	ACTIVATION
+S1PR1	S1PR1	-a>
+S1PR1	None	ACTIVATION
+Phosphatidic acid	DAG	-a>
+MAPK3	MAPK3	-a>
+MAPK3	MAPK1	-a>
+MAPK3	PLA2G1B	ACTIVATION
+MAPK1	MAPK3	-a>
+MAPK1	MAPK1	-a>
+MAPK1	PLA2G1B	ACTIVATION
+NFKB1	NF-kappa-B/RelA	component>
+MAPK8	JUN/FOS	ACTIVATION
+MAPK8	MAPK8	-a>
+DUSP1	RasGAP/p62DOK	ACTIVATION
+NF-kappa-B/RelA	None	ACTIVATION
+NF-kappa-B/RelA	NF-kappa-B/RelA	-a>
+NF-kappa-B/RelA	NF-kappa-B/RelA	transport
+PIP3	Ca2+	ACTIVATION
+PI3K	BTK	ACTIVATION
+PI3K	PI3K	-a>
+GTP	GDP	-a>
+GTP	HRAS/GTP	component>
+FER	FER	-a>
+LYN	Antigen/IgE/Fc epsilon R1/LYN/SYK	component>
+LYN	Antigen/IgE/Fc epsilon R1/LYN/SYK/WIP	component>
+GADs	NTAL/PLCgamma1/GRB2/SLP76/GADs	component>
+GADs	LAT/PLCgamma1/GRB2/SLP76/GADs	component>
+GDP	HRAS/GDP	component>
+ITK	ITK	-a>
+SOS1	SHC/GRB2/SOS1	component>
+MAP2K1	MAP2K2	-a>
+MAP2K1	MAP2K1	-a>
+MAP2K1	MAPK3	ACTIVATION
+Fc epsilon R1/FcgammaRIIB/SHIP/RasGAP/p62DOK	RAF1	INHIBITION
+SPHK1	SPHK1	-a>
+PTK2	PTPN13	ACTIVATION
+PTK2	None	ACTIVATION
+PTK2	PTK2	-a>
+PTK2	PXN	ACTIVATION
+NTAL/PLCgamma1/GRB2/SLP76/GADs	PLCG1	ACTIVATION
+NTAL/PLCgamma1/GRB2/SLP76/GADs	DAG	ACTIVATION
+MAP2K2	MAP2K2	-a>
+MAP2K2	MAP2K1	-a>
+MAP2K2	MAPK3	ACTIVATION
+PLCG1	PLCG1	-a>
+PLCG1	DAG	ACTIVATION
+PLCG1	NTAL/PLCgamma1/GRB2/SLP76/GADs	component>
+PLCG1	LAT/PLCgamma1/GRB2/SLP76/GADs	component>
+MAP2K7	MAP2K4	ACTIVATION
+KLRG1/SHP2	Antigen/IgE/Fc epsilon R1/LYN/SYK	ACTIVATION
+MAP2K4	MAPK8	ACTIVATION
+MAP2K4	MAP2K4	-a>
+DAG	PRKCB	ACTIVATION
+FYN	Antigen/IgE/Fc epsilon R1/Fyn	component>
+DOK1	Fc epsilon R1/FcgammaRIIB/SHIP/RasGAP/p62DOK	component>
+DOK1	RasGAP/p62DOK	component>
+PXN	None	ACTIVATION
+PXN	PXN	-a>
+PI-4-5-P2	DAG	-a>
+PI-4-5-P2	PIP3	-a>
+HCLS1	HCLS1	-a>
+HRAS/GTP	RAF1	ACTIVATION
+HRAS/GTP	PAK2	ACTIVATION
+HRAS/GTP	PI3K	ACTIVATION
+PRKCB	IKBKB	ACTIVATION
+PRKCB	PRKCB	-a>
+FCGR2B	Fc epsilon R1/FcgammaRIIB/SHIP	component>
+FCGR2B	Fc epsilon R1/FcgammaRIIB/SHIP/RasGAP/p62DOK	component>
+FCGR2B	Fc epsilon R1/FcgammaRIIB	component>
+IGHE	Antigen/IgE/Fc epsilon R1	component>
+IGHE	Antigen/IgE/Fc epsilon R1/LYN/SYK	component>
+IGHE	Antigen/IgE/Fc epsilon R1/Fyn	component>
+IGHE	Antigen/IgE/Fc epsilon R1/LYN/SYK/WIP	component>
+KLRG1/SHIP	None	ACTIVATION
+LCP2	NTAL/PLCgamma1/GRB2/SLP76/GADs	component>
+LCP2	LAT/PLCgamma1/GRB2/SLP76/GADs	component>
+PLA2G4A	PLA2G4A	-a>
+RASA1	Fc epsilon R1/FcgammaRIIB/SHIP/RasGAP/p62DOK	component>
+RASA1	RasGAP/p62DOK	component>
+WIPF1	Antigen/IgE/Fc epsilon R1/LYN/SYK/WIP	component>

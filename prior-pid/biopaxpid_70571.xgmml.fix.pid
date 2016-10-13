@@ -1,0 +1,195 @@
+protein	AKT1
+protein	ANGPT1
+protein	ANGPT2
+protein	BMX
+protein	CDKN1A
+protein	CRK
+SmallMolecule	Choline
+complex	Crk/Dok-R
+protein	DOK2
+protein	ELK1
+protein	ERK1-2
+protein	Erk1-2-active
+protein	FES
+protein	FN1
+protein	FOXO1
+protein	FYN
+complex	Fibronectin
+SmallMolecule	GDP
+protein	GRB14
+protein	GRB2
+protein	GRB7
+SmallMolecule	GTP
+protein	ITGA5
+protein	ITGB1
+SmallMolecule	L-arginine
+SmallMolecule	L-citrulline
+protein	MAPK14
+protein	MAPK8
+protein	MMP2
+SmallMolecule	NADP
+SmallMolecule	NADPH
+protein	NCK1
+complex	NCK1/Dok-R
+complex	NCK1/PAK1/Dok-R
+complex	NF kappa B/RelA
+protein	NFKB1
+SmallMolecule	NO
+protein	NOS3
+protein	None
+SmallMolecule	O2
+protein	PAK1
+complex	PI3K
+protein	PIK3CA
+protein	PIK3R1
+protein	PLD2
+protein	PLG
+protein	PTK2
+protein	PTPN11
+protein	PXN
+SmallMolecule	Phosphatidic acid
+SmallMolecule	Phosphatidylcholine
+protein	RAC1
+complex	RAC1/GDP
+complex	RAC1/GTP
+protein	RASA1
+protein	RELA
+SmallMolecule	ROS
+protein	RPS6KB1
+complex	RasGAP/Dok-R
+protein	SHC1
+protein	STAT5A
+complex	STAT5A (dimer)
+protein	TEK
+protein	TNIP2
+complex	Tie2/Ang1
+complex	Tie2/Ang1/ABIN2
+complex	Tie2/Ang1/GRB14
+complex	Tie2/Ang1/GRB2
+complex	Tie2/Ang1/GRB7
+complex	Tie2/Ang1/Shc
+complex	Tie2/Ang1/alpha5/beta1 Integrin
+complex	Tie2/Ang2
+complex	Tie2/SHP2
+protein	http://pid.nci.nih.gov/biopaxpid_70739
+protein	http://pid.nci.nih.gov/biopaxpid_70874
+RELA	NF kappa B/RelA	component>
+Erk1-2-active	ELK1	ACTIVATION
+Tie2/Ang1/alpha5/beta1 Integrin	None	ACTIVATION
+TNIP2	Tie2/Ang1/ABIN2	component>
+FYN	None	ACTIVATION
+FYN	FYN	-a>
+CDKN1A	None	ACTIVATION
+Tie2/Ang2	MAPK14	ACTIVATION
+Tie2/Ang2	STAT5A (dimer)	ACTIVATION
+Tie2/Ang2	FYN	ACTIVATION
+Tie2/Ang2	FES	ACTIVATION
+Tie2/Ang2	PI3K	ACTIVATION
+ITGA5	Tie2/Ang1/alpha5/beta1 Integrin	component>
+Tie2/Ang1	PLG	ACTIVATION
+Tie2/Ang1	NCK1/Dok-R	ACTIVATION
+Tie2/Ang1	PLD2	ACTIVATION
+Tie2/Ang1	PI3K	ACTIVATION
+Tie2/Ang1	MAPK8	ACTIVATION
+Tie2/Ang1	Tie2/Ang1	transport
+Tie2/Ang1	MAPK14	ACTIVATION
+Tie2/Ang1	FES	ACTIVATION
+Tie2/Ang1	RasGAP/Dok-R	ACTIVATION
+Tie2/Ang1	BMX	ACTIVATION
+Tie2/Ang1	MMP2	ACTIVATION
+Tie2/Ang1	Crk/Dok-R	ACTIVATION
+MAPK14	MAPK14	-a>
+AKT1	AKT1	-a>
+AKT1	None	ACTIVATION
+AKT1	NOS3	ACTIVATION
+AKT1	FOXO1	ACTIVATION
+FOXO1	FOXO1	-a>
+PTK2	PTK2	-a>
+PTK2	PXN	ACTIVATION
+CRK	Crk/Dok-R	component>
+NCK1/PAK1/Dok-R	None	ACTIVATION
+O2	NADP	-a>
+O2	L-citrulline	-a>
+O2	NO	-a>
+DOK2	RasGAP/Dok-R	component>
+DOK2	NCK1/PAK1/Dok-R	component>
+DOK2	NCK1/Dok-R	component>
+DOK2	Crk/Dok-R	component>
+TEK	Tie2/Ang1/ABIN2	component>
+TEK	Tie2/Ang1/alpha5/beta1 Integrin	component>
+TEK	Tie2/Ang2	component>
+TEK	Tie2/Ang1/GRB14	component>
+TEK	Tie2/Ang1/Shc	component>
+TEK	Tie2/Ang1	component>
+TEK	Tie2/Ang1/GRB2	component>
+TEK	Tie2/SHP2	component>
+TEK	Tie2/Ang1/GRB7	component>
+NO	None	ACTIVATION
+PIK3CA	PI3K	component>
+PI3K	RAC1/GTP	ACTIVATION
+PI3K	PI3K	transport
+PI3K	PTK2	ACTIVATION
+PI3K	RPS6KB1	ACTIVATION
+PI3K	AKT1	ACTIVATION
+STAT5A	STAT5A (dimer)	component>
+GRB2	Tie2/Ang1/GRB2	component>
+PXN	PXN	-a>
+PIK3R1	PI3K	component>
+ANGPT2	Tie2/Ang2	component>
+RAC1/GTP	None	ACTIVATION
+RAC1/GTP	NCK1/PAK1/Dok-R	ACTIVATION
+BMX	BMX	-a>
+ROS	NCK1/PAK1/Dok-R	ACTIVATION
+ITGB1	Tie2/Ang1/alpha5/beta1 Integrin	component>
+Phosphatidylcholine	Phosphatidic acid	-a>
+Phosphatidylcholine	Choline	-a>
+NOS3	NOS3	-a>
+NOS3	L-citrulline	ACTIVATION
+FN1	Fibronectin	component>
+SHC1	Tie2/Ang1/Shc	component>
+RAC1	RAC1/GDP	component>
+RAC1	RAC1/GTP	component>
+RAC1/GDP	RAC1/GTP	-a>
+MAPK8	MAPK8	-a>
+Tie2/Ang1/ABIN2	NF kappa B/RelA	ACTIVATION
+ERK1-2	Erk1-2-active	-a>
+GTP	RAC1/GTP	component>
+NF kappa B/RelA	NF kappa B/RelA	-a>
+FES	FES	-a>
+FES	PI3K	ACTIVATION
+NFKB1	NF kappa B/RelA	component>
+None	http://pid.nci.nih.gov/biopaxpid_70739	ACTIVATION
+None	Tie2/SHP2	ACTIVATION
+None	http://pid.nci.nih.gov/biopaxpid_70874	ACTIVATION
+RPS6KB1	RPS6KB1	-a>
+RASA1	RasGAP/Dok-R	component>
+GDP	RAC1/GDP	component>
+NADPH	NADP	-a>
+NADPH	L-citrulline	-a>
+NADPH	NO	-a>
+Tie2/Ang1/Shc	None	ACTIVATION
+Tie2/Ang1/Shc	PI3K	ACTIVATION
+ANGPT1	Tie2/Ang1/ABIN2	component>
+ANGPT1	Tie2/Ang1/alpha5/beta1 Integrin	component>
+ANGPT1	Tie2/Ang1/GRB14	component>
+ANGPT1	Tie2/Ang1/Shc	component>
+ANGPT1	Tie2/Ang1	component>
+ANGPT1	Tie2/Ang1/GRB2	component>
+ANGPT1	Tie2/Ang1/GRB7	component>
+NCK1	NCK1/PAK1/Dok-R	component>
+NCK1	NCK1/Dok-R	component>
+PLD2	Phosphatidic acid	ACTIVATION
+PLD2	Erk1-2-active	ACTIVATION
+PLD2	None	ACTIVATION
+PLD2	PLD2	-a>
+L-arginine	NADP	-a>
+L-arginine	L-citrulline	-a>
+L-arginine	NO	-a>
+PTPN11	Tie2/SHP2	component>
+GRB14	Tie2/Ang1/GRB14	component>
+PLG	PLG	transport
+Fibronectin	Tie2/Ang1/alpha5/beta1 Integrin	ACTIVATION
+ELK1	ELK1	-a>
+GRB7	Tie2/Ang1/GRB7	component>
+MMP2	MMP2	transport
+PAK1	NCK1/PAK1/Dok-R	component>

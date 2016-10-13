@@ -1,0 +1,152 @@
+protein	ATF2
+complex	ATF2/JUN
+complex	ATF2/JUNB
+complex	ATF2/JUND
+protein	ATF3
+protein	BAG1
+protein	COPS5
+protein	CREB1
+protein	CRTC1
+protein	CTNNB1
+protein	EP300
+protein	ESR1
+protein	FOS
+protein	FOSB
+complex	FOSB/MAFG
+protein	FOSL1
+protein	FOSL2
+complex	Fra1/JUN
+complex	Fra1/JUNB
+complex	Fra1/JUND
+complex	Fra2/JUN
+complex	Fra2/JUNB
+complex	Fra2/JUND
+protein	GATA2
+protein	JUN
+complex	JUN (dimer)
+protein	JUN-FOS
+complex	JUN/ATF3
+complex	JUN/CREB1
+complex	JUN/FOS
+complex	JUN/FOS/CRTC1
+complex	JUN/FOS/ER alpha
+complex	JUN/FOS/GATA2
+complex	JUN/FOS/GR/TRIP6/cortisol/GR alpha (dimer)
+complex	JUN/FOS/NFAT1-c-4-active
+complex	JUN/FOS/RACO-1
+complex	JUN/FOS/TCF4/beta catenin
+complex	JUN/FOS/TRIP6
+complex	JUN/FOSB
+complex	JUN/JUN-FOS
+complex	JUN/JUN-FOS/BAG1
+complex	JUN/JUN-FOS/JAB1
+complex	JUN/JUN-FOS/RACO-1
+complex	JUN/JUN-FOS/p300
+complex	JUN/JUNB
+complex	JUN/JUND
+protein	JUNB
+complex	JUNB (dimer)
+complex	JUNB (dimer)/p300
+complex	JUNB/FOS
+complex	JUNB/FOSB
+complex	JUNB/JUN-FOS
+protein	JUND
+complex	JUND (dimer)
+complex	JUND/FOS
+complex	JUND/FOSB
+protein	MAFG
+protein	NFAT1-c-4-active
+protein	NR3C1
+protein	RACO-1
+protein	TCF7L2
+protein	TRIP6
+SmallMolecule	cortisol
+BAG1	JUN/JUN-FOS/BAG1	component>
+NFAT1-c-4-active	JUN/FOS/NFAT1-c-4-active	component>
+FOSB	JUN/FOSB	component>
+FOSB	JUNB/FOSB	component>
+FOSB	JUND/FOSB	component>
+FOSB	FOSB/MAFG	component>
+JUND	JUN/JUND	component>
+JUND	Fra2/JUND	component>
+JUND	JUND (dimer)	component>
+JUND	Fra1/JUND	component>
+JUND	ATF2/JUND	component>
+JUND	JUND/FOS	component>
+JUND	JUND/FOSB	component>
+JUNB (dimer)	JUNB (dimer)	-a>
+MAFG	FOSB/MAFG	component>
+EP300	JUNB (dimer)/p300	component>
+EP300	JUN/JUN-FOS/p300	component>
+JUN	Fra2/JUN	component>
+JUN	JUN/FOS/ER alpha	component>
+JUN	JUN/FOS/RACO-1	component>
+JUN	JUN/FOS/TRIP6	component>
+JUN	JUN/JUN-FOS/BAG1	component>
+JUN	JUN (dimer)	component>
+JUN	ATF2/JUN	component>
+JUN	JUN/JUN-FOS/JAB1	component>
+JUN	JUN/JUN-FOS/p300	component>
+JUN	JUN/JUND	component>
+JUN	JUN/JUNB	component>
+JUN	JUN/JUN-FOS/RACO-1	component>
+JUN	JUN/CREB1	component>
+JUN	JUN/FOS/GR/TRIP6/cortisol/GR alpha (dimer)	component>
+JUN	JUN/FOS/CRTC1	component>
+JUN	JUN/FOSB	component>
+JUN	JUN/ATF3	component>
+JUN	JUN/FOS	component>
+JUN	JUN/JUN-FOS	component>
+JUN	JUN/FOS/TCF4/beta catenin	component>
+JUN	JUN/FOS/GATA2	component>
+JUN	Fra1/JUN	component>
+JUN	JUN/FOS/NFAT1-c-4-active	component>
+CTNNB1	JUN/FOS/TCF4/beta catenin	component>
+FOSL1	Fra1/JUND	component>
+FOSL1	Fra1/JUN	component>
+FOSL1	Fra1/JUNB	component>
+FOSL2	Fra2/JUNB	component>
+FOSL2	Fra2/JUN	component>
+FOSL2	Fra2/JUND	component>
+RACO-1	JUN/JUN-FOS/RACO-1	component>
+RACO-1	JUN/FOS/RACO-1	component>
+NR3C1	JUN/FOS/GR/TRIP6/cortisol/GR alpha (dimer)	component>
+JUNB	Fra2/JUNB	component>
+JUNB	ATF2/JUNB	component>
+JUNB	JUNB (dimer)/p300	component>
+JUNB	JUNB (dimer)	component>
+JUNB	JUNB/FOSB	component>
+JUNB	JUNB/FOS	component>
+JUNB	JUNB/JUN-FOS	component>
+JUNB	Fra1/JUNB	component>
+JUNB	JUN/JUNB	component>
+cortisol	JUN/FOS/GR/TRIP6/cortisol/GR alpha (dimer)	component>
+FOS	JUN/FOS/TCF4/beta catenin	component>
+FOS	JUN/FOS/CRTC1	component>
+FOS	JUN/FOS/GATA2	component>
+FOS	JUN/FOS/GR/TRIP6/cortisol/GR alpha (dimer)	component>
+FOS	JUN/FOS/NFAT1-c-4-active	component>
+FOS	JUN/FOS/ER alpha	component>
+FOS	JUN/FOS/RACO-1	component>
+FOS	JUNB/FOS	component>
+FOS	JUND/FOS	component>
+FOS	JUN/FOS	component>
+FOS	JUN/FOS/TRIP6	component>
+JUN-FOS	JUN/JUN-FOS/RACO-1	component>
+JUN-FOS	JUN/JUN-FOS/BAG1	component>
+JUN-FOS	JUN/JUN-FOS/JAB1	component>
+JUN-FOS	JUN/JUN-FOS/p300	component>
+JUN-FOS	JUNB/JUN-FOS	component>
+JUN-FOS	JUN/JUN-FOS	component>
+CREB1	JUN/CREB1	component>
+COPS5	JUN/JUN-FOS/JAB1	component>
+GATA2	JUN/FOS/GATA2	component>
+CRTC1	JUN/FOS/CRTC1	component>
+ESR1	JUN/FOS/ER alpha	component>
+TCF7L2	JUN/FOS/TCF4/beta catenin	component>
+TRIP6	JUN/FOS/TRIP6	component>
+TRIP6	JUN/FOS/GR/TRIP6/cortisol/GR alpha (dimer)	component>
+ATF3	JUN/ATF3	component>
+ATF2	ATF2/JUNB	component>
+ATF2	ATF2/JUN	component>
+ATF2	ATF2/JUND	component>

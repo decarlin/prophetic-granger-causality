@@ -1,0 +1,67 @@
+protein	CDH1
+complex	CDH1/APC/SMAD3
+protein	CREBBP
+protein	EP300
+protein	MAP2K1
+protein	MAP3K7
+protein	MAPK3
+protein	PROC
+protein	SKIL
+protein	SMAD2
+complex	SMAD2/SMAD2/SMAD4
+complex	SMAD2/SMAD2/SMAD4/p300/CBP
+protein	SMAD3
+complex	SMAD3/SMAD4
+complex	SMAD3/SMAD4/p300/CBP
+protein	SMAD4
+complex	SMAD4/SNON
+protein	SMAD7
+protein	TAB1
+complex	TAB1/TAK1
+protein	TGF-beta
+complex	TGF-beta/TGF-beta R1
+complex	TGF-beta/TGF-beta-R1/TGF-beta-R2
+complex	TGF-beta/TGF-beta/TGF-beta-R1/TGF-beta-R1/TGF-beta-R2/TGF-beta-R2
+protein	TGFBR1
+protein	TGFBR2
+SMAD4	SMAD2/SMAD2/SMAD4/p300/CBP	component>
+SMAD4	SMAD4/SNON	component>
+SMAD4	SMAD2/SMAD2/SMAD4	component>
+SMAD4	SMAD3/SMAD4	component>
+SMAD4	SMAD3/SMAD4/p300/CBP	component>
+SMAD7	SMAD2	INHIBITION
+SMAD7	SMAD3	INHIBITION
+SMAD2	SMAD2/SMAD2/SMAD4/p300/CBP	component>
+SMAD2	SMAD2/SMAD2/SMAD4	component>
+SMAD2	SMAD2	transport
+SMAD3	CDH1/APC/SMAD3	component>
+SMAD3	SMAD3/SMAD4	component>
+SMAD3	SMAD3/SMAD4/p300/CBP	component>
+SMAD3	SMAD3	-a>
+MAP2K1	MAPK3	ACTIVATION
+MAP2K1	MAP2K1	-a>
+SMAD2/SMAD2/SMAD4	SMAD2/SMAD2/SMAD4	transport
+MAP3K7	TAB1/TAK1	component>
+MAPK3	MAPK3	-a>
+CDH1	CDH1/APC/SMAD3	component>
+TGFBR2	TGF-beta/TGF-beta-R1/TGF-beta-R2	component>
+TGFBR2	TGF-beta/TGF-beta/TGF-beta-R1/TGF-beta-R1/TGF-beta-R2/TGF-beta-R2	component>
+TGFBR1	TGF-beta/TGF-beta R1	component>
+TGFBR1	TGF-beta/TGF-beta-R1/TGF-beta-R2	component>
+TGFBR1	TGF-beta/TGF-beta/TGF-beta-R1/TGF-beta-R1/TGF-beta-R2/TGF-beta-R2	component>
+TGF-beta/TGF-beta/TGF-beta-R1/TGF-beta-R1/TGF-beta-R2/TGF-beta-R2	TAB1/TAK1	ACTIVATION
+TGF-beta/TGF-beta/TGF-beta-R1/TGF-beta-R1/TGF-beta-R2/TGF-beta-R2	SMAD2	ACTIVATION
+TGF-beta/TGF-beta/TGF-beta-R1/TGF-beta-R1/TGF-beta-R2/TGF-beta-R2	SMAD3	ACTIVATION
+SKIL	SMAD4/SNON	component>
+TGF-beta	TGF-beta/TGF-beta R1	component>
+TGF-beta	TGF-beta/TGF-beta-R1/TGF-beta-R2	component>
+TGF-beta	TGF-beta/TGF-beta/TGF-beta-R1/TGF-beta-R1/TGF-beta-R2/TGF-beta-R2	component>
+EP300	SMAD2/SMAD2/SMAD4/p300/CBP	component>
+EP300	SMAD3/SMAD4/p300/CBP	component>
+TAB1/TAK1	MAP2K1	ACTIVATION
+TAB1	TAB1/TAK1	component>
+CDH1/APC/SMAD3	SMAD4	ACTIVATION
+CDH1/APC/SMAD3	CDH1/APC/SMAD3	transport
+PROC	CDH1/APC/SMAD3	component>
+CREBBP	SMAD2/SMAD2/SMAD4/p300/CBP	component>
+CREBBP	SMAD3/SMAD4/p300/CBP	component>

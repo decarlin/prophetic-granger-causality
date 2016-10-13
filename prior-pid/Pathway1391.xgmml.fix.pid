@@ -1,0 +1,41 @@
+SmallMolecule	1,2-diacyl-sn-glycerols
+protein	EGFR
+protein	GRB2
+complex	GRB2:SOS1
+complex	GRB2:SOS1:HB-EGF:p-6Y-EGFR
+complex	HB-EGF:p-6Y-EGFR
+complex	HB-EGF:p-6Y-EGFR dimer
+protein	HBEGF
+protein	HRAS
+protein	KRAS
+protein	NRAS
+protein	PRKCA
+complex	Protein Kinase C, alpha type: DAG
+protein	SOS1
+SmallMolecule	guanosine 5'-(trihydrogen diphosphate)
+SmallMolecule	guanosine triphosphate
+family	p21 RAS
+complex	p21 RAS:GDP
+complex	p21 RAS:GTP
+HB-EGF:p-6Y-EGFR	HB-EGF:p-6Y-EGFR dimer	component>
+SOS1	GRB2:SOS1	component>
+guanosine 5'-(trihydrogen diphosphate)	p21 RAS:GDP	component>
+PRKCA	Protein Kinase C, alpha type: DAG	component>
+EGFR	HB-EGF:p-6Y-EGFR	component>
+EGFR	HB-EGF:p-6Y-EGFR dimer	-a>
+HRAS	p21 RAS	member>
+p21 RAS:GDP	p21 RAS:GTP	-a>
+p21 RAS:GDP	guanosine 5'-(trihydrogen diphosphate)	-a>
+GRB2:SOS1	GRB2:SOS1:HB-EGF:p-6Y-EGFR	component>
+HBEGF	HBEGF	-a>
+HBEGF	HB-EGF:p-6Y-EGFR	component>
+HBEGF	HB-EGF:p-6Y-EGFR dimer	-a>
+GRB2	GRB2:SOS1	component>
+1,2-diacyl-sn-glycerols	Protein Kinase C, alpha type: DAG	component>
+p21 RAS	p21 RAS:GDP	component>
+p21 RAS	p21 RAS:GTP	component>
+HB-EGF:p-6Y-EGFR dimer	GRB2:SOS1:HB-EGF:p-6Y-EGFR	component>
+guanosine triphosphate	p21 RAS:GTP	component>
+guanosine triphosphate	guanosine 5'-(trihydrogen diphosphate)	-a>
+NRAS	p21 RAS	member>
+KRAS	p21 RAS	member>

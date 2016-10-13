@@ -1,0 +1,47 @@
+SmallMolecule	5'-GTP
+protein	AATF
+SmallMolecule	Adenosine triphosphate
+protein	BAD
+protein	BCL2L11
+SmallMolecule	H3adp
+protein	MAGED1
+protein	MAPK8
+protein	NGF
+complex	NGF ligand:p75NTR:NRAGE:CHE1
+complex	NGF:p75NTR:NRAGE
+protein	NGFR
+protein	RAC1
+complex	RAC1:GDP
+complex	RAC1:GTP
+SmallMolecule	guanosine 5'-(trihydrogen diphosphate)
+complex	mature NGF homodimer:p75NTR
+complex	mature beta-NGF homodimer
+RAC1:GDP	RAC1:GTP	-a>
+RAC1:GDP	guanosine 5'-(trihydrogen diphosphate)	-a>
+BCL2L11	H3adp	-a>
+BCL2L11	BAD	-a>
+BCL2L11	BCL2L11	-a>
+RAC1	RAC1:GTP	component>
+RAC1	RAC1:GDP	component>
+MAGED1	NGF ligand:p75NTR:NRAGE:CHE1	component>
+MAGED1	NGF:p75NTR:NRAGE	component>
+mature beta-NGF homodimer	mature NGF homodimer:p75NTR	component>
+mature NGF homodimer:p75NTR	NGF ligand:p75NTR:NRAGE:CHE1	component>
+mature NGF homodimer:p75NTR	NGF:p75NTR:NRAGE	component>
+NGF	mature beta-NGF homodimer	component>
+NGF:p75NTR:NRAGE	NGF ligand:p75NTR:NRAGE:CHE1	-a>
+Adenosine triphosphate	H3adp	-a>
+Adenosine triphosphate	BAD	-a>
+Adenosine triphosphate	BCL2L11	-a>
+Adenosine triphosphate	MAPK8	-a>
+5'-GTP	RAC1:GTP	component>
+5'-GTP	RAC1:GTP	-a>
+5'-GTP	guanosine 5'-(trihydrogen diphosphate)	-a>
+BAD	H3adp	-a>
+BAD	BAD	-a>
+BAD	BCL2L11	-a>
+AATF	NGF ligand:p75NTR:NRAGE:CHE1	component>
+NGFR	mature NGF homodimer:p75NTR	component>
+MAPK8	H3adp	-a>
+MAPK8	MAPK8	-a>
+guanosine 5'-(trihydrogen diphosphate)	RAC1:GDP	component>

@@ -1,0 +1,51 @@
+complex	14-3-3/HDAC5
+protein	AKT1
+protein	AVP
+protein	CABIN1
+SmallMolecule	Ca ++
+protein	CaM
+complex	CaM/Ca ++
+protein	CaMKI
+complex	CaMKI/CaM/Ca ++
+protein	HDAC5
+complex	HDAC5/MEF2
+protein	MAPK14
+protein	MEF2
+complex	MEF2/MYOD
+protein	MYOD1
+protein	PDPK1
+complex	PI3K
+protein	PIK3CA
+protein	PIK3R1
+SmallMolecule	PIP2
+SmallMolecule	PIP3
+protein	YWHAH
+HDAC5	HDAC5/MEF2	component>
+HDAC5	HDAC5	transport
+HDAC5	14-3-3/HDAC5	component>
+MAPK14	MEF2/MYOD	ACTIVATION
+AKT1	AKT1	-a>
+AKT1	MEF2/MYOD	ACTIVATION
+MEF2	HDAC5/MEF2	component>
+MEF2	MEF2/MYOD	component>
+CaM/Ca ++	CABIN1	ACTIVATION
+MYOD1	MEF2/MYOD	component>
+CABIN1	CABIN1	-a>
+CABIN1	MEF2/MYOD	INHIBITION
+PIK3CA	PI3K	component>
+PIP2	PIP3	-a>
+CaMKI	CaMKI/CaM/Ca ++	component>
+YWHAH	14-3-3/HDAC5	component>
+PIK3R1	PI3K	component>
+PIP3	PDPK1	ACTIVATION
+PI3K	PIP3	ACTIVATION
+Ca ++	CaM/Ca ++	component>
+Ca ++	CaMKI/CaM/Ca ++	component>
+Ca ++	Ca ++	transport
+MEF2/MYOD	MEF2/MYOD	-a>
+AVP	Ca ++	ACTIVATION
+CaMKI/CaM/Ca ++	HDAC5	ACTIVATION
+CaM	CaM/Ca ++	component>
+CaM	CaMKI/CaM/Ca ++	component>
+PDPK1	AKT1	ACTIVATION
+PDPK1	PDPK1	-a>

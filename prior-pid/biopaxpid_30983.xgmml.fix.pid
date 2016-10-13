@@ -1,0 +1,76 @@
+protein	AGRP
+protein	APH1A
+protein	APH1B
+protein	CASK
+protein	CTTN
+protein	EGFR
+protein	FGF
+protein	FGFR
+complex	FGFR/FGF/Syndecan-3
+protein	FYN
+complex	Gamma Secretase
+protein	IL8
+protein	MC4R
+protein	MMPs
+protein	NCAN
+protein	NCSTN
+protein	None
+protein	PKC
+protein	POMC
+protein	PSEN1
+protein	PSENEN
+protein	PTN
+protein	SDC3
+protein	SRC
+complex	Syndecan-3/AgRP
+complex	Syndecan-3/AgRP/MC4R
+complex	Syndecan-3/CASK
+complex	Syndecan-3/EGFR
+complex	Syndecan-3/Fyn/Cortactin
+complex	Syndecan-3/IL8
+complex	Syndecan-3/Neurocan
+complex	Syndecan-3/Src/Cortactin
+complex	alpha-MSH/MC4R
+CTTN	Syndecan-3/Fyn/Cortactin	component>
+CTTN	Syndecan-3/Src/Cortactin	component>
+Syndecan-3/Src/Cortactin	None	ACTIVATION
+FYN	Syndecan-3/Fyn/Cortactin	component>
+EGFR	Syndecan-3/EGFR	component>
+AGRP	Syndecan-3/AgRP/MC4R	component>
+AGRP	Syndecan-3/AgRP	component>
+NCSTN	Gamma Secretase	component>
+PSENEN	Gamma Secretase	component>
+MC4R	Syndecan-3/AgRP/MC4R	component>
+MC4R	alpha-MSH/MC4R	component>
+APH1B	Gamma Secretase	component>
+APH1A	Gamma Secretase	component>
+NCAN	Syndecan-3/Neurocan	component>
+PSEN1	Gamma Secretase	component>
+Syndecan-3/Neurocan	None	ACTIVATION
+CASK	Syndecan-3/CASK	component>
+PKC	SDC3	ACTIVATION
+FGF	FGFR/FGF/Syndecan-3	component>
+MMPs	SDC3	ACTIVATION
+SRC	Syndecan-3/Src/Cortactin	component>
+None	Syndecan-3/IL8	ACTIVATION
+None	None	ACTIVATION
+None	SDC3	ACTIVATION
+PTN	Syndecan-3/Src/Cortactin	ACTIVATION
+FGFR/FGF/Syndecan-3	None	ACTIVATION
+Gamma Secretase	SDC3	ACTIVATION
+POMC	alpha-MSH/MC4R	component>
+Syndecan-3/AgRP/MC4R	None	ACTIVATION
+SDC3	Syndecan-3/Src/Cortactin	component>
+SDC3	FGFR/FGF/Syndecan-3	component>
+SDC3	SDC3	-a>
+SDC3	Syndecan-3/Neurocan	component>
+SDC3	Syndecan-3/EGFR	component>
+SDC3	Syndecan-3/AgRP/MC4R	component>
+SDC3	Syndecan-3/IL8	component>
+SDC3	Syndecan-3/AgRP	component>
+SDC3	Syndecan-3/Fyn/Cortactin	component>
+SDC3	Syndecan-3/CASK	component>
+FGFR	FGFR/FGF/Syndecan-3	component>
+Syndecan-3/IL8	None	ACTIVATION
+Syndecan-3/Fyn/Cortactin	None	ACTIVATION
+IL8	Syndecan-3/IL8	component>

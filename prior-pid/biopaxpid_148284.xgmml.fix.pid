@@ -1,0 +1,186 @@
+protein	ATF2
+protein	CBX4
+protein	CCNA2
+protein	CCNE1
+protein	CDK2
+complex	CDK2/Cyclin A
+complex	CDK2/Cyclin E1
+protein	CDK4-6
+complex	CDK4-6/Cyclin D
+complex	CDK4-6/Cyclin D/p16INK4a
+protein	CDKN1A
+protein	CDKN1B
+protein	CDKN2A
+protein	CTBP1
+SmallMolecule	Ca2+
+protein	Cbp/p300
+protein	Cyclin D
+protein	DNMT1
+protein	E2F1-3
+protein	E2F4
+protein	ELF1
+protein	GSC
+protein	HDAC1
+protein	HDAC3
+protein	ID2
+protein	JUN
+protein	MAPK9
+protein	MDM2
+protein	MEF2C
+protein	MYOD1
+protein	None
+protein	PPARG
+protein	PPP2CA
+complex	PPP2CA/PR70
+protein	PPP2R3B
+protein	RAF1
+protein	RB1
+complex	RB1/E2F1-3
+complex	RB1/E2F1-3/DP
+complex	RB1/E2F1-3/DP/HDAC1
+complex	RB1/E2F1-3/DP/HDAC1/DNMT1
+complex	RB1/E2F1-3/DP/HDAC1/RBBP4
+complex	RB1/E2F1-3/DP/HDAC3
+complex	RB1/E2F1-3/DP/HDAC3/RBBP4
+complex	RB1/E2F1-3/DP/SPI1
+complex	RB1/E2F1-3/DP/SUV39H1
+complex	RB1/E2F1-3/Elf1
+complex	RB1/E2F4/DP
+complex	RB1/E2F4/DP/CtBP
+complex	RB1/E2F4/DP/CtBP/hPC2
+complex	RB1/ID2
+complex	RB1/JUN
+complex	RB1/PPARG/HDAC3
+protein	RBBP4
+protein	SIRT1
+protein	SKP2
+complex	SKP2/RB1
+complex	SKP2/p27Kip1
+protein	SPI1
+complex	SPI1/GSC
+complex	SPI1/TBP
+protein	SUV39H1
+protein	TAF1
+protein	TBP
+protein	TFDP1
+protein	UBTF
+complex	p21CIP1/CDK2
+complex	p27Kip1/CDK2
+protein	p38alpha-beta-active
+Cyclin D	CDK4-6/Cyclin D/p16INK4a	component>
+Cyclin D	CDK4-6/Cyclin D	component>
+HDAC3	RB1/PPARG/HDAC3	component>
+HDAC3	RB1/E2F1-3/DP/HDAC3	component>
+HDAC3	RB1/E2F1-3/DP/HDAC3/RBBP4	component>
+p21CIP1/CDK2	RB1	INHIBITION
+RB1/E2F1-3/DP/SPI1	None	ACTIVATION
+CDK4-6	CDK4-6/Cyclin D/p16INK4a	component>
+CDK4-6	CDK4-6/Cyclin D	component>
+PPP2R3B	PPP2CA/PR70	component>
+CDKN1B	SKP2/p27Kip1	component>
+CDKN1B	p27Kip1/CDK2	component>
+CDKN1A	p21CIP1/CDK2	component>
+DNMT1	RB1/E2F1-3/DP/HDAC1/DNMT1	component>
+ELF1	RB1/E2F1-3/Elf1	component>
+GSC	SPI1/GSC	component>
+RB1/E2F1-3/DP	MEF2C	ACTIVATION
+RB1/E2F1-3/DP	SPI1/TBP	INHIBITION
+SKP2/RB1	None	INHIBITION
+CBX4	RB1/E2F4/DP/CtBP/hPC2	component>
+RAF1	RB1	ACTIVATION
+UBTF	None	ACTIVATION
+MEF2C	MEF2C	-a>
+SKP2	SKP2/RB1	component>
+SKP2	SKP2/p27Kip1	component>
+SPI1	SPI1/GSC	component>
+SPI1	SPI1/TBP	component>
+SPI1	RB1/E2F1-3/DP/SPI1	component>
+RB1/E2F1-3/DP/SUV39H1	None	ACTIVATION
+JUN	RB1/JUN	component>
+RB1	RB1/JUN	component>
+RB1	SKP2/RB1	component>
+RB1	RB1/E2F1-3/DP/SPI1	component>
+RB1	RB1/E2F1-3/DP/HDAC1	component>
+RB1	RB1/E2F1-3/DP/HDAC1/DNMT1	component>
+RB1	CDKN1B	-a>
+RB1	RB1/E2F1-3/DP/HDAC3/RBBP4	component>
+RB1	RB1/E2F1-3/DP	component>
+RB1	RB1/E2F1-3/DP/HDAC3	component>
+RB1	RB1/E2F1-3/DP/HDAC1/RBBP4	component>
+RB1	RB1/E2F1-3/DP/SUV39H1	component>
+RB1	RB1	-a>
+RB1	RB1/PPARG/HDAC3	component>
+RB1	RB1/E2F1-3/Elf1	component>
+RB1	RB1/E2F4/DP	component>
+RB1	RB1/E2F1-3	component>
+RB1	None	INHIBITION
+RB1	RB1/E2F4/DP/CtBP	component>
+RB1	RB1/E2F4/DP/CtBP/hPC2	component>
+RB1	TAF1	ACTIVATION
+RB1	RB1/ID2	component>
+RB1	ATF2	ACTIVATION
+CDK2/Cyclin E1	RB1	ACTIVATION
+Ca2+	RB1	ACTIVATION
+RB1/PPARG/HDAC3	None	INHIBITION
+Cbp/p300	RB1	ACTIVATION
+p38alpha-beta-active	ATF2	ACTIVATION
+None	RB1/E2F1-3	ACTIVATION
+None	RB1/E2F4/DP	ACTIVATION
+None	RB1	ACTIVATION
+CDKN2A	CDK4-6/Cyclin D/p16INK4a	component>
+SUV39H1	RB1/E2F1-3/DP/SUV39H1	component>
+SKP2/p27Kip1	CDKN1B	-a>
+SKP2/p27Kip1	SKP2/RB1	-a>
+PPARG	RB1/PPARG/HDAC3	component>
+CDK4-6/Cyclin D	HDAC1	ACTIVATION
+CDK4-6/Cyclin D	SUV39H1	ACTIVATION
+E2F1-3	RB1/E2F1-3	component>
+E2F1-3	RB1/E2F1-3/DP/HDAC1/RBBP4	component>
+E2F1-3	RB1/E2F1-3/DP/HDAC3	component>
+E2F1-3	RB1/E2F1-3/DP/SPI1	component>
+E2F1-3	RB1/E2F1-3/DP/HDAC1	component>
+E2F1-3	RB1/E2F1-3/DP/HDAC1/DNMT1	component>
+E2F1-3	RB1/E2F1-3/DP/SUV39H1	component>
+E2F1-3	RB1/E2F1-3/DP/HDAC3/RBBP4	component>
+E2F1-3	RB1/E2F1-3/DP	component>
+E2F1-3	RB1/E2F1-3/Elf1	component>
+PPP2CA/PR70	RB1	ACTIVATION
+CDK2/Cyclin A	RB1	ACTIVATION
+CCNA2	CDK2/Cyclin A	component>
+MDM2	None	ACTIVATION
+MYOD1	MEF2C	ACTIVATION
+MAPK9	ATF2	ACTIVATION
+E2F4	RB1/E2F4/DP/CtBP/hPC2	component>
+E2F4	RB1/E2F4/DP	component>
+E2F4	RB1/E2F4/DP/CtBP	component>
+CCNE1	CDK2/Cyclin E1	component>
+TAF1	TAF1	-a>
+PPP2CA	PPP2CA/PR70	component>
+TBP	SPI1/TBP	component>
+ID2	RB1/ID2	component>
+RBBP4	RB1/E2F1-3/DP/HDAC1/RBBP4	component>
+RBBP4	RB1/E2F1-3/DP/HDAC3/RBBP4	component>
+CDK4-6/Cyclin D/p16INK4a	HDAC1	INHIBITION
+CDK2	CDK2/Cyclin A	component>
+CDK2	p21CIP1/CDK2	component>
+CDK2	p27Kip1/CDK2	component>
+CDK2	CDK2/Cyclin E1	component>
+SPI1/GSC	None	INHIBITION
+HDAC1	RB1/E2F1-3/DP/HDAC1/RBBP4	component>
+HDAC1	RB1/E2F1-3/DP/HDAC1	component>
+HDAC1	RB1/E2F1-3/DP/HDAC1/DNMT1	component>
+SIRT1	RB1	ACTIVATION
+CTBP1	RB1/E2F4/DP/CtBP/hPC2	component>
+CTBP1	RB1/E2F4/DP/CtBP	component>
+TFDP1	RB1/E2F4/DP/CtBP/hPC2	component>
+TFDP1	RB1/E2F1-3/DP/HDAC3	component>
+TFDP1	RB1/E2F1-3/DP/SPI1	component>
+TFDP1	RB1/E2F1-3/DP/HDAC1	component>
+TFDP1	RB1/E2F1-3/DP/HDAC1/DNMT1	component>
+TFDP1	RB1/E2F1-3/DP/SUV39H1	component>
+TFDP1	RB1/E2F1-3/DP/HDAC3/RBBP4	component>
+TFDP1	RB1/E2F1-3/DP/HDAC1/RBBP4	component>
+TFDP1	RB1/E2F1-3/DP	component>
+TFDP1	RB1/E2F4/DP	component>
+TFDP1	RB1/E2F4/DP/CtBP	component>
+ATF2	ATF2	-a>

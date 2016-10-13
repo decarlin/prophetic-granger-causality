@@ -1,0 +1,97 @@
+SmallMolecule	3',5'-cyclic amp
+protein	AC
+protein	CREB1
+SmallMolecule	Ca ++
+protein	CaM
+complex	CaM/Ca ++
+complex	Calcineurin
+SmallMolecule	DAG
+protein	ELK1
+complex	G-alpha-I/G-beta/G-gamma
+protein	G-alpha-S
+complex	G-alpha-S/AC
+protein	GNAI1
+protein	GNAQ
+protein	GNB1
+protein	GNGT1
+protein	HRAS
+SmallMolecule	IP3
+protein	MAP2K1
+protein	MAPK3
+protein	NFATc
+SmallMolecule	PIP2
+complex	PKA
+protein	PKC
+protein	PLCG1
+protein	PPP3CA
+protein	PPP3CB
+protein	PPP3CC
+protein	PRKACB
+protein	PRKACG
+protein	PRKAR1A
+protein	PRKAR1B
+protein	PRKAR2A
+protein	PRKAR2B
+protein	RAF1
+protein	RPS6KA3
+SmallMolecule	adenosine 5'-triphosphate
+SmallMolecule	guanosine 5`-triphosphate
+SmallMolecule	nucleoside diphosphate
+guanosine 5`-triphosphate	HRAS	-a>
+guanosine 5`-triphosphate	nucleoside diphosphate	-a>
+HRAS	guanosine 5`-triphosphate	-a>
+HRAS	HRAS	-a>
+HRAS	nucleoside diphosphate	-a>
+HRAS	RAF1	ACTIVATION
+PRKAR2A	PKA	component>
+IP3	Ca ++	ACTIVATION
+MAP2K1	MAPK3	ACTIVATION
+MAP2K1	MAP2K1	-a>
+PRKAR2B	PKA	component>
+CaM/Ca ++	Calcineurin	ACTIVATION
+RAF1	MAP2K1	ACTIVATION
+RAF1	RAF1	-a>
+GNAI1	G-alpha-I/G-beta/G-gamma	component>
+G-alpha-S/AC	G-alpha-S/AC	-a>
+G-alpha-S/AC	3',5'-cyclic amp	ACTIVATION
+PKC	PKC	-a>
+PKC	RAF1	ACTIVATION
+nucleoside diphosphate	guanosine 5`-triphosphate	-a>
+nucleoside diphosphate	HRAS	-a>
+PIP2	IP3	-a>
+PIP2	DAG	-a>
+G-alpha-I/G-beta/G-gamma	HRAS	ACTIVATION
+G-alpha-I/G-beta/G-gamma	G-alpha-S/AC	ACTIVATION
+MAPK3	ELK1	ACTIVATION
+MAPK3	MAPK3	-a>
+MAPK3	RPS6KA3	ACTIVATION
+PKA	PKA	-a>
+PKA	CREB1	ACTIVATION
+adenosine 5'-triphosphate	3',5'-cyclic amp	-a>
+NFATc	NFATc	transport
+3',5'-cyclic amp	PKA	ACTIVATION
+AC	G-alpha-S/AC	component>
+Calcineurin	Calcineurin	-a>
+Calcineurin	NFATc	ACTIVATION
+CaM	CaM/Ca ++	component>
+Ca ++	PKC	ACTIVATION
+Ca ++	CaM/Ca ++	component>
+Ca ++	Ca ++	transport
+GNB1	G-alpha-I/G-beta/G-gamma	component>
+CREB1	CREB1	-a>
+DAG	PKC	ACTIVATION
+PRKAR1A	PKA	component>
+PRKAR1B	PKA	component>
+G-alpha-S	G-alpha-S/AC	component>
+RPS6KA3	RPS6KA3	-a>
+RPS6KA3	CREB1	ACTIVATION
+GNAQ	PLCG1	ACTIVATION
+PLCG1	PLCG1	-a>
+PLCG1	DAG	ACTIVATION
+PRKACG	PKA	component>
+ELK1	ELK1	-a>
+GNGT1	G-alpha-I/G-beta/G-gamma	component>
+PRKACB	PKA	component>
+PPP3CA	Calcineurin	component>
+PPP3CB	Calcineurin	component>
+PPP3CC	Calcineurin	component>

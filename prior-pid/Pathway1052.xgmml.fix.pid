@@ -1,0 +1,15 @@
+SmallMolecule	1,2-diacyl-sn-glycerols
+complex	Activated conventional protein kinase C
+protein	PRKCA
+protein	PRKCB
+protein	PRKCG
+family	Protein Kinase C, conventional
+SmallMolecule	calcium, doubly charged positive ion
+SmallMolecule	phosphatidyl-L-serines
+phosphatidyl-L-serines	Activated conventional protein kinase C	-a>
+PRKCA	Protein Kinase C, conventional	member>
+PRKCB	Protein Kinase C, conventional	member>
+PRKCG	Protein Kinase C, conventional	member>
+1,2-diacyl-sn-glycerols	Activated conventional protein kinase C	-a>
+Protein Kinase C, conventional	Activated conventional protein kinase C	-a>
+calcium, doubly charged positive ion	Activated conventional protein kinase C	-a>

@@ -1,0 +1,219 @@
+protein	ABI1
+complex	ABI1/Sra1/Nap1
+protein	AKT1
+protein	AP1M1
+protein	ARF6
+complex	ARF6/GTP/NME1/Tiam1
+complex	Arp2/3 complex
+protein	CCND1
+protein	CDC42
+complex	CDC42/GDP
+complex	CDC42/GTP
+complex	CDC42/GTP/IQGAP1
+protein	CDH1
+complex	CK2
+protein	CRK
+protein	CTNNA1
+protein	CTNNB1
+protein	CTNND1
+protein	CTTN
+protein	CYFIP2
+protein	Ca2+
+protein	DLG1
+complex	E-cadherin(dimer)/Ca2+
+complex	E-cadherin/Ca2+/beta catenin/alpha catenin
+complex	E-cadherin/Ca2+/beta catenin/alpha catenin/p120 catenin
+complex	E-cadherin/Ca2+/gamma catenin/alpha catenin/p120 catenin
+complex	E-cadherin/beta catenin
+complex	E-cadherin/beta catenin/alpha catenin
+complex	E-cadherin/beta catenin/alpha catenin/alpha E/beta7 Integrin
+complex	E-cadherin/beta catenin/alpha catenin/p120 catenin
+complex	E-cadherin/gamma catenin/alpha catenin
+complex	E-cadherin/gamma catenin/alpha catenin/alphaE/beta7 Integrin
+protein	ENAH
+SmallMolecule	GDP
+SmallMolecule	GTP
+protein	IQGAP1
+protein	ITGAE
+protein	ITGB7
+protein	JUP
+protein	KLHL20
+protein	MLLT4
+protein	NCKAP1
+protein	NME1
+protein	None
+SmallMolecule	PI-3-4-5-P3
+SmallMolecule	PI-4-5-P2
+complex	PI3K
+protein	PIK3CA
+protein	PIK3R1
+protein	PIP5K1C
+complex	PIP5K1C/AP1M1
+protein	RAC1
+complex	RAC1/GDP
+complex	RAC1/GTP
+complex	RAC1/GTP/IQGAP1
+protein	RAP1
+complex	RAP1/GDP
+complex	RAP1/GTP
+protein	RAPGEF1
+protein	RHOA
+complex	RHOA/GDP
+complex	Rap1/GTP/I-afadin
+protein	SRC
+protein	TIAM1
+protein	TJP1
+protein	VAV2
+protein	WASF2
+protein	alpha catenin
+complex	p120 catenin/RhoA/GDP
+CTTN	CTTN	transport
+CTTN	Arp2/3 complex	ACTIVATION
+KLHL20	None	ACTIVATION
+KLHL20	KLHL20	transport
+CYFIP2	ABI1/Sra1/Nap1	component>
+RAP1/GDP	GDP	-a>
+RAP1/GDP	RAP1/GTP	-a>
+ENAH	ENAH	transport
+ENAH	Arp2/3 complex	ACTIVATION
+AP1M1	PIP5K1C/AP1M1	component>
+CTNNB1	E-cadherin/beta catenin/alpha catenin/alpha E/beta7 Integrin	component>
+CTNNB1	E-cadherin/beta catenin	component>
+CTNNB1	E-cadherin/Ca2+/beta catenin/alpha catenin	component>
+CTNNB1	E-cadherin/beta catenin/alpha catenin/p120 catenin	component>
+CTNNB1	E-cadherin(dimer)/Ca2+	component>
+CTNNB1	E-cadherin/beta catenin/alpha catenin	component>
+CTNNB1	E-cadherin/Ca2+/beta catenin/alpha catenin/p120 catenin	component>
+CDC42/GTP	None	ACTIVATION
+ABI1/Sra1/Nap1	WASF2	ACTIVATION
+VAV2	GDP	ACTIVATION
+VAV2	VAV2	-a>
+RAPGEF1	RAP1/GTP	ACTIVATION
+RAPGEF1	RAPGEF1	-a>
+CTNND1	E-cadherin/beta catenin/alpha catenin/p120 catenin	component>
+CTNND1	E-cadherin(dimer)/Ca2+	component>
+CTNND1	p120 catenin/RhoA/GDP	component>
+CTNND1	E-cadherin/Ca2+/gamma catenin/alpha catenin/p120 catenin	component>
+CTNND1	E-cadherin/Ca2+/beta catenin/alpha catenin/p120 catenin	component>
+CRK	CRK	-a>
+CRK	RAPGEF1	ACTIVATION
+IQGAP1	RAC1/GTP/IQGAP1	component>
+IQGAP1	CDC42/GTP/IQGAP1	component>
+NCKAP1	ABI1/Sra1/Nap1	component>
+Rap1/GTP/I-afadin	E-cadherin/Ca2+/beta catenin/alpha catenin/p120 catenin	ACTIVATION
+DLG1	DLG1	-a>
+DLG1	PI3K	ACTIVATION
+WASF2	WASF2	transport
+WASF2	Arp2/3 complex	ACTIVATION
+TIAM1	ARF6/GTP/NME1/Tiam1	component>
+MLLT4	Rap1/GTP/I-afadin	component>
+ARF6/GTP/NME1/Tiam1	GDP	INHIBITION
+RAC1	RAC1/GTP/IQGAP1	component>
+RAC1	RAC1/GDP	component>
+RAC1	RAC1/GTP	component>
+ARF6	ARF6/GTP/NME1/Tiam1	component>
+SRC	SRC	-a>
+SRC	PI3K	ACTIVATION
+SRC	VAV2	ACTIVATION
+SRC	CRK	ACTIVATION
+Ca2+	E-cadherin(dimer)/Ca2+	component>
+Ca2+	E-cadherin/Ca2+/gamma catenin/alpha catenin/p120 catenin	component>
+Ca2+	E-cadherin/Ca2+/beta catenin/alpha catenin	-a>
+Ca2+	E-cadherin/Ca2+/beta catenin/alpha catenin	component>
+Ca2+	E-cadherin/Ca2+/beta catenin/alpha catenin/p120 catenin	component>
+JUP	E-cadherin/gamma catenin/alpha catenin/alphaE/beta7 Integrin	component>
+JUP	E-cadherin/Ca2+/gamma catenin/alpha catenin/p120 catenin	component>
+JUP	E-cadherin/gamma catenin/alpha catenin	component>
+E-cadherin/gamma catenin/alpha catenin/alphaE/beta7 Integrin	None	ACTIVATION
+PI-4-5-P2	PI-3-4-5-P3	-a>
+CDH1	E-cadherin/Ca2+/gamma catenin/alpha catenin/p120 catenin	component>
+CDH1	E-cadherin/beta catenin/alpha catenin/alpha E/beta7 Integrin	component>
+CDH1	E-cadherin/beta catenin	component>
+CDH1	E-cadherin/Ca2+/beta catenin/alpha catenin	component>
+CDH1	E-cadherin/gamma catenin/alpha catenin	component>
+CDH1	E-cadherin/gamma catenin/alpha catenin/alphaE/beta7 Integrin	component>
+CDH1	E-cadherin(dimer)/Ca2+	component>
+CDH1	E-cadherin/beta catenin/alpha catenin/p120 catenin	component>
+CDH1	E-cadherin/beta catenin/alpha catenin	component>
+CDH1	E-cadherin/Ca2+/beta catenin/alpha catenin/p120 catenin	component>
+RAC1/GTP	ABI1/Sra1/Nap1	ACTIVATION
+RAC1/GTP	KLHL20	ACTIVATION
+RAC1/GTP/IQGAP1	None	INHIBITION
+RAC1/GTP/IQGAP1	E-cadherin/beta catenin	INHIBITION
+None	E-cadherin/beta catenin	ACTIVATION
+None	E-cadherin/Ca2+/gamma catenin/alpha catenin/p120 catenin	ACTIVATION
+None	E-cadherin/Ca2+/beta catenin/alpha catenin	ACTIVATION
+ITGB7	E-cadherin/beta catenin/alpha catenin/alpha E/beta7 Integrin	component>
+ITGB7	E-cadherin/gamma catenin/alpha catenin/alphaE/beta7 Integrin	component>
+PI3K	VAV2	ACTIVATION
+PI3K	PI-3-4-5-P3	ACTIVATION
+PI3K	PI3K	-a>
+PI3K	PI3K	transport
+RAC1/GDP	GDP	-a>
+RAC1/GDP	RAC1/GTP	-a>
+PIK3R1	PI3K	component>
+CDC42/GTP/IQGAP1	None	INHIBITION
+CDC42/GTP/IQGAP1	E-cadherin/beta catenin	INHIBITION
+p120 catenin/RhoA/GDP	E-cadherin/beta catenin/alpha catenin/p120 catenin	-a>
+p120 catenin/RhoA/GDP	RHOA/GDP	-a>
+PIK3CA	PI3K	component>
+RHOA	p120 catenin/RhoA/GDP	component>
+RHOA	RHOA/GDP	component>
+E-cadherin/Ca2+/beta catenin/alpha catenin/p120 catenin	DLG1	ACTIVATION
+E-cadherin/Ca2+/beta catenin/alpha catenin/p120 catenin	SRC	ACTIVATION
+E-cadherin/Ca2+/beta catenin/alpha catenin/p120 catenin	None	ACTIVATION
+E-cadherin/Ca2+/beta catenin/alpha catenin/p120 catenin	CTTN	ACTIVATION
+E-cadherin/Ca2+/beta catenin/alpha catenin/p120 catenin	ENAH	ACTIVATION
+E-cadherin/Ca2+/beta catenin/alpha catenin/p120 catenin	TJP1	ACTIVATION
+RAP1/GTP	CDC42/GTP	ACTIVATION
+RAP1/GTP	PI3K	ACTIVATION
+CTNNA1	E-cadherin/Ca2+/gamma catenin/alpha catenin/p120 catenin	component>
+CTNNA1	E-cadherin/beta catenin/alpha catenin/p120 catenin	component>
+CTNNA1	E-cadherin/Ca2+/beta catenin/alpha catenin	component>
+CTNNA1	E-cadherin/gamma catenin/alpha catenin	component>
+CTNNA1	E-cadherin/gamma catenin/alpha catenin/alphaE/beta7 Integrin	component>
+CTNNA1	E-cadherin(dimer)/Ca2+	component>
+CTNNA1	E-cadherin/beta catenin/alpha catenin	component>
+CTNNA1	E-cadherin/Ca2+/beta catenin/alpha catenin/p120 catenin	component>
+GDP	CDC42/GDP	component>
+GDP	p120 catenin/RhoA/GDP	component>
+GDP	RAP1/GDP	component>
+GDP	RHOA/GDP	component>
+GDP	RAC1/GDP	component>
+GTP	GDP	-a>
+GTP	RAC1/GTP/IQGAP1	component>
+GTP	ARF6/GTP/NME1/Tiam1	component>
+GTP	CDC42/GTP/IQGAP1	component>
+GTP	CDC42/GTP	component>
+GTP	RAC1/GTP	component>
+GTP	RAP1/GTP	component>
+GTP	Rap1/GTP/I-afadin	component>
+TJP1	None	ACTIVATION
+TJP1	TJP1	transport
+NME1	ARF6/GTP/NME1/Tiam1	component>
+AKT1	AKT1	-a>
+PIP5K1C	PIP5K1C/AP1M1	component>
+RAP1	RAP1/GTP	component>
+RAP1	RAP1/GDP	component>
+RAP1	Rap1/GTP/I-afadin	component>
+Arp2/3 complex	None	ACTIVATION
+Arp2/3 complex	Arp2/3 complex	-a>
+E-cadherin/beta catenin	E-cadherin/beta catenin	transport
+PI-3-4-5-P3	AKT1	ACTIVATION
+CDC42/GDP	GDP	-a>
+CDC42/GDP	CDC42/GTP	-a>
+alpha catenin	E-cadherin/beta catenin/alpha catenin/alpha E/beta7 Integrin	component>
+alpha catenin	E-cadherin/beta catenin/alpha catenin	component>
+ABI1	ABI1/Sra1/Nap1	component>
+CCND1	None	ACTIVATION
+CK2	E-cadherin/beta catenin/alpha catenin	ACTIVATION
+E-cadherin/beta catenin/alpha catenin/alpha E/beta7 Integrin	None	ACTIVATION
+PIP5K1C/AP1M1	E-cadherin/beta catenin	ACTIVATION
+E-cadherin/beta catenin/alpha catenin	E-cadherin/beta catenin/alpha catenin/p120 catenin	-a>
+E-cadherin/beta catenin/alpha catenin	RHOA/GDP	-a>
+E-cadherin/beta catenin/alpha catenin	E-cadherin/Ca2+/beta catenin/alpha catenin	-a>
+ITGAE	E-cadherin/beta catenin/alpha catenin/alpha E/beta7 Integrin	component>
+ITGAE	E-cadherin/gamma catenin/alpha catenin/alphaE/beta7 Integrin	component>
+CDC42	CDC42/GTP/IQGAP1	component>
+CDC42	CDC42/GTP	component>
+CDC42	CDC42/GDP	component>

@@ -1,0 +1,46 @@
+protein	CREB1
+protein	EP300
+protein	HRAS
+protein	KIT
+protein	KITLG
+protein	MAP2K1
+protein	MAP2K2
+protein	MAPK1
+protein	MAPK3
+protein	MITF
+complex	MITF/p300
+protein	RAF1
+protein	RPS6KA1
+complex	SCF/SCF-R
+SmallMolecule	guanosine 5'-diphosphate
+SmallMolecule	guanosine 5'-triphosphate
+RPS6KA1	RPS6KA1	-a>
+RPS6KA1	CREB1	ACTIVATION
+MAPK3	MITF	ACTIVATION
+MAPK3	RPS6KA1	ACTIVATION
+MAPK3	MAPK1	-a>
+MAPK3	MAPK3	-a>
+guanosine 5'-triphosphate	HRAS	-a>
+guanosine 5'-triphosphate	guanosine 5'-diphosphate	-a>
+HRAS	HRAS	-a>
+HRAS	guanosine 5'-diphosphate	-a>
+HRAS	RAF1	ACTIVATION
+CREB1	CREB1	-a>
+KIT	SCF/SCF-R	component>
+MAP2K2	MAP2K2	-a>
+MAP2K2	MAP2K1	-a>
+MAP2K2	MAPK3	ACTIVATION
+MAP2K1	MAP2K2	-a>
+MAP2K1	MAP2K1	-a>
+MAP2K1	MAPK3	ACTIVATION
+MAPK1	MITF	ACTIVATION
+MAPK1	RPS6KA1	ACTIVATION
+MAPK1	MAPK1	-a>
+MAPK1	MAPK3	-a>
+MITF	MITF	-a>
+MITF	MITF/p300	component>
+KITLG	SCF/SCF-R	component>
+EP300	MITF/p300	component>
+RAF1	MAP2K1	ACTIVATION
+RAF1	RAF1	-a>
+SCF/SCF-R	guanosine 5'-diphosphate	ACTIVATION

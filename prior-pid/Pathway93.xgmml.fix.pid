@@ -1,0 +1,36 @@
+SmallMolecule	3,5,6-trioxyphosphate-1,2,4-cyclohexanetriol
+SmallMolecule	Ca(2+)
+SmallMolecule	H3adp
+complex	IP3 receptor homotetramer
+complex	IP3 receptor:IP3 complex
+family	IP3 receptors
+protein	ITPR1
+protein	ITPR2
+protein	ITPR3
+SmallMolecule	PIPP
+family	PKC-delta/epsilon
+protein	PRKCD
+protein	PRKCE
+family	Phospho-PKC-delta/epsilon
+SmallMolecule	acqua
+SmallMolecule	adenosine 5'-(tetrahydrogen triphosphate)
+SmallMolecule	diacylglycerols [ChEBI:18035]
+PIPP	diacylglycerols [ChEBI:18035]	-a>
+PIPP	3,5,6-trioxyphosphate-1,2,4-cyclohexanetriol	-a>
+adenosine 5'-(tetrahydrogen triphosphate)	H3adp	-a>
+adenosine 5'-(tetrahydrogen triphosphate)	Phospho-PKC-delta/epsilon	-a>
+Ca(2+)	Ca(2+)	-a>
+PRKCE	PKC-delta/epsilon	member>
+PRKCE	Phospho-PKC-delta/epsilon	member>
+PRKCD	PKC-delta/epsilon	member>
+PRKCD	Phospho-PKC-delta/epsilon	member>
+IP3 receptors	IP3 receptor homotetramer	component>
+PKC-delta/epsilon	H3adp	-a>
+PKC-delta/epsilon	Phospho-PKC-delta/epsilon	-a>
+acqua	diacylglycerols [ChEBI:18035]	-a>
+acqua	3,5,6-trioxyphosphate-1,2,4-cyclohexanetriol	-a>
+ITPR2	IP3 receptors	member>
+ITPR3	IP3 receptors	member>
+ITPR1	IP3 receptors	member>
+IP3 receptor homotetramer	IP3 receptor:IP3 complex	component>
+3,5,6-trioxyphosphate-1,2,4-cyclohexanetriol	IP3 receptor:IP3 complex	component>

@@ -1,0 +1,19 @@
+protein	ATM
+complex	ATM- and rad3-related (ATR)
+protein	ATR monomer
+protein	ATRIP
+SmallMolecule	Adenosine 5'-diphosphate
+SmallMolecule	Adenosine 5'-triphosphate
+protein	CHEK1
+protein	CHEK2
+ATM- and rad3-related (ATR)	Adenosine 5'-diphosphate	ACTIVATION
+ATM	Adenosine 5'-diphosphate	ACTIVATION
+ATR monomer	ATM- and rad3-related (ATR)	component>
+ATRIP	ATM- and rad3-related (ATR)	component>
+Adenosine 5'-triphosphate	Adenosine 5'-diphosphate	-a>
+Adenosine 5'-triphosphate	CHEK2	-a>
+Adenosine 5'-triphosphate	CHEK1	-a>
+CHEK2	Adenosine 5'-diphosphate	-a>
+CHEK2	CHEK2	-a>
+CHEK1	Adenosine 5'-diphosphate	ACTIVATION
+CHEK1	CHEK1	-a>

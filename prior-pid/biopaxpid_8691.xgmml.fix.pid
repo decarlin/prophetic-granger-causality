@@ -1,0 +1,71 @@
+protein	14-3-3 family
+protein	AKT1
+protein	AKT2
+protein	AS160
+complex	AS160/14-3-3
+complex	AS160/CaM/Ca2+
+protein	ASIP
+protein	Atypical PKCs
+protein	CALM1
+SmallMolecule	Ca2+
+complex	Exocyst
+protein	GSK3B
+SmallMolecule	GTP
+protein	GYS1
+SmallMolecule	Glycogen
+protein	INS
+protein	INSR
+complex	Insulin Receptor/Insulin
+complex	PP1-C/PP-1G
+complex	PP1-C/PP-1G/Glycogen
+protein	PPP1CC
+protein	PPP1R3A
+protein	RHOQ
+protein	SLC2A4
+complex	SNARE/Synip
+protein	STX4
+protein	STXBP4
+protein	TBC1D4
+complex	TC10/GTP/CIP4/Exocyst
+protein	TRIP10
+protein	VAMP2
+SmallMolecule	glucose
+protein	v-SNARE
+Glycogen	PP1-C/PP-1G/Glycogen	component>
+v-SNARE	SNARE/Synip	component>
+STX4	SNARE/Synip	component>
+AKT1	TBC1D4	ACTIVATION
+AKT1	GSK3B	ACTIVATION
+INSR	Insulin Receptor/Insulin	component>
+STXBP4	SNARE/Synip	component>
+PP1-C/PP-1G	PP1-C/PP-1G/Glycogen	-a>
+INS	Insulin Receptor/Insulin	component>
+14-3-3 family	AS160/14-3-3	component>
+PPP1R3A	PP1-C/PP-1G	component>
+PPP1R3A	PP1-C/PP-1G/Glycogen	component>
+CALM1	AS160/CaM/Ca2+	component>
+TBC1D4	SLC2A4	INHIBITION
+TBC1D4	TBC1D4	-a>
+TBC1D4	AS160/14-3-3	component>
+Ca2+	AS160/CaM/Ca2+	component>
+Exocyst	TC10/GTP/CIP4/Exocyst	component>
+SNARE/Synip	SLC2A4	ACTIVATION
+glucose	glucose	transport
+AS160/CaM/Ca2+	SLC2A4	ACTIVATION
+RHOQ	TC10/GTP/CIP4/Exocyst	component>
+GYS1	GYS1	-a>
+TRIP10	TC10/GTP/CIP4/Exocyst	component>
+TC10/GTP/CIP4/Exocyst	SLC2A4	ACTIVATION
+AS160/14-3-3	SLC2A4	ACTIVATION
+GTP	TC10/GTP/CIP4/Exocyst	component>
+VAMP2	SNARE/Synip	component>
+PPP1CC	PP1-C/PP-1G	component>
+PPP1CC	PP1-C/PP-1G/Glycogen	component>
+Atypical PKCs	SLC2A4	ACTIVATION
+AS160	AS160/CaM/Ca2+	component>
+SLC2A4	glucose	ACTIVATION
+AKT2	GSK3B	ACTIVATION
+GSK3B	GYS1	ACTIVATION
+GSK3B	GSK3B	-a>
+ASIP	SLC2A4	INHIBITION
+Insulin Receptor/Insulin	PP1-C/PP-1G	ACTIVATION

@@ -1,0 +1,153 @@
+protein	AKT1
+protein	FOS
+protein	FOXO1
+protein	GAB family
+protein	GAB family-active
+SmallMolecule	GDP
+protein	GRB2
+complex	GRB2/SOS1/GAB family
+complex	GRB2/SOS1/GAB family/SHP2
+complex	GRB2/SOS1/GAB family/SHP2/PI3K
+SmallMolecule	GTP
+protein	HCK
+protein	IL6
+complex	IL6/IL6RA
+complex	IL6/IL6RA/gp130 (dimer)/JAK1/JAK1/LMO4
+complex	IL6/IL6RA/gp130 (dimer)/JAK1/JAK1/LMO4/Hck
+complex	IL6/IL6RA/gp130 (dimer)/JAK1/JAK1/LMO4/SOCS3
+complex	IL6/IL6RA/gp130 (dimer)/JAK2/JAK2/LMO4
+complex	IL6/IL6RA/gp130 (dimer)/TYK2/TYK2/LMO4
+protein	IL6R
+protein	IL6ST
+protein	JAK1
+protein	JAK2
+protein	JUN
+complex	JUN/FOS
+protein	LMO4
+protein	MAP2K4
+protein	MAP2K6
+protein	MCL1
+protein	MITF
+protein	None
+protein	PIAS1
+protein	PIK3CA
+protein	PIK3R1
+protein	PRKCD
+protein	PTPN11
+protein	PTPRE
+protein	RAC1
+complex	RAC1/GDP
+complex	RAC1/GTP
+protein	SOCS3
+protein	SOS1
+protein	STAT1
+complex	STAT1/PIAS1
+protein	STAT3
+complex	STAT3 (dimer )
+complex	STAT3 (dimer)/FOXO1
+protein	TNFSF11
+protein	TYK2
+protein	VAV1
+protein	http://pid.nci.nih.gov/biopaxpid_171694
+protein	http://pid.nci.nih.gov/biopaxpid_171787
+protein	p38alpha-beta
+protein	p38alpha-beta-active
+TNFSF11	None	ACTIVATION
+GAB family	GRB2/SOS1/GAB family	component>
+MAP2K4	PRKCD	ACTIVATION
+MAP2K4	MAP2K4	-a>
+IL6ST	IL6/IL6RA/gp130 (dimer)/JAK1/JAK1/LMO4/SOCS3	component>
+IL6ST	IL6/IL6RA/gp130 (dimer)/JAK1/JAK1/LMO4	component>
+IL6ST	IL6/IL6RA/gp130 (dimer)/JAK1/JAK1/LMO4/Hck	component>
+IL6ST	IL6/IL6RA/gp130 (dimer)/JAK2/JAK2/LMO4	component>
+IL6ST	IL6/IL6RA/gp130 (dimer)/TYK2/TYK2/LMO4	component>
+AKT1	AKT1	-a>
+AKT1	FOXO1	ACTIVATION
+FOXO1	STAT3 (dimer)/FOXO1	component>
+FOXO1	FOXO1	-a>
+GAB family-active	GRB2/SOS1/GAB family	component>
+GAB family-active	GRB2/SOS1/GAB family/SHP2	component>
+GAB family-active	GRB2/SOS1/GAB family/SHP2/PI3K	component>
+MCL1	None	ACTIVATION
+JUN/FOS	JUN/FOS	-a>
+TYK2	IL6/IL6RA/gp130 (dimer)/TYK2/TYK2/LMO4	component>
+IL6/IL6RA/gp130 (dimer)/JAK1/JAK1/LMO4	STAT3	ACTIVATION
+IL6/IL6RA/gp130 (dimer)/JAK1/JAK1/LMO4	STAT1	ACTIVATION
+IL6/IL6RA/gp130 (dimer)/JAK1/JAK1/LMO4	VAV1	ACTIVATION
+IL6/IL6RA/gp130 (dimer)/JAK1/JAK1/LMO4	PTPN11	ACTIVATION
+IL6/IL6RA/gp130 (dimer)/JAK1/JAK1/LMO4	STAT3 (dimer)/FOXO1	ACTIVATION
+IL6/IL6RA/gp130 (dimer)/JAK1/JAK1/LMO4	MAP2K6	ACTIVATION
+IL6/IL6RA/gp130 (dimer)/JAK1/JAK1/LMO4	MITF	ACTIVATION
+IL6/IL6RA/gp130 (dimer)/JAK1/JAK1/LMO4	STAT1/PIAS1	ACTIVATION
+GRB2/SOS1/GAB family/SHP2	None	ACTIVATION
+STAT3	STAT3 (dimer)/FOXO1	component>
+STAT3	STAT3	-a>
+STAT3	STAT3 (dimer )	component>
+STAT1	STAT1	-a>
+STAT1	STAT1/PIAS1	component>
+PIK3CA	GRB2/SOS1/GAB family/SHP2/PI3K	component>
+FOS	JUN/FOS	component>
+JUN	JUN/FOS	component>
+GRB2/SOS1/GAB family	GRB2/SOS1/GAB family	-a>
+IL6/IL6RA/gp130 (dimer)/JAK1/JAK1/LMO4/Hck	GRB2/SOS1/GAB family	ACTIVATION
+IL6/IL6RA/gp130 (dimer)/JAK1/JAK1/LMO4/Hck	GRB2/SOS1/GAB family/SHP2	ACTIVATION
+p38alpha-beta	p38alpha-beta-active	-a>
+JAK2	IL6/IL6RA/gp130 (dimer)/JAK2/JAK2/LMO4	component>
+PIK3R1	GRB2/SOS1/GAB family/SHP2/PI3K	component>
+JAK1	IL6/IL6RA/gp130 (dimer)/JAK1/JAK1/LMO4	component>
+JAK1	IL6/IL6RA/gp130 (dimer)/JAK1/JAK1/LMO4/Hck	component>
+JAK1	IL6/IL6RA/gp130 (dimer)/JAK1/JAK1/LMO4/SOCS3	component>
+RAC1/GTP	MAP2K4	ACTIVATION
+IL6/IL6RA/gp130 (dimer)/JAK1/JAK1/LMO4/SOCS3	PTPN11	INHIBITION
+IL6/IL6RA/gp130 (dimer)/JAK1/JAK1/LMO4/SOCS3	STAT3	INHIBITION
+IL6/IL6RA/gp130 (dimer)/JAK1/JAK1/LMO4/SOCS3	STAT1	INHIBITION
+None	JUN/FOS	ACTIVATION
+None	None	ACTIVATION
+None	http://pid.nci.nih.gov/biopaxpid_171787	ACTIVATION
+RAC1	RAC1/GTP	component>
+RAC1	RAC1/GDP	component>
+RAC1/GDP	GDP	-a>
+RAC1/GDP	RAC1/GTP	-a>
+PRKCD	STAT3	ACTIVATION
+PRKCD	PRKCD	-a>
+IL6R	IL6/IL6RA/gp130 (dimer)/JAK1/JAK1/LMO4	component>
+IL6R	IL6/IL6RA/gp130 (dimer)/JAK1/JAK1/LMO4/SOCS3	component>
+IL6R	IL6/IL6RA	component>
+IL6R	IL6/IL6RA/gp130 (dimer)/JAK1/JAK1/LMO4/Hck	component>
+IL6R	IL6/IL6RA/gp130 (dimer)/TYK2/TYK2/LMO4	component>
+IL6R	IL6/IL6RA/gp130 (dimer)/JAK2/JAK2/LMO4	component>
+GTP	GDP	-a>
+GTP	RAC1/GTP	component>
+HCK	IL6/IL6RA/gp130 (dimer)/JAK1/JAK1/LMO4/Hck	component>
+GDP	RAC1/GDP	component>
+SOCS3	IL6/IL6RA/gp130 (dimer)/JAK1/JAK1/LMO4/SOCS3	component>
+SOS1	GRB2/SOS1/GAB family	component>
+SOS1	GRB2/SOS1/GAB family/SHP2	component>
+SOS1	GRB2/SOS1/GAB family/SHP2/PI3K	component>
+VAV1	GDP	ACTIVATION
+VAV1	VAV1	-a>
+GRB2	GRB2/SOS1/GAB family	component>
+GRB2	GRB2/SOS1/GAB family/SHP2	component>
+GRB2	GRB2/SOS1/GAB family/SHP2/PI3K	component>
+PTPN11	PTPN11	-a>
+PTPN11	GRB2/SOS1/GAB family/SHP2	component>
+PTPN11	GRB2/SOS1/GAB family/SHP2/PI3K	component>
+LMO4	IL6/IL6RA/gp130 (dimer)/JAK1/JAK1/LMO4/SOCS3	component>
+LMO4	IL6/IL6RA/gp130 (dimer)/JAK1/JAK1/LMO4	component>
+LMO4	IL6/IL6RA/gp130 (dimer)/JAK1/JAK1/LMO4/Hck	component>
+LMO4	IL6/IL6RA/gp130 (dimer)/JAK2/JAK2/LMO4	component>
+LMO4	IL6/IL6RA/gp130 (dimer)/TYK2/TYK2/LMO4	component>
+IL6	IL6/IL6RA/gp130 (dimer)/JAK1/JAK1/LMO4	component>
+IL6	IL6/IL6RA/gp130 (dimer)/JAK1/JAK1/LMO4/SOCS3	component>
+IL6	IL6/IL6RA	component>
+IL6	IL6/IL6RA/gp130 (dimer)/JAK1/JAK1/LMO4/Hck	component>
+IL6	IL6/IL6RA/gp130 (dimer)/TYK2/TYK2/LMO4	component>
+IL6	IL6/IL6RA/gp130 (dimer)/JAK2/JAK2/LMO4	component>
+PTPRE	IL6/IL6RA/gp130 (dimer)/JAK1/JAK1/LMO4	INHIBITION
+PTPRE	IL6/IL6RA/gp130 (dimer)/TYK2/TYK2/LMO4	INHIBITION
+PIAS1	STAT1/PIAS1	component>
+GRB2/SOS1/GAB family/SHP2/PI3K	AKT1	ACTIVATION
+GRB2/SOS1/GAB family/SHP2/PI3K	None	ACTIVATION
+STAT3 (dimer )	None	ACTIVATION
+MAP2K6	p38alpha-beta-active	ACTIVATION
+MAP2K6	MAP2K6	-a>

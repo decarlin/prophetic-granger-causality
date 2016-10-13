@@ -1,0 +1,41 @@
+#!/usr/local/bin/python2.7
+
+###
+### MakeKernel: Generate a heat diffusion kernel from .sif file
+###
+###	Authors: 
+###
+###		Evan Paull (epaull@soe.ucsc.edu)
+###		(As part of the TieDIE package, on github: http://github.com/epaull/TieDIE). 
+###
+###		Please cite: 
+###
+###		Discovering causal pathways linking genomic events to transcriptional states using 
+###		Tied Diffusion Through Interacting Events (TieDIE) Evan O. Paull; Daniel E. Carlin; 
+###		Mario Niepel; Peter K. Sorger; David Haussler; Joshua M. Stuart
+###		Bioinformatics 2013; doi: 10.1093/bioinformatics/btt471
+###
+###	Requirements:
+###
+### 	python 2.7.X
+###		numpy 1.7+ 
+###		scipy 0.12+ 
+###
+
+
+import os, sys
+from collections import defaultdict
+from optparse import OptionParser
+parser = OptionParser()
+parser.add_option("-n","--network",dest="network",action="store",default=None,help="Network in .sif file format")
+parser.add_option("-o","--output",dest="output",action="store",type="string",default=None,help="Output file to write")
+(opts, args) = parser.parse_args()
+
+# local imports assume the directory structure from github . 
+from kernel_scipy import SciPYKernel
+
+# build the kernel
+kernel_diffuser = SciPYKernel(opts.network)
+# write to file
+kernel_diffuser.writeKernel(opts.output)
+

@@ -1,0 +1,153 @@
+complex	40S S6 ribosomal protein /40s Ribosomal subunit/eIF3
+complex	40s Ribosomal subunit
+protein	AKT1
+complex	AKT1/mTOR/p70S6K/Hsp90/TERT
+protein	BCL2
+protein	BCL2L1
+protein	CALM3
+SmallMolecule	Ca2+
+complex	CaM/Ca2+/Calcineurin A alpha-beta B1
+complex	Calcineurin A alpha-beta B1
+SmallMolecule	DAG
+protein	E2F1
+protein	EIF3A
+protein	FOXO3
+protein	GAB2
+SmallMolecule	GDP
+protein	GRB2
+SmallMolecule	GTP
+protein	HSP90AA1
+protein	IL2
+complex	IL2/IL2R alpha/beta/gamma/JAK1/LCK/JAK3/SHC/GAB2/GRB2/SOS1/SHP2/PI3K
+protein	IL2RA
+protein	IL2RB
+protein	IL2RG
+protein	JAK1
+protein	JAK3
+protein	LCK
+protein	MTOR
+protein	MYB
+protein	MYC
+complex	NF kappa B1 p50/RelA
+protein	NFAT1-c-4
+protein	NFKB1
+protein	None
+SmallMolecule	PI-3-4-5-P3
+SmallMolecule	PI-4-5-P2
+complex	PI3K
+protein	PIK3CA
+protein	PIK3R1
+protein	PRKCZ
+protein	PTPN11
+SmallMolecule	Phosphatidylcholine
+protein	RAC1
+complex	RAC1/GDP
+complex	RAC1/GTP
+protein	RELA
+protein	RPS6
+protein	RPS6KB1
+protein	SGMS1
+protein	SHC1
+protein	SMPD1
+protein	SOS1
+protein	TERT
+SmallMolecule	UDP-D-glucose
+protein	UGCG
+SmallMolecule	cAMP
+SmallMolecule	ceramide
+SmallMolecule	glucosylceramide
+protein	http://pid.nci.nih.gov/biopaxpid_125935
+SmallMolecule	sphingomyelin
+BCL2L1	None	ACTIVATION
+sphingomyelin	None	ACTIVATION
+cAMP	RPS6KB1	INHIBITION
+CaM/Ca2+/Calcineurin A alpha-beta B1	CaM/Ca2+/Calcineurin A alpha-beta B1	-a>
+CaM/Ca2+/Calcineurin A alpha-beta B1	NFAT1-c-4	ACTIVATION
+UGCG	UGCG	-a>
+UGCG	glucosylceramide	ACTIVATION
+FOXO3	FOXO3	-a>
+FOXO3	None	ACTIVATION
+RPS6	40S S6 ribosomal protein /40s Ribosomal subunit/eIF3	component>
+GAB2	IL2/IL2R alpha/beta/gamma/JAK1/LCK/JAK3/SHC/GAB2/GRB2/SOS1/SHP2/PI3K	component>
+Calcineurin A alpha-beta B1	CaM/Ca2+/Calcineurin A alpha-beta B1	component>
+glucosylceramide	None	ACTIVATION
+SGMS1	sphingomyelin	ACTIVATION
+SGMS1	SGMS1	-a>
+NFAT1-c-4	NFAT1-c-4	-a>
+SHC1	IL2/IL2R alpha/beta/gamma/JAK1/LCK/JAK3/SHC/GAB2/GRB2/SOS1/SHP2/PI3K	component>
+40s Ribosomal subunit	40S S6 ribosomal protein /40s Ribosomal subunit/eIF3	component>
+CALM3	CaM/Ca2+/Calcineurin A alpha-beta B1	component>
+EIF3A	40S S6 ribosomal protein /40s Ribosomal subunit/eIF3	component>
+PI3K	RAC1/GTP	ACTIVATION
+RPS6KB1	RPS6KB1	-a>
+RPS6KB1	AKT1/mTOR/p70S6K/Hsp90/TERT	component>
+RPS6KB1	40S S6 ribosomal protein /40s Ribosomal subunit/eIF3	ACTIVATION
+RPS6KB1	E2F1	ACTIVATION
+Ca2+	CaM/Ca2+/Calcineurin A alpha-beta B1	component>
+AKT1	FOXO3	ACTIVATION
+AKT1	AKT1	transport
+AKT1	AKT1/mTOR/p70S6K/Hsp90/TERT	component>
+AKT1	MTOR	ACTIVATION
+JAK3	IL2/IL2R alpha/beta/gamma/JAK1/LCK/JAK3/SHC/GAB2/GRB2/SOS1/SHP2/PI3K	component>
+PI-4-5-P2	PI-3-4-5-P3	-a>
+RAC1/GDP	GDP	-a>
+RAC1/GDP	RAC1/GTP	-a>
+NFKB1	NF kappa B1 p50/RelA	component>
+RELA	NF kappa B1 p50/RelA	component>
+MYB	None	ACTIVATION
+IL2/IL2R alpha/beta/gamma/JAK1/LCK/JAK3/SHC/GAB2/GRB2/SOS1/SHP2/PI3K	UGCG	ACTIVATION
+IL2/IL2R alpha/beta/gamma/JAK1/LCK/JAK3/SHC/GAB2/GRB2/SOS1/SHP2/PI3K	PI-3-4-5-P3	ACTIVATION
+IL2/IL2R alpha/beta/gamma/JAK1/LCK/JAK3/SHC/GAB2/GRB2/SOS1/SHP2/PI3K	AKT1	ACTIVATION
+IL2/IL2R alpha/beta/gamma/JAK1/LCK/JAK3/SHC/GAB2/GRB2/SOS1/SHP2/PI3K	PRKCZ	ACTIVATION
+IL2/IL2R alpha/beta/gamma/JAK1/LCK/JAK3/SHC/GAB2/GRB2/SOS1/SHP2/PI3K	SMPD1	ACTIVATION
+IL2/IL2R alpha/beta/gamma/JAK1/LCK/JAK3/SHC/GAB2/GRB2/SOS1/SHP2/PI3K	SGMS1	ACTIVATION
+40S S6 ribosomal protein /40s Ribosomal subunit/eIF3	40S S6 ribosomal protein /40s Ribosomal subunit/eIF3	-a>
+UDP-D-glucose	glucosylceramide	-a>
+GDP	RAC1/GDP	component>
+Phosphatidylcholine	DAG	-a>
+Phosphatidylcholine	sphingomyelin	-a>
+PIK3R1	IL2/IL2R alpha/beta/gamma/JAK1/LCK/JAK3/SHC/GAB2/GRB2/SOS1/SHP2/PI3K	component>
+PIK3R1	PI3K	component>
+RAC1	RAC1/GTP	component>
+RAC1	RAC1/GDP	component>
+ceramide	DAG	-a>
+ceramide	glucosylceramide	-a>
+ceramide	sphingomyelin	-a>
+JAK1	IL2/IL2R alpha/beta/gamma/JAK1/LCK/JAK3/SHC/GAB2/GRB2/SOS1/SHP2/PI3K	component>
+GTP	GDP	-a>
+GTP	RAC1/GTP	component>
+PRKCZ	None	ACTIVATION
+PRKCZ	PRKCZ	-a>
+MTOR	MTOR	-a>
+MTOR	CaM/Ca2+/Calcineurin A alpha-beta B1	ACTIVATION
+MTOR	NF kappa B1 p50/RelA	ACTIVATION
+MTOR	AKT1/mTOR/p70S6K/Hsp90/TERT	component>
+MTOR	RPS6KB1	ACTIVATION
+HSP90AA1	AKT1/mTOR/p70S6K/Hsp90/TERT	component>
+None	http://pid.nci.nih.gov/biopaxpid_125935	ACTIVATION
+None	AKT1/mTOR/p70S6K/Hsp90/TERT	ACTIVATION
+None	E2F1	ACTIVATION
+None	UGCG	ACTIVATION
+None	AKT1	ACTIVATION
+None	SMPD1	ACTIVATION
+None	SGMS1	ACTIVATION
+None	RAC1/GTP	ACTIVATION
+MYC	None	ACTIVATION
+NF kappa B1 p50/RelA	NF kappa B1 p50/RelA	transport
+IL2RA	IL2/IL2R alpha/beta/gamma/JAK1/LCK/JAK3/SHC/GAB2/GRB2/SOS1/SHP2/PI3K	component>
+IL2RB	IL2/IL2R alpha/beta/gamma/JAK1/LCK/JAK3/SHC/GAB2/GRB2/SOS1/SHP2/PI3K	component>
+TERT	AKT1/mTOR/p70S6K/Hsp90/TERT	component>
+E2F1	E2F1	-a>
+SOS1	IL2/IL2R alpha/beta/gamma/JAK1/LCK/JAK3/SHC/GAB2/GRB2/SOS1/SHP2/PI3K	component>
+IL2RG	IL2/IL2R alpha/beta/gamma/JAK1/LCK/JAK3/SHC/GAB2/GRB2/SOS1/SHP2/PI3K	component>
+RAC1/GTP	AKT1	ACTIVATION
+PTPN11	IL2/IL2R alpha/beta/gamma/JAK1/LCK/JAK3/SHC/GAB2/GRB2/SOS1/SHP2/PI3K	component>
+PI-3-4-5-P3	AKT1	ACTIVATION
+GRB2	IL2/IL2R alpha/beta/gamma/JAK1/LCK/JAK3/SHC/GAB2/GRB2/SOS1/SHP2/PI3K	component>
+IL2	IL2/IL2R alpha/beta/gamma/JAK1/LCK/JAK3/SHC/GAB2/GRB2/SOS1/SHP2/PI3K	component>
+PIK3CA	IL2/IL2R alpha/beta/gamma/JAK1/LCK/JAK3/SHC/GAB2/GRB2/SOS1/SHP2/PI3K	component>
+PIK3CA	PI3K	component>
+SMPD1	SMPD1	-a>
+SMPD1	sphingomyelin	INHIBITION
+LCK	IL2/IL2R alpha/beta/gamma/JAK1/LCK/JAK3/SHC/GAB2/GRB2/SOS1/SHP2/PI3K	component>
+BCL2	None	ACTIVATION

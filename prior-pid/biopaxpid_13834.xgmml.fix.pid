@@ -1,0 +1,143 @@
+protein	AKT1
+protein	ARRB1
+protein	CCL11
+complex	CCL11/CXCR3
+protein	CXCL10
+complex	CXCL10/CXCR3
+protein	CXCL11
+complex	CXCL11/CXCR3
+protein	CXCL13
+complex	CXCL13/CXCR3
+complex	CXCL4/CXCR3
+complex	CXCL4/CXCR3-B
+protein	CXCL9
+protein	CXCL9-11
+complex	CXCL9-11/CXCR3
+complex	CXCL9-11/CXCR3-B
+complex	CXCL9/CXCR3
+protein	CXCR3
+SmallMolecule	Ca2+
+protein	DNM1
+protein	ERK1-2
+protein	Erk1-2-active
+complex	G beta/gamma
+SmallMolecule	GDP
+protein	GNAI2
+complex	GNAI2/GTP
+protein	GNAI3
+complex	GNAI3/GDP
+protein	GNB1
+protein	GNG2
+SmallMolecule	GTP
+protein	Gi family
+complex	Gi family/GTP
+protein	MAPKAP1
+protein	MEK1-2
+protein	MEK1-2-active
+protein	MKK3-MKK6
+protein	MKK3-MKK6-active
+protein	MLST8
+protein	MTOR
+protein	None
+protein	PDPK1
+protein	PF4
+SmallMolecule	PI-3-4-5-P3
+SmallMolecule	PI-4-5-P2
+complex	PI3K Class IA family
+protein	RAF1
+protein	RAS family
+complex	RAS family/GDP
+complex	RAS family/GTP
+protein	RICTOR
+protein	SRC
+complex	mTORC2
+protein	p38alpha-beta
+protein	p38alpha-beta-active
+Erk1-2-active	None	ACTIVATION
+CXCL9-11/CXCR3	Ca2+	ACTIVATION
+CXCL9-11/CXCR3	None	ACTIVATION
+p38alpha-beta-active	None	INHIBITION
+MKK3-MKK6	MKK3-MKK6-active	-a>
+CXCL11/CXCR3	CXCL11/CXCR3	transport
+CXCL9-11/CXCR3-B	None	ACTIVATION
+CXCL9-11/CXCR3-B	MKK3-MKK6-active	ACTIVATION
+AKT1	AKT1	-a>
+DNM1	CXCL10/CXCR3	ACTIVATION
+Gi family	Gi family/GTP	component>
+CXCL9/CXCR3	None	ACTIVATION
+ARRB1	CXCL10/CXCR3	ACTIVATION
+CXCL10/CXCR3	Ca2+	ACTIVATION
+CXCL10/CXCR3	None	ACTIVATION
+CXCL10/CXCR3	CXCL10/CXCR3	transport
+GNAI2	GNAI2/GTP	component>
+GNAI3	GNAI3/GDP	component>
+CXCL10	CXCL10/CXCR3	component>
+CCL11/CXCR3	Ca2+	INHIBITION
+GNAI2/GTP	None	ACTIVATION
+RAF1	MEK1-2-active	ACTIVATION
+RAF1	RAF1	-a>
+RAS family/GDP	GDP	-a>
+RAS family/GDP	RAS family/GTP	-a>
+GNAI3/GDP	None	INHIBITION
+CXCR3	CXCL13/CXCR3	component>
+CXCR3	CXCL9-11/CXCR3	component>
+CXCR3	CXCL11/CXCR3	component>
+CXCR3	CXCL9-11/CXCR3-B	component>
+CXCR3	CXCL10/CXCR3	component>
+CXCR3	CXCL9/CXCR3	component>
+CXCR3	CCL11/CXCR3	component>
+CXCR3	CXCL4/CXCR3-B	component>
+CXCR3	CXCL4/CXCR3	component>
+Ca2+	Ca2+	transport
+MKK3-MKK6-active	p38alpha-beta-active	ACTIVATION
+PI-4-5-P2	PI-3-4-5-P3	-a>
+p38alpha-beta	p38alpha-beta-active	-a>
+SRC	SRC	-a>
+SRC	RAS family/GTP	ACTIVATION
+None	Ca2+	ACTIVATION
+None	None	ACTIVATION
+None	Gi family/GTP	ACTIVATION
+None	CXCL11/CXCR3	ACTIVATION
+None	CXCL10/CXCR3	ACTIVATION
+MEK1-2-active	Erk1-2-active	ACTIVATION
+CXCL13/CXCR3	Ca2+	INHIBITION
+CXCL13/CXCR3	None	ACTIVATION
+PI3K Class IA family	PI-3-4-5-P3	ACTIVATION
+PI3K Class IA family	PI3K Class IA family	-a>
+G beta/gamma	SRC	ACTIVATION
+G beta/gamma	None	ACTIVATION
+G beta/gamma	PI3K Class IA family	ACTIVATION
+G beta/gamma	p38alpha-beta-active	ACTIVATION
+CXCL9-11	CXCL9-11/CXCR3-B	component>
+CXCL9-11	CXCL9-11/CXCR3	component>
+GNB1	G beta/gamma	component>
+mTORC2	AKT1	ACTIVATION
+GTP	GDP	-a>
+GTP	RAS family/GTP	component>
+GTP	GNAI2/GTP	component>
+GTP	Gi family/GTP	component>
+MAPKAP1	mTORC2	component>
+RICTOR	mTORC2	component>
+PDPK1	AKT1	ACTIVATION
+CXCL11	CXCL11/CXCR3	component>
+MEK1-2	MEK1-2-active	-a>
+CXCL13	CXCL13/CXCR3	component>
+MLST8	mTORC2	component>
+CXCL4/CXCR3	Ca2+	ACTIVATION
+CXCL4/CXCR3	Gi family/GTP	ACTIVATION
+GDP	RAS family/GDP	component>
+GDP	GNAI3/GDP	component>
+CCL11	CCL11/CXCR3	component>
+CXCL9	CXCL9/CXCR3	component>
+CXCL4/CXCR3-B	None	ACTIVATION
+CXCL4/CXCR3-B	MKK3-MKK6-active	ACTIVATION
+PI-3-4-5-P3	AKT1	ACTIVATION
+ERK1-2	Erk1-2-active	-a>
+GNG2	G beta/gamma	component>
+MTOR	mTORC2	component>
+Gi family/GTP	None	ACTIVATION
+RAS family	RAS family/GDP	component>
+RAS family	RAS family/GTP	component>
+RAS family/GTP	RAF1	ACTIVATION
+PF4	CXCL4/CXCR3-B	component>
+PF4	CXCL4/CXCR3	component>

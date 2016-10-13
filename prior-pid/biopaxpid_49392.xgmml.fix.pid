@@ -1,0 +1,149 @@
+protein	CALM1
+protein	CAMKII family
+protein	CASP1
+protein	CBL
+complex	CBL/CRKL/C3G
+protein	CEBPB
+complex	CEBPB/PTGES2/Cbp/p300
+protein	CRKL
+SmallMolecule	Ca2+
+complex	CaM/Ca2+
+complex	CaM/Ca2+/CAMKII
+complex	Caspase 1 (tetramer)
+protein	Cbp/p300
+protein	DAPK1
+protein	ERK1-2
+protein	Erk1-2-active
+SmallMolecule	GDP
+SmallMolecule	GTP
+complex	IFN-gamma/IFN-gammaR/JAK1/JAK1/JAK2/JAK2
+complex	IFN-gamma/IFN-gammaR/JAK1/JAK1/JAK2/JAK2 /TCPTP
+complex	IFN-gamma/IFN-gammaR/JAK1/JAK1/JAK2/JAK2/SOCS1
+protein	IFNG
+protein	IFNGR1
+protein	IL1 beta fragment
+protein	IL1B
+protein	JAK1
+protein	JAK2
+protein	MAP2K1
+protein	MAP3K1
+protein	MAP3K11
+protein	MTOR
+protein	None
+SmallMolecule	PI-3-4-5-P3
+SmallMolecule	PI-4-5-P2
+complex	PI3K
+protein	PIAS1
+protein	PIAS4
+protein	PIK3CA
+protein	PIK3R1
+protein	PRKCD
+protein	PTGES2
+protein	PTPN11
+protein	PTPN2
+protein	RAP1
+complex	RAP1/GDP
+complex	RAP1/GTP
+protein	RAPGEF1
+protein	SMAD7
+protein	SOCS1
+protein	STAT1
+complex	STAT1 (dimer)
+complex	STAT1 (dimer)/Cbp/p300
+complex	STAT1 (dimer)/PIAS1
+complex	STAT1 (dimer)/PIASy
+complex	STAT1 (dimer)/SHP2
+protein	STAT3
+complex	STAT3 (dimer)-active
+protein	http://pid.nci.nih.gov/biopaxpid_49625
+Erk1-2-active	CEBPB	ACTIVATION
+IFN-gamma/IFN-gammaR/JAK1/JAK1/JAK2/JAK2	PI3K	ACTIVATION
+IFN-gamma/IFN-gammaR/JAK1/JAK1/JAK2/JAK2	STAT1	ACTIVATION
+IFN-gamma/IFN-gammaR/JAK1/JAK1/JAK2/JAK2	Ca2+	ACTIVATION
+IFN-gamma/IFN-gammaR/JAK1/JAK1/JAK2/JAK2	PTPN11	ACTIVATION
+IFN-gamma/IFN-gammaR/JAK1/JAK1/JAK2/JAK2	MAP3K1	ACTIVATION
+IFN-gamma/IFN-gammaR/JAK1/JAK1/JAK2/JAK2	CBL	ACTIVATION
+IFN-gamma/IFN-gammaR/JAK1/JAK1/JAK2/JAK2	MAP3K11	ACTIVATION
+IFN-gamma/IFN-gammaR/JAK1/JAK1/JAK2/JAK2	CaM/Ca2+/CAMKII	ACTIVATION
+CRKL	CBL/CRKL/C3G	component>
+MAP2K1	Erk1-2-active	ACTIVATION
+MAP2K1	MAP2K1	-a>
+RAPGEF1	CBL/CRKL/C3G	component>
+CaM/Ca2+/CAMKII	STAT1 (dimer)	ACTIVATION
+IL1B	IL1 beta fragment	-a>
+CEBPB	CEBPB	-a>
+CEBPB	CEBPB/PTGES2/Cbp/p300	component>
+STAT3	STAT3 (dimer)-active	component>
+STAT1	STAT1 (dimer)/PIASy	component>
+STAT1	STAT1	-a>
+STAT1	STAT1 (dimer)/Cbp/p300	component>
+STAT1	STAT1 (dimer)/PIAS1	component>
+STAT1	STAT1 (dimer)/SHP2	component>
+STAT1	STAT1 (dimer)	component>
+CALM1	CaM/Ca2+/CAMKII	component>
+CALM1	CaM/Ca2+	component>
+PIK3CA	PI3K	component>
+STAT1 (dimer)/PIAS1	None	INHIBITION
+Ca2+	CaM/Ca2+/CAMKII	component>
+Ca2+	CaM/Ca2+	component>
+Ca2+	Ca2+	transport
+STAT1 (dimer)	None	ACTIVATION
+STAT1 (dimer)	STAT1 (dimer)	-a>
+STAT1 (dimer)	STAT1 (dimer)	transport
+STAT1 (dimer)	Erk1-2-active	ACTIVATION
+JAK2	IFN-gamma/IFN-gammaR/JAK1/JAK1/JAK2/JAK2 /TCPTP	component>
+JAK2	IFN-gamma/IFN-gammaR/JAK1/JAK1/JAK2/JAK2	component>
+JAK2	IFN-gamma/IFN-gammaR/JAK1/JAK1/JAK2/JAK2/SOCS1	component>
+PI-4-5-P2	PI-3-4-5-P3	-a>
+JAK1	IFN-gamma/IFN-gammaR/JAK1/JAK1/JAK2/JAK2 /TCPTP	component>
+JAK1	IFN-gamma/IFN-gammaR/JAK1/JAK1/JAK2/JAK2	component>
+JAK1	IFN-gamma/IFN-gammaR/JAK1/JAK1/JAK2/JAK2/SOCS1	component>
+CAMKII family	CaM/Ca2+/CAMKII	component>
+Caspase 1 (tetramer)	IL1 beta fragment	ACTIVATION
+DAPK1	None	ACTIVATION
+DAPK1	MTOR	ACTIVATION
+DAPK1	DAPK1	-a>
+MAP3K1	MAP2K1	ACTIVATION
+MAP3K1	MAP3K1	-a>
+None	http://pid.nci.nih.gov/biopaxpid_49625	ACTIVATION
+PIK3R1	PI3K	component>
+PI3K	PI3K	-a>
+PI3K	PRKCD	ACTIVATION
+PI3K	DAPK1	ACTIVATION
+PI3K	PI-3-4-5-P3	ACTIVATION
+IFNG	IFN-gamma/IFN-gammaR/JAK1/JAK1/JAK2/JAK2 /TCPTP	component>
+IFNG	IFN-gamma/IFN-gammaR/JAK1/JAK1/JAK2/JAK2	component>
+IFNG	IFN-gamma/IFN-gammaR/JAK1/JAK1/JAK2/JAK2/SOCS1	component>
+PRKCD	STAT1 (dimer)	ACTIVATION
+PRKCD	PRKCD	-a>
+GTP	GDP	-a>
+GTP	RAP1/GTP	component>
+MTOR	MTOR	-a>
+PTPN2	STAT1 (dimer)	ACTIVATION
+PTPN2	IFN-gamma/IFN-gammaR/JAK1/JAK1/JAK2/JAK2 /TCPTP	component>
+Cbp/p300	CEBPB/PTGES2/Cbp/p300	component>
+Cbp/p300	STAT1 (dimer)/Cbp/p300	component>
+GDP	RAP1/GDP	component>
+CBL/CRKL/C3G	GDP	ACTIVATION
+SOCS1	IFN-gamma/IFN-gammaR/JAK1/JAK1/JAK2/JAK2/SOCS1	component>
+CASP1	Caspase 1 (tetramer)	component>
+PTGES2	CEBPB/PTGES2/Cbp/p300	component>
+RAP1	RAP1/GDP	component>
+RAP1	RAP1/GTP	component>
+RAP1/GDP	GDP	-a>
+RAP1/GDP	RAP1/GTP	-a>
+PI-3-4-5-P3	DAPK1	ACTIVATION
+CBL	CBL/CRKL/C3G	component>
+CBL	CBL	-a>
+STAT3 (dimer)-active	None	INHIBITION
+MAP3K11	MAP3K11	-a>
+MAP3K11	CEBPB	ACTIVATION
+ERK1-2	Erk1-2-active	-a>
+PIAS1	STAT1 (dimer)/PIAS1	component>
+PIAS4	STAT1 (dimer)/PIASy	component>
+PTPN11	PTPN11	transport
+PTPN11	IFN-gamma/IFN-gammaR/JAK1/JAK1/JAK2/JAK2	INHIBITION
+PTPN11	STAT1 (dimer)/SHP2	component>
+IFNGR1	IFN-gamma/IFN-gammaR/JAK1/JAK1/JAK2/JAK2 /TCPTP	component>
+IFNGR1	IFN-gamma/IFN-gammaR/JAK1/JAK1/JAK2/JAK2	component>
+IFNGR1	IFN-gamma/IFN-gammaR/JAK1/JAK1/JAK2/JAK2/SOCS1	component>

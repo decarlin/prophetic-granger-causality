@@ -1,0 +1,92 @@
+family	AKT
+protein	AKT1
+protein	AKT2
+protein	AKT3
+family	Active AKT
+PhysicalEntity	B7-1 homodimer/ B7-2
+complex	CTLA-4 homodimer
+complex	CTLA-4:PP2A
+protein	CTLA4
+protein	FYN
+SmallMolecule	H4atp
+protein	LCK
+protein	LYN
+complex	PDK1:AKT:PIP3
+protein	PDPK1
+complex	PIP3:PDK1:active AKT
+complex	PP2A
+family	PP2A regulatory subunit B56
+family	PP2A-catalytic subunit C
+family	PP2A-subunit A
+complex	PP2A:CTLA4:B7-1/B7-2
+protein	PPP2CA
+protein	PPP2CB
+protein	PPP2R1A
+protein	PPP2R1B
+protein	PPP2R5A
+protein	PPP2R5B
+protein	PPP2R5C
+protein	PPP2R5D
+protein	PPP2R5E
+protein	PTPN11
+complex	Phospho CTLA-4 dimer
+complex	Phosphorylated CTLA-4 bound to kinases
+SmallMolecule	PtsIns(3,4,5)P3
+protein	SRC
+family	Src family tyrosine kinases (SFKs)
+protein	YES1
+SmallMolecule	adenosine 5'-(trihydrogen diphosphate)
+complex	pCTLA-4:Src kinases:SHP2
+SmallMolecule	phosphate
+complex	phospho CTLA4:B7-1/B7-2
+PPP2R1A	PP2A-subunit A	member>
+phospho CTLA4:B7-1/B7-2	Phosphorylated CTLA-4 bound to kinases	component>
+CTLA4	CTLA-4 homodimer	component>
+CTLA4	Phospho CTLA-4 dimer	component>
+FYN	Src family tyrosine kinases (SFKs)	member>
+PP2A-catalytic subunit C	PP2A	component>
+PPP2R1B	PP2A-subunit A	member>
+PP2A regulatory subunit B56	PP2A	component>
+PtsIns(3,4,5)P3	PIP3:PDK1:active AKT	component>
+PtsIns(3,4,5)P3	PDK1:AKT:PIP3	component>
+AKT1	Active AKT	member>
+AKT1	AKT	member>
+AKT2	Active AKT	member>
+AKT2	AKT	member>
+AKT3	Active AKT	member>
+AKT3	AKT	member>
+Phosphorylated CTLA-4 bound to kinases	pCTLA-4:Src kinases:SHP2	component>
+PP2A-subunit A	PP2A	component>
+YES1	Src family tyrosine kinases (SFKs)	member>
+H4atp	adenosine 5'-(trihydrogen diphosphate)	-a>
+H4atp	PP2A	-a>
+H4atp	Phosphorylated CTLA-4 bound to kinases	-a>
+Active AKT	PIP3:PDK1:active AKT	component>
+PP2A	CTLA-4:PP2A	component>
+LYN	Src family tyrosine kinases (SFKs)	member>
+B7-1 homodimer/ B7-2	PP2A:CTLA4:B7-1/B7-2	component>
+B7-1 homodimer/ B7-2	phospho CTLA4:B7-1/B7-2	component>
+SRC	Src family tyrosine kinases (SFKs)	member>
+Phospho CTLA-4 dimer	phospho CTLA4:B7-1/B7-2	component>
+CTLA-4 homodimer	CTLA-4:PP2A	component>
+CTLA-4:PP2A	PP2A:CTLA4:B7-1/B7-2	component>
+Src family tyrosine kinases (SFKs)	adenosine 5'-(trihydrogen diphosphate)	-a>
+Src family tyrosine kinases (SFKs)	PP2A	-a>
+Src family tyrosine kinases (SFKs)	Phosphorylated CTLA-4 bound to kinases	component>
+PDPK1	PIP3:PDK1:active AKT	component>
+PDPK1	PDK1:AKT:PIP3	component>
+PIP3:PDK1:active AKT	phosphate	-a>
+PIP3:PDK1:active AKT	PDK1:AKT:PIP3	-a>
+AKT	PDK1:AKT:PIP3	component>
+PPP2CA	PP2A-catalytic subunit C	member>
+PTPN11	pCTLA-4:Src kinases:SHP2	component>
+PPP2CB	PP2A-catalytic subunit C	member>
+PPP2R5A	PP2A regulatory subunit B56	member>
+PP2A:CTLA4:B7-1/B7-2	adenosine 5'-(trihydrogen diphosphate)	-a>
+PP2A:CTLA4:B7-1/B7-2	PP2A	-a>
+PP2A:CTLA4:B7-1/B7-2	Phosphorylated CTLA-4 bound to kinases	-a>
+PPP2R5D	PP2A regulatory subunit B56	member>
+PPP2R5E	PP2A regulatory subunit B56	member>
+LCK	Src family tyrosine kinases (SFKs)	member>
+PPP2R5B	PP2A regulatory subunit B56	member>
+PPP2R5C	PP2A regulatory subunit B56	member>

@@ -1,0 +1,47 @@
+protein	CXCL12
+SmallMolecule	ChEBI:50114 estrogen
+complex	ERBB4 extracellular domain
+complex	ERBB4jmA membrane-bound cleavage product of 80 kDa
+complex	ERBB4s80
+complex	ERBB4s80:ESR1
+complex	ERBB4s80:STAT5A
+complex	ERBB4s80:TAB2:NCOR1
+complex	ERBB4s80:WWOX
+complex	ERBB4s80:YAP1
+protein	ESR1
+complex	ESR1 homodimer
+complex	ESR1:estrogen
+protein	GFAP
+protein	NCOR1
+protein	PGR
+complex	Phosphorylated homodimers of ERBB4 JM-A isoforms
+protein	S100B
+protein	STAT5A
+complex	STAT5A homodimer
+protein	TAB2
+complex	TAB2:NCOR1
+protein	WWOX
+protein	YAP1
+ERBB4s80:YAP1	ERBB4s80:YAP1	-a>
+STAT5A homodimer	ERBB4s80:STAT5A	component>
+NCOR1	TAB2:NCOR1	component>
+Phosphorylated homodimers of ERBB4 JM-A isoforms	ERBB4jmA membrane-bound cleavage product of 80 kDa	-a>
+Phosphorylated homodimers of ERBB4 JM-A isoforms	ERBB4 extracellular domain	-a>
+ERBB4s80	ERBB4s80:YAP1	component>
+ERBB4s80	ERBB4s80:STAT5A	component>
+ERBB4s80	ERBB4s80	-a>
+ERBB4s80	ERBB4s80:WWOX	component>
+ERBB4s80	ERBB4s80:TAB2:NCOR1	component>
+ERBB4s80	ERBB4s80:ESR1	component>
+WWOX	ERBB4s80:WWOX	component>
+ESR1 homodimer	ESR1:estrogen	component>
+ERBB4s80:STAT5A	ERBB4s80:STAT5A	-a>
+TAB2:NCOR1	ERBB4s80:TAB2:NCOR1	component>
+YAP1	ERBB4s80:YAP1	component>
+ESR1	ESR1 homodimer	component>
+TAB2	TAB2:NCOR1	component>
+ChEBI:50114 estrogen	ESR1:estrogen	component>
+STAT5A	STAT5A homodimer	component>
+ESR1:estrogen	ERBB4s80:ESR1	component>
+ERBB4jmA membrane-bound cleavage product of 80 kDa	ERBB4s80	-a>
+ERBB4s80:TAB2:NCOR1	ERBB4s80:TAB2:NCOR1	-a>

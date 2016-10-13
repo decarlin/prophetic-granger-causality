@@ -1,0 +1,77 @@
+SmallMolecule	1-O-(3-sn-phosphatidyl)-1D-myo-inositol 4,5-bis(dihydrogen phosphate)
+family	AKT
+protein	AKT1
+protein	AKT2
+protein	AKT3
+family	G-protein beta subunit
+complex	G-protein beta-gamma complex
+complex	G-protein beta-gamma:PI3K gamma
+family	G-protein gamma subunit
+protein	GNB1
+protein	GNB2
+protein	GNB3
+protein	GNB4
+protein	GNB5
+protein	GNG10
+protein	GNG11
+protein	GNG12
+protein	GNG13
+protein	GNG2
+protein	GNG3
+protein	GNG4
+protein	GNG5
+protein	GNG7
+protein	GNG8
+protein	GNGT1
+protein	GNGT2
+SmallMolecule	H4atp
+complex	PDK1:AKT:PIP3
+protein	PDPK1
+family	PI3-kinase gamma, regulatory subunit
+complex	PI3K gamma
+protein	PIK3CG
+protein	PIK3R5
+protein	PIK3R6
+complex	PIP3:RhoA
+SmallMolecule	PtsIns-3,4,5-P3
+protein	RHOA
+SmallMolecule	adenosine 5'-(trihydrogen diphosphate)
+AKT	PDK1:AKT:PIP3	-a>
+AKT	PDK1:AKT:PIP3	component>
+AKT1	AKT	member>
+AKT2	AKT	member>
+AKT3	AKT	member>
+G-protein gamma subunit	G-protein beta-gamma complex	component>
+PI3K gamma	G-protein beta-gamma:PI3K gamma	component>
+PIK3CG	PI3K gamma	component>
+H4atp	adenosine 5'-(trihydrogen diphosphate)	-a>
+H4atp	PtsIns-3,4,5-P3	-a>
+GNG10	G-protein gamma subunit	member>
+GNG11	G-protein gamma subunit	member>
+GNG12	G-protein gamma subunit	member>
+GNG13	G-protein gamma subunit	member>
+PIK3R6	PI3-kinase gamma, regulatory subunit	member>
+PIK3R5	PI3-kinase gamma, regulatory subunit	member>
+PtsIns-3,4,5-P3	PDK1:AKT:PIP3	component>
+PtsIns-3,4,5-P3	PIP3:RhoA	component>
+PtsIns-3,4,5-P3	PIP3:RhoA	-a>
+PI3-kinase gamma, regulatory subunit	PI3K gamma	component>
+GNG3	G-protein gamma subunit	member>
+1-O-(3-sn-phosphatidyl)-1D-myo-inositol 4,5-bis(dihydrogen phosphate)	adenosine 5'-(trihydrogen diphosphate)	-a>
+1-O-(3-sn-phosphatidyl)-1D-myo-inositol 4,5-bis(dihydrogen phosphate)	PtsIns-3,4,5-P3	-a>
+GNB5	G-protein beta subunit	member>
+GNB4	G-protein beta subunit	member>
+GNB1	G-protein beta subunit	member>
+GNB3	G-protein beta subunit	member>
+GNB2	G-protein beta subunit	member>
+G-protein beta-gamma complex	G-protein beta-gamma:PI3K gamma	component>
+RHOA	PIP3:RhoA	component>
+G-protein beta subunit	G-protein beta-gamma complex	component>
+GNG7	G-protein gamma subunit	member>
+GNG4	G-protein gamma subunit	member>
+GNG5	G-protein gamma subunit	member>
+GNG2	G-protein gamma subunit	member>
+GNGT2	G-protein gamma subunit	member>
+GNGT1	G-protein gamma subunit	member>
+PDPK1	PDK1:AKT:PIP3	component>
+GNG8	G-protein gamma subunit	member>

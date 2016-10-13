@@ -1,0 +1,39 @@
+SmallMolecule	AGE adducts
+complex	AGE adducts:Peptide
+complex	AGE adducts:Peptide:AGER-1,2,3
+protein	AGER
+PhysicalEntity	AGER ligands
+complex	AGER ligands:AGER
+complex	AGER ligands:AGER:ERK
+family	AGER-1, 2, 3
+protein	CAPZA1
+protein	CAPZA2
+protein	DDOST
+family	ERK
+family	F-actin capping protein alpha protein fragment TRTK-12
+complex	F-actin capping protein fragment TRTK12:S100B homodimer
+protein	LGALS3
+protein	MAPK1
+protein	MAPK3
+protein	PRKCSH
+SmallMolecule	Peptid
+protein	S100B
+complex	S100B homodimer
+AGE adducts	AGE adducts:Peptide	component>
+CAPZA2	F-actin capping protein alpha protein fragment TRTK-12	member>
+CAPZA1	F-actin capping protein alpha protein fragment TRTK-12	member>
+S100B homodimer	F-actin capping protein fragment TRTK12:S100B homodimer	component>
+PRKCSH	AGER-1, 2, 3	member>
+F-actin capping protein alpha protein fragment TRTK-12	F-actin capping protein fragment TRTK12:S100B homodimer	component>
+AGER ligands:AGER	AGER ligands:AGER:ERK	component>
+AGER	AGER ligands:AGER	component>
+Peptid	AGE adducts:Peptide	component>
+MAPK3	ERK	member>
+DDOST	AGER-1, 2, 3	member>
+ERK	AGER ligands:AGER:ERK	component>
+AGER-1, 2, 3	AGE adducts:Peptide:AGER-1,2,3	component>
+LGALS3	AGER-1, 2, 3	member>
+MAPK1	ERK	member>
+S100B	S100B homodimer	component>
+AGE adducts:Peptide	AGE adducts:Peptide:AGER-1,2,3	component>
+AGER ligands	AGER ligands:AGER	component>

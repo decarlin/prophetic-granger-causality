@@ -1,0 +1,159 @@
+protein	ADAM17
+protein	BTC
+protein	CBFA2T3
+protein	DLG4
+complex	E4ICDs/ETO2
+complex	E4ICDs/TAB2/NCoR1
+protein	ERBB2
+protein	ERBB4
+protein	EREG
+protein	ERK1-2
+complex	ErbB4 CYT2/ErbB4 CYT2/neuregulin 1 beta/neuregulin 1 beta
+complex	ErbB4 JM-B/ErbB4 JM-B/neuregulin 1 beta/neuregulin 1 beta
+complex	ErbB4/ErbB2/HBEGF
+complex	ErbB4/ErbB2/betacellulin
+complex	ErbB4/ErbB2/epiregulin
+complex	ErbB4/ErbB2/neuregulin 1 beta
+complex	ErbB4/ErbB2/neuregulin 4
+complex	ErbB4/ErbB4
+complex	ErbB4/ErbB4/HBEGF/HBEGF
+complex	ErbB4/ErbB4/HBEGF/HBEGF/Prolactin receptor/Prolactin receptor/Prolactin/JAK2
+complex	ErbB4/ErbB4/betacellulin/betacellulin
+complex	ErbB4/ErbB4/neuregulin 1 beta/neuregulin 1 beta
+complex	ErbB4/ErbB4/neuregulin 1 beta/neuregulin 1 beta/Fyn
+complex	ErbB4/ErbB4/neuregulin 1 beta/neuregulin 1 beta/GRB2/SHC
+complex	ErbB4/ErbB4/neuregulin 2 beta/neuregulin 2 beta
+complex	ErbB4/ErbB4/neuregulin 3/neuregulin 3
+protein	Erk1-2-active
+protein	FYN
+protein	GRB2
+protein	GRIN2B
+complex	Gamma Secretase
+protein	HBEGF
+protein	ITCH
+protein	JAK2
+protein	LRIG1
+protein	MDM2
+protein	NCOR1
+protein	NEDD4
+protein	NRG1
+protein	NRG2
+protein	NRG3
+protein	NRG4
+protein	None
+complex	PI3K Class IA family
+protein	PRL
+protein	PRLR
+protein	SHC1
+protein	STAT5A
+complex	STAT5A (dimer)
+protein	STAT5B
+complex	STAT5B (dimer) active
+protein	TAB2
+protein	WWOX
+complex	WWOX/E4ICDs
+protein	WWP1
+protein	YAP1
+ErbB4/ErbB4/HBEGF/HBEGF	PI3K Class IA family	ACTIVATION
+ITCH	ErbB4 JM-B/ErbB4 JM-B/neuregulin 1 beta/neuregulin 1 beta	ACTIVATION
+ITCH	ErbB4/ErbB4/neuregulin 1 beta/neuregulin 1 beta	ACTIVATION
+ITCH	ERBB4	ACTIVATION
+WWP1	ErbB4/ErbB4/neuregulin 1 beta/neuregulin 1 beta	ACTIVATION
+WWP1	ERBB4	ACTIVATION
+FYN	ErbB4/ErbB4/neuregulin 1 beta/neuregulin 1 beta/Fyn	component>
+Erk1-2-active	None	ACTIVATION
+ErbB4/ErbB4/neuregulin 1 beta/neuregulin 1 beta/GRB2/SHC	ErbB4/ErbB4/neuregulin 1 beta/neuregulin 1 beta/GRB2/SHC	transport
+ErbB4/ErbB4/neuregulin 1 beta/neuregulin 1 beta/GRB2/SHC	Erk1-2-active	ACTIVATION
+ErbB4 CYT2/ErbB4 CYT2/neuregulin 1 beta/neuregulin 1 beta	None	ACTIVATION
+ADAM17	ERBB4	ACTIVATION
+ErbB4/ErbB4/neuregulin 3/neuregulin 3	None	INHIBITION
+NCOR1	E4ICDs/TAB2/NCoR1	component>
+PI3K Class IA family	None	ACTIVATION
+PI3K Class IA family	PI3K Class IA family	-a>
+ErbB4/ErbB4/neuregulin 1 beta/neuregulin 1 beta/Fyn	GRIN2B	ACTIVATION
+DLG4	ErbB4/ErbB4/neuregulin 1 beta/neuregulin 1 beta/GRB2/SHC	ACTIVATION
+ErbB4/ErbB2/betacellulin	None	ACTIVATION
+PRLR	ErbB4/ErbB4/HBEGF/HBEGF/Prolactin receptor/Prolactin receptor/Prolactin/JAK2	component>
+PRL	ErbB4/ErbB4/HBEGF/HBEGF/Prolactin receptor/Prolactin receptor/Prolactin/JAK2	component>
+NEDD4	ERBB4	ACTIVATION
+STAT5A	STAT5A	-a>
+STAT5A	STAT5A (dimer)	component>
+CBFA2T3	E4ICDs/ETO2	component>
+ErbB4/ErbB2/HBEGF	None	ACTIVATION
+HBEGF	ErbB4/ErbB4/HBEGF/HBEGF/Prolactin receptor/Prolactin receptor/Prolactin/JAK2	component>
+HBEGF	ErbB4/ErbB4/HBEGF/HBEGF	component>
+HBEGF	ErbB4/ErbB2/HBEGF	component>
+JAK2	ErbB4/ErbB4/HBEGF/HBEGF/Prolactin receptor/Prolactin receptor/Prolactin/JAK2	component>
+NRG1	ErbB4/ErbB4/neuregulin 1 beta/neuregulin 1 beta/Fyn	component>
+NRG1	ErbB4/ErbB4/neuregulin 1 beta/neuregulin 1 beta	component>
+NRG1	ErbB4/ErbB4/neuregulin 1 beta/neuregulin 1 beta/GRB2/SHC	component>
+NRG1	ErbB4 CYT2/ErbB4 CYT2/neuregulin 1 beta/neuregulin 1 beta	component>
+NRG1	ErbB4 JM-B/ErbB4 JM-B/neuregulin 1 beta/neuregulin 1 beta	component>
+NRG1	ErbB4/ErbB2/neuregulin 1 beta	component>
+NRG3	ErbB4/ErbB4/neuregulin 3/neuregulin 3	component>
+NRG2	ErbB4/ErbB4/neuregulin 2 beta/neuregulin 2 beta	component>
+NRG4	ErbB4/ErbB2/neuregulin 4	component>
+ERBB2	ErbB4/ErbB2/betacellulin	component>
+ERBB2	ErbB4/ErbB2/epiregulin	component>
+ERBB2	ErbB4/ErbB2/neuregulin 1 beta	component>
+ERBB2	ErbB4/ErbB2/neuregulin 4	component>
+ERBB2	ErbB4/ErbB2/HBEGF	component>
+WWOX/E4ICDs	YAP1	INHIBITION
+None	None	ACTIVATION
+SHC1	ErbB4/ErbB4/neuregulin 1 beta/neuregulin 1 beta/GRB2/SHC	component>
+ERBB4	ErbB4/ErbB4/HBEGF/HBEGF	component>
+ERBB4	ErbB4/ErbB2/betacellulin	component>
+ERBB4	ErbB4/ErbB4/neuregulin 1 beta/neuregulin 1 beta/GRB2/SHC	component>
+ERBB4	ErbB4 CYT2/ErbB4 CYT2/neuregulin 1 beta/neuregulin 1 beta	component>
+ERBB4	ErbB4/ErbB4	component>
+ERBB4	E4ICDs/ETO2	component>
+ERBB4	ErbB4/ErbB4/neuregulin 1 beta/neuregulin 1 beta/Fyn	component>
+ERBB4	ErbB4/ErbB4/neuregulin 3/neuregulin 3	component>
+ERBB4	ErbB4/ErbB2/HBEGF	component>
+ERBB4	WWOX/E4ICDs	component>
+ERBB4	ERBB4	-a>
+ERBB4	ErbB4/ErbB4/neuregulin 2 beta/neuregulin 2 beta	component>
+ERBB4	ErbB4/ErbB2/epiregulin	component>
+ERBB4	ErbB4/ErbB4/betacellulin/betacellulin	component>
+ERBB4	ErbB4/ErbB4/HBEGF/HBEGF/Prolactin receptor/Prolactin receptor/Prolactin/JAK2	component>
+ERBB4	MDM2	ACTIVATION
+ERBB4	ErbB4 JM-B/ErbB4 JM-B/neuregulin 1 beta/neuregulin 1 beta	component>
+ERBB4	ErbB4/ErbB2/neuregulin 1 beta	component>
+ERBB4	YAP1	ACTIVATION
+ERBB4	E4ICDs/TAB2/NCoR1	component>
+ERBB4	STAT5A (dimer)	ACTIVATION
+ERBB4	ErbB4/ErbB2/neuregulin 4	component>
+ERBB4	ErbB4/ErbB4/neuregulin 1 beta/neuregulin 1 beta	component>
+ErbB4/ErbB4/neuregulin 2 beta/neuregulin 2 beta	PI3K Class IA family	ACTIVATION
+ErbB4/ErbB2/epiregulin	None	INHIBITION
+ErbB4/ErbB4/betacellulin/betacellulin	None	ACTIVATION
+Gamma Secretase	ERBB4	ACTIVATION
+ErbB4/ErbB4/HBEGF/HBEGF/Prolactin receptor/Prolactin receptor/Prolactin/JAK2	STAT5A (dimer)	ACTIVATION
+MDM2	MDM2	-a>
+ErbB4 JM-B/ErbB4 JM-B/neuregulin 1 beta/neuregulin 1 beta	ErbB4 JM-B/ErbB4 JM-B/neuregulin 1 beta/neuregulin 1 beta	transport
+ErbB4 JM-B/ErbB4 JM-B/neuregulin 1 beta/neuregulin 1 beta	ErbB4 JM-B/ErbB4 JM-B/neuregulin 1 beta/neuregulin 1 beta	-a>
+ErbB4 JM-B/ErbB4 JM-B/neuregulin 1 beta/neuregulin 1 beta	PI3K Class IA family	ACTIVATION
+ErbB4/ErbB2/neuregulin 1 beta	None	ACTIVATION
+YAP1	YAP1	transport
+E4ICDs/TAB2/NCoR1	E4ICDs/TAB2/NCoR1	transport
+E4ICDs/TAB2/NCoR1	None	INHIBITION
+STAT5A (dimer)	STAT5A (dimer)	transport
+STAT5A (dimer)	None	ACTIVATION
+ErbB4/ErbB2/neuregulin 4	None	ACTIVATION
+LRIG1	ErbB4/ErbB4/neuregulin 1 beta/neuregulin 1 beta	ACTIVATION
+TAB2	E4ICDs/TAB2/NCoR1	component>
+STAT5B (dimer) active	STAT5B (dimer) active	transport
+ErbB4/ErbB4/neuregulin 1 beta/neuregulin 1 beta	None	ACTIVATION
+ErbB4/ErbB4/neuregulin 1 beta/neuregulin 1 beta	ErbB4/ErbB4/neuregulin 1 beta/neuregulin 1 beta	transport
+ErbB4/ErbB4/neuregulin 1 beta/neuregulin 1 beta	ErbB4/ErbB4/neuregulin 1 beta/neuregulin 1 beta	-a>
+ErbB4/ErbB4/neuregulin 1 beta/neuregulin 1 beta	STAT5B (dimer) active	ACTIVATION
+ErbB4/ErbB4/neuregulin 1 beta/neuregulin 1 beta	STAT5A	ACTIVATION
+ErbB4/ErbB4/neuregulin 1 beta/neuregulin 1 beta	PI3K Class IA family	ACTIVATION
+GRIN2B	GRIN2B	-a>
+STAT5B	STAT5B (dimer) active	component>
+ERK1-2	Erk1-2-active	-a>
+GRB2	ErbB4/ErbB4/neuregulin 1 beta/neuregulin 1 beta/GRB2/SHC	component>
+EREG	ErbB4/ErbB2/epiregulin	component>
+BTC	ErbB4/ErbB2/betacellulin	component>
+BTC	ErbB4/ErbB4/betacellulin/betacellulin	component>
+WWOX	WWOX/E4ICDs	component>

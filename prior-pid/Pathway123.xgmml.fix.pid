@@ -1,0 +1,22 @@
+SmallMolecule	H4atp
+protein	MAP2K1
+protein	MAP2K2
+protein	MAPK1
+protein	MAPK3
+family	Phospho-ERK
+family	Phospho-MEK
+SmallMolecule	adenosine 5'-(trihydrogen diphosphate)
+complex	p-ERK dimer
+complex	p-MEK:ERK
+complex	p-MEK:p-ERK
+H4atp	p-MEK:p-ERK	-a>
+H4atp	adenosine 5'-(trihydrogen diphosphate)	-a>
+p-MEK:p-ERK	Phospho-ERK	-a>
+p-MEK:p-ERK	Phospho-MEK	-a>
+MAP2K2	Phospho-MEK	member>
+MAP2K1	Phospho-MEK	member>
+MAPK1	Phospho-ERK	member>
+Phospho-ERK	p-ERK dimer	-a>
+p-MEK:ERK	p-MEK:p-ERK	-a>
+p-MEK:ERK	adenosine 5'-(trihydrogen diphosphate)	-a>
+MAPK3	Phospho-ERK	member>

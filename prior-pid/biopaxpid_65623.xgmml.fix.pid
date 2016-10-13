@@ -1,0 +1,136 @@
+protein	AKT1
+complex	AP-2 adaptor complex
+protein	BID
+protein	CASP10
+protein	CASP3
+protein	CASP8
+protein	CFLAR
+protein	CHUK
+protein	CLTC
+complex	Caspase 3 (tetramer)
+complex	Caspase 8 (tetramer)/FADD/FADD
+protein	EZR
+protein	FADD
+complex	FADD/FADD/CASP8/CASP8
+protein	FAIM2
+protein	FAP1
+protein	FAS
+complex	FAS (trimer)
+complex	FAS (trimer)/LFG
+protein	FASLG
+complex	FASLG/FAS (trimer)
+complex	FASLG/FAS (trimer)/FADD/FADD
+complex	FASLG/FAS (trimer)/FADD/FADD/CASP10/CASP10
+complex	FASLG/FAS (trimer)/FADD/FADD/CASP8/CASP8
+complex	FASLG/FAS (trimer)/FADD/FADD/CASP8/c-FLIPS
+complex	FASLG/FAS (trimer)/FADD/FADD/RIP
+complex	FASLG/FAS (trimer)/Src/Syk
+protein	IKBKB
+protein	IKBKG
+complex	IKK complex
+protein	JNK family
+protein	JNK family-active
+protein	MAP2K6
+protein	MAP2K7
+protein	MAP3K1
+protein	None
+protein	PDPK1
+SmallMolecule	PI-3-4-5-P3
+SmallMolecule	PI-4-5-P2
+complex	PI3K Class IA family
+protein	RFC1
+protein	RIPK1
+protein	SMPD1
+protein	SRC
+protein	SYK
+protein	cIAP1-2
+SmallMolecule	ceramide
+protein	p38alpha-beta
+protein	p38alpha-beta-active
+SmallMolecule	sphingomyelin
+MAP3K1	MAP3K1	-a>
+sphingomyelin	ceramide	-a>
+Caspase 8 (tetramer)/FADD/FADD	BID	ACTIVATION
+Caspase 8 (tetramer)/FADD/FADD	Caspase 3 (tetramer)	ACTIVATION
+cIAP1-2	FASLG/FAS (trimer)/FADD/FADD/RIP	INHIBITION
+cIAP1-2	CASP8	INHIBITION
+FASLG/FAS (trimer)/Src/Syk	PI3K Class IA family	ACTIVATION
+FAP1	FAS (trimer)	INHIBITION
+PI-3-4-5-P3	AKT1	ACTIVATION
+RIPK1	FASLG/FAS (trimer)/FADD/FADD/RIP	component>
+AKT1	AKT1	transport
+AKT1	None	ACTIVATION
+SMPD1	ceramide	ACTIVATION
+SMPD1	SMPD1	-a>
+CASP8	FADD/FADD/CASP8/CASP8	component>
+CASP8	Caspase 8 (tetramer)/FADD/FADD	component>
+CASP8	FASLG/FAS (trimer)/FADD/FADD/CASP8/CASP8	component>
+CASP8	FASLG/FAS (trimer)/FADD/FADD/CASP8/c-FLIPS	component>
+CLTC	FADD/FADD/CASP8/CASP8	ACTIVATION
+CASP10	FASLG/FAS (trimer)/FADD/FADD/CASP10/CASP10	component>
+FAS	FAS (trimer)/LFG	component>
+FAS	FAS (trimer)	component>
+FAS	FASLG/FAS (trimer)/FADD/FADD/CASP8/c-FLIPS	component>
+FAS	FASLG/FAS (trimer)/Src/Syk	component>
+FAS	FASLG/FAS (trimer)/FADD/FADD/RIP	component>
+FAS	FASLG/FAS (trimer)/FADD/FADD/CASP8/CASP8	component>
+FAS	FASLG/FAS (trimer)	component>
+FAS	FASLG/FAS (trimer)/FADD/FADD	component>
+FAS	FASLG/FAS (trimer)/FADD/FADD/CASP10/CASP10	component>
+BID	None	ACTIVATION
+BID	BID	transport
+JNK family	JNK family-active	-a>
+CFLAR	FASLG/FAS (trimer)/FADD/FADD/RIP	INHIBITION
+CFLAR	FASLG/FAS (trimer)/FADD/FADD/CASP8/c-FLIPS	component>
+p38alpha-beta	p38alpha-beta-active	-a>
+PI-4-5-P2	PI-3-4-5-P3	-a>
+FADD	FADD/FADD/CASP8/CASP8	component>
+FADD	Caspase 8 (tetramer)/FADD/FADD	component>
+FADD	FASLG/FAS (trimer)/FADD/FADD/CASP8/c-FLIPS	component>
+FADD	FASLG/FAS (trimer)/FADD/FADD	component>
+FADD	FASLG/FAS (trimer)/FADD/FADD/CASP8/CASP8	component>
+FADD	FASLG/FAS (trimer)/FADD/FADD/RIP	component>
+FADD	FASLG/FAS (trimer)/FADD/FADD/CASP10/CASP10	component>
+FASLG/FAS (trimer)/FADD/FADD	SMPD1	ACTIVATION
+None	FASLG/FAS (trimer)/FADD/FADD	ACTIVATION
+None	FADD/FADD/CASP8/CASP8	ACTIVATION
+None	None	ACTIVATION
+None	FASLG/FAS (trimer)	ACTIVATION
+PI3K Class IA family	PI-3-4-5-P3	ACTIVATION
+PI3K Class IA family	PI3K Class IA family	-a>
+RFC1	None	INHIBITION
+RFC1	RFC1	-a>
+MAP2K6	p38alpha-beta-active	ACTIVATION
+MAP2K6	MAP2K6	-a>
+AP-2 adaptor complex	FADD/FADD/CASP8/CASP8	ACTIVATION
+CHUK	IKK complex	component>
+SRC	FASLG/FAS (trimer)/Src/Syk	component>
+FASLG/FAS (trimer)/FADD/FADD/RIP	IKK complex	ACTIVATION
+FASLG/FAS (trimer)/FADD/FADD/RIP	None	ACTIVATION
+FASLG	FASLG/FAS (trimer)/FADD/FADD/CASP8/c-FLIPS	component>
+FASLG	FASLG/FAS (trimer)/Src/Syk	component>
+FASLG	FASLG/FAS (trimer)/FADD/FADD/RIP	component>
+FASLG	FASLG/FAS (trimer)/FADD/FADD/CASP10/CASP10	component>
+FASLG	FASLG/FAS (trimer)	component>
+FASLG	FASLG/FAS (trimer)/FADD/FADD	component>
+FASLG	FASLG/FAS (trimer)/FADD/FADD/CASP8/CASP8	component>
+Caspase 3 (tetramer)	MAP3K1	ACTIVATION
+Caspase 3 (tetramer)	RFC1	ACTIVATION
+PDPK1	AKT1	ACTIVATION
+FAIM2	FAS (trimer)/LFG	component>
+FADD/FADD/CASP8/CASP8	Caspase 8 (tetramer)/FADD/FADD	-a>
+IKBKB	IKK complex	component>
+CASP3	Caspase 3 (tetramer)	component>
+SYK	FASLG/FAS (trimer)/Src/Syk	component>
+EZR	FADD/FADD/CASP8/CASP8	ACTIVATION
+IKK complex	IKK complex	-a>
+FASLG/FAS (trimer)/FADD/FADD/CASP8/CASP8	IKK complex	ACTIVATION
+FASLG/FAS (trimer)/FADD/FADD/CASP8/CASP8	Caspase 8 (tetramer)/FADD/FADD	INHIBITION
+FASLG/FAS (trimer)/FADD/FADD/CASP8/CASP8	FASLG/FAS (trimer)/FADD/FADD/CASP8/CASP8	-a>
+FASLG/FAS (trimer)/FADD/FADD/CASP8/CASP8	FASLG/FAS (trimer)	INHIBITION
+FASLG/FAS (trimer)	None	ACTIVATION
+FASLG/FAS (trimer)	MAP2K7	ACTIVATION
+FASLG/FAS (trimer)	MAP2K6	ACTIVATION
+MAP2K7	MAP2K7	-a>
+MAP2K7	JNK family-active	ACTIVATION
+IKBKG	IKK complex	component>

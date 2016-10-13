@@ -1,0 +1,77 @@
+protein	CBL
+protein	EGF
+complex	EGF R/SRC/EGF
+complex	EGF/EGF R/ubiquitin
+complex	EGF/EGF R/ubiquitin (cytoplasm)
+protein	EGFR
+protein	END
+protein	GRB2
+protein	HRAS
+protein	MAP2K1
+protein	MAP2K2
+protein	MAPK1
+protein	MAPK3
+protein	None
+protein	PTPRB
+protein	RAF1
+protein	RASA1
+protein	SH3KBP1
+complex	SHC/GRB2/SOS-1
+protein	SHC1
+protein	SOS1
+protein	SPRY
+protein	SRC
+SmallMolecule	chloroquine
+SmallMolecule	guanosine 5'-diphosphate
+SmallMolecule	guanosine 5'-triphosphate
+SmallMolecule	leupeptin
+protein	ubiquitin
+HRAS	HRAS	-a>
+HRAS	guanosine 5'-diphosphate	-a>
+HRAS	RAF1	ACTIVATION
+EGFR	EGF R/SRC/EGF	component>
+EGFR	EGF/EGF R/ubiquitin (cytoplasm)	component>
+EGFR	EGF/EGF R/ubiquitin	component>
+chloroquine	None	INHIBITION
+MAP2K2	MAP2K2	-a>
+MAP2K2	MAP2K1	-a>
+MAP2K2	MAPK3	ACTIVATION
+MAP2K1	MAP2K2	-a>
+MAP2K1	MAP2K1	-a>
+MAP2K1	MAPK3	ACTIVATION
+SHC/GRB2/SOS-1	HRAS	ACTIVATION
+SHC/GRB2/SOS-1	SHC/GRB2/SOS-1	-a>
+RAF1	MAP2K1	ACTIVATION
+RAF1	RAF1	-a>
+EGF	EGF R/SRC/EGF	component>
+EGF	EGF/EGF R/ubiquitin (cytoplasm)	component>
+EGF	EGF/EGF R/ubiquitin	component>
+ubiquitin	EGF/EGF R/ubiquitin (cytoplasm)	component>
+ubiquitin	EGF/EGF R/ubiquitin	component>
+leupeptin	None	INHIBITION
+EGF/EGF R/ubiquitin	EGF/EGF R/ubiquitin (cytoplasm)	-a>
+MAPK3	MAPK3	transport
+MAPK3	MAPK1	transport
+MAPK1	MAPK3	transport
+MAPK1	MAPK1	transport
+guanosine 5'-triphosphate	HRAS	-a>
+guanosine 5'-triphosphate	guanosine 5'-diphosphate	-a>
+SH3KBP1	None	ACTIVATION
+SRC	EGF R/SRC/EGF	component>
+END	None	ACTIVATION
+SHC1	SHC/GRB2/SOS-1	component>
+EGF R/SRC/EGF	SHC/GRB2/SOS-1	ACTIVATION
+EGF R/SRC/EGF	CBL	ACTIVATION
+RASA1	HRAS	ACTIVATION
+RASA1	RASA1	-a>
+SPRY	HRAS	INHIBITION
+SPRY	RASA1	ACTIVATION
+SPRY	CBL	INHIBITION
+SPRY	PTPRB	ACTIVATION
+SOS1	SHC/GRB2/SOS-1	component>
+CBL	None	ACTIVATION
+CBL	CBL	-a>
+GRB2	None	ACTIVATION
+GRB2	SHC/GRB2/SOS-1	component>
+PTPRB	None	INHIBITION
+PTPRB	PTPRB	transport

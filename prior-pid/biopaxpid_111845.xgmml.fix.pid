@@ -1,0 +1,22 @@
+complex	Activated mTORC1
+SmallMolecule	Adenosine 5'-diphosphate
+SmallMolecule	Adenosine 5'-triphosphate
+SmallMolecule	Guanosine 5'-triphosphate
+protein	MLST8
+protein	MTOR
+protein	RHEB
+protein	RPS6KB1
+protein	RPTOR
+complex	Rheb:GTP
+RPTOR	RPS6KB1	INHIBITION
+RPTOR	Activated mTORC1	component>
+RHEB	Rheb:GTP	component>
+Activated mTORC1	RPS6KB1	ACTIVATION
+RPS6KB1	Adenosine 5'-diphosphate	-a>
+RPS6KB1	RPS6KB1	-a>
+Adenosine 5'-triphosphate	Adenosine 5'-diphosphate	-a>
+Adenosine 5'-triphosphate	RPS6KB1	-a>
+MTOR	Activated mTORC1	component>
+MLST8	Activated mTORC1	component>
+Guanosine 5'-triphosphate	Rheb:GTP	component>
+Rheb:GTP	Activated mTORC1	component>

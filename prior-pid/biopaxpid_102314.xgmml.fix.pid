@@ -1,0 +1,104 @@
+protein	ATF1
+protein	ATF2
+complex	ATF2/c-Jun
+protein	ATF6
+protein	CEBPB
+complex	CK2
+protein	CREB1
+protein	DDIT3
+protein	EIF4E
+protein	EIF4EBP1
+protein	ELK4
+protein	ESR1
+protein	GDI1
+SmallMolecule	GDP
+protein	HBP1
+protein	HSPB1
+protein	JUN
+protein	KRT19
+protein	KRT8
+protein	MAPKAPK2
+protein	MAPKAPK3
+protein	MAPKAPK5
+protein	MEF2A
+protein	MEF2C
+protein	MITF
+protein	MKNK1
+protein	MSK1-2
+protein	PLA2G4A
+protein	PPARGC1A
+complex	RAB5/GDP/GDI1
+protein	RAB5A
+protein	SLC9A1
+protein	TP53
+protein	USF1
+protein	p38alpha-beta-active
+complex	p38alpha-beta/CK2
+complex	p38alpha-beta/HBP1
+complex	p38alpha-beta/MAPKAPK2
+complex	p38alpha-beta/MAPKAPK3
+complex	p38alpha-beta/MNK1
+MKNK1	p38alpha-beta/MNK1	component>
+MITF	MITF	-a>
+MAPKAPK5	MAPKAPK5	-a>
+MAPKAPK5	HSPB1	ACTIVATION
+KRT8	KRT8	-a>
+MAPKAPK3	p38alpha-beta/MAPKAPK3	component>
+MAPKAPK2	p38alpha-beta/MAPKAPK2	component>
+p38alpha-beta/CK2	TP53	ACTIVATION
+CEBPB	CEBPB	-a>
+SLC9A1	SLC9A1	-a>
+p38alpha-beta/MNK1	EIF4E	ACTIVATION
+p38alpha-beta/MNK1	PLA2G4A	ACTIVATION
+JUN	ATF2/c-Jun	component>
+PPARGC1A	PPARGC1A	-a>
+USF1	USF1	-a>
+p38alpha-beta-active	MITF	ACTIVATION
+p38alpha-beta-active	MAPKAPK5	ACTIVATION
+p38alpha-beta-active	KRT8	ACTIVATION
+p38alpha-beta-active	p38alpha-beta/CK2	component>
+p38alpha-beta-active	CEBPB	ACTIVATION
+p38alpha-beta-active	SLC9A1	ACTIVATION
+p38alpha-beta-active	p38alpha-beta/MNK1	component>
+p38alpha-beta-active	PPARGC1A	ACTIVATION
+p38alpha-beta-active	USF1	ACTIVATION
+p38alpha-beta-active	DDIT3	ACTIVATION
+p38alpha-beta-active	p38alpha-beta/HBP1	component>
+p38alpha-beta-active	p38alpha-beta/MAPKAPK3	component>
+p38alpha-beta-active	GDI1	ACTIVATION
+p38alpha-beta-active	TP53	ACTIVATION
+p38alpha-beta-active	MSK1-2	ACTIVATION
+p38alpha-beta-active	ESR1	ACTIVATION
+p38alpha-beta-active	MEF2C	ACTIVATION
+p38alpha-beta-active	MEF2A	ACTIVATION
+p38alpha-beta-active	KRT19	ACTIVATION
+p38alpha-beta-active	ELK4	ACTIVATION
+p38alpha-beta-active	ATF6	ACTIVATION
+p38alpha-beta-active	p38alpha-beta/MAPKAPK2	component>
+p38alpha-beta-active	ATF2	ACTIVATION
+DDIT3	DDIT3	-a>
+RAB5A	RAB5/GDP/GDI1	component>
+HSPB1	HSPB1	-a>
+CREB1	CREB1	-a>
+EIF4E	EIF4E	-a>
+PLA2G4A	PLA2G4A	-a>
+GDI1	GDI1	-a>
+GDI1	RAB5/GDP/GDI1	component>
+GDP	RAB5/GDP/GDI1	component>
+TP53	TP53	-a>
+MSK1-2	ATF1	ACTIVATION
+MSK1-2	EIF4EBP1	ACTIVATION
+MSK1-2	CREB1	ACTIVATION
+MSK1-2	MSK1-2	-a>
+ESR1	ESR1	-a>
+HBP1	p38alpha-beta/HBP1	component>
+MEF2C	MEF2C	-a>
+MEF2A	MEF2A	-a>
+EIF4EBP1	EIF4EBP1	-a>
+ELK4	ELK4	-a>
+CK2	p38alpha-beta/CK2	component>
+ATF6	ATF6	-a>
+ATF1	ATF1	-a>
+KRT19	KRT19	-a>
+ATF2	ATF2/c-Jun	component>
+ATF2	ATF2	-a>

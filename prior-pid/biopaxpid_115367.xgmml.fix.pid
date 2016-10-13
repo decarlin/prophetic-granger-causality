@@ -1,0 +1,138 @@
+protein	AKT1
+protein	CAMK4
+protein	CREBBP
+protein	CaM
+complex	CaM/Ca ++
+protein	CaMKI
+complex	CaMKI/CaM/Ca ++
+complex	CaMKI/CaM/Ca ++ (nuc)
+protein	CaMKK
+complex	CaMKK/CaM/Ca ++
+complex	Calcineurin
+complex	CamKIV/CaM/Ca ++
+protein	ELSPBP1
+protein	GATA4
+protein	GRB2
+protein	GSK3B
+protein	HAND1
+protein	HAND2
+protein	HDAC5
+protein	HDAC9
+protein	HRAS
+SmallMolecule	IP3
+protein	MAPK8
+protein	MCIP
+protein	MEF2C
+complex	MITR/14-3-3
+complex	MITR/MEF2
+protein	NFATc
+complex	NFATc(+)/CBP
+complex	NFATc(+)/GATA4
+complex	NFATc(+)/MEF2C/GATA4
+complex	NFATc(+)/MEF2C/HAND1/HAND2/NKX 2.5/E12
+protein	NKX2-5
+protein	PDPK1
+complex	PI3K
+protein	PIK3CA
+protein	PIK3R1
+SmallMolecule	PIP2
+SmallMolecule	PIP3
+protein	PPP3CA
+protein	PPP3CB
+protein	PPP3CC
+protein	RAS activating ligand
+complex	RAS activating ligand/RAS activating receptor
+protein	RAS activating receptor
+protein	RPS6KB1
+protein	SERCA
+complex	SHC/GRB2/SOS-1
+protein	SHC1
+protein	SOS1
+protein	YWHAH
+SmallMolecule	calcium
+SmallMolecule	ciclosporin (jp14)
+SmallMolecule	fk 506
+SmallMolecule	guanosine 5'-diphosphate
+SmallMolecule	guanosine 5'-triphosphate
+HAND2	NFATc(+)/MEF2C/HAND1/HAND2/NKX 2.5/E12	component>
+CaMKI/CaM/Ca ++ (nuc)	HDAC9	ACTIVATION
+HRAS	HRAS	-a>
+HRAS	guanosine 5'-diphosphate	-a>
+HRAS	PI3K	ACTIVATION
+RAS activating ligand/RAS activating receptor	SHC/GRB2/SOS-1	ACTIVATION
+IP3	calcium	ACTIVATION
+SHC/GRB2/SOS-1	HRAS	ACTIVATION
+SHC/GRB2/SOS-1	SHC/GRB2/SOS-1	-a>
+HAND1	NFATc(+)/MEF2C/HAND1/HAND2/NKX 2.5/E12	component>
+RAS activating ligand	RAS activating ligand/RAS activating receptor	component>
+SERCA	calcium	ACTIVATION
+CaM/Ca ++	Calcineurin	ACTIVATION
+NKX2-5	NFATc(+)/MEF2C/HAND1/HAND2/NKX 2.5/E12	component>
+ciclosporin (jp14)	NFATc	INHIBITION
+PIP2	PIP3	-a>
+RPS6KB1	RPS6KB1	-a>
+RPS6KB1	GSK3B	ACTIVATION
+CAMK4	CamKIV/CaM/Ca ++	component>
+CaMKI	CaMKI/CaM/Ca ++ (nuc)	component>
+CaMKI	CaMKI/CaM/Ca ++	component>
+HDAC9	MITR/MEF2	component>
+HDAC9	HDAC9	-a>
+HDAC9	MITR/14-3-3	component>
+CaMKK	CaMKK/CaM/Ca ++	component>
+fk 506	NFATc	INHIBITION
+PIK3R1	PI3K	component>
+NFATc	NFATc(+)/MEF2C/GATA4	component>
+NFATc	NFATc(+)/MEF2C/HAND1/HAND2/NKX 2.5/E12	component>
+NFATc	NFATc(+)/CBP	component>
+NFATc	NFATc(+)/GATA4	component>
+NFATc	NFATc	-a>
+MAPK8	NFATc	ACTIVATION
+MCIP	NFATc	INHIBITION
+guanosine 5'-triphosphate	HRAS	-a>
+guanosine 5'-triphosphate	guanosine 5'-diphosphate	-a>
+ELSPBP1	NFATc(+)/MEF2C/HAND1/HAND2/NKX 2.5/E12	component>
+Calcineurin	Calcineurin	-a>
+Calcineurin	NFATc	ACTIVATION
+SHC1	SHC/GRB2/SOS-1	component>
+PIP3	PDPK1	ACTIVATION
+PI3K	PIP3	ACTIVATION
+PI3K	PI3K	-a>
+PDPK1	PDPK1	-a>
+PDPK1	RPS6KB1	ACTIVATION
+PDPK1	AKT1	ACTIVATION
+GATA4	NFATc(+)/MEF2C/GATA4	component>
+GATA4	NFATc(+)/GATA4	component>
+PPP3CB	Calcineurin	component>
+CaMKK/CaM/Ca ++	CaMKI/CaM/Ca ++	ACTIVATION
+CaMKK/CaM/Ca ++	CamKIV/CaM/Ca ++	ACTIVATION
+SOS1	SHC/GRB2/SOS-1	component>
+AKT1	AKT1	-a>
+AKT1	GSK3B	ACTIVATION
+RAS activating receptor	RAS activating ligand/RAS activating receptor	component>
+CaMKI/CaM/Ca ++	CaMKI/CaM/Ca ++ (nuc)	-a>
+CaMKI/CaM/Ca ++	HDAC5	ACTIVATION
+CaMKI/CaM/Ca ++	CaMKI/CaM/Ca ++	-a>
+CamKIV/CaM/Ca ++	MEF2C	ACTIVATION
+CamKIV/CaM/Ca ++	CamKIV/CaM/Ca ++	-a>
+GSK3B	NFATc	ACTIVATION
+GSK3B	GSK3B	-a>
+MEF2C	MITR/MEF2	component>
+MEF2C	NFATc(+)/MEF2C/GATA4	component>
+MEF2C	NFATc(+)/MEF2C/HAND1/HAND2/NKX 2.5/E12	component>
+calcium	CaMKK/CaM/Ca ++	component>
+calcium	CaMKI/CaM/Ca ++ (nuc)	component>
+calcium	CaMKI/CaM/Ca ++	component>
+calcium	CamKIV/CaM/Ca ++	component>
+calcium	calcium	transport
+calcium	CaM/Ca ++	component>
+GRB2	SHC/GRB2/SOS-1	component>
+CaM	CaMKI/CaM/Ca ++ (nuc)	component>
+CaM	CaM/Ca ++	component>
+CaM	CaMKK/CaM/Ca ++	component>
+CaM	CaMKI/CaM/Ca ++	component>
+CaM	CamKIV/CaM/Ca ++	component>
+PIK3CA	PI3K	component>
+PPP3CA	Calcineurin	component>
+PPP3CC	Calcineurin	component>
+CREBBP	NFATc(+)/CBP	component>
+YWHAH	MITR/14-3-3	component>

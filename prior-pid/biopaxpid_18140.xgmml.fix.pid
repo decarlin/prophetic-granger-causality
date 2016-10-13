@@ -1,0 +1,182 @@
+protein	AKAP5
+protein	BAD
+complex	BAD/BCL-X(L)
+protein	BAX
+protein	BCL2
+complex	BCL2/BAX
+protein	BCL2L1
+protein	CABIN1
+complex	CABIN1/MEF2D
+complex	CABIN1/MEF2D/CaM/Ca2+/CAMK IV
+complex	CABIN1/YWHAQ/CaM/Ca2+/CAMK IV
+protein	CALM1
+protein	CAMK4
+protein	CASP3
+protein	CSNK1A1
+protein	CSNK2A1
+SmallMolecule	Ca2+
+complex	CaM/Ca2+
+complex	CaM/Ca2+/CAMK IV
+complex	CaM/Ca2+/Calcineurin A alpha-beta B1
+complex	CaM/Ca2+/FKBP38
+complex	Calcineurin A alpha-beta B1
+complex	Calcineurin A alpha-beta B1/AKAP79/PKA
+complex	Calcineurin A alpha-beta B1/BCL2
+complex	Calcineurin A alpha-beta B1/CABIN1
+complex	Calcineurin A alpha-beta B1/DSCR1
+complex	Calcineurin A alpha-beta B1/DSCR1L1
+complex	Calcineurin A alpha-beta B1/FKBP12/FK506
+complex	Caspase 3 (tetramer)
+protein	Cbp/p300
+SmallMolecule	DAG
+complex	Exportin 1/Ran/NUP214
+SmallMolecule	FK506
+protein	FKBP1A
+complex	FKBP38/BCL2
+protein	FKBP8
+protein	GSK3B
+protein	KPNA2
+protein	KPNB1
+protein	MAP3K1
+protein	MAP3K8
+protein	MAPK14
+protein	MAPK3
+protein	MAPK8
+protein	MEF2D
+complex	MEF2D/NFAT1/Cbp/p300
+protein	NFAT1 (cleaved)
+protein	NFAT1-c-4
+protein	NFAT1-c-4-active
+protein	NFAT1-c-4-inactive1
+protein	NFAT1-c-4-inactive2
+complex	NFAT1-c-4/YWHAQ
+complex	NFAT1/CK1 alpha
+complex	NFAT4/CK1 alpha
+protein	NFATC1
+protein	NFATC2
+protein	NFATC3
+complex	NFATc/ERK1
+complex	NFATc/p38 alpha
+rna	NRON
+protein	NUP214
+protein	None
+protein	PIM1
+protein	PRKACA
+protein	PRKCZ
+protein	RAN
+protein	RCAN1
+protein	RCAN2
+complex	RCH1/ importin beta
+protein	Typical PKCs
+protein	XPO1
+protein	YWHAQ
+BCL2L1	BAD/BCL-X(L)	component>
+NFATC1	NFATC1	-a>
+NFATC1	NFATc/ERK1	component>
+NFATC1	NFATc/p38 alpha	component>
+NFATC2	NFAT1/CK1 alpha	component>
+NFATC2	NFATC2	-a>
+NFATC2	MEF2D/NFAT1/Cbp/p300	component>
+NFATC2	NFAT1 (cleaved)	-a>
+NFATC3	None	ACTIVATION
+NFATC3	NFATC3	transport
+NFATC3	NFAT4/CK1 alpha	component>
+Exportin 1/Ran/NUP214	NFATC1	ACTIVATION
+Exportin 1/Ran/NUP214	NFATC2	ACTIVATION
+CABIN1/MEF2D/CaM/Ca2+/CAMK IV	CABIN1/YWHAQ/CaM/Ca2+/CAMK IV	-a>
+CABIN1/MEF2D/CaM/Ca2+/CAMK IV	MEF2D	-a>
+BCL2/BAX	None	ACTIVATION
+CaM/Ca2+/Calcineurin A alpha-beta B1	NFATC1	ACTIVATION
+CaM/Ca2+/Calcineurin A alpha-beta B1	NFATC2	ACTIVATION
+CaM/Ca2+/Calcineurin A alpha-beta B1	NFATC3	ACTIVATION
+CaM/Ca2+/Calcineurin A alpha-beta B1	NFAT1-c-4-active	ACTIVATION
+BAX	BCL2/BAX	component>
+FK506	Calcineurin A alpha-beta B1/FKBP12/FK506	component>
+MAPK14	NFATC2	ACTIVATION
+MAPK14	NFATc/p38 alpha	component>
+BAD	BAD/BCL-X(L)	component>
+CABIN1/MEF2D	None	INHIBITION
+Calcineurin A alpha-beta B1/BCL2	FKBP38/BCL2	-a>
+Calcineurin A alpha-beta B1/BCL2	CaM/Ca2+/Calcineurin A alpha-beta B1	-a>
+FKBP8	CaM/Ca2+/FKBP38	component>
+FKBP8	FKBP38/BCL2	component>
+NFAT1-c-4	NFAT1-c-4	transport
+XPO1	Exportin 1/Ran/NUP214	component>
+BAD/BCL-X(L)	None	ACTIVATION
+MAP3K8	NFATC2	ACTIVATION
+DAG	NFATC2	ACTIVATION
+CABIN1	Calcineurin A alpha-beta B1/CABIN1	component>
+CABIN1	CABIN1/YWHAQ/CaM/Ca2+/CAMK IV	component>
+CABIN1	CABIN1/MEF2D	component>
+CABIN1	CABIN1/MEF2D/CaM/Ca2+/CAMK IV	component>
+CABIN1	CABIN1	-a>
+Typical PKCs	CABIN1	ACTIVATION
+RAN	Exportin 1/Ran/NUP214	component>
+YWHAQ	CABIN1/YWHAQ/CaM/Ca2+/CAMK IV	component>
+YWHAQ	NFAT1-c-4/YWHAQ	component>
+YWHAQ	MEF2D	-a>
+CAMK4	CaM/Ca2+/CAMK IV	component>
+CAMK4	CABIN1/YWHAQ/CaM/Ca2+/CAMK IV	component>
+CAMK4	CABIN1/MEF2D/CaM/Ca2+/CAMK IV	component>
+Ca2+	CaM/Ca2+/FKBP38	component>
+Ca2+	NFATC2	ACTIVATION
+Ca2+	NFAT4/CK1 alpha	ACTIVATION
+Ca2+	Calcineurin A alpha-beta B1/FKBP12/FK506	ACTIVATION
+Ca2+	CABIN1/MEF2D/CaM/Ca2+/CAMK IV	component>
+Ca2+	CaM/Ca2+/Calcineurin A alpha-beta B1	component>
+Ca2+	CaM/Ca2+	component>
+Ca2+	CaM/Ca2+/CAMK IV	component>
+Ca2+	CABIN1/YWHAQ/CaM/Ca2+/CAMK IV	component>
+NUP214	Exportin 1/Ran/NUP214	component>
+MAPK8	NFATC2	ACTIVATION
+RCH1/ importin beta	NFATC1	ACTIVATION
+RCH1/ importin beta	NFAT1-c-4	ACTIVATION
+MAPK3	NFATc/ERK1	component>
+RCAN1	Calcineurin A alpha-beta B1/DSCR1	component>
+RCAN1	None	ACTIVATION
+NRON	NFATC1	INHIBITION
+NRON	NFAT1-c-4	INHIBITION
+RCAN2	Calcineurin A alpha-beta B1/DSCR1L1	component>
+CASP3	Caspase 3 (tetramer)	component>
+PIM1	NFATC1	ACTIVATION
+KPNB1	RCH1/ importin beta	component>
+PRKCZ	NFAT1-c-4-active	ACTIVATION
+Caspase 3 (tetramer)	NFAT1 (cleaved)	ACTIVATION
+NFAT1-c-4-inactive2	NFAT1-c-4/YWHAQ	component>
+FKBP38/BCL2	None	INHIBITION
+NFAT1-c-4-inactive1	NFAT1-c-4-active	-a>
+CSNK2A1	NFATC1	ACTIVATION
+Cbp/p300	MEF2D/NFAT1/Cbp/p300	component>
+CaM/Ca2+/FKBP38	FKBP38/BCL2	-a>
+CaM/Ca2+/FKBP38	CaM/Ca2+/Calcineurin A alpha-beta B1	-a>
+CSNK1A1	NFAT1/CK1 alpha	component>
+CSNK1A1	NFATC2	ACTIVATION
+CSNK1A1	NFAT4/CK1 alpha	component>
+CALM1	CaM/Ca2+/FKBP38	component>
+CALM1	CABIN1/MEF2D/CaM/Ca2+/CAMK IV	component>
+CALM1	CaM/Ca2+/Calcineurin A alpha-beta B1	component>
+CALM1	CaM/Ca2+	component>
+CALM1	CaM/Ca2+/CAMK IV	component>
+CALM1	CABIN1/YWHAQ/CaM/Ca2+/CAMK IV	component>
+MEF2D	CABIN1/MEF2D/CaM/Ca2+/CAMK IV	component>
+MEF2D	CABIN1/MEF2D	component>
+MEF2D	MEF2D/NFAT1/Cbp/p300	component>
+AKAP5	Calcineurin A alpha-beta B1/AKAP79/PKA	component>
+GSK3B	NFATC1	ACTIVATION
+GSK3B	NFATC2	ACTIVATION
+MAP3K1	NFAT4/CK1 alpha	ACTIVATION
+Calcineurin A alpha-beta B1	Calcineurin A alpha-beta B1/CABIN1	component>
+Calcineurin A alpha-beta B1	Calcineurin A alpha-beta B1/DSCR1L1	component>
+Calcineurin A alpha-beta B1	Calcineurin A alpha-beta B1/FKBP12/FK506	component>
+Calcineurin A alpha-beta B1	CaM/Ca2+/Calcineurin A alpha-beta B1	component>
+Calcineurin A alpha-beta B1	Calcineurin A alpha-beta B1/DSCR1	component>
+Calcineurin A alpha-beta B1	Calcineurin A alpha-beta B1/AKAP79/PKA	component>
+Calcineurin A alpha-beta B1	Calcineurin A alpha-beta B1/BCL2	component>
+PRKACA	NFATC1	ACTIVATION
+PRKACA	NFATC2	ACTIVATION
+PRKACA	Calcineurin A alpha-beta B1/AKAP79/PKA	component>
+KPNA2	RCH1/ importin beta	component>
+FKBP1A	Calcineurin A alpha-beta B1/FKBP12/FK506	component>
+BCL2	Calcineurin A alpha-beta B1/BCL2	component>
+BCL2	FKBP38/BCL2	component>
+BCL2	BCL2/BAX	component>

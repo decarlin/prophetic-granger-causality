@@ -1,0 +1,87 @@
+protein	ADCY1
+protein	AKT1
+protein	BAD
+complex	BAD/14-3-3
+complex	BAD/BCL-2
+complex	BAD/BCL-XL
+protein	BAX
+complex	BCL-XL/BAX
+protein	BCL2
+protein	BCL2L1
+protein	CSF2RB
+SmallMolecule	Forskolin
+complex	IGF-1/IGF-1R
+protein	IGF1
+protein	IGF1R
+complex	IL-3R-alpha/Colony stimulating factor 2 receptor beta/IL-3
+protein	IL3
+protein	IL3RA
+protein	KIT
+protein	KITLG
+protein	None
+protein	PDPK1
+complex	PI3K
+protein	PIK3CA
+protein	PIK3R1
+SmallMolecule	PIP2
+SmallMolecule	PIP3
+complex	PKA
+protein	PRKACB
+protein	PRKACG
+protein	PRKAR1A
+protein	PRKAR1B
+protein	PRKAR2A
+protein	PRKAR2B
+complex	SCF/SCF-R
+SmallMolecule	Wortmannin
+protein	YWHAH
+SmallMolecule	cyclic amp
+SmallMolecule	n-acylsphingosine
+CSF2RB	IL-3R-alpha/Colony stimulating factor 2 receptor beta/IL-3	component>
+Wortmannin	PI3K	ACTIVATION
+BAX	BCL-XL/BAX	component>
+PRKAR2A	PKA	component>
+AKT1	AKT1	-a>
+AKT1	BAD	ACTIVATION
+AKT1	BCL2	ACTIVATION
+BAD	BAD/14-3-3	component>
+BAD	BAD	-a>
+BAD	BAD/BCL-2	component>
+BAD	BAD/BCL-XL	component>
+PRKAR2B	PKA	component>
+IGF-1/IGF-1R	PI3K	ACTIVATION
+PIP3	PDPK1	ACTIVATION
+PIK3CA	PI3K	component>
+PIP2	PIP3	-a>
+Forskolin	ADCY1	ACTIVATION
+YWHAH	BAD/14-3-3	component>
+PKA	BAD	ACTIVATION
+PKA	PKA	-a>
+PKA	BCL2	ACTIVATION
+PIK3R1	PI3K	component>
+BAD/BCL-2	None	ACTIVATION
+IL-3R-alpha/Colony stimulating factor 2 receptor beta/IL-3	PI3K	ACTIVATION
+IGF1R	IGF-1/IGF-1R	component>
+IGF1	IGF-1/IGF-1R	component>
+cyclic amp	PKA	ACTIVATION
+cyclic amp	cyclic amp	-a>
+n-acylsphingosine	PIP3	INHIBITION
+PI3K	PIP3	ACTIVATION
+PI3K	PI3K	-a>
+BAD/BCL-XL	None	ACTIVATION
+IL3RA	IL-3R-alpha/Colony stimulating factor 2 receptor beta/IL-3	component>
+PRKAR1A	PKA	component>
+PRKAR1B	PKA	component>
+KITLG	SCF/SCF-R	component>
+ADCY1	ADCY1	-a>
+ADCY1	cyclic amp	ACTIVATION
+KIT	SCF/SCF-R	component>
+PRKACG	PKA	component>
+IL3	IL-3R-alpha/Colony stimulating factor 2 receptor beta/IL-3	component>
+BCL2L1	BAD/BCL-XL	component>
+BCL2L1	BCL-XL/BAX	component>
+PRKACB	PKA	component>
+PDPK1	PDPK1	-a>
+PDPK1	AKT1	ACTIVATION
+SCF/SCF-R	PI3K	ACTIVATION
+BCL2	BAD/BCL-2	component>

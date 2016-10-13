@@ -1,0 +1,147 @@
+family	Activating E2F transcription factors
+protein	CCND1
+protein	CCND2
+protein	CCND3
+protein	CDK4
+protein	CDK6
+protein	CDKN1A
+protein	CDKN1B
+protein	CDKN2A
+protein	CDKN2B
+protein	CDKN2C
+protein	CDKN2D
+protein	CKS1B
+protein	CUL1
+family	Cdk4/6
+complex	Cdk4/6:INK4A complex
+family	Cyclin D
+complex	Cyclin D:CDK4/6:p21/p27 complex
+complex	Cyclin D:Cdk4/6:p21/p27
+complex	Cyclin D:phospho-CDK4/6:p21/p27
+complex	DP-1:E2F1/2/3
+family	DP1/2
+protein	E2F1
+protein	E2F2
+protein	E2F3
+protein	E2F4
+family	E2F4/5
+complex	E2F4/5:DP1/2
+complex	E2F4:DP1/2
+protein	E2F5
+family	INK4A
+SmallMolecule	PO4(3-)
+protein	RB1
+protein	RBL1
+protein	RBL2
+protein	RPS27A
+complex	Rb-E2F1/2/3:DP-1 complex
+complex	SCF(Skp2) complex
+complex	SCF(Skp2):Cks1 complex
+protein	SKP1
+protein	SKP2
+protein	TFDP1
+protein	TFDP2
+protein	UBA52
+protein	UBB
+family	UBIQ_HUMAN
+complex	Ub-p-T401,S672,1035-RBL2
+SmallMolecule	acqua
+SmallMolecule	adenosine 5'-(tetrahydrogen triphosphate)
+SmallMolecule	adenosine 5'-(trihydrogen diphosphate)
+complex	p-T401,S672,1035-RBL2:SCF(Skp2):Cks1
+complex	p107:E2F4:DP1/2
+complex	p130:E2F4/5:DP1/2
+family	p21/p27
+family	phospho-CDK4/6
+Cyclin D	adenosine 5'-(trihydrogen diphosphate)	-a>
+Cyclin D	Cyclin D:phospho-CDK4/6:p21/p27	component>
+Cyclin D	Cyclin D:Cdk4/6:p21/p27	component>
+Cyclin D	Cyclin D:CDK4/6:p21/p27 complex	component>
+UBIQ_HUMAN	SCF(Skp2):Cks1 complex	-a>
+UBIQ_HUMAN	Ub-p-T401,S672,1035-RBL2	component>
+CDKN1B	p21/p27	member>
+CDKN1A	p21/p27	member>
+RPS27A	UBIQ_HUMAN	member>
+Cdk4/6	adenosine 5'-(trihydrogen diphosphate)	-a>
+Cdk4/6	Cyclin D:Cdk4/6:p21/p27	component>
+Cdk4/6	Cdk4/6:INK4A complex	component>
+Cdk4/6	Cyclin D:CDK4/6:p21/p27 complex	component>
+p107:E2F4:DP1/2	adenosine 5'-(trihydrogen diphosphate)	-a>
+p107:E2F4:DP1/2	RBL1	-a>
+p107:E2F4:DP1/2	E2F4:DP1/2	-a>
+SCF(Skp2):Cks1 complex	p-T401,S672,1035-RBL2:SCF(Skp2):Cks1	component>
+p-T401,S672,1035-RBL2:SCF(Skp2):Cks1	SCF(Skp2):Cks1 complex	-a>
+p-T401,S672,1035-RBL2:SCF(Skp2):Cks1	Ub-p-T401,S672,1035-RBL2	-a>
+RB1	Rb-E2F1/2/3:DP-1 complex	component>
+Cyclin D:Cdk4/6:p21/p27	adenosine 5'-(trihydrogen diphosphate)	-a>
+Cyclin D:Cdk4/6:p21/p27	Cyclin D:phospho-CDK4/6:p21/p27	-a>
+SKP2	SCF(Skp2) complex	component>
+CDKN2D	INK4A	member>
+adenosine 5'-(tetrahydrogen triphosphate)	RBL1	-a>
+adenosine 5'-(tetrahydrogen triphosphate)	RBL2	-a>
+adenosine 5'-(tetrahydrogen triphosphate)	Cyclin D:CDK4/6:p21/p27 complex	-a>
+adenosine 5'-(tetrahydrogen triphosphate)	DP-1:E2F1/2/3	-a>
+adenosine 5'-(tetrahydrogen triphosphate)	adenosine 5'-(trihydrogen diphosphate)	-a>
+adenosine 5'-(tetrahydrogen triphosphate)	RB1	-a>
+adenosine 5'-(tetrahydrogen triphosphate)	Cyclin D:phospho-CDK4/6:p21/p27	-a>
+adenosine 5'-(tetrahydrogen triphosphate)	E2F4/5:DP1/2	-a>
+adenosine 5'-(tetrahydrogen triphosphate)	E2F4:DP1/2	-a>
+SKP1	SCF(Skp2) complex	component>
+SCF(Skp2) complex	SCF(Skp2):Cks1 complex	component>
+phospho-CDK4/6	Cyclin D:phospho-CDK4/6:p21/p27	component>
+CKS1B	SCF(Skp2):Cks1 complex	component>
+Rb-E2F1/2/3:DP-1 complex	adenosine 5'-(trihydrogen diphosphate)	-a>
+Rb-E2F1/2/3:DP-1 complex	RB1	-a>
+Rb-E2F1/2/3:DP-1 complex	DP-1:E2F1/2/3	-a>
+p130:E2F4/5:DP1/2	adenosine 5'-(trihydrogen diphosphate)	-a>
+p130:E2F4/5:DP1/2	RBL2	-a>
+p130:E2F4/5:DP1/2	E2F4/5:DP1/2	-a>
+E2F4/5	p130:E2F4/5:DP1/2	component>
+E2F4/5	E2F4/5:DP1/2	component>
+CDKN2B	INK4A	member>
+CDKN2C	INK4A	member>
+CDKN2A	INK4A	member>
+RBL1	p107:E2F4:DP1/2	component>
+RBL1	RBL1	-a>
+RBL1	PO4(3-)	-a>
+RBL2	Ub-p-T401,S672,1035-RBL2	component>
+RBL2	p-T401,S672,1035-RBL2:SCF(Skp2):Cks1	component>
+RBL2	p130:E2F4/5:DP1/2	component>
+RBL2	RBL2	-a>
+RBL2	PO4(3-)	-a>
+acqua	RBL1	-a>
+acqua	RBL2	-a>
+acqua	PO4(3-)	-a>
+E2F5	E2F4/5	member>
+E2F4	p107:E2F4:DP1/2	component>
+E2F4	E2F4/5	member>
+E2F4	E2F4:DP1/2	component>
+E2F3	Activating E2F transcription factors	member>
+E2F2	Activating E2F transcription factors	member>
+E2F1	Activating E2F transcription factors	member>
+Cyclin D:CDK4/6:p21/p27 complex	Cyclin D:Cdk4/6:p21/p27	-a>
+CCND1	Cyclin D	member>
+CCND3	Cyclin D	member>
+CCND2	Cyclin D	member>
+CUL1	SCF(Skp2) complex	component>
+UBA52	UBIQ_HUMAN	member>
+Activating E2F transcription factors	Rb-E2F1/2/3:DP-1 complex	component>
+Activating E2F transcription factors	DP-1:E2F1/2/3	component>
+CDK4	phospho-CDK4/6	member>
+CDK4	Cdk4/6	member>
+TFDP1	Rb-E2F1/2/3:DP-1 complex	component>
+TFDP1	DP-1:E2F1/2/3	component>
+TFDP1	DP1/2	member>
+CDK6	phospho-CDK4/6	member>
+CDK6	Cdk4/6	member>
+DP1/2	p107:E2F4:DP1/2	component>
+DP1/2	p130:E2F4/5:DP1/2	component>
+DP1/2	E2F4:DP1/2	component>
+DP1/2	E2F4/5:DP1/2	component>
+p21/p27	adenosine 5'-(trihydrogen diphosphate)	-a>
+p21/p27	Cyclin D:phospho-CDK4/6:p21/p27	component>
+p21/p27	Cyclin D:Cdk4/6:p21/p27	component>
+p21/p27	Cyclin D:CDK4/6:p21/p27 complex	component>
+INK4A	Cdk4/6:INK4A complex	component>
+TFDP2	DP1/2	member>
+UBB	UBIQ_HUMAN	member>

@@ -1,0 +1,74 @@
+SmallMolecule	12-o-tetradecanoylphorbol 13-acetate
+protein	AKT1
+SmallMolecule	Aplysiatoxin
+protein	BCL2
+protein	E6
+protein	KRAS
+protein	MYC
+protein	POLR2A
+protein	PPP2R5D
+protein	PRKCA
+protein	RB1
+protein	TEP1
+protein	TERF1
+protein	TERT
+protein	TERT transcription factors
+complex	TERT(+)/TEP1/hTR RNA
+complex	TERT(+1)/TEP1/hTR RNA
+complex	TERT(+1)/hTR RNA
+complex	TERT(+1)/hTR RNA/KU
+complex	TERT(+1)/hTR RNA/KU/TRF1
+complex	TERT/TEP1/hTR RNA
+protein	TNKS
+protein	TP53
+SmallMolecule	Teleocidin
+protein	XRCC5
+protein	XRCC6
+rna	hTR RNA
+SmallMolecule	mezerein
+complex	p53/RB
+SmallMolecule	tamoxifen
+TNKS	TERT(+1)/hTR RNA/KU	ACTIVATION
+TNKS	TERT(+1)/hTR RNA	ACTIVATION
+TERT/TEP1/hTR RNA	TERT(+)/TEP1/hTR RNA	-a>
+tamoxifen	PRKCA	INHIBITION
+Aplysiatoxin	PRKCA	ACTIVATION
+AKT1	TERT(+1)/TEP1/hTR RNA	ACTIVATION
+XRCC6	TERT(+1)/hTR RNA/KU	component>
+XRCC6	TERT(+1)/hTR RNA/KU/TRF1	component>
+12-o-tetradecanoylphorbol 13-acetate	PRKCA	ACTIVATION
+RB1	p53/RB	component>
+MYC	TERT transcription factors	ACTIVATION
+E6	TERT transcription factors	ACTIVATION
+XRCC5	TERT(+1)/hTR RNA/KU	component>
+XRCC5	TERT(+1)/hTR RNA/KU/TRF1	component>
+TEP1	TERT/TEP1/hTR RNA	component>
+TEP1	TERT(+1)/TEP1/hTR RNA	component>
+TEP1	TERT(+)/TEP1/hTR RNA	component>
+PRKCA	PRKCA	-a>
+PRKCA	TERT(+)/TEP1/hTR RNA	ACTIVATION
+POLR2A	TERT	ACTIVATION
+mezerein	PRKCA	ACTIVATION
+TERT(+)/TEP1/hTR RNA	TERT/TEP1/hTR RNA	-a>
+TERT(+)/TEP1/hTR RNA	TERT(+1)/TEP1/hTR RNA	-a>
+Teleocidin	PRKCA	ACTIVATION
+KRAS	TERT transcription factors	ACTIVATION
+TERT	TERT/TEP1/hTR RNA	component>
+TERT	TERT(+1)/TEP1/hTR RNA	component>
+TERT	TERT(+1)/hTR RNA/KU/TRF1	component>
+TERT	TERT(+1)/hTR RNA/KU	component>
+TERT	TERT(+)/TEP1/hTR RNA	component>
+TERT	TERT(+1)/hTR RNA	component>
+TP53	p53/RB	component>
+TERT transcription factors	TERT	ACTIVATION
+TERT transcription factors	TERT transcription factors	-a>
+p53/RB	TERT	INHIBITION
+hTR RNA	TERT/TEP1/hTR RNA	component>
+hTR RNA	TERT(+1)/TEP1/hTR RNA	component>
+hTR RNA	TERT(+1)/hTR RNA/KU/TRF1	component>
+hTR RNA	TERT(+1)/hTR RNA/KU	component>
+hTR RNA	TERT(+)/TEP1/hTR RNA	component>
+hTR RNA	TERT(+1)/hTR RNA	component>
+TERF1	TERT(+1)/hTR RNA/KU/TRF1	component>
+PPP2R5D	TERT/TEP1/hTR RNA	ACTIVATION
+BCL2	TERT transcription factors	ACTIVATION

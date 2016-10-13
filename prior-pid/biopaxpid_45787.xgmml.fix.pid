@@ -1,0 +1,28 @@
+complex	Activated mTORC1
+SmallMolecule	Adenosine 5'-diphosphate
+SmallMolecule	Adenosine 5'-triphosphate
+protein	EIF4E
+protein	EIF4EBP1
+SmallMolecule	Guanosine 5'-triphosphate
+protein	MLST8
+protein	MTOR
+protein	RHEB
+protein	RPTOR
+complex	Rheb:GTP
+complex	eIF4E:4E-BP
+complex	eIF4E:4E-BP1-P
+eIF4E:4E-BP	Adenosine 5'-diphosphate	-a>
+eIF4E:4E-BP	eIF4E:4E-BP1-P	-a>
+RHEB	Rheb:GTP	component>
+Activated mTORC1	Adenosine 5'-diphosphate	ACTIVATION
+Adenosine 5'-triphosphate	Adenosine 5'-diphosphate	-a>
+Adenosine 5'-triphosphate	eIF4E:4E-BP1-P	-a>
+RPTOR	Activated mTORC1	component>
+EIF4EBP1	eIF4E:4E-BP	component>
+EIF4EBP1	eIF4E:4E-BP1-P	component>
+EIF4E	eIF4E:4E-BP	component>
+EIF4E	eIF4E:4E-BP1-P	component>
+MTOR	Activated mTORC1	component>
+MLST8	Activated mTORC1	component>
+Guanosine 5'-triphosphate	Rheb:GTP	component>
+Rheb:GTP	Activated mTORC1	component>

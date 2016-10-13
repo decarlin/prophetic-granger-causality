@@ -1,0 +1,139 @@
+protein	ACTN1
+protein	ADAM12
+protein	CCL5
+protein	CXCL12
+protein	CXCR4
+protein	DNM2
+protein	F2
+protein	FGF2
+protein	FGF6
+protein	FN1
+protein	FZD7
+complex	Fibronectin
+SmallMolecule	GDP
+protein	GIPC1
+SmallMolecule	GTP
+protein	ITGA5
+protein	ITGB1
+protein	LAMA1
+protein	LAMA3
+protein	MDK
+protein	MMP9
+protein	NUDT16L1
+protein	None
+SmallMolecule	PI-4-5-P2
+protein	PLG
+protein	PRKCA
+protein	PRKCD
+protein	PTK2
+protein	RAC1
+complex	RAC1/GDP
+complex	RAC1/GTP
+protein	RHOA
+protein	SDC4
+protein	SDCBP
+complex	Syndecan-4/ADAM12
+complex	Syndecan-4/CXCL12/CXCR4
+complex	Syndecan-4/Dynamin 2
+complex	Syndecan-4/FGFR1/FGF
+complex	Syndecan-4/FZD7
+complex	Syndecan-4/GIPC
+complex	Syndecan-4/Laminin alpha1
+complex	Syndecan-4/Laminin alpha3
+complex	Syndecan-4/Midkine
+complex	Syndecan-4/PI-4-5-P2
+complex	Syndecan-4/PI-4-5-P2/PKC alpha
+complex	Syndecan-4/RANTES
+complex	Syndecan-4/SDF1
+complex	Syndecan-4/SDF1/CXCR4
+complex	Syndecan-4/Syndesmos
+complex	Syndecan-4/Syntenin
+complex	Syndecan-4/TACI
+complex	Syndecan-4/TFPI
+complex	Syndecan-4/TSP1
+complex	Syndecan-4/Tenascin C
+complex	Syndecan-4/alpha-actinin
+protein	TFPI
+protein	THBS1
+protein	TNC
+protein	TNFRSF13B
+complex	alpha5/beta1 Integrin
+NUDT16L1	Syndecan-4/Syndesmos	component>
+Syndecan-4/Tenascin C	None	ACTIVATION
+PTK2	PTK2	transport
+Syndecan-4/Syndesmos	None	ACTIVATION
+Syndecan-4/GIPC	None	ACTIVATION
+ITGA5	alpha5/beta1 Integrin	component>
+SDCBP	Syndecan-4/Syntenin	component>
+ADAM12	Syndecan-4/ADAM12	component>
+Syndecan-4/SDF1/CXCR4	None	ACTIVATION
+DNM2	Syndecan-4/Dynamin 2	component>
+Syndecan-4/Laminin alpha1	None	ACTIVATION
+Syndecan-4/CXCL12/CXCR4	None	ACTIVATION
+Syndecan-4/Laminin alpha3	None	ACTIVATION
+MDK	Syndecan-4/Midkine	component>
+FZD7	Syndecan-4/FZD7	component>
+CCL5	Syndecan-4/RANTES	component>
+THBS1	Syndecan-4/TSP1	component>
+PI-4-5-P2	Syndecan-4/PI-4-5-P2	component>
+PI-4-5-P2	Syndecan-4/PI-4-5-P2/PKC alpha	component>
+CXCR4	Syndecan-4/SDF1/CXCR4	component>
+CXCR4	Syndecan-4/CXCL12/CXCR4	component>
+RAC1/GTP	None	ACTIVATION
+Syndecan-4/TSP1	None	ACTIVATION
+ITGB1	alpha5/beta1 Integrin	component>
+LAMA1	Syndecan-4/Laminin alpha1	component>
+LAMA3	Syndecan-4/Laminin alpha3	component>
+RAC1	RAC1/GTP	component>
+RAC1	RAC1/GDP	component>
+PRKCA	RAC1/GTP	ACTIVATION
+PRKCA	Syndecan-4/PI-4-5-P2/PKC alpha	component>
+PRKCA	SDC4	ACTIVATION
+RAC1/GDP	RAC1/GTP	-a>
+TFPI	Syndecan-4/TFPI	component>
+PRKCD	SDC4	ACTIVATION
+alpha5/beta1 Integrin	RAC1/GTP	ACTIVATION
+GTP	RAC1/GTP	component>
+TNC	Syndecan-4/Tenascin C	component>
+FGF6	Syndecan-4/FGFR1/FGF	component>
+RHOA	PTK2	ACTIVATION
+CXCL12	Syndecan-4/SDF1/CXCR4	component>
+CXCL12	Syndecan-4/SDF1	component>
+CXCL12	Syndecan-4/CXCL12/CXCR4	component>
+TNFRSF13B	Syndecan-4/TACI	component>
+FGF2	Syndecan-4/FGFR1/FGF	component>
+GDP	RAC1/GDP	component>
+ACTN1	Syndecan-4/alpha-actinin	component>
+FN1	Fibronectin	component>
+SDC4	PTK2	ACTIVATION
+SDC4	Syndecan-4/Syndesmos	component>
+SDC4	Syndecan-4/ADAM12	component>
+SDC4	Syndecan-4/FGFR1/FGF	component>
+SDC4	Syndecan-4/GIPC	component>
+SDC4	Syndecan-4/Laminin alpha1	component>
+SDC4	Syndecan-4/CXCL12/CXCR4	component>
+SDC4	Syndecan-4/Laminin alpha3	component>
+SDC4	Syndecan-4/Midkine	component>
+SDC4	Syndecan-4/alpha-actinin	component>
+SDC4	Syndecan-4/TACI	component>
+SDC4	RAC1/GTP	ACTIVATION
+SDC4	Syndecan-4/TSP1	component>
+SDC4	Syndecan-4/RANTES	component>
+SDC4	None	INHIBITION
+SDC4	Syndecan-4/SDF1/CXCR4	component>
+SDC4	Syndecan-4/Dynamin 2	component>
+SDC4	Syndecan-4/SDF1	component>
+SDC4	Syndecan-4/PI-4-5-P2	component>
+SDC4	Syndecan-4/FZD7	component>
+SDC4	SDC4	-a>
+SDC4	Syndecan-4/Tenascin C	component>
+SDC4	Syndecan-4/PI-4-5-P2/PKC alpha	component>
+SDC4	Syndecan-4/Syntenin	component>
+SDC4	Syndecan-4/TFPI	component>
+PLG	SDC4	ACTIVATION
+Fibronectin	RAC1/GTP	ACTIVATION
+Fibronectin	PTK2	ACTIVATION
+Fibronectin	SDC4	ACTIVATION
+MMP9	SDC4	ACTIVATION
+F2	SDC4	ACTIVATION
+GIPC1	Syndecan-4/GIPC	component>

@@ -1,0 +1,58 @@
+protein	AKT1
+protein	BCAR1
+protein	CDKN1B
+protein	FASLG
+protein	FOXO3
+protein	GF
+protein	GF R
+complex	GF/GF R
+protein	GRB2
+protein	ILK
+protein	ITGB1
+complex	Integrin-beta/SHC/SOS-1/GRB2
+protein	None
+protein	PDK2
+complex	PI3K
+protein	PIK3CA
+protein	PIK3R1
+SmallMolecule	PIP2
+SmallMolecule	PIP3
+protein	PTEN
+protein	PTK2
+protein	SHC1
+protein	SOS1
+PTK2	PTK2	-a>
+PTK2	BCAR1	ACTIVATION
+CDKN1B	None	ACTIVATION
+ILK	AKT1	ACTIVATION
+ILK	ILK	-a>
+FOXO3	FOXO3	-a>
+FOXO3	None	ACTIVATION
+AKT1	FOXO3	ACTIVATION
+AKT1	AKT1	-a>
+PIK3CA	PI3K	component>
+PI3K	PIP3	ACTIVATION
+PI3K	PI3K	-a>
+PDK2	AKT1	ACTIVATION
+PDK2	PDK2	-a>
+PIK3R1	PI3K	component>
+ITGB1	Integrin-beta/SHC/SOS-1/GRB2	component>
+SHC1	Integrin-beta/SHC/SOS-1/GRB2	component>
+PIP3	PDK2	ACTIVATION
+PIP3	ILK	ACTIVATION
+PIP3	PIP2	-a>
+PIP2	PIP3	-a>
+Integrin-beta/SHC/SOS-1/GRB2	PTK2	ACTIVATION
+Integrin-beta/SHC/SOS-1/GRB2	ILK	ACTIVATION
+Integrin-beta/SHC/SOS-1/GRB2	Integrin-beta/SHC/SOS-1/GRB2	-a>
+GF	GF/GF R	component>
+FASLG	None	ACTIVATION
+BCAR1	None	ACTIVATION
+BCAR1	BCAR1	-a>
+GF R	GF/GF R	component>
+GF/GF R	PI3K	ACTIVATION
+SOS1	Integrin-beta/SHC/SOS-1/GRB2	component>
+PTEN	PTK2	ACTIVATION
+PTEN	Integrin-beta/SHC/SOS-1/GRB2	ACTIVATION
+PTEN	PIP2	ACTIVATION
+GRB2	Integrin-beta/SHC/SOS-1/GRB2	component>

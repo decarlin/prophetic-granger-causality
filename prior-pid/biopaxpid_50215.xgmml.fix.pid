@@ -1,0 +1,195 @@
+protein	AIFM1
+protein	AKT1
+protein	ASAH1
+protein	BAD
+protein	BAG4
+protein	BAX
+protein	BCL2
+protein	BID
+protein	BIRC3
+SmallMolecule	C11AG
+protein	CASP8
+protein	CRADD
+protein	CTSD
+protein	CYCS
+complex	Cathepsin D/ceramide
+protein	EGF
+protein	EIF2A
+protein	EIF2AK2
+complex	ERK1/PKC delta
+protein	FADD
+SmallMolecule	Free Fatty acid
+SmallMolecule	GD3
+SmallMolecule	GW4869
+protein	IGF1
+protein	IKKs
+protein	KSR1
+protein	MADD
+protein	MAP2K1
+protein	MAP2K2
+protein	MAP2K4
+protein	MAP3K1
+protein	MAP4K4
+protein	MAPK1
+protein	MAPK3
+protein	MAPK8
+complex	NF kappa B1/RelA
+complex	NF kappa B1/RelA/I kappa B alpha
+protein	NFKB1
+protein	NFKBIA
+protein	NSMAF
+protein	None
+SmallMolecule	OKADAIC ACID
+protein	PAWR
+protein	PDGFA
+SmallMolecule	PHOSPHOCHOLINE
+complex	PKC zeta/PAR4
+complex	PKC zeta/ceramide
+complex	PP2A Heterotrimer
+protein	PRKCD
+protein	PRKCZ
+protein	PRKRA
+protein	RAF1
+protein	RB1
+protein	RELA
+protein	RIPK1
+protein	SMPD1
+protein	SMPD3
+protein	SPHK2
+SmallMolecule	Sphingosine-1-phosphate
+protein	TNF
+complex	TNF-alpha/TNFR1A/FAN
+complex	TNF-alpha/TNFR1A/TRADD/MADD/cIAP2/RIP/TRAF2/RAIDD
+complex	TNFR1A/BAG4/TNF-alpha
+protein	TNFRSF1A
+protein	TRADD
+protein	TRAF2
+SmallMolecule	ceramide
+SmallMolecule	glutathione
+protein	http://pid.nci.nih.gov/biopaxpid_50415
+SmallMolecule	sphingomyelin
+SmallMolecule	sphingosine
+NF kappa B1/RelA	None	ACTIVATION
+NF kappa B1/RelA	CASP8	ACTIVATION
+GD3	BAX	ACTIVATION
+sphingomyelin	ceramide	-a>
+sphingomyelin	PHOSPHOCHOLINE	-a>
+IKKs	IKKs	-a>
+IKKs	NF kappa B1/RelA/I kappa B alpha	ACTIVATION
+TNF-alpha/TNFR1A/TRADD/MADD/cIAP2/RIP/TRAF2/RAIDD	BID	ACTIVATION
+TNF-alpha/TNFR1A/TRADD/MADD/cIAP2/RIP/TRAF2/RAIDD	SMPD1	ACTIVATION
+TNF-alpha/TNFR1A/TRADD/MADD/cIAP2/RIP/TRAF2/RAIDD	MAP4K4	ACTIVATION
+TNF-alpha/TNFR1A/TRADD/MADD/cIAP2/RIP/TRAF2/RAIDD	SMPD3	ACTIVATION
+TNF-alpha/TNFR1A/TRADD/MADD/cIAP2/RIP/TRAF2/RAIDD	FADD	ACTIVATION
+ERK1/PKC delta	None	ACTIVATION
+PKC zeta/ceramide	AKT1	INHIBITION
+PKC zeta/ceramide	None	ACTIVATION
+PKC zeta/ceramide	MAPK8	ACTIVATION
+NFKBIA	NF kappa B1/RelA/I kappa B alpha	component>
+BIRC3	TNF-alpha/TNFR1A/TRADD/MADD/cIAP2/RIP/TRAF2/RAIDD	component>
+None	PP2A Heterotrimer	ACTIVATION
+None	SMPD1	ACTIVATION
+None	SMPD3	ACTIVATION
+None	http://pid.nci.nih.gov/biopaxpid_50415	ACTIVATION
+BAX	AIFM1	ACTIVATION
+BAX	CYCS	ACTIVATION
+BAX	BAX	-a>
+RIPK1	TNF-alpha/TNFR1A/TRADD/MADD/cIAP2/RIP/TRAF2/RAIDD	component>
+PKC zeta/PAR4	NF kappa B1/RelA/I kappa B alpha	INHIBITION
+MAP2K1	MAP2K2	-a>
+MAP2K1	MAP2K1	-a>
+MAP2K1	MAPK3	ACTIVATION
+SMPD1	ceramide	ACTIVATION
+SMPD1	SMPD1	-a>
+EIF2A	EIF2A	-a>
+SMPD3	ceramide	ACTIVATION
+SMPD3	SMPD3	-a>
+MAP2K4	MAPK8	ACTIVATION
+MAP2K4	MAP2K4	-a>
+NSMAF	TNF-alpha/TNFR1A/FAN	component>
+Sphingosine-1-phosphate	ceramide	INHIBITION
+C11AG	ceramide	INHIBITION
+CRADD	TNF-alpha/TNFR1A/TRADD/MADD/cIAP2/RIP/TRAF2/RAIDD	component>
+MAP4K4	MAP4K4	-a>
+MAP4K4	IKKs	ACTIVATION
+MADD	TNF-alpha/TNFR1A/TRADD/MADD/cIAP2/RIP/TRAF2/RAIDD	component>
+BAG4	TNFR1A/BAG4/TNF-alpha	component>
+RAF1	MAP2K2	ACTIVATION
+RAF1	RAF1	-a>
+BID	BID	-a>
+MAP3K1	MAP3K1	-a>
+MAP3K1	MAP2K4	ACTIVATION
+TRADD	TNF-alpha/TNFR1A/TRADD/MADD/cIAP2/RIP/TRAF2/RAIDD	component>
+EGF	ceramide	INHIBITION
+SPHK2	SPHK2	-a>
+SPHK2	Sphingosine-1-phosphate	ACTIVATION
+MAPK3	MAPK3	-a>
+MAPK3	ERK1/PKC delta	component>
+MAPK3	MAPK1	-a>
+MAPK1	MAPK3	-a>
+MAPK1	MAPK1	-a>
+AKT1	AKT1	-a>
+KSR1	KSR1	-a>
+KSR1	RAF1	ACTIVATION
+MAPK8	MAPK8	-a>
+PRKRA	EIF2AK2	ACTIVATION
+PRKRA	PRKRA	-a>
+OKADAIC ACID	PP2A Heterotrimer	INHIBITION
+RB1	None	ACTIVATION
+RB1	RB1	-a>
+PDGFA	SPHK2	ACTIVATION
+PDGFA	sphingosine	ACTIVATION
+TRAF2	TNF-alpha/TNFR1A/TRADD/MADD/cIAP2/RIP/TRAF2/RAIDD	component>
+IGF1	ERK1/PKC delta	ACTIVATION
+ceramide	ERK1/PKC delta	INHIBITION
+ceramide	PRKRA	ACTIVATION
+ceramide	PKC zeta/ceramide	component>
+ceramide	MAP3K1	ACTIVATION
+ceramide	None	ACTIVATION
+ceramide	BAX	ACTIVATION
+ceramide	BAD	ACTIVATION
+ceramide	PP2A Heterotrimer	ACTIVATION
+ceramide	RB1	ACTIVATION
+ceramide	KSR1	ACTIVATION
+ceramide	Free Fatty acid	-a>
+ceramide	Cathepsin D/ceramide	component>
+ceramide	sphingosine	-a>
+GW4869	ceramide	INHIBITION
+CTSD	Cathepsin D/ceramide	component>
+PRKCD	ERK1/PKC delta	component>
+PRKCZ	PKC zeta/PAR4	component>
+PRKCZ	PKC zeta/ceramide	component>
+CYCS	CYCS	transport
+NFKB1	NF kappa B1/RelA	component>
+NFKB1	NF kappa B1/RelA/I kappa B alpha	component>
+PAWR	PKC zeta/PAR4	component>
+glutathione	SMPD3	INHIBITION
+sphingosine	Sphingosine-1-phosphate	-a>
+ASAH1	sphingosine	ACTIVATION
+Cathepsin D/ceramide	BID	ACTIVATION
+RELA	NF kappa B1/RelA	component>
+RELA	NF kappa B1/RelA/I kappa B alpha	component>
+TNFRSF1A	TNF-alpha/TNFR1A/TRADD/MADD/cIAP2/RIP/TRAF2/RAIDD	component>
+TNFRSF1A	TNFR1A/BAG4/TNF-alpha	component>
+TNFRSF1A	TNF-alpha/TNFR1A/FAN	component>
+EIF2AK2	EIF2AK2	-a>
+EIF2AK2	EIF2A	ACTIVATION
+TNF-alpha/TNFR1A/FAN	SMPD1	ACTIVATION
+TNF-alpha/TNFR1A/FAN	SMPD3	ACTIVATION
+BAD	BAD	-a>
+BAD	AIFM1	ACTIVATION
+BAD	CYCS	ACTIVATION
+CASP8	CASP8	-a>
+MAP2K2	MAP2K2	-a>
+MAP2K2	MAP2K1	-a>
+MAP2K2	MAPK3	ACTIVATION
+TNF	TNF-alpha/TNFR1A/TRADD/MADD/cIAP2/RIP/TRAF2/RAIDD	component>
+TNF	TNFR1A/BAG4/TNF-alpha	component>
+TNF	TNF-alpha/TNFR1A/FAN	component>
+PP2A Heterotrimer	PP2A Heterotrimer	-a>
+PP2A Heterotrimer	BCL2	ACTIVATION
+NF kappa B1/RelA/I kappa B alpha	NF kappa B1/RelA/I kappa B alpha	-a>
+AIFM1	AIFM1	transport
+BCL2	AIFM1	INHIBITION
+BCL2	CYCS	INHIBITION
+BCL2	BCL2	-a>

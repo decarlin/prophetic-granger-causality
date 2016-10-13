@@ -1,0 +1,42 @@
+protein	BAD
+protein	GRB2
+protein	HRAS
+complex	IGF-1/IGF-1/IGF-1R-alpha/IGF-1R-alpha/IGF-1R-beta/IGF-1R-beta/14-3-3
+protein	IGF1
+protein	IGF1R
+protein	IRS1
+protein	MAPK3
+protein	None
+complex	PI3K
+protein	PIK3CA
+protein	PIK3R1
+protein	RAF1
+complex	SHC/GRB2/SOS-1
+protein	SHC1
+protein	SOS1
+protein	YWHAH
+SmallMolecule	guanosine 5`-triphosphate
+SmallMolecule	nucleoside diphosphate
+IGF1	IGF-1/IGF-1/IGF-1R-alpha/IGF-1R-alpha/IGF-1R-beta/IGF-1R-beta/14-3-3	component>
+SHC1	SHC/GRB2/SOS-1	component>
+SOS1	SHC/GRB2/SOS-1	component>
+PI3K	PI3K	-a>
+guanosine 5`-triphosphate	HRAS	-a>
+guanosine 5`-triphosphate	nucleoside diphosphate	-a>
+IGF-1/IGF-1/IGF-1R-alpha/IGF-1R-alpha/IGF-1R-beta/IGF-1R-beta/14-3-3	RAF1	ACTIVATION
+IGF-1/IGF-1/IGF-1R-alpha/IGF-1R-alpha/IGF-1R-beta/IGF-1R-beta/14-3-3	SHC/GRB2/SOS-1	ACTIVATION
+IGF1R	IGF-1/IGF-1/IGF-1R-alpha/IGF-1R-alpha/IGF-1R-beta/IGF-1R-beta/14-3-3	component>
+BAD	BAD	-a>
+BAD	None	ACTIVATION
+IRS1	PI3K	ACTIVATION
+MAPK3	BAD	ACTIVATION
+YWHAH	IGF-1/IGF-1/IGF-1R-alpha/IGF-1R-alpha/IGF-1R-beta/IGF-1R-beta/14-3-3	component>
+GRB2	SHC/GRB2/SOS-1	component>
+SHC/GRB2/SOS-1	SHC/GRB2/SOS-1	-a>
+SHC/GRB2/SOS-1	nucleoside diphosphate	ACTIVATION
+PIK3R1	PI3K	component>
+PIK3CA	PI3K	component>
+RAF1	BAD	ACTIVATION
+RAF1	RAF1	-a>
+HRAS	HRAS	-a>
+HRAS	nucleoside diphosphate	-a>

@@ -1,0 +1,49 @@
+protein	AKT1S1
+protein	BAD
+protein	CASP9
+family	CDK inhibitor
+protein	CDKN1B
+protein	CHUK
+family	GSK3
+protein	GSK3A
+protein	GSK3B
+SmallMolecule	H3adp
+SmallMolecule	H4atp
+protein	MDM2
+family	Phospho-GSK3
+protein	TSC2
+protein	UniProt:Q6FI05 CDKN1A
+family	p-CDK inhibitor
+GSK3	H3adp	-a>
+GSK3	Phospho-GSK3	-a>
+H4atp	CHUK	-a>
+H4atp	Phospho-GSK3	-a>
+H4atp	CASP9	-a>
+H4atp	BAD	-a>
+H4atp	AKT1S1	-a>
+H4atp	p-CDK inhibitor	-a>
+H4atp	H3adp	-a>
+H4atp	MDM2	-a>
+H4atp	TSC2	-a>
+CDKN1B	CDK inhibitor	member>
+CDKN1B	p-CDK inhibitor	member>
+GSK3A	GSK3	member>
+GSK3A	Phospho-GSK3	member>
+CHUK	H3adp	-a>
+CHUK	CHUK	-a>
+CASP9	H3adp	-a>
+CASP9	CASP9	-a>
+BAD	H3adp	-a>
+BAD	BAD	-a>
+AKT1S1	H3adp	-a>
+AKT1S1	AKT1S1	-a>
+GSK3B	GSK3	member>
+GSK3B	Phospho-GSK3	member>
+MDM2	H3adp	-a>
+MDM2	MDM2	-a>
+CDK inhibitor	H3adp	-a>
+CDK inhibitor	p-CDK inhibitor	-a>
+TSC2	H3adp	-a>
+TSC2	TSC2	-a>
+UniProt:Q6FI05 CDKN1A	CDK inhibitor	member>
+UniProt:Q6FI05 CDKN1A	p-CDK inhibitor	member>

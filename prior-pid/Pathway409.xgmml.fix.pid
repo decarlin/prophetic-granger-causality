@@ -1,0 +1,65 @@
+protein	CCNE1
+protein	CCNE2
+protein	CDK2
+protein	CDKN1A
+protein	CDKN1B
+family	Cyclin E
+complex	Cyclin E1:Cdk2 complex
+complex	Cyclin E1:phospho-Cdk2 complex
+complex	Cyclin E2:Cdk2 complex
+complex	Cyclin E2:phospho-Cdk2 complex
+complex	Cyclin E:Cdk2 complex
+complex	Cyclin E:Cdk2 complexes
+complex	Cyclin E:Cdk2:p21/p27 complex
+complex	Cyclin E:Phosho-Cdk2 (Thr 160)
+complex	Cyclin E:Phospho-Cdk2(Thr160):Rb complex
+complex	Cyclin E:phospho-Cdk2 Complex
+SmallMolecule	H4atp
+SmallMolecule	PO4(3-)
+protein	RB1
+SmallMolecule	adenosine 5'-(trihydrogen diphosphate)
+SmallMolecule	agua
+family	p21/p27
+Cyclin E	Cyclin E:phospho-Cdk2 Complex	component>
+Cyclin E	Cyclin E:Cdk2 complex	component>
+Cyclin E	Cyclin E:Phosho-Cdk2 (Thr 160)	component>
+Cyclin E	Cyclin E:Cdk2 complexes	component>
+CDKN1B	p21/p27	member>
+CDKN1B	CDKN1B	-a>
+CDKN1A	p21/p27	member>
+CDKN1A	CDKN1A	-a>
+Cyclin E:Phosho-Cdk2 (Thr 160)	Cyclin E:Phospho-Cdk2(Thr160):Rb complex	component>
+Cyclin E:Cdk2 complex	Cyclin E:Cdk2 complexes	-a>
+H4atp	Cyclin E:phospho-Cdk2 Complex	-a>
+H4atp	adenosine 5'-(trihydrogen diphosphate)	-a>
+H4atp	Cyclin E1:phospho-Cdk2 complex	-a>
+H4atp	Cyclin E2:phospho-Cdk2 complex	-a>
+H4atp	Cyclin E:Phosho-Cdk2 (Thr 160)	-a>
+CCNE2	Cyclin E	member>
+CCNE2	Cyclin E2:phospho-Cdk2 complex	component>
+CCNE2	Cyclin E2:Cdk2 complex	component>
+CCNE1	Cyclin E1:Cdk2 complex	component>
+CCNE1	Cyclin E	member>
+CCNE1	Cyclin E1:phospho-Cdk2 complex	component>
+RB1	Cyclin E:Phospho-Cdk2(Thr160):Rb complex	component>
+Cyclin E2:Cdk2 complex	adenosine 5'-(trihydrogen diphosphate)	-a>
+Cyclin E2:Cdk2 complex	Cyclin E2:phospho-Cdk2 complex	-a>
+agua	Cyclin E:Cdk2 complexes	-a>
+agua	PO4(3-)	-a>
+Cyclin E1:Cdk2 complex	adenosine 5'-(trihydrogen diphosphate)	-a>
+Cyclin E1:Cdk2 complex	Cyclin E1:phospho-Cdk2 complex	-a>
+Cyclin E:Cdk2 complexes	Cyclin E:phospho-Cdk2 Complex	-a>
+Cyclin E:Cdk2 complexes	adenosine 5'-(trihydrogen diphosphate)	-a>
+Cyclin E:Cdk2 complexes	Cyclin E:Phosho-Cdk2 (Thr 160)	-a>
+Cyclin E:Cdk2 complexes	Cyclin E:Cdk2:p21/p27 complex	component>
+Cyclin E:phospho-Cdk2 Complex	Cyclin E:Cdk2 complexes	-a>
+Cyclin E:phospho-Cdk2 Complex	PO4(3-)	-a>
+CDK2	Cyclin E2:Cdk2 complex	component>
+CDK2	Cyclin E:Cdk2 complex	component>
+CDK2	Cyclin E:Cdk2 complexes	component>
+CDK2	Cyclin E1:phospho-Cdk2 complex	component>
+CDK2	Cyclin E:phospho-Cdk2 Complex	component>
+CDK2	Cyclin E:Phosho-Cdk2 (Thr 160)	component>
+CDK2	Cyclin E2:phospho-Cdk2 complex	component>
+CDK2	Cyclin E1:Cdk2 complex	component>
+p21/p27	Cyclin E:Cdk2:p21/p27 complex	component>

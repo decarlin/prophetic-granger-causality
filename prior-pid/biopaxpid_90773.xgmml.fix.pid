@@ -1,0 +1,124 @@
+protein	AJUBA
+protein	AKT1
+complex	APC/C
+protein	ARHGEF7
+protein	AURKA
+protein	AURKAIP1
+protein	AURKB
+complex	Ajuba/Aurora A
+complex	Aurora A/Antizyme1
+complex	Aurora A/BRCA1
+complex	Aurora A/CPEB
+complex	Aurora A/GADD45A
+complex	Aurora A/NDEL1/TACC3
+complex	Aurora A/PP2A
+complex	Aurora A/RasGAP
+complex	Aurora A/RasGAP/Survivin
+complex	Aurora A/TACC1/TRAP/chTOG
+complex	Aurora A/TPX2
+protein	BIRC5
+protein	BRCA1
+protein	CDC25B
+protein	CENPA
+protein	CKAP5
+protein	CPEB1
+protein	DLGAP5
+protein	FZR1
+protein	GADD45A
+protein	GIT1
+complex	GIT1/betaPIX/PAK1
+protein	GSK3B
+protein	MDM2
+protein	NDEL1
+complex	NDEL1/TACC3
+protein	NFKBIA
+protein	None
+protein	OAZ1
+protein	PAK1
+complex	PAK1/Aurora A
+protein	PPP2R5D
+protein	PRKACA
+protein	RAN
+protein	RASA1
+protein	TACC1
+protein	TACC3
+protein	TDRD7
+protein	TP53
+protein	TPX2
+TACC3	NDEL1/TACC3	component>
+TACC3	Aurora A/NDEL1/TACC3	component>
+BIRC5	Aurora A/RasGAP/Survivin	component>
+NFKBIA	NFKBIA	-a>
+CPEB1	Aurora A/CPEB	component>
+PAK1/Aurora A	None	ACTIVATION
+AKT1	AKT1	transport
+GSK3B	AURKA	ACTIVATION
+TPX2	Aurora A/TPX2	component>
+AURKAIP1	Aurora A/Antizyme1	ACTIVATION
+ARHGEF7	GIT1/betaPIX/PAK1	component>
+NDEL1/TACC3	None	ACTIVATION
+RASA1	Aurora A/RasGAP	component>
+RASA1	Aurora A/RasGAP/Survivin	component>
+AURKA	None	ACTIVATION
+AURKA	TP53	ACTIVATION
+AURKA	Aurora A/CPEB	component>
+AURKA	Aurora A/TACC1/TRAP/chTOG	component>
+AURKA	CDC25B	ACTIVATION
+AURKA	NDEL1/TACC3	ACTIVATION
+AURKA	NFKBIA	ACTIVATION
+AURKA	Aurora A/Antizyme1	component>
+AURKA	Aurora A/RasGAP	component>
+AURKA	CENPA	ACTIVATION
+AURKA	Aurora A/RasGAP/Survivin	component>
+AURKA	AKT1	ACTIVATION
+AURKA	Aurora A/PP2A	component>
+AURKA	Aurora A/BRCA1	component>
+AURKA	AURKA	-a>
+AURKA	Aurora A/GADD45A	component>
+AURKA	DLGAP5	ACTIVATION
+AURKA	Aurora A/TPX2	component>
+AURKA	PAK1/Aurora A	component>
+AURKA	Aurora A/NDEL1/TACC3	component>
+AURKA	Ajuba/Aurora A	component>
+AURKB	AURKB	transport
+AURKB	CENPA	ACTIVATION
+DLGAP5	None	ACTIVATION
+DLGAP5	DLGAP5	-a>
+AJUBA	Ajuba/Aurora A	component>
+Aurora A/CPEB	None	ACTIVATION
+Aurora A/TACC1/TRAP/chTOG	None	ACTIVATION
+BRCA1	Aurora A/BRCA1	component>
+None	None	ACTIVATION
+None	CDC25B	ACTIVATION
+None	NDEL1/TACC3	ACTIVATION
+None	Aurora A/RasGAP/Survivin	ACTIVATION
+None	Aurora A/BRCA1	ACTIVATION
+None	AURKB	ACTIVATION
+None	Aurora A/CPEB	ACTIVATION
+None	Ajuba/Aurora A	ACTIVATION
+APC/C	AURKA	ACTIVATION
+APC/C	APC/C	-a>
+CDC25B	CDC25B	-a>
+TDRD7	Aurora A/TACC1/TRAP/chTOG	component>
+CENPA	AURKB	ACTIVATION
+CENPA	CENPA	-a>
+Aurora A/PP2A	None	ACTIVATION
+NDEL1	NDEL1/TACC3	component>
+NDEL1	Aurora A/NDEL1/TACC3	component>
+MDM2	TP53	ACTIVATION
+Ajuba/Aurora A	None	ACTIVATION
+TP53	None	ACTIVATION
+TP53	TP53	-a>
+TACC1	Aurora A/TACC1/TRAP/chTOG	component>
+FZR1	APC/C	ACTIVATION
+Aurora A/Antizyme1	None	ACTIVATION
+OAZ1	Aurora A/Antizyme1	component>
+RAN	TPX2	ACTIVATION
+Aurora A/BRCA1	None	ACTIVATION
+PRKACA	AURKA	ACTIVATION
+GIT1	GIT1/betaPIX/PAK1	component>
+GADD45A	Aurora A/GADD45A	component>
+PPP2R5D	Aurora A/PP2A	component>
+PAK1	PAK1/Aurora A	component>
+PAK1	GIT1/betaPIX/PAK1	component>
+CKAP5	Aurora A/TACC1/TRAP/chTOG	component>

@@ -1,0 +1,52 @@
+protein	ELK1
+family	ERK1/2/5
+protein	MAPK1
+protein	MAPK3
+protein	MAPK7
+protein	MEF2A
+protein	MEF2C
+family	Phospho-MEF2
+family	Phospho-Ribosomal protein S6 kinase
+protein	RPS6KA1
+protein	RPS6KA2
+protein	RPS6KA3
+protein	RPS6KA5
+family	Ribosomal protein S6 kinase
+SmallMolecule	[OH2]
+SmallMolecule	adenosine 5'-(tetrahydrogen triphosphate)
+SmallMolecule	adenosine 5'-(trihydrogen diphosphate)
+family	p-ERK1/2/5
+SmallMolecule	tetraoxophosphate(3-)
+RPS6KA1	Phospho-Ribosomal protein S6 kinase	member>
+RPS6KA1	Ribosomal protein S6 kinase	member>
+RPS6KA2	Phospho-Ribosomal protein S6 kinase	member>
+RPS6KA2	Ribosomal protein S6 kinase	member>
+RPS6KA3	Phospho-Ribosomal protein S6 kinase	member>
+RPS6KA3	Ribosomal protein S6 kinase	member>
+RPS6KA5	adenosine 5'-(trihydrogen diphosphate)	-a>
+RPS6KA5	RPS6KA5	-a>
+adenosine 5'-(tetrahydrogen triphosphate)	adenosine 5'-(trihydrogen diphosphate)	-a>
+adenosine 5'-(tetrahydrogen triphosphate)	Phospho-MEF2	-a>
+adenosine 5'-(tetrahydrogen triphosphate)	ELK1	-a>
+adenosine 5'-(tetrahydrogen triphosphate)	Phospho-Ribosomal protein S6 kinase	-a>
+adenosine 5'-(tetrahydrogen triphosphate)	RPS6KA5	-a>
+ELK1	adenosine 5'-(trihydrogen diphosphate)	-a>
+ELK1	ELK1	-a>
+Ribosomal protein S6 kinase	adenosine 5'-(trihydrogen diphosphate)	-a>
+Ribosomal protein S6 kinase	Phospho-Ribosomal protein S6 kinase	-a>
+MAPK3	p-ERK1/2/5	member>
+MAPK3	ERK1/2/5	member>
+MEF2A	Phospho-MEF2	-a>
+MEF2A	Phospho-MEF2	member>
+MEF2A	adenosine 5'-(trihydrogen diphosphate)	-a>
+MEF2A	MEF2A	member>
+MAPK1	p-ERK1/2/5	member>
+MAPK1	ERK1/2/5	member>
+[OH2]	tetraoxophosphate(3-)	-a>
+[OH2]	ERK1/2/5	-a>
+MAPK7	p-ERK1/2/5	member>
+MAPK7	ERK1/2/5	member>
+MEF2C	Phospho-MEF2	member>
+MEF2C	MEF2A	member>
+p-ERK1/2/5	tetraoxophosphate(3-)	-a>
+p-ERK1/2/5	ERK1/2/5	-a>

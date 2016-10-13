@@ -1,0 +1,299 @@
+protein	ADRBK1
+protein	AKT1
+protein	ARR3
+protein	ARRB2
+protein	BAD
+protein	BCAR1
+protein	CD247
+protein	CD3D
+protein	CD3E
+protein	CD3G
+protein	CD4
+protein	CFL1
+protein	CRK
+protein	CSK
+complex	CSK/PAG1
+protein	CXCL12
+protein	CXCR4
+SmallMolecule	Ca2+
+SmallMolecule	DAG
+protein	DNM1
+complex	DNM1/GTP
+complex	FAK/p130 Cas/Paxillin
+protein	FOXO1
+complex	G beta/gamma
+complex	G beta/gamma/PLIC-1
+complex	G beta/gamma/RACK1
+complex	G13/GTP
+SmallMolecule	GDP
+protein	GNA13
+protein	GNB1
+protein	GNB2L1
+protein	GNG2
+protein	GRK6
+SmallMolecule	GTP
+protein	Gi family
+complex	Gi family/GTP
+complex	Gi family/GTP/RGS1
+protein	HGS
+protein	HLA-DRA
+protein	HLA-DRB1
+protein	INPP5D
+SmallMolecule	IP3
+protein	ITCH
+protein	JAK2
+protein	LCK
+protein	LIMK1
+protein	MAPKAP1
+protein	MLST8
+protein	MTOR
+protein	None
+protein	PAG1
+protein	PAK1
+protein	PDPK1
+SmallMolecule	PI-3-4-5-P3
+SmallMolecule	PI-3-4-P2
+SmallMolecule	PI-4-5-P2
+complex	PI3K Class I family
+protein	PLC beta
+protein	PRKCZ
+complex	PTEN
+protein	PTK2
+protein	PTK2B
+protein	PTPRC
+protein	PXN
+complex	PYK2/Paxillin/CRK
+protein	RAC1-CDC42
+complex	RAC1-CDC42/GDP
+complex	RAC1-CDC42/GTP
+protein	RALB
+complex	RALB/GDP
+complex	RALB/GTP
+protein	RAP1B
+complex	RAP1B/GDP
+complex	RAP1B/GTP
+protein	RAP2A-B
+complex	RAP2A-B/GDP
+complex	RAP2A-B/GTP
+protein	RGS1
+protein	RICTOR
+protein	RhoA-B-C
+complex	RhoA-B-C/GDP
+complex	RhoA-B-C/GTP
+complex	SDF1/CXCR4
+complex	SDF1/CXCR4 (dimer)
+complex	SDF1/CXCR4/CD45
+complex	SDF1/CXCR4/JAK2
+complex	SDF1/CXCR4/SHP1-2
+complex	SDF1/CXCR4/VAV1
+protein	SHP1-2
+protein	SSH1
+protein	STAT1-3-5
+complex	STAT1-3-5 (dimer)
+protein	STAT1-3-5-active
+protein	STAT2
+complex	STAT2 (dimer)
+protein	Src Family Kinase
+protein	Src Family Kinase-active
+protein	Src Family Kinases-active
+protein	TCR-alpha
+protein	TCR-beta
+complex	TCR/CD3/MHC II/CD4/LCK
+protein	UBQLN1
+protein	VAV1
+protein	VPS4
+protein	http://pid.nci.nih.gov/biopaxpid_36610
+complex	mTORC2
+protein	peptide
+IP3	Ca2+	ACTIVATION
+PTK2B	PYK2/Paxillin/CRK	component>
+VPS4	None	ACTIVATION
+VPS4	HGS	INHIBITION
+Gi family/GTP/RGS1	Src Family Kinase-active	INHIBITION
+Gi family/GTP/RGS1	FAK/p130 Cas/Paxillin	INHIBITION
+Gi family/GTP/RGS1	TCR/CD3/MHC II/CD4/LCK	INHIBITION
+GRK6	SDF1/CXCR4	ACTIVATION
+GNB2L1	G beta/gamma/RACK1	component>
+PXN	FAK/p130 Cas/Paxillin	component>
+PXN	PYK2/Paxillin/CRK	component>
+RhoA-B-C	RhoA-B-C/GDP	component>
+RhoA-B-C	RhoA-B-C/GTP	component>
+peptide	TCR/CD3/MHC II/CD4/LCK	component>
+HLA-DRB1	TCR/CD3/MHC II/CD4/LCK	component>
+RAP1B	RAP1B/GTP	component>
+RAP1B	RAP1B/GDP	component>
+SDF1/CXCR4/CD45	LCK	ACTIVATION
+SSH1	None	ACTIVATION
+SSH1	CFL1	ACTIVATION
+SSH1	SSH1	transport
+CXCL12	SDF1/CXCR4/VAV1	component>
+CXCL12	SDF1/CXCR4/JAK2	component>
+CXCL12	SDF1/CXCR4/CD45	component>
+CXCL12	SDF1/CXCR4	component>
+CXCL12	SDF1/CXCR4/SHP1-2	component>
+CXCL12	SDF1/CXCR4 (dimer)	component>
+CSK/PAG1	LCK	ACTIVATION
+G13/GTP	RhoA-B-C/GTP	ACTIVATION
+INPP5D	PI-3-4-P2	ACTIVATION
+AKT1	None	ACTIVATION
+AKT1	AKT1	-a>
+AKT1	FOXO1	ACTIVATION
+AKT1	BAD	ACTIVATION
+STAT1-3-5 (dimer)	STAT1-3-5 (dimer)	transport
+PTEN	PI-4-5-P2	ACTIVATION
+GNG2	G beta/gamma/RACK1	component>
+GNG2	G beta/gamma/PLIC-1	component>
+GNG2	G beta/gamma	component>
+RAP2A-B	RAP2A-B/GTP	component>
+RAP2A-B	RAP2A-B/GDP	component>
+CD3D	TCR/CD3/MHC II/CD4/LCK	component>
+PAK1	LIMK1	ACTIVATION
+PAK1	PAK1	-a>
+CD3G	TCR/CD3/MHC II/CD4/LCK	component>
+DNM1	DNM1/GTP	component>
+CRK	PYK2/Paxillin/CRK	component>
+RICTOR	mTORC2	component>
+ADRBK1	SDF1/CXCR4	ACTIVATION
+RAP2A-B/GDP	GDP	-a>
+RAP2A-B/GDP	RAP2A-B/GTP	-a>
+Ca2+	Ca2+	transport
+Ca2+	None	ACTIVATION
+JAK2	SDF1/CXCR4/JAK2	component>
+RALB/GDP	GDP	-a>
+RALB/GDP	RALB/GTP	-a>
+TCR-beta	TCR/CD3/MHC II/CD4/LCK	component>
+None	GDP	ACTIVATION
+None	None	ACTIVATION
+None	PI3K Class I family	ACTIVATION
+None	RAP1B/GTP	ACTIVATION
+None	SDF1/CXCR4	ACTIVATION
+None	LCK	ACTIVATION
+None	PLC beta	ACTIVATION
+CSK	CSK/PAG1	component>
+RAP2A-B/GTP	None	ACTIVATION
+DNM1/GTP	SDF1/CXCR4	ACTIVATION
+BCAR1	FAK/p130 Cas/Paxillin	component>
+PLC beta	DAG	ACTIVATION
+PLC beta	PLC beta	-a>
+VAV1	SDF1/CXCR4/VAV1	component>
+G beta/gamma/PLIC-1	None	INHIBITION
+CD3E	TCR/CD3/MHC II/CD4/LCK	component>
+LCK	None	ACTIVATION
+LCK	LCK	-a>
+LCK	TCR/CD3/MHC II/CD4/LCK	component>
+PAG1	CSK/PAG1	component>
+mTORC2	AKT1	ACTIVATION
+CD4	TCR/CD3/MHC II/CD4/LCK	component>
+ARRB2	SDF1/CXCR4	ACTIVATION
+Gi family	Gi family/GTP/RGS1	component>
+Gi family	Gi family/GTP	component>
+STAT2	STAT2	-a>
+STAT2	STAT2 (dimer)	component>
+SDF1/CXCR4 (dimer)	None	INHIBITION
+RALB/GTP	None	ACTIVATION
+TCR-alpha	TCR/CD3/MHC II/CD4/LCK	component>
+RAC1-CDC42	RAC1-CDC42/GDP	component>
+RAC1-CDC42	RAC1-CDC42/GTP	component>
+GTP	GDP	-a>
+GTP	G13/GTP	component>
+GTP	RhoA-B-C/GTP	component>
+GTP	Gi family/GTP/RGS1	component>
+GTP	RALB/GTP	component>
+GTP	RAP2A-B/GTP	component>
+GTP	RAP1B/GTP	component>
+GTP	RAC1-CDC42/GTP	component>
+GTP	DNM1/GTP	component>
+GTP	Gi family/GTP	component>
+MTOR	mTORC2	component>
+RhoA-B-C/GDP	GDP	-a>
+RhoA-B-C/GDP	RhoA-B-C/GTP	-a>
+MLST8	mTORC2	component>
+GDP	RAC1-CDC42/GDP	component>
+GDP	RAP1B/GDP	component>
+GDP	RhoA-B-C/GDP	component>
+GDP	RAP2A-B/GDP	component>
+GDP	RALB/GDP	component>
+PYK2/Paxillin/CRK	None	ACTIVATION
+RhoA-B-C/GTP	None	ACTIVATION
+BAD	BAD	-a>
+CD247	TCR/CD3/MHC II/CD4/LCK	component>
+STAT1-3-5-active	STAT1-3-5 (dimer)	component>
+RAP1B/GDP	GDP	-a>
+RAP1B/GDP	RAP1B/GTP	-a>
+PTK2	FAK/p130 Cas/Paxillin	component>
+ITCH	HGS	ACTIVATION
+ITCH	SDF1/CXCR4	ACTIVATION
+LIMK1	None	ACTIVATION
+LIMK1	LIMK1	-a>
+LIMK1	CFL1	ACTIVATION
+PI3K Class I family	None	ACTIVATION
+PI3K Class I family	PRKCZ	ACTIVATION
+PI3K Class I family	PI3K Class I family	-a>
+PI3K Class I family	PI-3-4-5-P3	ACTIVATION
+FOXO1	FOXO1	-a>
+SDF1/CXCR4/VAV1	GDP	ACTIVATION
+SDF1/CXCR4/SHP1-2	None	ACTIVATION
+HLA-DRA	TCR/CD3/MHC II/CD4/LCK	component>
+Src Family Kinases-active	FAK/p130 Cas/Paxillin	ACTIVATION
+UBQLN1	G beta/gamma/PLIC-1	component>
+SDF1/CXCR4/JAK2	STAT1-3-5-active	ACTIVATION
+SDF1/CXCR4/JAK2	FAK/p130 Cas/Paxillin	ACTIVATION
+SDF1/CXCR4/JAK2	PI3K Class I family	ACTIVATION
+SDF1/CXCR4/JAK2	STAT2	ACTIVATION
+MAPKAP1	mTORC2	component>
+RGS1	None	INHIBITION
+RGS1	Gi family/GTP/RGS1	component>
+PI-4-5-P2	IP3	-a>
+PI-4-5-P2	DAG	-a>
+PI-4-5-P2	PI-3-4-5-P3	-a>
+CXCR4	SDF1/CXCR4/VAV1	component>
+CXCR4	SDF1/CXCR4/JAK2	component>
+CXCR4	SDF1/CXCR4/CD45	component>
+CXCR4	SDF1/CXCR4	component>
+CXCR4	SDF1/CXCR4/SHP1-2	component>
+CXCR4	SDF1/CXCR4 (dimer)	component>
+STAT2 (dimer)	STAT2 (dimer)	transport
+GNB1	G beta/gamma/RACK1	component>
+GNB1	G beta/gamma/PLIC-1	component>
+GNB1	G beta/gamma	component>
+STAT1-3-5	STAT1-3-5-active	-a>
+HGS	HGS	-a>
+HGS	SDF1/CXCR4	ACTIVATION
+RAP1B/GTP	PYK2/Paxillin/CRK	ACTIVATION
+RAC1-CDC42/GTP	None	ACTIVATION
+RAC1-CDC42/GTP	PAK1	ACTIVATION
+PRKCZ	None	ACTIVATION
+PRKCZ	PRKCZ	transport
+ARR3	SDF1/CXCR4	ACTIVATION
+CFL1	None	ACTIVATION
+CFL1	CFL1	-a>
+FAK/p130 Cas/Paxillin	None	ACTIVATION
+FAK/p130 Cas/Paxillin	RAP1B/GTP	ACTIVATION
+SDF1/CXCR4	GDP	ACTIVATION
+SDF1/CXCR4	G13/GTP	ACTIVATION
+SDF1/CXCR4	RALB/GTP	ACTIVATION
+SDF1/CXCR4	SSH1	ACTIVATION
+SDF1/CXCR4	SDF1/CXCR4	transport
+SDF1/CXCR4	SDF1/CXCR4	-a>
+SDF1/CXCR4	LCK	ACTIVATION
+SDF1/CXCR4	Gi family/GTP	ACTIVATION
+G beta/gamma	GDP	ACTIVATION
+G beta/gamma	PI3K Class I family	ACTIVATION
+G beta/gamma	Src Family Kinase-active	ACTIVATION
+G beta/gamma	FAK/p130 Cas/Paxillin	ACTIVATION
+G beta/gamma	SDF1/CXCR4/SHP1-2	ACTIVATION
+G beta/gamma	TCR/CD3/MHC II/CD4/LCK	ACTIVATION
+G beta/gamma	PLC beta	ACTIVATION
+RAC1-CDC42/GDP	GDP	-a>
+RAC1-CDC42/GDP	RAC1-CDC42/GTP	-a>
+Src Family Kinase	Src Family Kinase-active	-a>
+PI-3-4-5-P3	AKT1	ACTIVATION
+PI-3-4-5-P3	PI-3-4-P2	-a>
+PI-3-4-5-P3	PI-4-5-P2	-a>
+RALB	RALB/GTP	component>
+RALB	RALB/GDP	component>
+PTPRC	SDF1/CXCR4/CD45	component>
+GNA13	G13/GTP	component>
+PDPK1	AKT1	ACTIVATION
+SHP1-2	SDF1/CXCR4/SHP1-2	component>
+Gi family/GTP	None	INHIBITION

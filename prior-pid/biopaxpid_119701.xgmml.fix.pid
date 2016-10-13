@@ -1,0 +1,75 @@
+protein	CDH5
+SmallMolecule	Ca2+
+protein	ELK1
+protein	ERK1-2
+protein	Erk1-2-active
+protein	FOS
+SmallMolecule	GDP
+protein	GNA12
+protein	GNA13
+SmallMolecule	GTP
+protein	Gi family
+protein	Gq family
+protein	IRS1
+protein	JUN
+complex	JUN/FOS
+protein	MAPK14
+protein	MAPK8
+protein	None
+protein	PAK1
+complex	PI3K
+protein	PIK3CA
+protein	PIK3R1
+protein	RAC1
+complex	RAC1/GDP
+complex	RAC1/GTP
+protein	RHOA
+SmallMolecule	S1P
+complex	S1P/S1P2/G12/G13
+complex	S1P/S1P2/Gi
+complex	S1P/S1P2/Gq
+protein	S1PR2
+Erk1-2-active	JUN/FOS	ACTIVATION
+MAPK14	MAPK14	-a>
+Gi family	S1P/S1P2/Gi	component>
+S1P/S1P2/G12/G13	RHOA	ACTIVATION
+Gq family	S1P/S1P2/Gq	component>
+S1PR2	S1P/S1P2/Gi	component>
+S1PR2	S1P/S1P2/G12/G13	component>
+S1PR2	S1P/S1P2/Gq	component>
+FOS	JUN/FOS	component>
+JUN	JUN/FOS	component>
+Ca2+	Ca2+	transport
+S1P/S1P2/Gi	MAPK14	ACTIVATION
+S1P/S1P2/Gi	Ca2+	ACTIVATION
+S1P/S1P2/Gi	Erk1-2-active	ACTIVATION
+S1P/S1P2/Gi	MAPK8	ACTIVATION
+PIK3R1	PI3K	component>
+RAC1/GTP	None	ACTIVATION
+RAC1/GTP	PAK1	ACTIVATION
+MAPK8	MAPK8	-a>
+CDH5	None	ACTIVATION
+CDH5	CDH5	-a>
+PI3K	RAC1/GTP	ACTIVATION
+PI3K	PI3K	-a>
+RAC1/GDP	RAC1/GTP	-a>
+S1P	S1P/S1P2/Gi	component>
+S1P	S1P/S1P2/G12/G13	component>
+S1P	S1P/S1P2/Gq	component>
+GTP	RAC1/GTP	component>
+JUN/FOS	JUN/FOS	-a>
+JUN/FOS	ELK1	ACTIVATION
+RHOA	RAC1/GTP	INHIBITION
+RHOA	Erk1-2-active	ACTIVATION
+RHOA	CDH5	ACTIVATION
+RHOA	RHOA	-a>
+GDP	RAC1/GDP	component>
+IRS1	PI3K	ACTIVATION
+ERK1-2	Erk1-2-active	-a>
+ELK1	ELK1	-a>
+GNA12	S1P/S1P2/G12/G13	component>
+GNA13	S1P/S1P2/G12/G13	component>
+RAC1	RAC1/GTP	component>
+RAC1	RAC1/GDP	component>
+PIK3CA	PI3K	component>
+PAK1	PAK1	-a>

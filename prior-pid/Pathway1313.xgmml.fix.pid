@@ -1,0 +1,66 @@
+complex	APS dimer
+complex	APS dimer:p-c-Kit:SFKs complex
+protein	CBL
+complex	CBL:Grb2/p-APS:p-c-Kit complex
+protein	FYN
+complex	Grb2:SOS:p-c-Kit/p-APS:p-c-Kit complex
+protein	KIT
+protein	KITLG
+protein	LCK
+complex	LNK:p-7Y-KIT:sSCF dimer:p-7Y-KIT
+protein	LYN
+protein	PRKCA
+protein	PTPN6
+complex	SFKs:p-7Y-KIT:sSCF dimer:p-7Y-KIT
+protein	SH2B2
+protein	SH2B3
+complex	SHP-1:p-c-Kit complex
+protein	SOCS1
+complex	SOCS1:p-KIT complex
+protein	SOCS6
+complex	SOCS6:p-c-Kit:sSCF dimer:p-c-Kit
+protein	SRC
+family	Src family tyrosine kinases (SFKs)
+protein	YES1
+SmallMolecule	adenosine 5'-(tetrahydrogen triphosphate)
+SmallMolecule	adenosine 5'-(trihydrogen diphosphate)
+complex	p-7Y-KIT:sSCF dimer:p-7Y-KIT
+complex	p-APS dimer
+complex	p-APS dimer:p-KIT complex
+complex	p-KIT (S741,746):PKC alpha
+complex	sSCF dimer
+YES1	Src family tyrosine kinases (SFKs)	member>
+p-APS dimer	p-APS dimer:p-KIT complex	component>
+adenosine 5'-(tetrahydrogen triphosphate)	adenosine 5'-(trihydrogen diphosphate)	-a>
+adenosine 5'-(tetrahydrogen triphosphate)	p-APS dimer:p-KIT complex	-a>
+adenosine 5'-(tetrahydrogen triphosphate)	p-KIT (S741,746):PKC alpha	-a>
+APS dimer:p-c-Kit:SFKs complex	adenosine 5'-(trihydrogen diphosphate)	-a>
+APS dimer:p-c-Kit:SFKs complex	p-APS dimer:p-KIT complex	-a>
+FYN	Src family tyrosine kinases (SFKs)	member>
+SFKs:p-7Y-KIT:sSCF dimer:p-7Y-KIT	APS dimer:p-c-Kit:SFKs complex	component>
+SFKs:p-7Y-KIT:sSCF dimer:p-7Y-KIT	p-APS dimer:p-KIT complex	component>
+SRC	Src family tyrosine kinases (SFKs)	member>
+LYN	Src family tyrosine kinases (SFKs)	member>
+Grb2:SOS:p-c-Kit/p-APS:p-c-Kit complex	CBL:Grb2/p-APS:p-c-Kit complex	component>
+PRKCA	adenosine 5'-(trihydrogen diphosphate)	-a>
+PRKCA	p-KIT (S741,746):PKC alpha	component>
+SH2B2	APS dimer	component>
+SH2B2	p-APS dimer	component>
+SH2B3	LNK:p-7Y-KIT:sSCF dimer:p-7Y-KIT	component>
+sSCF dimer	p-7Y-KIT:sSCF dimer:p-7Y-KIT	component>
+KITLG	sSCF dimer	component>
+PTPN6	SHP-1:p-c-Kit complex	component>
+p-7Y-KIT:sSCF dimer:p-7Y-KIT	SOCS6:p-c-Kit:sSCF dimer:p-c-Kit	component>
+p-7Y-KIT:sSCF dimer:p-7Y-KIT	SHP-1:p-c-Kit complex	component>
+p-7Y-KIT:sSCF dimer:p-7Y-KIT	SFKs:p-7Y-KIT:sSCF dimer:p-7Y-KIT	component>
+p-7Y-KIT:sSCF dimer:p-7Y-KIT	LNK:p-7Y-KIT:sSCF dimer:p-7Y-KIT	component>
+p-7Y-KIT:sSCF dimer:p-7Y-KIT	SOCS1:p-KIT complex	component>
+SOCS6	SOCS6:p-c-Kit:sSCF dimer:p-c-Kit	component>
+SOCS1	SOCS1:p-KIT complex	component>
+CBL	CBL:Grb2/p-APS:p-c-Kit complex	component>
+KIT	adenosine 5'-(trihydrogen diphosphate)	-a>
+KIT	p-KIT (S741,746):PKC alpha	component>
+KIT	p-7Y-KIT:sSCF dimer:p-7Y-KIT	component>
+APS dimer	APS dimer:p-c-Kit:SFKs complex	component>
+LCK	Src family tyrosine kinases (SFKs)	member>
+Src family tyrosine kinases (SFKs)	SFKs:p-7Y-KIT:sSCF dimer:p-7Y-KIT	component>

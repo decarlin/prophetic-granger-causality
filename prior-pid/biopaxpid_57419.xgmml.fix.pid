@@ -1,0 +1,76 @@
+protein	ATM
+protein	ATR
+complex	ATR/ATRIP/ATM
+protein	BRCA1
+protein	BRCA2
+complex	BRCA2/Rad51
+protein	CHEK1
+protein	CHEK2
+complex	FA complex
+protein	FANCA
+protein	FANCC
+protein	FANCD2
+complex	FANCD2/ubiquitin
+protein	FANCE
+protein	FANCF
+protein	FANCG
+protein	HUS1
+complex	Hus1/Rad1/Rad9/Rad17
+protein	MRE11A
+protein	NBN
+complex	NBS1/Rad50/Mre11
+protein	None
+protein	RAD1
+protein	RAD17
+protein	RAD50
+protein	RAD51
+protein	RAD9A
+protein	TP53
+protein	TREX1
+protein	ubiquitin
+RAD17	Hus1/Rad1/Rad9/Rad17	component>
+RAD1	Hus1/Rad1/Rad9/Rad17	component>
+RAD9A	Hus1/Rad1/Rad9/Rad17	component>
+ATM	ATR/ATRIP/ATM	component>
+FANCD2/ubiquitin	None	ACTIVATION
+ATR	ATR/ATRIP/ATM	component>
+FANCD2	FANCD2/ubiquitin	component>
+ubiquitin	FANCD2/ubiquitin	component>
+MRE11A	NBS1/Rad50/Mre11	component>
+HUS1	Hus1/Rad1/Rad9/Rad17	component>
+TREX1	ATR/ATRIP/ATM	component>
+FANCG	FA complex	component>
+FANCF	FA complex	component>
+FANCE	FA complex	component>
+FANCC	FA complex	component>
+NBN	NBN	-a>
+NBN	NBS1/Rad50/Mre11	component>
+FANCA	FA complex	component>
+CHEK2	None	ACTIVATION
+CHEK2	CHEK2	-a>
+CHEK1	TP53	ACTIVATION
+CHEK1	CHEK1	-a>
+BRCA1	BRCA1	-a>
+BRCA1	None	ACTIVATION
+None	FA complex	ACTIVATION
+None	ATR/ATRIP/ATM	ACTIVATION
+BRCA2	BRCA2	-a>
+BRCA2	BRCA2/Rad51	component>
+NBS1/Rad50/Mre11	None	ACTIVATION
+FA complex	FA complex	-a>
+FA complex	None	ACTIVATION
+ATR/ATRIP/ATM	BRCA1	ACTIVATION
+ATR/ATRIP/ATM	ATR/ATRIP/ATM	-a>
+ATR/ATRIP/ATM	BRCA2	ACTIVATION
+ATR/ATRIP/ATM	None	ACTIVATION
+ATR/ATRIP/ATM	NBN	ACTIVATION
+ATR/ATRIP/ATM	Hus1/Rad1/Rad9/Rad17	ACTIVATION
+ATR/ATRIP/ATM	CHEK2	ACTIVATION
+ATR/ATRIP/ATM	CHEK1	ACTIVATION
+TP53	None	ACTIVATION
+TP53	TP53	-a>
+BRCA2/Rad51	None	ACTIVATION
+RAD51	BRCA2/Rad51	component>
+RAD50	NBS1/Rad50/Mre11	component>
+Hus1/Rad1/Rad9/Rad17	ATR/ATRIP/ATM	ACTIVATION
+Hus1/Rad1/Rad9/Rad17	Hus1/Rad1/Rad9/Rad17	-a>

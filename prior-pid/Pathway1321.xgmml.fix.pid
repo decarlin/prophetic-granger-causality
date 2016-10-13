@@ -1,0 +1,30 @@
+protein	EGF
+complex	EGF:EGFR
+protein	EGFR
+protein	ERBB3
+PhysicalEntity	ERBB4 homodimers
+complex	ERBB4:EGFR heterodimer
+complex	ERBB4:ERBB3 heterodimer
+SmallMolecule	H4atp
+PhysicalEntity	HER4
+PhysicalEntity	NRG1/2
+complex	NRG1/2:ERBB3
+PhysicalEntity	NRGs/EGF-like ligands
+complex	NRGs/EGF-like ligands:ERBB4
+SmallMolecule	adenosine 5'-(trihydrogen diphosphate)
+PhysicalEntity	p-ERBB4 homodimers
+EGF:EGFR	ERBB4:EGFR heterodimer	component>
+ERBB3	NRG1/2:ERBB3	component>
+H4atp	adenosine 5'-(trihydrogen diphosphate)	-a>
+H4atp	p-ERBB4 homodimers	-a>
+NRG1/2	NRG1/2:ERBB3	component>
+NRG1/2:ERBB3	ERBB4:ERBB3 heterodimer	component>
+EGFR	EGF:EGFR	component>
+NRGs/EGF-like ligands:ERBB4	ERBB4:EGFR heterodimer	component>
+NRGs/EGF-like ligands:ERBB4	ERBB4 homodimers	-a>
+NRGs/EGF-like ligands:ERBB4	ERBB4:ERBB3 heterodimer	component>
+ERBB4 homodimers	adenosine 5'-(trihydrogen diphosphate)	-a>
+ERBB4 homodimers	p-ERBB4 homodimers	-a>
+NRGs/EGF-like ligands	NRGs/EGF-like ligands:ERBB4	-a>
+EGF	EGF:EGFR	component>
+HER4	NRGs/EGF-like ligands:ERBB4	-a>

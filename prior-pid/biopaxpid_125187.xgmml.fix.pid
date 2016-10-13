@@ -1,0 +1,50 @@
+SmallMolecule	1-phosphatidyl-1D-myo-inositol 3,4,5-trisphosphate
+protein	AKT1
+protein	AKT1S1
+SmallMolecule	Adenosine 5'-diphosphate
+SmallMolecule	Adenosine 5'-triphosphate
+protein	BAD
+protein	CASP9
+protein	CDK inhibitor
+protein	CHUK
+PhysicalEntity	GSK3
+protein	MDM2
+protein	PDPK1
+complex	PIP3:PDK1:active AKT
+protein	Phospho-CDK inhibitor
+PhysicalEntity	Phospho-GSK3
+protein	TSC2
+GSK3	Adenosine 5'-diphosphate	-a>
+GSK3	Phospho-GSK3	-a>
+AKT1	PIP3:PDK1:active AKT	component>
+CHUK	Adenosine 5'-diphosphate	-a>
+CHUK	CHUK	-a>
+1-phosphatidyl-1D-myo-inositol 3,4,5-trisphosphate	PIP3:PDK1:active AKT	component>
+Adenosine 5'-triphosphate	Adenosine 5'-diphosphate	-a>
+Adenosine 5'-triphosphate	Phospho-CDK inhibitor	-a>
+Adenosine 5'-triphosphate	CHUK	-a>
+Adenosine 5'-triphosphate	Phospho-GSK3	-a>
+Adenosine 5'-triphosphate	CASP9	-a>
+Adenosine 5'-triphosphate	BAD	-a>
+Adenosine 5'-triphosphate	AKT1S1	-a>
+Adenosine 5'-triphosphate	MDM2	-a>
+Adenosine 5'-triphosphate	TSC2	-a>
+BAD	Adenosine 5'-diphosphate	-a>
+BAD	BAD	-a>
+AKT1S1	Adenosine 5'-diphosphate	-a>
+AKT1S1	AKT1S1	-a>
+CASP9	Adenosine 5'-diphosphate	-a>
+CASP9	CASP9	-a>
+PIP3:PDK1:active AKT	Adenosine 5'-diphosphate	ACTIVATION
+PIP3:PDK1:active AKT	CHUK	ACTIVATION
+PIP3:PDK1:active AKT	Phospho-GSK3	ACTIVATION
+PIP3:PDK1:active AKT	CASP9	ACTIVATION
+PIP3:PDK1:active AKT	MDM2	ACTIVATION
+PIP3:PDK1:active AKT	TSC2	ACTIVATION
+PDPK1	PIP3:PDK1:active AKT	component>
+MDM2	Adenosine 5'-diphosphate	-a>
+MDM2	MDM2	-a>
+CDK inhibitor	Adenosine 5'-diphosphate	-a>
+CDK inhibitor	Phospho-CDK inhibitor	-a>
+TSC2	Adenosine 5'-diphosphate	-a>
+TSC2	TSC2	-a>

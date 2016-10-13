@@ -1,0 +1,79 @@
+SmallMolecule	5'-AMP
+protein	ACACB
+protein	ACSL1
+protein	AMPK alpha
+protein	AMPK beta
+protein	AMPK gamma
+complex	AMPK heterotrimer
+complex	AMPK heterotrimer (active)
+SmallMolecule	Acetyl coenzyme A
+SmallMolecule	Adenosine 5'-diphosphate
+SmallMolecule	Adenosine 5'-triphosphate
+SmallMolecule	Bicarbonate
+SmallMolecule	CoA-SH
+SmallMolecule	Hexadecanoate
+SmallMolecule	Hexadecanoyl-CoA
+SmallMolecule	Inorganic Phosphate
+complex	LKB1:STRAD:MO25
+protein	MO25
+SmallMolecule	Malonyl coenzyme A
+SmallMolecule	PPi
+protein	PRKAA2
+protein	PRKAB2
+protein	PRKAG2
+protein	Phosphorylated AMPK alpha
+complex	Phosphorylated AMPK heterotrimer
+protein	STK11
+protein	STRAD
+SmallMolecule	Water
+STK11	LKB1:STRAD:MO25	component>
+PRKAA2	AMPK heterotrimer (active)	component>
+Adenosine 5'-triphosphate	Adenosine 5'-diphosphate	-a>
+Adenosine 5'-triphosphate	5'-AMP	-a>
+Adenosine 5'-triphosphate	ACACB	-a>
+Adenosine 5'-triphosphate	PPi	-a>
+Adenosine 5'-triphosphate	Phosphorylated AMPK heterotrimer	-a>
+Adenosine 5'-triphosphate	Hexadecanoyl-CoA	-a>
+Adenosine 5'-triphosphate	Water	-a>
+Adenosine 5'-triphosphate	CoA-SH	transport
+Adenosine 5'-triphosphate	Inorganic Phosphate	transport
+Adenosine 5'-triphosphate	Malonyl coenzyme A	transport
+Hexadecanoate	Water	-a>
+Hexadecanoate	PPi	-a>
+Hexadecanoate	5'-AMP	-a>
+Hexadecanoate	Hexadecanoyl-CoA	-a>
+Phosphorylated AMPK alpha	Phosphorylated AMPK heterotrimer	component>
+AMPK alpha	AMPK heterotrimer	component>
+Bicarbonate	Adenosine 5'-diphosphate	transport
+Bicarbonate	Inorganic Phosphate	transport
+Bicarbonate	Malonyl coenzyme A	transport
+Bicarbonate	CoA-SH	transport
+MO25	LKB1:STRAD:MO25	component>
+AMPK heterotrimer	Adenosine 5'-diphosphate	-a>
+AMPK heterotrimer	Phosphorylated AMPK heterotrimer	-a>
+STRAD	LKB1:STRAD:MO25	component>
+AMPK gamma	Phosphorylated AMPK heterotrimer	component>
+AMPK gamma	AMPK heterotrimer	component>
+PRKAG2	AMPK heterotrimer (active)	component>
+PRKAB2	AMPK heterotrimer (active)	component>
+ACACB	Adenosine 5'-diphosphate	-a>
+ACACB	Inorganic Phosphate	ACTIVATION
+ACACB	ACACB	-a>
+AMPK heterotrimer (active)	Adenosine 5'-diphosphate	ACTIVATION
+5'-AMP	Adenosine 5'-diphosphate	ACTIVATION
+Malonyl coenzyme A	CoA-SH	INHIBITION
+ACSL1	5'-AMP	ACTIVATION
+AMPK beta	Phosphorylated AMPK heterotrimer	component>
+AMPK beta	AMPK heterotrimer	component>
+LKB1:STRAD:MO25	Adenosine 5'-diphosphate	ACTIVATION
+Acetyl coenzyme A	Adenosine 5'-diphosphate	-a>
+Acetyl coenzyme A	Inorganic Phosphate	-a>
+Acetyl coenzyme A	Malonyl coenzyme A	-a>
+CoA-SH	Adenosine 5'-diphosphate	transport
+CoA-SH	CoA-SH	transport
+CoA-SH	PPi	-a>
+CoA-SH	Hexadecanoyl-CoA	-a>
+CoA-SH	Water	-a>
+CoA-SH	5'-AMP	-a>
+CoA-SH	Inorganic Phosphate	transport
+CoA-SH	Malonyl coenzyme A	transport

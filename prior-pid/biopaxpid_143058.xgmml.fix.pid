@@ -1,0 +1,310 @@
+protein	ADAM17
+protein	AKT1
+complex	APAF-1/Caspase 9
+protein	APAF1
+protein	APH1A
+protein	APH1B
+protein	APP
+protein	ARHGDIA
+protein	Atypical PKCs
+protein	BAD
+protein	BCL2L11
+protein	BDNF
+complex	BDNF (dimer)
+complex	BDNF (dimer)/p75(NTR)
+protein	BEX1
+protein	CASP3
+protein	CASP6
+protein	CASP9
+protein	CHUK
+protein	CYCS
+complex	Caspase 3 (tetramer)
+complex	Caspase 6 (tetramer)
+protein	DIABLO
+protein	E2F1
+protein	FURIN
+protein	GDP
+protein	GTP
+complex	Gamma Secretase
+protein	IKBKB
+protein	IKBKG
+complex	IKK complex
+protein	IRAK1
+protein	JNK family
+protein	JNK family-active
+protein	LINGO1
+protein	MAGED1
+protein	MAGEH1
+protein	MGDIs
+complex	MGDIs/NGR/p75(NTR)/LINGO1
+complex	MGDIs/NGR/p75(NTR)/LINGO1/RHOGDI
+protein	MMP3
+protein	MMP7
+protein	MYD88
+protein	Mammalian IAPs
+complex	Mammalian IAPs/DIABLO
+protein	NCSTN
+protein	NDN
+protein	NGF
+complex	NGF (dimer)
+complex	NGF (dimer)/TRKA
+complex	NGF (dimer)/p75(NTR)
+complex	NGF (dimer)/p75(NTR)/BEX1
+complex	NGF (dimer)/p75(NTR)/PKA
+complex	NGF (dimer)/p75(NTR)/TRAF6/RIP2/IRAK
+complex	NGF (dimer)/p75(NTR)/TRAF6/RIP2/IRAK/p62/Atypical PKCs
+protein	NGFR
+protein	NGFRAP1
+complex	NT-4/5 (dimer)/p75(NTR)
+complex	NT-4/5 (dimer)/p75(NTR)/TRAF6
+complex	NT3 (dimer)/p75(NTR)
+protein	NTF3
+protein	NTF4
+protein	NTRK1
+protein	None
+complex	PI3K
+protein	PIK3CA
+protein	PIK3R1
+protein	PLG
+protein	PRDM4
+protein	PRKACB
+protein	PSEN1
+protein	PSENEN
+protein	RAC1
+complex	RAC1/GDP
+complex	RAC1/GTP
+protein	RHOA
+complex	RHOA/GTP
+protein	RIPK2
+protein	RTN4R
+protein	RhoA-B-C
+complex	RhoA-B-C/GDP
+complex	RhoA-B-C/GTP
+protein	RhoA-B_C
+complex	RhoA/GDP/RHOGDI
+protein	SHC1
+protein	SMPD2
+protein	SORT1
+protein	SQSTM1
+protein	TP53
+protein	TRAF6
+protein	YWHAE
+protein	ZNF274
+SmallMolecule	ceramide
+protein	p75 CTF
+complex	p75 CTF/Sortilin/TRAF6/NRIF
+protein	p75 ICD
+complex	p75(NTR)/beta APP
+complex	proBDNF (dimer)
+complex	proBDNF (dimer)/p75(NTR)/Sortilin
+complex	proBDNF (dimer)/p75(NTR)/Sortilin/TRAF6
+complex	proBDNF (dimer)/p75(NTR)/Sortilin/TRAF6/NRIF
+complex	proNGF (dimer)
+complex	proNGF (dimer)/p75(NTR)/Sortilin
+complex	proNGF (dimer)/p75(NTR)/Sortilin/MAGE-H1
+complex	proNGF (dimer)/p75(NTR)/Sortilin/NADE/14-3-3 E
+complex	proNGF (dimer)/p75(NTR)/Sortilin/NRAGE
+complex	proNGF (dimer)/p75(NTR)/Sortilin/Necdin
+complex	proNGF (dimer)/p75(NTR)/Sortilin/TRAF6
+complex	proNGF (dimer)/p75(NTR)/Sortilin/TRAF6/NRIF
+SmallMolecule	sphingomyelin
+sphingomyelin	ceramide	-a>
+proNGF (dimer)/p75(NTR)/Sortilin/NADE/14-3-3 E	None	ACTIVATION
+NGF (dimer)/p75(NTR)/BEX1	None	INHIBITION
+IKBKB	IKK complex	component>
+AKT1	AKT1	-a>
+IKBKG	IKK complex	component>
+BDNF	proBDNF (dimer)/p75(NTR)/Sortilin	component>
+BDNF	BDNF (dimer)/p75(NTR)	component>
+BDNF	proBDNF (dimer)	component>
+BDNF	proBDNF (dimer)/p75(NTR)/Sortilin/TRAF6/NRIF	component>
+BDNF	proBDNF (dimer)/p75(NTR)/Sortilin/TRAF6	component>
+BDNF	BDNF (dimer)	component>
+MGDIs/NGR/p75(NTR)/LINGO1	GDP	-a>
+MGDIs/NGR/p75(NTR)/LINGO1	RHOA/GTP	-a>
+MGDIs/NGR/p75(NTR)/LINGO1	MGDIs/NGR/p75(NTR)/LINGO1/RHOGDI	-a>
+FURIN	NGF (dimer)	ACTIVATION
+proBDNF (dimer)/p75(NTR)/Sortilin	Caspase 6 (tetramer)	ACTIVATION
+LINGO1	MGDIs/NGR/p75(NTR)/LINGO1	component>
+LINGO1	MGDIs/NGR/p75(NTR)/LINGO1/RHOGDI	component>
+PIK3CA	PI3K	component>
+proBDNF (dimer)	BDNF (dimer)	-a>
+NTRK1	NGF (dimer)/TRKA	component>
+RTN4R	MGDIs/NGR/p75(NTR)/LINGO1	component>
+RTN4R	MGDIs/NGR/p75(NTR)/LINGO1/RHOGDI	component>
+p75 CTF	p75 CTF/Sortilin/TRAF6/NRIF	component>
+IRAK1	NGF (dimer)/p75(NTR)/TRAF6/RIP2/IRAK/p62/Atypical PKCs	component>
+IRAK1	NGF (dimer)/p75(NTR)/TRAF6/RIP2/IRAK	component>
+RhoA-B-C	RhoA-B-C/GDP	component>
+SHC1	SHC1	-a>
+ARHGDIA	RhoA/GDP/RHOGDI	component>
+ARHGDIA	MGDIs/NGR/p75(NTR)/LINGO1/RHOGDI	component>
+JNK family-active	BAD	ACTIVATION
+JNK family-active	BCL2L11	ACTIVATION
+Caspase 3 (tetramer)	None	ACTIVATION
+proNGF (dimer)/p75(NTR)/Sortilin/MAGE-H1	None	ACTIVATION
+MAGEH1	proNGF (dimer)/p75(NTR)/Sortilin/MAGE-H1	component>
+proNGF (dimer)/p75(NTR)/Sortilin/Necdin	None	ACTIVATION
+Mammalian IAPs/DIABLO	APAF-1/Caspase 9	ACTIVATION
+proNGF (dimer)	NGF (dimer)	-a>
+MAGED1	proNGF (dimer)/p75(NTR)/Sortilin/NRAGE	component>
+APP	p75(NTR)/beta APP	component>
+RAC1/GDP	GDP	-a>
+RAC1/GDP	RAC1/GTP	-a>
+ZNF274	proBDNF (dimer)/p75(NTR)/Sortilin/TRAF6/NRIF	component>
+ZNF274	None	ACTIVATION
+ZNF274	proNGF (dimer)/p75(NTR)/Sortilin/TRAF6/NRIF	component>
+ZNF274	p75 CTF/Sortilin/TRAF6/NRIF	component>
+RhoA/GDP/RHOGDI	GDP	-a>
+RhoA/GDP/RHOGDI	RHOA/GTP	-a>
+RhoA/GDP/RHOGDI	MGDIs/NGR/p75(NTR)/LINGO1/RHOGDI	-a>
+NGF	proNGF (dimer)/p75(NTR)/Sortilin/Necdin	component>
+NGF	NGF (dimer)/p75(NTR)/TRAF6/RIP2/IRAK/p62/Atypical PKCs	component>
+NGF	proNGF (dimer)	component>
+NGF	proNGF (dimer)/p75(NTR)/Sortilin	component>
+NGF	NGF (dimer)/p75(NTR)	component>
+NGF	proNGF (dimer)/p75(NTR)/Sortilin/NADE/14-3-3 E	component>
+NGF	NGF (dimer)	component>
+NGF	NGF (dimer)/p75(NTR)/BEX1	component>
+NGF	proNGF (dimer)/p75(NTR)/Sortilin/TRAF6/NRIF	component>
+NGF	NGF (dimer)/TRKA	component>
+NGF	NGF (dimer)/p75(NTR)/TRAF6/RIP2/IRAK	component>
+NGF	NGF (dimer)/p75(NTR)/PKA	component>
+NGF	proNGF (dimer)/p75(NTR)/Sortilin/MAGE-H1	component>
+NGF	proNGF (dimer)/p75(NTR)/Sortilin/NRAGE	component>
+NGF	proNGF (dimer)/p75(NTR)/Sortilin/TRAF6	component>
+ceramide	JNK family-active	ACTIVATION
+NCSTN	Gamma Secretase	component>
+PSENEN	Gamma Secretase	component>
+NGF (dimer)/p75(NTR)/TRAF6/RIP2/IRAK/p62/Atypical PKCs	IKK complex	ACTIVATION
+p75(NTR)/beta APP	JNK family-active	ACTIVATION
+TRAF6	NGF (dimer)/p75(NTR)/TRAF6/RIP2/IRAK/p62/Atypical PKCs	component>
+TRAF6	proNGF (dimer)/p75(NTR)/Sortilin/TRAF6	component>
+TRAF6	NT-4/5 (dimer)/p75(NTR)/TRAF6	component>
+TRAF6	proBDNF (dimer)/p75(NTR)/Sortilin/TRAF6/NRIF	component>
+TRAF6	proBDNF (dimer)/p75(NTR)/Sortilin/TRAF6	component>
+TRAF6	NGF (dimer)/p75(NTR)/TRAF6/RIP2/IRAK	component>
+TRAF6	proNGF (dimer)/p75(NTR)/Sortilin/TRAF6/NRIF	component>
+TRAF6	p75 CTF/Sortilin/TRAF6/NRIF	component>
+Mammalian IAPs	Mammalian IAPs/DIABLO	component>
+PIK3R1	PI3K	component>
+RAC1/GTP	JNK family-active	ACTIVATION
+MYD88	NGF (dimer)/p75(NTR)/TRAF6/RIP2/IRAK	ACTIVATION
+None	GDP	ACTIVATION
+None	None	ACTIVATION
+None	JNK family-active	ACTIVATION
+CHUK	IKK complex	component>
+NGF (dimer)/p75(NTR)/PKA	None	ACTIVATION
+NGF (dimer)/p75(NTR)/PKA	RhoA-B-C/GDP	ACTIVATION
+RHOA	RhoA/GDP/RHOGDI	component>
+RHOA	RHOA/GTP	component>
+TP53	None	ACTIVATION
+TP53	TP53	-a>
+PRDM4	PRDM4	transport
+PRDM4	None	ACTIVATION
+SORT1	proNGF (dimer)/p75(NTR)/Sortilin/Necdin	component>
+SORT1	proBDNF (dimer)/p75(NTR)/Sortilin	component>
+SORT1	proNGF (dimer)/p75(NTR)/Sortilin/NADE/14-3-3 E	component>
+SORT1	proBDNF (dimer)/p75(NTR)/Sortilin/TRAF6/NRIF	component>
+SORT1	proNGF (dimer)/p75(NTR)/Sortilin	component>
+SORT1	proBDNF (dimer)/p75(NTR)/Sortilin/TRAF6	component>
+SORT1	proNGF (dimer)/p75(NTR)/Sortilin/NRAGE	component>
+SORT1	proNGF (dimer)/p75(NTR)/Sortilin/MAGE-H1	component>
+SORT1	proNGF (dimer)/p75(NTR)/Sortilin/TRAF6/NRIF	component>
+SORT1	p75 CTF/Sortilin/TRAF6/NRIF	component>
+SORT1	proNGF (dimer)/p75(NTR)/Sortilin/TRAF6	component>
+PLG	NGF (dimer)	ACTIVATION
+PLG	BDNF (dimer)	ACTIVATION
+DIABLO	Mammalian IAPs/DIABLO	component>
+SMPD2	ceramide	ACTIVATION
+SMPD2	SMPD2	-a>
+APH1B	Gamma Secretase	component>
+APH1A	Gamma Secretase	component>
+proNGF (dimer)/p75(NTR)/Sortilin	PRDM4	ACTIVATION
+proNGF (dimer)/p75(NTR)/Sortilin	Caspase 6 (tetramer)	ACTIVATION
+proNGF (dimer)/p75(NTR)/Sortilin	SMPD2	ACTIVATION
+PSEN1	Gamma Secretase	component>
+JNK family	JNK family-active	-a>
+APAF1	APAF-1/Caspase 9	component>
+NTF3	NT3 (dimer)/p75(NTR)	component>
+NTF4	NT-4/5 (dimer)/p75(NTR)	component>
+NTF4	NT-4/5 (dimer)/p75(NTR)/TRAF6	component>
+PI3K	AKT1	ACTIVATION
+PI3K	PI3K	-a>
+RHOA/GTP	None	INHIBITION
+GTP	GDP	-a>
+GTP	RAC1/GTP	-a>
+GTP	RAC1/GTP	component>
+GTP	RHOA/GTP	component>
+GTP	RhoA-B-C/GTP	component>
+GTP	MGDIs/NGR/p75(NTR)/LINGO1/RHOGDI	-a>
+GDP	GTP	-a>
+GDP	RhoA/GDP/RHOGDI	component>
+GDP	RhoA-B-C/GDP	component>
+GDP	RAC1/GDP	component>
+RhoA-B-C/GTP	GTP	-a>
+RhoA-B-C/GTP	RhoA-B-C/GDP	-a>
+proBDNF (dimer)/p75(NTR)/Sortilin/TRAF6/NRIF	TP53	ACTIVATION
+proBDNF (dimer)/p75(NTR)/Sortilin/TRAF6/NRIF	JNK family-active	ACTIVATION
+PRKACB	NGF (dimer)/p75(NTR)/PKA	component>
+MGDIs	MGDIs/NGR/p75(NTR)/LINGO1	component>
+MGDIs	MGDIs/NGR/p75(NTR)/LINGO1/RHOGDI	component>
+Caspase 6 (tetramer)	None	ACTIVATION
+CYCS	APAF-1/Caspase 9	ACTIVATION
+CYCS	CYCS	transport
+BAD	BAD	-a>
+BAD	Caspase 3 (tetramer)	ACTIVATION
+RIPK2	NGF (dimer)/p75(NTR)/TRAF6/RIP2/IRAK/p62/Atypical PKCs	component>
+RIPK2	NGF (dimer)/p75(NTR)/TRAF6/RIP2/IRAK	component>
+NGFR	NT-4/5 (dimer)/p75(NTR)	component>
+NGFR	proNGF (dimer)/p75(NTR)/Sortilin/TRAF6	component>
+NGFR	proNGF (dimer)/p75(NTR)/Sortilin/NADE/14-3-3 E	component>
+NGFR	NGF (dimer)/p75(NTR)/BEX1	component>
+NGFR	NT-4/5 (dimer)/p75(NTR)/TRAF6	component>
+NGFR	NGF (dimer)/p75(NTR)/TRAF6/RIP2/IRAK	component>
+NGFR	MGDIs/NGR/p75(NTR)/LINGO1	component>
+NGFR	NGF (dimer)/p75(NTR)/TRAF6/RIP2/IRAK/p62/Atypical PKCs	component>
+NGFR	p75(NTR)/beta APP	component>
+NGFR	proNGF (dimer)/p75(NTR)/Sortilin	component>
+NGFR	BDNF (dimer)/p75(NTR)	component>
+NGFR	MGDIs/NGR/p75(NTR)/LINGO1/RHOGDI	component>
+NGFR	proNGF (dimer)/p75(NTR)/Sortilin/NRAGE	component>
+NGFR	NT3 (dimer)/p75(NTR)	component>
+NGFR	NGF (dimer)/p75(NTR)	component>
+NGFR	NGF (dimer)/p75(NTR)/PKA	component>
+NGFR	proNGF (dimer)/p75(NTR)/Sortilin/MAGE-H1	component>
+NGFR	proBDNF (dimer)/p75(NTR)/Sortilin	component>
+NGFR	proNGF (dimer)/p75(NTR)/Sortilin/Necdin	component>
+NGFR	proBDNF (dimer)/p75(NTR)/Sortilin/TRAF6/NRIF	component>
+NGFR	proBDNF (dimer)/p75(NTR)/Sortilin/TRAF6	component>
+NGFR	proNGF (dimer)/p75(NTR)/Sortilin/TRAF6/NRIF	component>
+ADAM17	p75 CTF/Sortilin/TRAF6/NRIF	ACTIVATION
+BCL2L11	BCL2L11	-a>
+BCL2L11	Caspase 3 (tetramer)	ACTIVATION
+NDN	proNGF (dimer)/p75(NTR)/Sortilin/Necdin	component>
+RhoA-B_C	RhoA-B-C/GTP	component>
+proNGF (dimer)/p75(NTR)/Sortilin/NRAGE	JNK family-active	ACTIVATION
+proNGF (dimer)/p75(NTR)/Sortilin/NRAGE	CYCS	ACTIVATION
+YWHAE	proNGF (dimer)/p75(NTR)/Sortilin/NADE/14-3-3 E	component>
+NGF (dimer)/p75(NTR)	GDP	ACTIVATION
+NGF (dimer)/p75(NTR)	SHC1	ACTIVATION
+NGF (dimer)/p75(NTR)	PI3K	ACTIVATION
+BEX1	NGF (dimer)/p75(NTR)/BEX1	component>
+RAC1	RAC1/GDP	component>
+RAC1	RAC1/GTP	component>
+CASP6	Caspase 6 (tetramer)	component>
+SQSTM1	NGF (dimer)/p75(NTR)/TRAF6/RIP2/IRAK/p62/Atypical PKCs	component>
+NGFRAP1	proNGF (dimer)/p75(NTR)/Sortilin/NADE/14-3-3 E	component>
+CASP3	Caspase 3 (tetramer)	component>
+E2F1	None	ACTIVATION
+Atypical PKCs	NGF (dimer)/p75(NTR)/TRAF6/RIP2/IRAK/p62/Atypical PKCs	component>
+p75 ICD	ZNF274	ACTIVATION
+CASP9	APAF-1/Caspase 9	component>
+IKK complex	IKK complex	-a>
+NGF (dimer)/TRKA	IKK complex	INHIBITION
+MMP7	NGF (dimer)	ACTIVATION
+MMP7	BDNF (dimer)	ACTIVATION
+proNGF (dimer)/p75(NTR)/Sortilin/TRAF6/NRIF	JNK family-active	ACTIVATION
+MMP3	BDNF (dimer)	ACTIVATION
+APAF-1/Caspase 9	APAF-1/Caspase 9	-a>
+Gamma Secretase	p75 ICD	ACTIVATION

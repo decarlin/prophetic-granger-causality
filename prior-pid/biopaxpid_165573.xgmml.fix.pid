@@ -1,0 +1,111 @@
+protein	APPBP2
+protein	AR
+complex	AR/GR
+complex	AR/RACK1/Src
+complex	BRM/BAF57
+protein	CARM1
+protein	Cbp/p300
+protein	DNAJA1
+protein	FOXO1
+protein	GATA2
+protein	GNB2L1
+protein	GSK3B
+protein	HDAC1
+protein	HDAC7
+protein	HSP90AA1
+protein	KAT2B
+protein	KAT5
+protein	MAP2K4
+protein	MAP2K6
+protein	MAPK14
+protein	MAPK8
+protein	MDM2
+protein	NCOA2
+protein	NR0B1
+protein	NR3C1
+protein	None
+protein	PKN1
+protein	POU2F1
+protein	RCHY1
+protein	SENP1
+protein	SIRT1
+protein	SMARCA2
+protein	SMARCE1
+protein	SRC
+SmallMolecule	T-DHT
+complex	T-DHT/AR/CDK6
+complex	T-DHT/AR/DAX-1
+complex	T-DHT/AR/Hsp90
+complex	T-DHT/AR/RACK1/Src
+complex	T-DHT/AR/TIF2
+complex	T-DHT/AR/TIF2/CARM1
+complex	T-DHT/AR/TIP60
+protein	http://pid.nci.nih.gov/biopaxpid_165738
+protein	http://pid.nci.nih.gov/biopaxpid_165836
+protein	http://pid.nci.nih.gov/biopaxpid_165889
+HDAC1	HDAC1	-a>
+HDAC1	None	ACTIVATION
+HDAC7	HDAC7	transport
+SIRT1	T-DHT/AR/TIF2	ACTIVATION
+KAT5	T-DHT/AR/TIP60	component>
+MAPK14	MAPK14	-a>
+MAPK14	T-DHT	ACTIVATION
+FOXO1	None	INHIBITION
+SMARCE1	BRM/BAF57	component>
+BRM/BAF57	None	ACTIVATION
+MAP2K4	MAPK8	ACTIVATION
+SMARCA2	BRM/BAF57	component>
+NCOA2	T-DHT/AR/TIF2	component>
+NCOA2	T-DHT/AR/TIF2/CARM1	component>
+NR0B1	T-DHT/AR/DAX-1	component>
+AR/RACK1/Src	None	ACTIVATION
+GNB2L1	T-DHT/AR/RACK1/Src	component>
+GNB2L1	AR/RACK1/Src	component>
+RCHY1	None	ACTIVATION
+MAPK8	MAPK8	-a>
+MAPK8	AR	ACTIVATION
+SRC	T-DHT/AR/RACK1/Src	component>
+SRC	AR/RACK1/Src	component>
+SRC	SRC	-a>
+NR3C1	AR/GR	component>
+APPBP2	T-DHT/AR/CDK6	INHIBITION
+PKN1	T-DHT/AR/TIF2	ACTIVATION
+SENP1	HDAC1	ACTIVATION
+KAT2B	T-DHT/AR/TIF2	ACTIVATION
+AR	T-DHT/AR/RACK1/Src	component>
+AR	T-DHT/AR/Hsp90	component>
+AR	T-DHT/AR/CDK6	component>
+AR	AR/RACK1/Src	component>
+AR	AR/GR	component>
+AR	T-DHT/AR/DAX-1	component>
+AR	T-DHT/AR/TIF2	component>
+AR	AR	transport
+AR	T-DHT/AR/TIP60	component>
+AR	T-DHT/AR/TIF2/CARM1	component>
+T-DHT	T-DHT/AR/RACK1/Src	component>
+T-DHT	SRC	ACTIVATION
+T-DHT	T-DHT/AR/CDK6	component>
+T-DHT	T-DHT/AR/TIF2	component>
+T-DHT	T-DHT/AR/DAX-1	component>
+T-DHT	T-DHT/AR/Hsp90	component>
+T-DHT	T-DHT/AR/TIP60	component>
+T-DHT	T-DHT/AR/TIF2/CARM1	component>
+None	http://pid.nci.nih.gov/biopaxpid_165738	ACTIVATION
+None	http://pid.nci.nih.gov/biopaxpid_165889	ACTIVATION
+None	http://pid.nci.nih.gov/biopaxpid_165836	ACTIVATION
+None	AR/RACK1/Src	ACTIVATION
+MDM2	None	ACTIVATION
+GATA2	None	ACTIVATION
+Cbp/p300	T-DHT/AR/TIF2	ACTIVATION
+T-DHT/AR/RACK1/Src	None	ACTIVATION
+DNAJA1	T-DHT/AR/CDK6	ACTIVATION
+MAP2K6	MAPK14	ACTIVATION
+T-DHT/AR/CDK6	T-DHT/AR/CDK6	transport
+T-DHT/AR/CDK6	None	ACTIVATION
+T-DHT/AR/CDK6	HDAC7	ACTIVATION
+T-DHT/AR/TIF2	T-DHT/AR/TIF2	-a>
+T-DHT/AR/TIF2	None	ACTIVATION
+GSK3B	AR	ACTIVATION
+CARM1	T-DHT/AR/TIF2/CARM1	component>
+HSP90AA1	T-DHT/AR/Hsp90	component>
+POU2F1	None	ACTIVATION

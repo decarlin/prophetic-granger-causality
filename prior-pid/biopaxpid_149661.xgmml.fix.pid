@@ -1,0 +1,84 @@
+protein	ADCY1
+protein	CAP1
+protein	CCNB1
+complex	CDC2/cyclin B
+protein	CDC25C
+protein	CDK1
+protein	G-alpha-S
+protein	GNAI1
+protein	GNB1
+protein	GNGT1
+protein	HRAS
+protein	MAPK1
+protein	MAPK3
+protein	MYT1
+complex	MYT1/pin1
+protein	None
+protein	PAQR5
+protein	PGR
+protein	PIN1
+complex	PKA
+protein	PRKACB
+protein	PRKACG
+protein	PRKAR1A
+protein	PRKAR1B
+protein	PRKAR2A
+protein	PRKAR2B
+protein	SRC
+SmallMolecule	adenosine 3',5'-phosphate
+SmallMolecule	adenosine 5'-triphosphate
+SmallMolecule	guanosine 5'-diphosphate
+SmallMolecule	guanosine 5'-triphosphate
+SmallMolecule	progesterone (jp14/usp)
+complex	progesterone/iPR
+complex	progesterone/iPR/SRC
+complex	progesterone/mPR/G-beta/G-gamma/G-alpha-I
+progesterone (jp14/usp)	progesterone/iPR	component>
+progesterone (jp14/usp)	progesterone/iPR/SRC	component>
+progesterone (jp14/usp)	progesterone/mPR/G-beta/G-gamma/G-alpha-I	component>
+progesterone (jp14/usp)	progesterone (jp14/usp)	transport
+HRAS	HRAS	-a>
+HRAS	guanosine 5'-diphosphate	-a>
+HRAS	ADCY1	ACTIVATION
+PRKAR2A	PKA	component>
+PRKAR2B	PKA	component>
+PIN1	MYT1/pin1	component>
+GNAI1	progesterone/mPR/G-beta/G-gamma/G-alpha-I	component>
+MAPK3	MYT1/pin1	ACTIVATION
+MAPK3	MAPK1	-a>
+MAPK3	MAPK3	-a>
+CAP1	CAP1	-a>
+adenosine 5'-triphosphate	adenosine 3',5'-phosphate	-a>
+CDC2/cyclin B	CDC2/cyclin B	-a>
+CDC2/cyclin B	None	ACTIVATION
+PKA	CDC25C	INHIBITION
+PKA	MAPK1	INHIBITION
+PKA	PKA	-a>
+PGR	progesterone/iPR	component>
+PGR	progesterone/iPR/SRC	component>
+guanosine 5'-triphosphate	HRAS	-a>
+guanosine 5'-triphosphate	guanosine 5'-diphosphate	-a>
+MYT1	MYT1/pin1	component>
+SRC	progesterone/iPR/SRC	component>
+CDC25C	CDC25C	-a>
+CDC25C	CDC2/cyclin B	ACTIVATION
+GNB1	progesterone/mPR/G-beta/G-gamma/G-alpha-I	component>
+PAQR5	progesterone/mPR/G-beta/G-gamma/G-alpha-I	component>
+CCNB1	CDC2/cyclin B	component>
+PRKAR1A	PKA	component>
+PRKAR1B	PKA	component>
+MYT1/pin1	MYT1/pin1	-a>
+MYT1/pin1	CDC2/cyclin B	ACTIVATION
+progesterone/iPR/SRC	MAPK1	ACTIVATION
+adenosine 3',5'-phosphate	PKA	ACTIVATION
+ADCY1	adenosine 3',5'-phosphate	ACTIVATION
+ADCY1	ADCY1	-a>
+ADCY1	CAP1	ACTIVATION
+CDK1	CDC2/cyclin B	component>
+PRKACG	PKA	component>
+GNGT1	progesterone/mPR/G-beta/G-gamma/G-alpha-I	component>
+PRKACB	PKA	component>
+MAPK1	MYT1/pin1	ACTIVATION
+MAPK1	MAPK1	-a>
+MAPK1	MAPK3	-a>
+progesterone/mPR/G-beta/G-gamma/G-alpha-I	guanosine 5'-diphosphate	INHIBITION

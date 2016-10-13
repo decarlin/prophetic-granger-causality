@@ -1,0 +1,73 @@
+complex	AP-1
+SmallMolecule	BAPTA-AM
+complex	BAPTA-AM/Ca ++
+SmallMolecule	CGP37157
+complex	CREB/CREB
+protein	CREB1
+protein	CSNK2A1
+SmallMolecule	Ca ++
+protein	CaM
+complex	CaM/Ca ++
+protein	FOS
+protein	GRB2
+protein	HBX
+protein	HRAS
+protein	JUN
+protein	LAMTOR5
+protein	MAP2K1
+protein	MAPK3
+protein	None
+protein	PTK2B
+complex	PYK2/SRC
+protein	RAF1
+complex	SHC/GRB2/SOS-1
+protein	SHC1
+protein	SOS1
+protein	SRC
+SmallMolecule	guanosine 5'-diphosphate
+SmallMolecule	guanosine 5'-triphosphate
+SmallMolecule	sandimmune (tn)
+SmallMolecule	thapsigargin
+SmallMolecule	valinomycin
+BAPTA-AM	BAPTA-AM/Ca ++	component>
+HRAS	HRAS	-a>
+HRAS	guanosine 5'-diphosphate	-a>
+HRAS	RAF1	ACTIVATION
+MAP2K1	MAPK3	ACTIVATION
+MAP2K1	MAP2K1	-a>
+SHC/GRB2/SOS-1	guanosine 5'-diphosphate	ACTIVATION
+SHC/GRB2/SOS-1	SHC/GRB2/SOS-1	-a>
+HBX	HBX	transport
+HBX	CREB/CREB	ACTIVATION
+HBX	Ca ++	ACTIVATION
+CaM/Ca ++	PYK2/SRC	ACTIVATION
+RAF1	MAP2K1	ACTIVATION
+RAF1	RAF1	-a>
+sandimmune (tn)	Ca ++	INHIBITION
+FOS	AP-1	component>
+JUN	AP-1	component>
+JUN	JUN	-a>
+CGP37157	Ca ++	INHIBITION
+CREB/CREB	CREB/CREB	-a>
+MAPK3	MAPK3	transport
+MAPK3	JUN	ACTIVATION
+guanosine 5'-triphosphate	HRAS	-a>
+guanosine 5'-triphosphate	guanosine 5'-diphosphate	-a>
+SRC	PYK2/SRC	component>
+SHC1	SHC/GRB2/SOS-1	component>
+Ca ++	BAPTA-AM/Ca ++	component>
+Ca ++	CaM/Ca ++	component>
+Ca ++	Ca ++	transport
+valinomycin	Ca ++	ACTIVATION
+CREB1	CREB/CREB	component>
+CSNK2A1	JUN	INHIBITION
+thapsigargin	Ca ++	ACTIVATION
+SOS1	SHC/GRB2/SOS-1	component>
+PTK2B	PYK2/SRC	component>
+GRB2	SHC/GRB2/SOS-1	component>
+CaM	CaM/Ca ++	component>
+LAMTOR5	HBX	INHIBITION
+LAMTOR5	Ca ++	INHIBITION
+PYK2/SRC	None	ACTIVATION
+PYK2/SRC	SHC/GRB2/SOS-1	ACTIVATION
+PYK2/SRC	PYK2/SRC	-a>

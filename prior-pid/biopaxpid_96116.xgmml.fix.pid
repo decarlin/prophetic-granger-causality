@@ -1,0 +1,205 @@
+protein	AKT1
+protein	ANGPTL3
+protein	BCAR1
+protein	CBL
+protein	CDKN1B
+protein	COL4A3
+protein	CSF1
+protein	CSF1R
+complex	Collagen
+protein	EDIL3
+protein	ERK1-2
+protein	Erk1-2-active
+protein	F11R
+complex	FAK/Paxillin
+complex	FAK/Vinculin
+protein	FGF2
+protein	FN1
+SmallMolecule	GDP
+protein	GPR124
+SmallMolecule	GTP
+protein	HSP90AA1
+complex	IGF-1R heterotetramer/IGF1/IRS1
+complex	IGF-1R heterotetramer/IGF1/IRS1/Shp2
+protein	IGF1
+protein	IGF1R
+protein	ILK
+protein	IRS1
+protein	ITGAV
+protein	ITGB3
+protein	KDR
+protein	MFGE8
+protein	None
+SmallMolecule	PI-4-5-P2
+complex	PI3K
+complex	PI4 Kinase/Pyk2
+protein	PI4KA
+protein	PI4KB
+protein	PIK3C2A
+protein	PIK3CA
+protein	PIK3R1
+protein	PTK2
+protein	PTK2B
+protein	PTPN11
+protein	PXN
+protein	RAC1
+complex	RAC1/GDP
+complex	RAC1/GTP
+protein	RHOA
+protein	ROCK1
+protein	RPS6KB1
+protein	SDC1
+protein	SPP1
+protein	SRC
+protein	TGFBR2
+protein	TLN1
+protein	VAV3
+protein	VCL
+complex	VEGF/Rho/ROCK/alphav/beta3 Integrin
+protein	VEGFA
+complex	VEGFR2 homodimer/VEGFA homodimer/Src
+complex	VEGFR2 homodimer/VEGFA homodimer/alphav/beta3 Integrin
+protein	VTN
+complex	alphav/beta3 Integrin
+complex	alphav/beta3 Integrin/ANGPTL3
+complex	alphav/beta3 Integrin/Caspase 8
+complex	alphav/beta3 Integrin/Del1
+complex	alphav/beta3 Integrin/JAM-A
+complex	alphav/beta3 Integrin/Lactadherin
+complex	alphav/beta3 Integrin/Osteopontin
+complex	alphav/beta3 Integrin/PYK2
+complex	alphav/beta3 Integrin/Syndecan-1
+complex	alphav/beta3 Integrin/TGFBR2
+complex	alphav/beta3 Integrin/Talin
+complex	alphav/beta3 Integrin/Tumstatin
+complex	alphav/beta3 Integrin/c-FMS/Cbl/Cas
+complex	alphav/beta3 Integrin/ppsTEM5
+complex	beta3 Integrin/Caspase 8
+alphav/beta3 Integrin/TGFBR2	None	ACTIVATION
+Erk1-2-active	None	ACTIVATION
+alphav/beta3 Integrin/ANGPTL3	None	ACTIVATION
+alphav/beta3 Integrin/Lactadherin	None	ACTIVATION
+MFGE8	alphav/beta3 Integrin/Lactadherin	component>
+TGFBR2	alphav/beta3 Integrin/TGFBR2	component>
+PTPN11	IGF-1R heterotetramer/IGF1/IRS1/Shp2	component>
+CDKN1B	CDKN1B	-a>
+IRS1	IGF-1R heterotetramer/IGF1/IRS1/Shp2	component>
+IRS1	IGF-1R heterotetramer/IGF1/IRS1	component>
+ITGB3	alphav/beta3 Integrin/TGFBR2	component>
+ITGB3	alphav/beta3 Integrin/c-FMS/Cbl/Cas	component>
+ITGB3	alphav/beta3 Integrin/ANGPTL3	component>
+ITGB3	alphav/beta3 Integrin/Talin	component>
+ITGB3	VEGF/Rho/ROCK/alphav/beta3 Integrin	component>
+ITGB3	alphav/beta3 Integrin/Osteopontin	component>
+ITGB3	alphav/beta3 Integrin/PYK2	component>
+ITGB3	alphav/beta3 Integrin	component>
+ITGB3	alphav/beta3 Integrin/Del1	component>
+ITGB3	alphav/beta3 Integrin/Lactadherin	component>
+ITGB3	alphav/beta3 Integrin/Syndecan-1	component>
+ITGB3	alphav/beta3 Integrin/JAM-A	component>
+ITGB3	alphav/beta3 Integrin/Tumstatin	component>
+ITGB3	alphav/beta3 Integrin/ppsTEM5	component>
+ITGB3	VEGFR2 homodimer/VEGFA homodimer/alphav/beta3 Integrin	component>
+AKT1	AKT1	-a>
+PTK2B	PTK2B	-a>
+PTK2B	PTK2	ACTIVATION
+PTK2B	PI4 Kinase/Pyk2	component>
+PTK2B	alphav/beta3 Integrin/PYK2	component>
+FAK/Paxillin	None	ACTIVATION
+CBL	alphav/beta3 Integrin/c-FMS/Cbl/Cas	component>
+SPP1	alphav/beta3 Integrin/Osteopontin	component>
+IGF1R	IGF-1R heterotetramer/IGF1/IRS1/Shp2	component>
+IGF1R	IGF-1R heterotetramer/IGF1/IRS1	component>
+alphav/beta3 Integrin/Caspase 8	None	ACTIVATION
+beta3 Integrin/Caspase 8	alphav/beta3 Integrin/Caspase 8	component>
+PI4KB	PI4 Kinase/Pyk2	component>
+ROCK1	VEGF/Rho/ROCK/alphav/beta3 Integrin	component>
+PI4KA	PI4 Kinase/Pyk2	component>
+VEGF/Rho/ROCK/alphav/beta3 Integrin	PTK2	ACTIVATION
+PIK3CA	PI3K	component>
+CSF1R	alphav/beta3 Integrin/c-FMS/Cbl/Cas	component>
+alphav/beta3 Integrin/Del1	PTK2	ACTIVATION
+TLN1	alphav/beta3 Integrin/Talin	component>
+ILK	AKT1	ACTIVATION
+ILK	ILK	-a>
+GPR124	alphav/beta3 Integrin/ppsTEM5	component>
+PXN	FAK/Paxillin	component>
+PI-4-5-P2	alphav/beta3 Integrin/Talin	ACTIVATION
+alphav/beta3 Integrin	Erk1-2-active	ACTIVATION
+alphav/beta3 Integrin	IGF-1R heterotetramer/IGF1/IRS1	ACTIVATION
+alphav/beta3 Integrin	CDKN1B	ACTIVATION
+alphav/beta3 Integrin	ILK	ACTIVATION
+alphav/beta3 Integrin	PIK3C2A	ACTIVATION
+alphav/beta3 Integrin	PI4 Kinase/Pyk2	ACTIVATION
+ANGPTL3	alphav/beta3 Integrin/ANGPTL3	component>
+VEGFR2 homodimer/VEGFA homodimer/alphav/beta3 Integrin	PTK2B	ACTIVATION
+PTK2	PTK2	-a>
+PTK2	FAK/Paxillin	component>
+PTK2	FAK/Vinculin	component>
+KDR	VEGFR2 homodimer/VEGFA homodimer/alphav/beta3 Integrin	component>
+KDR	VEGF/Rho/ROCK/alphav/beta3 Integrin	component>
+KDR	VEGFR2 homodimer/VEGFA homodimer/Src	component>
+alphav/beta3 Integrin/ppsTEM5	None	ACTIVATION
+SRC	VEGFR2 homodimer/VEGFA homodimer/Src	component>
+alphav/beta3 Integrin/c-FMS/Cbl/Cas	VAV3	ACTIVATION
+IGF1	IGF-1R heterotetramer/IGF1/IRS1/Shp2	component>
+IGF1	IGF-1R heterotetramer/IGF1/IRS1	component>
+PIK3R1	PI3K	component>
+PI3K	PI3K	-a>
+RAC1/GDP	RAC1/GTP	-a>
+VCL	FAK/Vinculin	component>
+VTN	VEGF/Rho/ROCK/alphav/beta3 Integrin	ACTIVATION
+VTN	CDKN1B	ACTIVATION
+VTN	ILK	ACTIVATION
+VTN	PIK3C2A	ACTIVATION
+VTN	alphav/beta3 Integrin/JAM-A	ACTIVATION
+VTN	PI4 Kinase/Pyk2	ACTIVATION
+GTP	RAC1/GTP	component>
+PIK3C2A	PIK3C2A	-a>
+VEGFA	VEGFR2 homodimer/VEGFA homodimer/alphav/beta3 Integrin	component>
+VEGFA	VEGF/Rho/ROCK/alphav/beta3 Integrin	component>
+VEGFA	VEGFR2 homodimer/VEGFA homodimer/Src	component>
+alphav/beta3 Integrin/Tumstatin	PTK2	ACTIVATION
+RHOA	VEGF/Rho/ROCK/alphav/beta3 Integrin	component>
+BCAR1	alphav/beta3 Integrin/c-FMS/Cbl/Cas	component>
+FGF2	alphav/beta3 Integrin	ACTIVATION
+FGF2	Erk1-2-active	ACTIVATION
+F11R	Erk1-2-active	ACTIVATION
+F11R	alphav/beta3 Integrin/JAM-A	component>
+VEGFR2 homodimer/VEGFA homodimer/Src	PTK2	ACTIVATION
+GDP	RAC1/GDP	component>
+COL4A3	alphav/beta3 Integrin/Tumstatin	component>
+IGF-1R heterotetramer/IGF1/IRS1	Erk1-2-active	ACTIVATION
+IGF-1R heterotetramer/IGF1/IRS1	RPS6KB1	ACTIVATION
+FN1	IGF-1R heterotetramer/IGF1/IRS1	ACTIVATION
+SDC1	alphav/beta3 Integrin/Syndecan-1	component>
+EDIL3	alphav/beta3 Integrin/Del1	component>
+Collagen	alphav/beta3 Integrin/Caspase 8	ACTIVATION
+CSF1	alphav/beta3 Integrin/c-FMS/Cbl/Cas	ACTIVATION
+ITGAV	alphav/beta3 Integrin/TGFBR2	component>
+ITGAV	alphav/beta3 Integrin/c-FMS/Cbl/Cas	component>
+ITGAV	alphav/beta3 Integrin/ANGPTL3	component>
+ITGAV	alphav/beta3 Integrin/Talin	component>
+ITGAV	VEGF/Rho/ROCK/alphav/beta3 Integrin	component>
+ITGAV	alphav/beta3 Integrin/Osteopontin	component>
+ITGAV	alphav/beta3 Integrin/PYK2	component>
+ITGAV	alphav/beta3 Integrin	component>
+ITGAV	alphav/beta3 Integrin/Del1	component>
+ITGAV	alphav/beta3 Integrin/Lactadherin	component>
+ITGAV	alphav/beta3 Integrin/Syndecan-1	component>
+ITGAV	alphav/beta3 Integrin/JAM-A	component>
+ITGAV	alphav/beta3 Integrin/Tumstatin	component>
+ITGAV	alphav/beta3 Integrin/Caspase 8	component>
+ITGAV	alphav/beta3 Integrin/ppsTEM5	component>
+ITGAV	VEGFR2 homodimer/VEGFA homodimer/alphav/beta3 Integrin	component>
+FAK/Vinculin	None	ACTIVATION
+ERK1-2	Erk1-2-active	-a>
+alphav/beta3 Integrin/JAM-A	Erk1-2-active	ACTIVATION
+alphav/beta3 Integrin/JAM-A	PTK2	ACTIVATION
+alphav/beta3 Integrin/JAM-A	PI3K	ACTIVATION
+RAC1	RAC1/GDP	component>
+RAC1	RAC1/GTP	component>
+HSP90AA1	VEGF/Rho/ROCK/alphav/beta3 Integrin	component>
+RPS6KB1	RPS6KB1	-a>
+VAV3	RAC1/GTP	ACTIVATION
+VAV3	VAV3	-a>

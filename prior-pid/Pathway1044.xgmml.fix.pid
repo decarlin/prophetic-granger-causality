@@ -1,0 +1,196 @@
+SmallMolecule	1,2-diacyl-sn-glycerols
+SmallMolecule	1,4,5-Insp3
+SmallMolecule	1-Phosphatidyl-D-myo-inositol 4,5-bisphosphate
+SmallMolecule	5'-GTP
+family	AKT
+protein	AKT1
+protein	AKT2
+protein	AKT3
+SmallMolecule	Adenosine triphosphate
+protein	CDC42
+PhysicalEntity	Collagen type I fibril
+protein	FCER1G
+complex	FCERIG dimer
+protein	FYN
+complex	GP VI : FceRI gamma dimer
+complex	GP VI : phosphorylated Fc Epsilon R1 gamma complex
+protein	GP6
+complex	GPVI:FceRI gamma:FYN:LYN
+complex	GPVI:FceRI gamma:FYN:LYN:Collagen type I
+complex	GPVI:phosphorylated Fc Epsilon R1 gamma:FYN:LYN
+complex	GPVI:phosphorylated Fc Epsilon R1 gamma:FYN:LYN:Collagen type I
+complex	GPVI:phosphorylated Fc Epsilon R1 gamma:FYN:LYN:Collagen type I:SYK
+complex	GPVI:phosphorylated Fc Epsilon R1 gamma:FYN:LYN:Collagen type I:p-SYK(Y348)
+protein	LAT
+protein	LCP2
+protein	LYN
+complex	PDK1:AKT:PIP3
+protein	PDPK1
+family	PI3-kinase gamma, regulatory subunit
+complex	PI3K beta
+complex	PI3K gamma
+family	PI3K-regulatory subunits
+protein	PIK3CB
+protein	PIK3CG
+protein	PIK3R1
+protein	PIK3R2
+protein	PIK3R3
+protein	PIK3R5
+protein	PIK3R6
+complex	PIP3:PDK1:AKT:PKC zeta
+complex	PIP3:PDK1:AKT:p(T410)-PKC zeta
+protein	PLCG2
+protein	PRKCZ
+SmallMolecule	PtsIns(3,4,5)P3
+protein	RAC1
+protein	RAC2
+protein	RHOA
+protein	RHOB
+protein	RHOG
+protein	SYK
+family	VAV
+family	VAV family
+complex	VAV family:PIP2
+complex	VAV family:PIP3
+protein	VAV1
+complex	VAV1 Rho/Rac effectors:GDP
+complex	VAV1 Rho/Rac effectors:GTP
+family	VAV1 effectors
+protein	VAV2
+complex	VAV2 Rho/Rac effectors:GDP
+complex	VAV2 Rho/Rac effectors:GTP
+family	VAV2 effectors
+protein	VAV3
+complex	VAV3 Rho/Rac effectors:GDP
+complex	VAV3 Rho/Rac effectors:GTP
+family	VAV3 effectors
+SmallMolecule	adenosine 5'-(trihydrogen diphosphate)
+SmallMolecule	guanosine 5'-(trihydrogen diphosphate)
+complex	p-SLP-76:VAV
+complex	p-SYK(Y348):Vav family
+complex	p-SYK(Y348):p-Vav family
+family	p-Vav
+FCERIG dimer	GP VI : FceRI gamma dimer	component>
+GPVI:phosphorylated Fc Epsilon R1 gamma:FYN:LYN:Collagen type I:SYK	adenosine 5'-(trihydrogen diphosphate)	-a>
+GPVI:phosphorylated Fc Epsilon R1 gamma:FYN:LYN:Collagen type I:SYK	PI3K gamma	-a>
+GPVI:phosphorylated Fc Epsilon R1 gamma:FYN:LYN:Collagen type I:SYK	GPVI:phosphorylated Fc Epsilon R1 gamma:FYN:LYN:Collagen type I:p-SYK(Y348)	-a>
+GPVI:phosphorylated Fc Epsilon R1 gamma:FYN:LYN:Collagen type I:SYK	PI3K beta	-a>
+AKT	PDK1:AKT:PIP3	component>
+AKT	PDK1:AKT:PIP3	-a>
+PtsIns(3,4,5)P3	VAV family:PIP3	component>
+PtsIns(3,4,5)P3	PDK1:AKT:PIP3	component>
+PLCG2	PLCG2	-a>
+PLCG2	LCP2	-a>
+AKT3	AKT	member>
+GP VI : FceRI gamma dimer	GPVI:FceRI gamma:FYN:LYN	component>
+VAV1 effectors	VAV1 Rho/Rac effectors:GDP	component>
+VAV1 effectors	VAV1 Rho/Rac effectors:GTP	component>
+Adenosine triphosphate	adenosine 5'-(trihydrogen diphosphate)	-a>
+Adenosine triphosphate	GPVI:phosphorylated Fc Epsilon R1 gamma:FYN:LYN:Collagen type I:p-SYK(Y348)	-a>
+Adenosine triphosphate	PIP3:PDK1:AKT:p(T410)-PKC zeta	-a>
+Adenosine triphosphate	SYK	-a>
+Adenosine triphosphate	GPVI:phosphorylated Fc Epsilon R1 gamma:FYN:LYN:Collagen type I	-a>
+Adenosine triphosphate	PtsIns(3,4,5)P3	-a>
+Adenosine triphosphate	LAT	-a>
+Adenosine triphosphate	LCP2	-a>
+GPVI:phosphorylated Fc Epsilon R1 gamma:FYN:LYN:Collagen type I:p-SYK(Y348)	SYK	-a>
+GPVI:phosphorylated Fc Epsilon R1 gamma:FYN:LYN:Collagen type I:p-SYK(Y348)	GPVI:phosphorylated Fc Epsilon R1 gamma:FYN:LYN:Collagen type I	-a>
+VAV3 effectors	VAV3 Rho/Rac effectors:GDP	component>
+VAV3 effectors	VAV3 Rho/Rac effectors:GTP	component>
+VAV3 Rho/Rac effectors:GDP	VAV3 Rho/Rac effectors:GTP	-a>
+VAV3 Rho/Rac effectors:GDP	guanosine 5'-(trihydrogen diphosphate)	-a>
+FCER1G	FCERIG dimer	component>
+FCER1G	GP VI : phosphorylated Fc Epsilon R1 gamma complex	component>
+PDK1:AKT:PIP3	PIP3:PDK1:AKT:PKC zeta	component>
+PDK1:AKT:PIP3	PIP3:PDK1:AKT:p(T410)-PKC zeta	component>
+RHOG	VAV1 effectors	member>
+RHOG	VAV2 effectors	member>
+RHOG	VAV3 effectors	member>
+GPVI:phosphorylated Fc Epsilon R1 gamma:FYN:LYN	GPVI:phosphorylated Fc Epsilon R1 gamma:FYN:LYN:Collagen type I	component>
+FYN	GPVI:FceRI gamma:FYN:LYN	component>
+FYN	GPVI:phosphorylated Fc Epsilon R1 gamma:FYN:LYN	component>
+PIK3CG	PI3K gamma	component>
+PIK3R6	PI3-kinase gamma, regulatory subunit	member>
+PIK3R5	PI3-kinase gamma, regulatory subunit	member>
+PIK3R3	PI3K-regulatory subunits	member>
+PIK3R2	PI3K-regulatory subunits	member>
+PIK3R1	PI3K-regulatory subunits	member>
+PI3-kinase gamma, regulatory subunit	PI3K gamma	component>
+GP6	GP VI : phosphorylated Fc Epsilon R1 gamma complex	component>
+GP6	GP VI : FceRI gamma dimer	component>
+5'-GTP	VAV3 Rho/Rac effectors:GTP	component>
+5'-GTP	VAV2 Rho/Rac effectors:GTP	component>
+5'-GTP	VAV1 Rho/Rac effectors:GTP	component>
+5'-GTP	guanosine 5'-(trihydrogen diphosphate)	-a>
+GPVI:FceRI gamma:FYN:LYN	GPVI:FceRI gamma:FYN:LYN:Collagen type I	component>
+PI3K-regulatory subunits	PI3K beta	component>
+p-SYK(Y348):Vav family	p-SYK(Y348):p-Vav family	-a>
+LYN	GPVI:FceRI gamma:FYN:LYN	component>
+LYN	GPVI:phosphorylated Fc Epsilon R1 gamma:FYN:LYN	component>
+RAC2	VAV1 effectors	member>
+RAC1	VAV1 effectors	member>
+RAC1	VAV2 effectors	member>
+RAC1	VAV3 effectors	member>
+GPVI:phosphorylated Fc Epsilon R1 gamma:FYN:LYN:Collagen type I	GPVI:phosphorylated Fc Epsilon R1 gamma:FYN:LYN:Collagen type I:p-SYK(Y348)	component>
+GPVI:phosphorylated Fc Epsilon R1 gamma:FYN:LYN:Collagen type I	GPVI:phosphorylated Fc Epsilon R1 gamma:FYN:LYN:Collagen type I:SYK	component>
+1-Phosphatidyl-D-myo-inositol 4,5-bisphosphate	adenosine 5'-(trihydrogen diphosphate)	-a>
+1-Phosphatidyl-D-myo-inositol 4,5-bisphosphate	VAV family:PIP2	component>
+1-Phosphatidyl-D-myo-inositol 4,5-bisphosphate	PtsIns(3,4,5)P3	-a>
+1-Phosphatidyl-D-myo-inositol 4,5-bisphosphate	1,2-diacyl-sn-glycerols	-a>
+1-Phosphatidyl-D-myo-inositol 4,5-bisphosphate	1,4,5-Insp3	-a>
+PRKCZ	PIP3:PDK1:AKT:PKC zeta	component>
+PRKCZ	PIP3:PDK1:AKT:p(T410)-PKC zeta	component>
+RHOB	VAV2 effectors	member>
+RHOA	VAV1 effectors	member>
+RHOA	VAV2 effectors	member>
+RHOA	VAV3 effectors	member>
+guanosine 5'-(trihydrogen diphosphate)	VAV3 Rho/Rac effectors:GDP	component>
+guanosine 5'-(trihydrogen diphosphate)	VAV2 Rho/Rac effectors:GDP	component>
+guanosine 5'-(trihydrogen diphosphate)	VAV1 Rho/Rac effectors:GDP	component>
+VAV	p-SLP-76:VAV	component>
+VAV2 Rho/Rac effectors:GDP	VAV2 Rho/Rac effectors:GTP	-a>
+VAV2 Rho/Rac effectors:GDP	guanosine 5'-(trihydrogen diphosphate)	-a>
+VAV1 Rho/Rac effectors:GDP	VAV1 Rho/Rac effectors:GTP	-a>
+VAV1 Rho/Rac effectors:GDP	guanosine 5'-(trihydrogen diphosphate)	-a>
+LCP2	adenosine 5'-(trihydrogen diphosphate)	-a>
+LCP2	PLCG2	-a>
+LCP2	p-SLP-76:VAV	component>
+LCP2	SYK	-a>
+LCP2	LCP2	-a>
+Collagen type I fibril	GPVI:phosphorylated Fc Epsilon R1 gamma:FYN:LYN:Collagen type I	component>
+Collagen type I fibril	GPVI:FceRI gamma:FYN:LYN:Collagen type I	component>
+GP VI : phosphorylated Fc Epsilon R1 gamma complex	GPVI:phosphorylated Fc Epsilon R1 gamma:FYN:LYN	component>
+GPVI:FceRI gamma:FYN:LYN:Collagen type I	adenosine 5'-(trihydrogen diphosphate)	-a>
+GPVI:FceRI gamma:FYN:LYN:Collagen type I	GPVI:phosphorylated Fc Epsilon R1 gamma:FYN:LYN:Collagen type I	-a>
+AKT1	AKT	member>
+VAV1	VAV	member>
+VAV1	p-Vav	member>
+VAV1	VAV family	member>
+VAV3	VAV	member>
+VAV3	p-Vav	member>
+VAV3	VAV family	member>
+VAV2	VAV	member>
+VAV2	p-Vav	member>
+VAV2	VAV family	member>
+AKT2	AKT	member>
+SYK	p-SYK(Y348):p-Vav family	component>
+SYK	GPVI:phosphorylated Fc Epsilon R1 gamma:FYN:LYN:Collagen type I:p-SYK(Y348)	component>
+SYK	SYK	-a>
+SYK	GPVI:phosphorylated Fc Epsilon R1 gamma:FYN:LYN:Collagen type I:SYK	component>
+SYK	adenosine 5'-(trihydrogen diphosphate)	-a>
+SYK	p-SYK(Y348):Vav family	component>
+SYK	LCP2	-a>
+VAV2 effectors	VAV2 Rho/Rac effectors:GTP	component>
+VAV2 effectors	VAV2 Rho/Rac effectors:GDP	component>
+p-Vav	p-SYK(Y348):p-Vav family	component>
+LAT	adenosine 5'-(trihydrogen diphosphate)	-a>
+LAT	LAT	-a>
+PDPK1	PDK1:AKT:PIP3	component>
+VAV family	VAV family:PIP3	component>
+VAV family	VAV family:PIP2	component>
+VAV family	p-SYK(Y348):Vav family	component>
+PIK3CB	PI3K beta	component>
+PIP3:PDK1:AKT:PKC zeta	adenosine 5'-(trihydrogen diphosphate)	-a>
+PIP3:PDK1:AKT:PKC zeta	PIP3:PDK1:AKT:p(T410)-PKC zeta	-a>
+CDC42	VAV1 effectors	member>
+CDC42	VAV2 effectors	member>

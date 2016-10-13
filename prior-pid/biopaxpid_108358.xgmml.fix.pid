@@ -1,0 +1,25 @@
+complex	143B:phospo-BAD complex
+protein	AKT1
+protein	BAD
+complex	BAD:BCL-2
+protein	BCL2
+protein	BID
+complex	Calcineurin B complex
+protein	PPP3CC
+protein	PPP3R1
+protein	YWHAB
+complex	tBID:BCL-2
+Calcineurin B complex	YWHAB	ACTIVATION
+PPP3R1	Calcineurin B complex	component>
+tBID:BCL-2	BAD:BCL-2	-a>
+tBID:BCL-2	BID	-a>
+BID	tBID:BCL-2	component>
+AKT1	BAD	ACTIVATION
+BAD	BAD:BCL-2	component>
+BAD	BID	-a>
+BAD	BAD	-a>
+BAD	143B:phospo-BAD complex	component>
+YWHAB	143B:phospo-BAD complex	component>
+PPP3CC	Calcineurin B complex	component>
+BCL2	BAD:BCL-2	component>
+BCL2	tBID:BCL-2	component>

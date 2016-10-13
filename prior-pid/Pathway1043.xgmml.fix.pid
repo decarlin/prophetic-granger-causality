@@ -1,0 +1,143 @@
+protein	ARRB1
+protein	ARRB2
+complex	Activated PAR1:Beta-arrestin-1
+complex	Activated PAR1:Beta-arrestin-1:Activated Src:Activated ERK
+complex	Activated PAR1:Beta-arrestin-1:Activated Src:ERK
+complex	Activated PAR1:Beta-arrestin-1:Src:ERK
+complex	Activated PAR1:Beta-arrestin-2
+complex	Activated PAR1:Beta-arrestin-2:Src:ERK
+family	ERK
+protein	F2R
+protein	F2RL2
+protein	F2RL3
+complex	G-protein G12/G13 (active)
+complex	G-protein G12/G13 (inactive)
+complex	G-protein alpha (12/13):GTP
+family	G-protein alpha (q/11)
+complex	G-protein alpha (q/11): GTP
+complex	G-protein alpha (q/11):GDP
+family	G-protein beta subunit
+complex	G-protein beta-gamma complex
+family	G-protein gamma subunit
+protein	GNA11
+protein	GNA14
+protein	GNA15
+protein	GNAQ
+protein	GNB1
+protein	GNB2
+protein	GNB3
+protein	GNB4
+protein	GNB5
+protein	GNG10
+protein	GNG11
+protein	GNG12
+protein	GNG13
+protein	GNG2
+protein	GNG3
+protein	GNG4
+protein	GNG5
+protein	GNG7
+protein	GNG8
+protein	GNGT1
+protein	GNGT2
+SmallMolecule	H4gtp
+complex	Heterotrimeric G-protein Gq (active)
+complex	Heterotrimeric G-protein Gq/11 (inactive)
+protein	MAPK1
+protein	MAPK3
+family	PAR N-teminal fragments
+family	PAR1, 3, 4
+family	Phospho-ERK
+protein	SRC
+complex	Thrombin activated PAR:G12/13 (active)
+complex	Thrombin activated PAR:G12/13 (inactive)
+family	Thrombin-activated PAR
+complex	Thrombin-activated PAR:Gq (active)
+complex	Thrombin-activated PAR:Gq (inactive)
+SmallMolecule	guanosine 5'-(trihydrogen diphosphate)
+Thrombin activated PAR:G12/13 (inactive)	Thrombin activated PAR:G12/13 (active)	-a>
+Thrombin activated PAR:G12/13 (inactive)	guanosine 5'-(trihydrogen diphosphate)	-a>
+PAR1, 3, 4	Thrombin-activated PAR	-a>
+PAR1, 3, 4	PAR N-teminal fragments	-a>
+Activated PAR1:Beta-arrestin-1:Src:ERK	Activated PAR1:Beta-arrestin-1:Activated Src:ERK	-a>
+Thrombin activated PAR:G12/13 (active)	Thrombin-activated PAR	-a>
+Thrombin activated PAR:G12/13 (active)	G-protein beta-gamma complex	-a>
+Thrombin activated PAR:G12/13 (active)	G-protein alpha (12/13):GTP	-a>
+Thrombin-activated PAR:Gq (inactive)	Thrombin-activated PAR:Gq (active)	-a>
+Thrombin-activated PAR:Gq (inactive)	guanosine 5'-(trihydrogen diphosphate)	-a>
+Activated PAR1:Beta-arrestin-2	Activated PAR1:Beta-arrestin-2:Src:ERK	component>
+Activated PAR1:Beta-arrestin-1	Activated PAR1:Beta-arrestin-1:Activated Src:Activated ERK	component>
+Activated PAR1:Beta-arrestin-1	Activated PAR1:Beta-arrestin-1:Activated Src:ERK	component>
+Activated PAR1:Beta-arrestin-1	Activated PAR1:Beta-arrestin-1:Src:ERK	component>
+G-protein gamma subunit	G-protein beta-gamma complex	component>
+GNG11	G-protein gamma subunit	member>
+GNB5	G-protein beta subunit	member>
+ARRB2	Activated PAR1:Beta-arrestin-2	component>
+ARRB1	Activated PAR1:Beta-arrestin-1	component>
+GNG7	G-protein gamma subunit	member>
+G-protein alpha (q/11):GDP	Heterotrimeric G-protein Gq/11 (inactive)	component>
+ERK	Activated PAR1:Beta-arrestin-1:Activated Src:ERK	component>
+ERK	Activated PAR1:Beta-arrestin-1:Src:ERK	component>
+ERK	Activated PAR1:Beta-arrestin-2:Src:ERK	component>
+H4gtp	guanosine 5'-(trihydrogen diphosphate)	-a>
+H4gtp	Thrombin-activated PAR:Gq (active)	-a>
+H4gtp	G-protein alpha (q/11): GTP	component>
+H4gtp	Thrombin activated PAR:G12/13 (active)	-a>
+Activated PAR1:Beta-arrestin-2:Src:ERK	Activated PAR1:Beta-arrestin-2:Src:ERK	-a>
+GNG10	G-protein gamma subunit	member>
+F2R	Thrombin-activated PAR	member>
+F2R	PAR1, 3, 4	member>
+F2R	Activated PAR1:Beta-arrestin-1	component>
+F2R	PAR N-teminal fragments	member>
+F2R	Activated PAR1:Beta-arrestin-2	component>
+GNG12	G-protein gamma subunit	member>
+GNG13	G-protein gamma subunit	member>
+MAPK3	Phospho-ERK	member>
+MAPK3	ERK	member>
+MAPK1	Phospho-ERK	member>
+MAPK1	ERK	member>
+GNG4	G-protein gamma subunit	member>
+Thrombin-activated PAR:Gq (active)	Thrombin-activated PAR	-a>
+Thrombin-activated PAR:Gq (active)	G-protein beta-gamma complex	-a>
+Thrombin-activated PAR:Gq (active)	G-protein alpha (q/11): GTP	-a>
+GNG3	G-protein gamma subunit	member>
+SRC	Activated PAR1:Beta-arrestin-1:Activated Src:Activated ERK	component>
+SRC	Activated PAR1:Beta-arrestin-1:Activated Src:ERK	component>
+SRC	Activated PAR1:Beta-arrestin-1:Src:ERK	component>
+SRC	Activated PAR1:Beta-arrestin-2:Src:ERK	component>
+Heterotrimeric G-protein Gq (active)	Thrombin-activated PAR:Gq (active)	component>
+Thrombin-activated PAR	Thrombin activated PAR:G12/13 (inactive)	component>
+Thrombin-activated PAR	Thrombin-activated PAR:Gq (inactive)	component>
+Thrombin-activated PAR	Thrombin activated PAR:G12/13 (active)	component>
+Thrombin-activated PAR	Thrombin-activated PAR:Gq (active)	component>
+GNB4	G-protein beta subunit	member>
+GNB1	G-protein beta subunit	member>
+GNB3	G-protein beta subunit	member>
+GNB2	G-protein beta subunit	member>
+G-protein G12/G13 (active)	Thrombin activated PAR:G12/13 (active)	component>
+Activated PAR1:Beta-arrestin-1:Activated Src:ERK	Activated PAR1:Beta-arrestin-1:Activated Src:Activated ERK	-a>
+GNG5	G-protein gamma subunit	member>
+G-protein beta-gamma complex	Heterotrimeric G-protein Gq/11 (inactive)	component>
+G-protein beta-gamma complex	Heterotrimeric G-protein Gq (active)	component>
+G-protein alpha (q/11): GTP	Heterotrimeric G-protein Gq (active)	component>
+Heterotrimeric G-protein Gq/11 (inactive)	Thrombin-activated PAR:Gq (inactive)	component>
+G-protein alpha (q/11)	G-protein alpha (q/11):GDP	component>
+G-protein alpha (q/11)	G-protein alpha (q/11): GTP	component>
+G-protein beta subunit	G-protein beta-gamma complex	component>
+GNAQ	G-protein alpha (q/11)	member>
+guanosine 5'-(trihydrogen diphosphate)	G-protein alpha (q/11):GDP	component>
+G-protein G12/G13 (inactive)	Thrombin activated PAR:G12/13 (inactive)	component>
+Phospho-ERK	Activated PAR1:Beta-arrestin-1:Activated Src:Activated ERK	component>
+GNA14	G-protein alpha (q/11)	member>
+GNA15	G-protein alpha (q/11)	member>
+GNG2	G-protein gamma subunit	member>
+GNGT2	G-protein gamma subunit	member>
+GNGT1	G-protein gamma subunit	member>
+GNA11	G-protein alpha (q/11)	member>
+F2RL3	Thrombin-activated PAR	member>
+F2RL3	PAR1, 3, 4	member>
+F2RL3	PAR N-teminal fragments	member>
+F2RL2	Thrombin-activated PAR	member>
+F2RL2	PAR1, 3, 4	member>
+F2RL2	PAR N-teminal fragments	member>
+GNG8	G-protein gamma subunit	member>

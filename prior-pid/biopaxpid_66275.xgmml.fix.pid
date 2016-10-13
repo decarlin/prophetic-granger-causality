@@ -1,0 +1,96 @@
+protein	CCL11
+protein	CCR3
+complex	CCR3/g-alpha-s/g-beta/g-gamma/g-alpha-q
+protein	CFL1
+SmallMolecule	Ca ++
+SmallMolecule	DAG
+protein	DECR1
+complex	EOTAXIN/CCR3/g-alpha-s/g-beta/g-gamma
+protein	G-alpha-S
+protein	GNAQ
+protein	GNB1
+protein	GNGT1
+protein	HRAS
+SmallMolecule	IP3
+protein	LIMK1
+protein	MAP2K1
+protein	MAPK1
+protein	MAPK3
+protein	MYL2
+protein	None
+protein	PIK3C2G
+SmallMolecule	PIP2
+protein	PKC
+protein	PLCB1
+protein	PPP1R12B
+protein	PTK2
+protein	RAF1
+protein	RHOA
+protein	ROCK2
+SmallMolecule	ROS
+SmallMolecule	Y-27632
+SmallMolecule	exoenzyme C3
+SmallMolecule	guanosine 5`-triphosphate
+SmallMolecule	nucleoside diphosphate
+Y-27632	ROCK2	ACTIVATION
+guanosine 5`-triphosphate	HRAS	-a>
+guanosine 5`-triphosphate	nucleoside diphosphate	-a>
+HRAS	nucleoside diphosphate	-a>
+HRAS	HRAS	-a>
+HRAS	RAF1	ACTIVATION
+LIMK1	LIMK1	-a>
+LIMK1	CFL1	ACTIVATION
+IP3	Ca ++	ACTIVATION
+MAP2K1	MAP2K1	-a>
+MAP2K1	MAPK1	ACTIVATION
+CCR3	CCR3/g-alpha-s/g-beta/g-gamma/g-alpha-q	component>
+CCR3	EOTAXIN/CCR3/g-alpha-s/g-beta/g-gamma	component>
+MYL2	None	ACTIVATION
+MYL2	MYL2	-a>
+DAG	PKC	ACTIVATION
+CCR3/g-alpha-s/g-beta/g-gamma/g-alpha-q	EOTAXIN/CCR3/g-alpha-s/g-beta/g-gamma	-a>
+CCR3/g-alpha-s/g-beta/g-gamma/g-alpha-q	GNAQ	-a>
+EOTAXIN/CCR3/g-alpha-s/g-beta/g-gamma	PIK3C2G	ACTIVATION
+Ca ++	PKC	ACTIVATION
+Ca ++	Ca ++	transport
+PKC	PKC	-a>
+PKC	DECR1	ACTIVATION
+MAPK1	MAPK3	-a>
+MAPK1	ROS	ACTIVATION
+MAPK1	MAPK1	-a>
+PPP1R12B	MYL2	ACTIVATION
+PPP1R12B	PPP1R12B	-a>
+PTK2	PTK2	-a>
+PTK2	nucleoside diphosphate	ACTIVATION
+MAPK3	MAPK3	-a>
+MAPK3	ROS	ACTIVATION
+MAPK3	MAPK1	-a>
+PLCB1	IP3	ACTIVATION
+PLCB1	PLCB1	-a>
+PIP2	IP3	-a>
+PIP2	DAG	-a>
+GNB1	CCR3/g-alpha-s/g-beta/g-gamma/g-alpha-q	component>
+GNB1	EOTAXIN/CCR3/g-alpha-s/g-beta/g-gamma	component>
+PIK3C2G	PTK2	ACTIVATION
+PIK3C2G	PIK3C2G	-a>
+CFL1	None	ACTIVATION
+CFL1	CFL1	-a>
+G-alpha-S	CCR3/g-alpha-s/g-beta/g-gamma/g-alpha-q	component>
+G-alpha-S	EOTAXIN/CCR3/g-alpha-s/g-beta/g-gamma	component>
+RHOA	RHOA	-a>
+RHOA	ROCK2	ACTIVATION
+RAF1	MAP2K1	ACTIVATION
+RAF1	RAF1	-a>
+CCL11	EOTAXIN/CCR3/g-alpha-s/g-beta/g-gamma	component>
+CCL11	GNAQ	-a>
+GNAQ	CCR3/g-alpha-s/g-beta/g-gamma/g-alpha-q	component>
+GNAQ	PLCB1	ACTIVATION
+ROCK2	LIMK1	ACTIVATION
+ROCK2	MYL2	ACTIVATION
+ROCK2	ROCK2	-a>
+ROCK2	PPP1R12B	ACTIVATION
+GNGT1	CCR3/g-alpha-s/g-beta/g-gamma/g-alpha-q	component>
+GNGT1	EOTAXIN/CCR3/g-alpha-s/g-beta/g-gamma	component>
+exoenzyme C3	RHOA	ACTIVATION
+DECR1	DECR1	-a>
+DECR1	ROS	ACTIVATION

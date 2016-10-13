@@ -1,0 +1,63 @@
+protein	APAF1
+protein	ATM
+protein	ATR
+complex	ATR/ATRIP/ATM
+complex	Apaf-1/Caspase 9
+protein	BAX
+protein	CASP3
+protein	CASP6
+protein	CASP7
+protein	CASP9
+protein	CCNB1
+complex	CDC2/cyclin B
+complex	CDC25/14-3-3
+protein	CDK1
+protein	CHEK1
+protein	CHEK2
+protein	CYCS
+protein	None
+protein	PLK3
+protein	RASGRF1
+protein	TP53
+protein	TREX1
+protein	YWHAH
+PLK3	YWHAH	ACTIVATION
+PLK3	TP53	ACTIVATION
+PLK3	PLK3	-a>
+ATM	ATR/ATRIP/ATM	component>
+BAX	CYCS	ACTIVATION
+ATR	ATR/ATRIP/ATM	component>
+Apaf-1/Caspase 9	CASP6	ACTIVATION
+Apaf-1/Caspase 9	CASP7	ACTIVATION
+Apaf-1/Caspase 9	CASP3	ACTIVATION
+Apaf-1/Caspase 9	Apaf-1/Caspase 9	-a>
+TREX1	ATR/ATRIP/ATM	component>
+YWHAH	CDC25/14-3-3	component>
+CDC2/cyclin B	CDC2/cyclin B	-a>
+CDC2/cyclin B	None	ACTIVATION
+CHEK2	TP53	ACTIVATION
+CHEK2	CHEK2	-a>
+CHEK2	RASGRF1	ACTIVATION
+APAF1	Apaf-1/Caspase 9	component>
+CHEK1	TP53	ACTIVATION
+CHEK1	RASGRF1	ACTIVATION
+CHEK1	CHEK1	-a>
+None	ATR/ATRIP/ATM	ACTIVATION
+CCNB1	CDC2/cyclin B	component>
+CYCS	Apaf-1/Caspase 9	ACTIVATION
+CYCS	CYCS	transport
+CDC25/14-3-3	CDC2/cyclin B	ACTIVATION
+CASP3	None	ACTIVATION
+CASP3	CASP3	-a>
+CASP6	CASP6	-a>
+CASP6	None	ACTIVATION
+CASP7	CASP7	-a>
+CASP7	None	ACTIVATION
+ATR/ATRIP/ATM	ATR/ATRIP/ATM	-a>
+ATR/ATRIP/ATM	CHEK2	ACTIVATION
+ATR/ATRIP/ATM	PLK3	ACTIVATION
+ATR/ATRIP/ATM	CHEK1	ACTIVATION
+TP53	TP53	-a>
+RASGRF1	CDC25/14-3-3	component>
+CASP9	Apaf-1/Caspase 9	component>
+CDK1	CDC2/cyclin B	component>

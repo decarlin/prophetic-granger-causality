@@ -1,0 +1,63 @@
+SmallMolecule	5'-adenylphosphoric acid
+family	Active MAPKAP kinase
+protein	HRAS
+protein	KRAS
+family	MAP kinase p38
+complex	MAP kinase p38 (Mg2+ cofactor)
+protein	MAPK11
+protein	MAPK12
+protein	MAPK13
+protein	MAPK14
+family	MAPKAP kinase
+protein	MAPKAPK2
+protein	MAPKAPK3
+protein	NRAS
+complex	Phospho-MAP kinase p38 (Mg2+ cofactor)
+family	Phospho-p38 MAPK alpha/beta
+complex	RAL-GDP
+complex	RAL-GTP
+protein	RALGDS
+complex	Ras-GTP:RalGDS complex
+protein	SRC
+SmallMolecule	adenosine 5'-(tetrahydrogen triphosphate)
+SmallMolecule	guanosine 5'-(tetrahydrogen triphosphate)
+SmallMolecule	guanosine 5'-(trihydrogen diphosphate)
+SmallMolecule	magnesium, ion (Mg(2+))
+family	p21 RAS
+complex	p21 RAS:GTP
+HRAS	p21 RAS	member>
+MAP kinase p38 (Mg2+ cofactor)	5'-adenylphosphoric acid	-a>
+MAP kinase p38 (Mg2+ cofactor)	Phospho-MAP kinase p38 (Mg2+ cofactor)	-a>
+magnesium, ion (Mg(2+))	MAP kinase p38 (Mg2+ cofactor)	component>
+magnesium, ion (Mg(2+))	Phospho-MAP kinase p38 (Mg2+ cofactor)	component>
+MAPK14	MAP kinase p38	member>
+MAPK14	Phospho-p38 MAPK alpha/beta	member>
+MAPK11	MAP kinase p38	member>
+MAPK11	Phospho-p38 MAPK alpha/beta	member>
+MAPK12	MAP kinase p38	member>
+MAPK13	MAP kinase p38	member>
+MAPKAPK3	MAPKAP kinase	member>
+MAPKAPK3	Active MAPKAP kinase	member>
+MAPKAPK2	MAPKAP kinase	member>
+MAPKAPK2	Active MAPKAP kinase	member>
+MAPKAP kinase	5'-adenylphosphoric acid	-a>
+MAPKAP kinase	Active MAPKAP kinase	-a>
+MAP kinase p38	MAP kinase p38 (Mg2+ cofactor)	component>
+adenosine 5'-(tetrahydrogen triphosphate)	5'-adenylphosphoric acid	-a>
+adenosine 5'-(tetrahydrogen triphosphate)	Phospho-MAP kinase p38 (Mg2+ cofactor)	-a>
+adenosine 5'-(tetrahydrogen triphosphate)	Active MAPKAP kinase	-a>
+guanosine 5'-(tetrahydrogen triphosphate)	p21 RAS:GTP	component>
+guanosine 5'-(tetrahydrogen triphosphate)	RAL-GTP	-a>
+guanosine 5'-(tetrahydrogen triphosphate)	guanosine 5'-(trihydrogen diphosphate)	-a>
+p21 RAS	p21 RAS:GTP	component>
+NRAS	p21 RAS	member>
+RAL-GDP	RAL-GTP	-a>
+RAL-GDP	guanosine 5'-(trihydrogen diphosphate)	-a>
+SRC	SRC	-a>
+SRC	RAL-GDP	-a>
+Phospho-p38 MAPK alpha/beta	Phospho-MAP kinase p38 (Mg2+ cofactor)	component>
+RALGDS	Ras-GTP:RalGDS complex	component>
+RAL-GTP	SRC	-a>
+RAL-GTP	RAL-GDP	-a>
+KRAS	p21 RAS	member>
+p21 RAS:GTP	Ras-GTP:RalGDS complex	component>

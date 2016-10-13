@@ -1,0 +1,48 @@
+protein	AKT1
+protein	GRB2
+protein	HMGA1
+complex	IL-4/IL-2R-gamma/IL-2R-alpha/JAK3/JAK1/IRS1/2
+complex	IL-4/IL-2R-gamma/IL-4R-alpha/JAK3/JAK1
+protein	IL2RG
+protein	IL4
+protein	IL4R
+protein	IRS-1/2
+complex	IRS1/2/GRB2
+protein	JAK1
+protein	JAK3
+protein	None
+protein	RPS6KB1
+protein	SHC1
+protein	STAT6
+protein	STAT6 protease
+complex	STAT6/STAT6
+complex	STAT6/STAT6 (cleaved)
+STAT6	STAT6/STAT6 (cleaved)	component>
+STAT6	STAT6/STAT6	component>
+STAT6	STAT6	-a>
+SHC1	None	ACTIVATION
+SHC1	SHC1	-a>
+STAT6 protease	STAT6/STAT6 (cleaved)	ACTIVATION
+IL2RG	IL-4/IL-2R-gamma/IL-4R-alpha/JAK3/JAK1	component>
+IL2RG	IL-4/IL-2R-gamma/IL-2R-alpha/JAK3/JAK1/IRS1/2	component>
+RPS6KB1	HMGA1	ACTIVATION
+IRS1/2/GRB2	AKT1	ACTIVATION
+IRS1/2/GRB2	None	ACTIVATION
+HMGA1	HMGA1	-a>
+IL4	IL-4/IL-2R-gamma/IL-4R-alpha/JAK3/JAK1	component>
+IL4	IL-4/IL-2R-gamma/IL-2R-alpha/JAK3/JAK1/IRS1/2	component>
+GRB2	IRS1/2/GRB2	component>
+AKT1	AKT1	-a>
+AKT1	None	ACTIVATION
+JAK3	IL-4/IL-2R-gamma/IL-4R-alpha/JAK3/JAK1	component>
+JAK3	IL-4/IL-2R-gamma/IL-2R-alpha/JAK3/JAK1/IRS1/2	component>
+STAT6/STAT6	STAT6/STAT6 (cleaved)	-a>
+STAT6/STAT6	STAT6/STAT6	transport
+JAK1	IL-4/IL-2R-gamma/IL-4R-alpha/JAK3/JAK1	component>
+JAK1	IL-4/IL-2R-gamma/IL-2R-alpha/JAK3/JAK1/IRS1/2	component>
+IRS-1/2	IRS1/2/GRB2	component>
+IRS-1/2	IL-4/IL-2R-gamma/IL-2R-alpha/JAK3/JAK1/IRS1/2	component>
+IL-4/IL-2R-gamma/IL-2R-alpha/JAK3/JAK1/IRS1/2	STAT6	ACTIVATION
+IL-4/IL-2R-gamma/IL-2R-alpha/JAK3/JAK1/IRS1/2	SHC1	ACTIVATION
+IL4R	IL-4/IL-2R-gamma/IL-4R-alpha/JAK3/JAK1	component>
+IL4R	IL-4/IL-2R-gamma/IL-2R-alpha/JAK3/JAK1/IRS1/2	component>

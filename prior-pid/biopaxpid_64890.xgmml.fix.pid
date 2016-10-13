@@ -1,0 +1,106 @@
+protein	BTK
+SmallMolecule	DAG
+protein	ELK1
+protein	FCER1A
+protein	FCER1G
+protein	FOS
+complex	Fc epsilon receptor I/LYN/SYK
+protein	GRB2
+protein	HRAS
+SmallMolecule	IP3
+protein	JUN
+protein	LYN
+protein	MAP2K1
+protein	MAP2K2
+protein	MAP2K7
+protein	MAP3K1
+protein	MAPK1
+protein	MAPK3
+protein	MAPK8
+protein	MS4A2
+protein	None
+protein	PAK2
+complex	PI3K
+protein	PIK3CA
+protein	PIK3R1
+SmallMolecule	PIP2
+protein	PLA2G1B
+protein	PLCG1
+protein	PRKCB
+protein	RAF1
+complex	SHC/GRB2/SOS-1
+protein	SHC1
+protein	SOS1
+protein	SYK
+protein	VAV1
+SmallMolecule	calcium
+SmallMolecule	guanosine 5`-triphosphate
+SmallMolecule	nucleoside diphosphate
+MAP3K1	MAP2K1	ACTIVATION
+MAP3K1	MAP3K1	-a>
+guanosine 5`-triphosphate	HRAS	-a>
+guanosine 5`-triphosphate	nucleoside diphosphate	-a>
+HRAS	nucleoside diphosphate	-a>
+HRAS	HRAS	-a>
+HRAS	RAF1	ACTIVATION
+HRAS	PAK2	ACTIVATION
+HRAS	PI3K	ACTIVATION
+IP3	calcium	ACTIVATION
+MAP2K1	MAP2K2	-a>
+MAP2K1	MAPK8	ACTIVATION
+MAP2K1	MAPK1	ACTIVATION
+MAP2K1	MAP2K1	-a>
+ELK1	FOS	ACTIVATION
+SHC/GRB2/SOS-1	HRAS	ACTIVATION
+SHC/GRB2/SOS-1	SHC/GRB2/SOS-1	-a>
+PLA2G1B	None	ACTIVATION
+PLA2G1B	PLA2G1B	-a>
+RAF1	MAP2K2	ACTIVATION
+RAF1	RAF1	-a>
+FCER1G	Fc epsilon receptor I/LYN/SYK	component>
+DAG	PRKCB	ACTIVATION
+FCER1A	Fc epsilon receptor I/LYN/SYK	component>
+calcium	calcium	transport
+calcium	None	ACTIVATION
+calcium	PRKCB	ACTIVATION
+PIK3CA	PI3K	component>
+PIP2	IP3	-a>
+PIP2	DAG	-a>
+JUN	JUN	-a>
+MAPK3	MAPK3	-a>
+MAPK3	MAPK1	-a>
+MAPK3	PLA2G1B	ACTIVATION
+MAPK1	MAPK3	-a>
+MAPK1	MAPK1	-a>
+MAPK1	PLA2G1B	ACTIVATION
+PIK3R1	PI3K	component>
+MAPK8	MAPK8	-a>
+MAPK8	JUN	ACTIVATION
+FOS	FOS	-a>
+SHC1	SHC/GRB2/SOS-1	component>
+PI3K	BTK	ACTIVATION
+PI3K	PI3K	-a>
+MS4A2	Fc epsilon receptor I/LYN/SYK	component>
+PRKCB	None	ACTIVATION
+PRKCB	PRKCB	-a>
+LYN	Fc epsilon receptor I/LYN/SYK	component>
+Fc epsilon receptor I/LYN/SYK	VAV1	ACTIVATION
+Fc epsilon receptor I/LYN/SYK	SHC/GRB2/SOS-1	ACTIVATION
+Fc epsilon receptor I/LYN/SYK	BTK	ACTIVATION
+Fc epsilon receptor I/LYN/SYK	PI3K	ACTIVATION
+SOS1	SHC/GRB2/SOS-1	component>
+MAP2K2	MAP2K2	-a>
+MAP2K2	MAP2K1	-a>
+MAP2K2	MAPK1	ACTIVATION
+SYK	Fc epsilon receptor I/LYN/SYK	component>
+PLCG1	PLCG1	-a>
+PLCG1	DAG	ACTIVATION
+VAV1	VAV1	-a>
+VAV1	nucleoside diphosphate	ACTIVATION
+GRB2	SHC/GRB2/SOS-1	component>
+BTK	PLCG1	ACTIVATION
+BTK	nucleoside diphosphate	ACTIVATION
+BTK	BTK	-a>
+MAP2K7	MAP2K1	ACTIVATION
+PAK2	MAP3K1	ACTIVATION
+PAK2	PAK2	-a>

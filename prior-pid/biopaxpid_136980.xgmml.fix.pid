@@ -1,0 +1,205 @@
+protein	ANGPT1
+protein	ARHGAP35
+protein	EGF
+protein	EGFR
+complex	EGFR/EGFR/EGF/EGF
+complex	EGFR/EGFR/EGF/EGF/GNAI1/GNAI3/GAB1
+complex	EGFR/EGFR/EGF/EGF/GRB2/GAB1
+protein	FGF
+protein	FGFR
+protein	FRS2
+protein	FRS2 family-active
+complex	FRS2 family/SHP2
+protein	GAB1
+complex	GAB1/SHP2/PKA/eNOS
+protein	GAB2
+SmallMolecule	GDP
+protein	GNAI1
+protein	GNAI3
+protein	GRB2
+SmallMolecule	GTP
+complex	IFN-gamma/IFN-gammaR/JAK1/JAK1/JAK2/JAK2
+protein	IFNG
+protein	IFNGR1
+complex	IGF-1R heterotetramer/IGF1/IRS1
+protein	IGF1
+protein	IGF1R
+protein	IL2
+complex	IL2/IL2R alpha/beta/gamma/JAK1/LCK/JAK3/SHC/GAB2/GRB2/SOS1/SHP2/PI3K
+complex	IL2/IL2R alpha/beta/gamma/JAK1/LCK/JAK3/SHC/GRB2/SOS1/GAB2/SHP2
+protein	IL2RA
+protein	IL2RB
+protein	IL2RG
+protein	IL6
+complex	IL6/IL6RA/gp130 (dimer)/JAK1/JAK1/LMO4
+protein	IL6R
+protein	IL6ST
+protein	IRS1
+protein	JAK1
+protein	JAK2
+protein	JAK3
+protein	KDR
+SmallMolecule	L-arginine
+SmallMolecule	L-citrulline
+protein	LCK
+protein	LMO4
+protein	MEK1-2
+protein	MLLT4
+SmallMolecule	NADP
+SmallMolecule	NADPH
+complex	NGF/NGFR-active
+SmallMolecule	NO
+protein	NOS3
+SmallMolecule	O2
+protein	PAG1
+complex	PDGF-BB/PDGFRB (dimer)
+complex	PDGF-BB/PDGFRB (dimer)/GRB2/SOS1/SHP2
+complex	PDGF-BB/PDGFRB (dimer)/SHP2
+protein	PDGFB
+protein	PDGFRB
+protein	PIK3CA
+protein	PIK3R1
+protein	PRKACA
+protein	PTPN11
+protein	RAF1
+protein	RAS family
+complex	RAS family/GDP
+complex	RAS family/GTP
+protein	RHOA
+complex	RHOA/GTP
+protein	SDC2
+protein	SHC1
+complex	SHP2/GAB/GRB2/FRS2/FGFR/FGF/Syndecan-2
+protein	SOS1
+protein	STAT1
+complex	STAT1 (dimer)/SHP2
+protein	TEK
+complex	Tie2/Ang1/SHP2
+protein	VEGFA
+complex	VEGFR2 (dimer)/VEGFA (dimer)
+complex	afadin/SHP2
+PDGFRB	PDGF-BB/PDGFRB (dimer)	component>
+PDGFRB	PDGF-BB/PDGFRB (dimer)/GRB2/SOS1/SHP2	component>
+PDGFRB	PDGF-BB/PDGFRB (dimer)/SHP2	component>
+IFN-gamma/IFN-gammaR/JAK1/JAK1/JAK2/JAK2	PTPN11	ACTIVATION
+L-arginine	NADP	-a>
+L-arginine	L-citrulline	-a>
+L-arginine	NO	-a>
+PAG1	PAG1	-a>
+RHOA/GTP	IL2/IL2R alpha/beta/gamma/JAK1/LCK/JAK3/SHC/GAB2/GRB2/SOS1/SHP2/PI3K	ACTIVATION
+IGF1R	IGF-1R heterotetramer/IGF1/IRS1	component>
+IL6ST	IL6/IL6RA/gp130 (dimer)/JAK1/JAK1/LMO4	component>
+NADPH	NADP	-a>
+NADPH	L-citrulline	-a>
+NADPH	NO	-a>
+EGFR/EGFR/EGF/EGF	EGFR/EGFR/EGF/EGF	-a>
+NOS3	GAB1/SHP2/PKA/eNOS	component>
+PTPN11	PDGF-BB/PDGFRB (dimer)/GRB2/SOS1/SHP2	component>
+PTPN11	IL2/IL2R alpha/beta/gamma/JAK1/LCK/JAK3/SHC/GRB2/SOS1/GAB2/SHP2	component>
+PTPN11	Tie2/Ang1/SHP2	component>
+PTPN11	SHP2/GAB/GRB2/FRS2/FGFR/FGF/Syndecan-2	component>
+PTPN11	GAB1/SHP2/PKA/eNOS	component>
+PTPN11	FRS2 family/SHP2	component>
+PTPN11	EGFR/EGFR/EGF/EGF/GNAI1/GNAI3/GAB1	ACTIVATION
+PTPN11	STAT1 (dimer)/SHP2	component>
+PTPN11	EGFR/EGFR/EGF/EGF	ACTIVATION
+PTPN11	ARHGAP35	ACTIVATION
+PTPN11	PDGF-BB/PDGFRB (dimer)/SHP2	component>
+PTPN11	EGFR/EGFR/EGF/EGF/GRB2/GAB1	ACTIVATION
+PTPN11	IL2/IL2R alpha/beta/gamma/JAK1/LCK/JAK3/SHC/GAB2/GRB2/SOS1/SHP2/PI3K	component>
+PTPN11	PTPN11	transport
+PTPN11	afadin/SHP2	component>
+EGFR/EGFR/EGF/EGF/GRB2/GAB1	EGFR/EGFR/EGF/EGF/GRB2/GAB1	-a>
+EGFR/EGFR/EGF/EGF/GRB2/GAB1	PTPN11	ACTIVATION
+PDGF-BB/PDGFRB (dimer)	PDGF-BB/PDGFRB (dimer)	-a>
+RAF1	MEK1-2	ACTIVATION
+O2	NADP	-a>
+O2	L-citrulline	-a>
+O2	NO	-a>
+GNAI1	EGFR/EGFR/EGF/EGF/GNAI1/GNAI3/GAB1	component>
+IL6/IL6RA/gp130 (dimer)/JAK1/JAK1/LMO4	PTPN11	ACTIVATION
+PDGF-BB/PDGFRB (dimer)/GRB2/SOS1/SHP2	GDP	ACTIVATION
+TEK	Tie2/Ang1/SHP2	component>
+GNAI3	EGFR/EGFR/EGF/EGF/GNAI1/GNAI3/GAB1	component>
+IGF-1R heterotetramer/IGF1/IRS1	PTPN11	ACTIVATION
+MLLT4	afadin/SHP2	component>
+PIK3CA	IL2/IL2R alpha/beta/gamma/JAK1/LCK/JAK3/SHC/GAB2/GRB2/SOS1/SHP2/PI3K	component>
+GAB1/SHP2/PKA/eNOS	NO	ACTIVATION
+EGFR/EGFR/EGF/EGF/GNAI1/GNAI3/GAB1	PTPN11	ACTIVATION
+EGFR/EGFR/EGF/EGF/GNAI1/GNAI3/GAB1	EGFR/EGFR/EGF/EGF/GNAI1/GNAI3/GAB1	-a>
+EGF	EGFR/EGFR/EGF/EGF/GRB2/GAB1	component>
+EGF	EGFR/EGFR/EGF/EGF	component>
+EGF	EGFR/EGFR/EGF/EGF/GNAI1/GNAI3/GAB1	component>
+JAK2	IFN-gamma/IFN-gammaR/JAK1/JAK1/JAK2/JAK2	component>
+JAK3	IL2/IL2R alpha/beta/gamma/JAK1/LCK/JAK3/SHC/GAB2/GRB2/SOS1/SHP2/PI3K	component>
+JAK3	IL2/IL2R alpha/beta/gamma/JAK1/LCK/JAK3/SHC/GRB2/SOS1/GAB2/SHP2	component>
+PIK3R1	IL2/IL2R alpha/beta/gamma/JAK1/LCK/JAK3/SHC/GAB2/GRB2/SOS1/SHP2/PI3K	component>
+JAK1	IL6/IL6RA/gp130 (dimer)/JAK1/JAK1/LMO4	component>
+JAK1	IFN-gamma/IFN-gammaR/JAK1/JAK1/JAK2/JAK2	component>
+JAK1	IL2/IL2R alpha/beta/gamma/JAK1/LCK/JAK3/SHC/GAB2/GRB2/SOS1/SHP2/PI3K	component>
+JAK1	IL2/IL2R alpha/beta/gamma/JAK1/LCK/JAK3/SHC/GRB2/SOS1/GAB2/SHP2	component>
+PRKACA	GAB1/SHP2/PKA/eNOS	component>
+FGF	SHP2/GAB/GRB2/FRS2/FGFR/FGF/Syndecan-2	component>
+ANGPT1	Tie2/Ang1/SHP2	component>
+IL2/IL2R alpha/beta/gamma/JAK1/LCK/JAK3/SHC/GAB2/GRB2/SOS1/SHP2/PI3K	MEK1-2	ACTIVATION
+afadin/SHP2	PDGF-BB/PDGFRB (dimer)	ACTIVATION
+ARHGAP35	ARHGAP35	-a>
+GAB1	EGFR/EGFR/EGF/EGF/GRB2/GAB1	component>
+GAB1	SHP2/GAB/GRB2/FRS2/FGFR/FGF/Syndecan-2	component>
+GAB1	GAB1/SHP2/PKA/eNOS	component>
+GAB1	EGFR/EGFR/EGF/EGF/GNAI1/GNAI3/GAB1	component>
+PDGFB	PDGF-BB/PDGFRB (dimer)	component>
+PDGFB	PDGF-BB/PDGFRB (dimer)/GRB2/SOS1/SHP2	component>
+PDGFB	PDGF-BB/PDGFRB (dimer)/SHP2	component>
+IGF1	IGF-1R heterotetramer/IGF1/IRS1	component>
+SHC1	IL2/IL2R alpha/beta/gamma/JAK1/LCK/JAK3/SHC/GAB2/GRB2/SOS1/SHP2/PI3K	component>
+SHC1	IL2/IL2R alpha/beta/gamma/JAK1/LCK/JAK3/SHC/GRB2/SOS1/GAB2/SHP2	component>
+IFNG	IFN-gamma/IFN-gammaR/JAK1/JAK1/JAK2/JAK2	component>
+EGFR	EGFR/EGFR/EGF/EGF/GRB2/GAB1	component>
+EGFR	EGFR/EGFR/EGF/EGF	component>
+EGFR	EGFR/EGFR/EGF/EGF/GNAI1/GNAI3/GAB1	component>
+IL6R	IL6/IL6RA/gp130 (dimer)/JAK1/JAK1/LMO4	component>
+GTP	GDP	-a>
+GTP	RAS family/GTP	component>
+GTP	RHOA/GTP	component>
+VEGFA	VEGFR2 (dimer)/VEGFA (dimer)	component>
+RAS family	RAS family/GDP	component>
+RAS family	RAS family/GTP	component>
+MEK1-2	MEK1-2	-a>
+RHOA	RHOA/GTP	component>
+FRS2	SHP2/GAB/GRB2/FRS2/FGFR/FGF/Syndecan-2	component>
+NGF/NGFR-active	FRS2 family/SHP2	ACTIVATION
+GDP	RAS family/GDP	component>
+IL2RA	IL2/IL2R alpha/beta/gamma/JAK1/LCK/JAK3/SHC/GAB2/GRB2/SOS1/SHP2/PI3K	component>
+IL2RA	IL2/IL2R alpha/beta/gamma/JAK1/LCK/JAK3/SHC/GRB2/SOS1/GAB2/SHP2	component>
+IL2RB	IL2/IL2R alpha/beta/gamma/JAK1/LCK/JAK3/SHC/GAB2/GRB2/SOS1/SHP2/PI3K	component>
+IL2RB	IL2/IL2R alpha/beta/gamma/JAK1/LCK/JAK3/SHC/GRB2/SOS1/GAB2/SHP2	component>
+STAT1	STAT1 (dimer)/SHP2	component>
+SOS1	PDGF-BB/PDGFRB (dimer)/GRB2/SOS1/SHP2	component>
+SOS1	IL2/IL2R alpha/beta/gamma/JAK1/LCK/JAK3/SHC/GAB2/GRB2/SOS1/SHP2/PI3K	component>
+SOS1	IL2/IL2R alpha/beta/gamma/JAK1/LCK/JAK3/SHC/GRB2/SOS1/GAB2/SHP2	component>
+IL2RG	IL2/IL2R alpha/beta/gamma/JAK1/LCK/JAK3/SHC/GAB2/GRB2/SOS1/SHP2/PI3K	component>
+IL2RG	IL2/IL2R alpha/beta/gamma/JAK1/LCK/JAK3/SHC/GRB2/SOS1/GAB2/SHP2	component>
+SDC2	SHP2/GAB/GRB2/FRS2/FGFR/FGF/Syndecan-2	component>
+LMO4	IL6/IL6RA/gp130 (dimer)/JAK1/JAK1/LMO4	component>
+IRS1	IGF-1R heterotetramer/IGF1/IRS1	component>
+FGFR	SHP2/GAB/GRB2/FRS2/FGFR/FGF/Syndecan-2	component>
+IL6	IL6/IL6RA/gp130 (dimer)/JAK1/JAK1/LMO4	component>
+RAS family/GDP	GDP	-a>
+RAS family/GDP	RAS family/GTP	-a>
+GRB2	EGFR/EGFR/EGF/EGF/GRB2/GAB1	component>
+GRB2	SHP2/GAB/GRB2/FRS2/FGFR/FGF/Syndecan-2	component>
+GRB2	PDGF-BB/PDGFRB (dimer)/GRB2/SOS1/SHP2	component>
+GRB2	IL2/IL2R alpha/beta/gamma/JAK1/LCK/JAK3/SHC/GAB2/GRB2/SOS1/SHP2/PI3K	component>
+GRB2	IL2/IL2R alpha/beta/gamma/JAK1/LCK/JAK3/SHC/GRB2/SOS1/GAB2/SHP2	component>
+IL2	IL2/IL2R alpha/beta/gamma/JAK1/LCK/JAK3/SHC/GAB2/GRB2/SOS1/SHP2/PI3K	component>
+IL2	IL2/IL2R alpha/beta/gamma/JAK1/LCK/JAK3/SHC/GRB2/SOS1/GAB2/SHP2	component>
+KDR	VEGFR2 (dimer)/VEGFA (dimer)	component>
+PDGF-BB/PDGFRB (dimer)/SHP2	PAG1	ACTIVATION
+VEGFR2 (dimer)/VEGFA (dimer)	GAB1/SHP2/PKA/eNOS	ACTIVATION
+FRS2 family-active	FRS2 family/SHP2	component>
+GAB2	IL2/IL2R alpha/beta/gamma/JAK1/LCK/JAK3/SHC/GAB2/GRB2/SOS1/SHP2/PI3K	component>
+GAB2	IL2/IL2R alpha/beta/gamma/JAK1/LCK/JAK3/SHC/GRB2/SOS1/GAB2/SHP2	component>
+LCK	IL2/IL2R alpha/beta/gamma/JAK1/LCK/JAK3/SHC/GAB2/GRB2/SOS1/SHP2/PI3K	component>
+LCK	IL2/IL2R alpha/beta/gamma/JAK1/LCK/JAK3/SHC/GRB2/SOS1/GAB2/SHP2	component>
+IFNGR1	IFN-gamma/IFN-gammaR/JAK1/JAK1/JAK2/JAK2	component>

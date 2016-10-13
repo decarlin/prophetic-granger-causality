@@ -1,0 +1,82 @@
+protein	CREBBP
+protein	DUSP1
+complex	Dexamethasone/glucocorticoid receptor
+complex	Dexamethasone/glucocorticoid receptor/Dexamethasone/glucocorticoid receptor
+protein	EP300
+protein	IKKs
+protein	IL1B
+protein	IL8
+protein	MAP2K3
+protein	MAP2K6
+protein	MAP3K7
+protein	MAP4K4
+protein	MAPK11
+protein	MAPK14
+protein	MYD88
+protein	NR3C1
+SmallMolecule	NTHI
+complex	NTHI/TLR2/MYD88
+protein	None
+protein	RELA
+complex	RELA/p50
+protein	SMAD3
+complex	SMAD3/SMAD4
+protein	SMAD4
+protein	TGF-beta
+complex	TGF-beta/TGF-beta-R1/TGF-beta-R2
+protein	TGFBR1
+protein	TGFBR2
+protein	TLR2
+complex	TLR2/MYD88
+protein	TNF
+SmallMolecule	dexamethasone (jp14/usp)
+complex	p300/CBP/RELA/p50
+protein	p50
+NR3C1	Dexamethasone/glucocorticoid receptor/Dexamethasone/glucocorticoid receptor	component>
+NR3C1	Dexamethasone/glucocorticoid receptor	component>
+MAP4K4	MAP4K4	-a>
+MAP4K4	IKKs	ACTIVATION
+IKKs	None	ACTIVATION
+IKKs	IKKs	-a>
+SMAD4	SMAD3/SMAD4	component>
+SMAD3	SMAD3/SMAD4	component>
+SMAD3	SMAD3	-a>
+MAPK14	MAPK14	-a>
+MAPK14	MAPK11	-a>
+MAPK11	MAPK14	-a>
+MAPK11	MAPK11	-a>
+IL1B	None	ACTIVATION
+NTHI	NTHI/TLR2/MYD88	component>
+dexamethasone (jp14/usp)	Dexamethasone/glucocorticoid receptor/Dexamethasone/glucocorticoid receptor	component>
+dexamethasone (jp14/usp)	Dexamethasone/glucocorticoid receptor	component>
+TGF-beta	TGF-beta/TGF-beta-R1/TGF-beta-R2	component>
+MAP3K7	MAP2K3	ACTIVATION
+MAP3K7	MAP4K4	ACTIVATION
+MAP3K7	MAP3K7	-a>
+RELA/p50	RELA/p50	transport
+RELA	RELA/p50	component>
+RELA	p300/CBP/RELA/p50	component>
+MYD88	TLR2/MYD88	component>
+MYD88	NTHI/TLR2/MYD88	component>
+DUSP1	MAPK14	ACTIVATION
+TGFBR2	TGF-beta/TGF-beta-R1/TGF-beta-R2	component>
+TGFBR1	TGF-beta/TGF-beta-R1/TGF-beta-R2	component>
+TNF	None	ACTIVATION
+NTHI/TLR2/MYD88	MAP3K7	ACTIVATION
+TLR2/MYD88	NTHI/TLR2/MYD88	-a>
+EP300	p300/CBP/RELA/p50	component>
+p50	RELA/p50	component>
+p50	p300/CBP/RELA/p50	component>
+SMAD3/SMAD4	SMAD3/SMAD4	transport
+MAP2K3	MAP2K3	-a>
+MAP2K3	MAPK14	ACTIVATION
+MAP2K3	MAP2K6	-a>
+TGF-beta/TGF-beta-R1/TGF-beta-R2	SMAD3	ACTIVATION
+TLR2	TLR2/MYD88	component>
+TLR2	NTHI/TLR2/MYD88	component>
+CREBBP	p300/CBP/RELA/p50	component>
+Dexamethasone/glucocorticoid receptor/Dexamethasone/glucocorticoid receptor	Dexamethasone/glucocorticoid receptor/Dexamethasone/glucocorticoid receptor	transport
+IL8	None	ACTIVATION
+MAP2K6	MAP2K3	-a>
+MAP2K6	MAPK14	ACTIVATION
+MAP2K6	MAP2K6	-a>

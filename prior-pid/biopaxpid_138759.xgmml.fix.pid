@@ -1,0 +1,45 @@
+protein	CREB1
+protein	CREM
+SmallMolecule	Ca ++
+complex	DREAM/DREAM/DREAM/DREAM
+protein	Dynorphin
+complex	Dynorphin/Kappa opoid receptor
+protein	FOS
+protein	JUN
+protein	KCNIP3
+protein	MAPK3
+protein	None
+protein	OPRK1
+complex	PKA
+protein	PRKACB
+protein	PRKACG
+protein	PRKAR1A
+protein	PRKAR1B
+protein	PRKAR2A
+protein	PRKAR2B
+protein	RPS6KA3
+complex	c-FOS/c-JUN/CREB/CREB
+DREAM/DREAM/DREAM/DREAM	DREAM/DREAM/DREAM/DREAM	-a>
+RPS6KA3	RPS6KA3	-a>
+RPS6KA3	CREB1	ACTIVATION
+PRKAR1B	PKA	component>
+Ca ++	DREAM/DREAM/DREAM/DREAM	ACTIVATION
+Ca ++	Ca ++	transport
+FOS	c-FOS/c-JUN/CREB/CREB	component>
+JUN	c-FOS/c-JUN/CREB/CREB	component>
+CREB1	c-FOS/c-JUN/CREB/CREB	component>
+CREB1	CREB1	-a>
+PRKAR2A	PKA	component>
+MAPK3	RPS6KA3	ACTIVATION
+PRKACG	PKA	component>
+PKA	CREM	ACTIVATION
+PKA	CREB1	ACTIVATION
+PRKAR2B	PKA	component>
+PRKAR1A	PKA	component>
+Dynorphin/Kappa opoid receptor	None	ACTIVATION
+PRKACB	PKA	component>
+OPRK1	Dynorphin/Kappa opoid receptor	component>
+Dynorphin	Dynorphin/Kappa opoid receptor	component>
+KCNIP3	DREAM/DREAM/DREAM/DREAM	component>
+CREM	DREAM/DREAM/DREAM/DREAM	ACTIVATION
+CREM	CREM	-a>

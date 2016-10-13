@@ -1,0 +1,31 @@
+protein	ACACA
+complex	AMPK
+protein	CPT1A
+protein	LEP
+protein	LEPR
+complex	Leptin/Leptin R
+protein	None
+protein	PRKAA1
+protein	PRKAA2
+protein	PRKAB1
+protein	PRKAB2
+protein	PRKAG1
+protein	PRKAG2
+SmallMolecule	acetyl coenzyme a
+SmallMolecule	malonyl coenzyme a
+CPT1A	None	ACTIVATION
+AMPK	AMPK	-a>
+AMPK	ACACA	ACTIVATION
+malonyl coenzyme a	None	INHIBITION
+ACACA	malonyl coenzyme a	ACTIVATION
+ACACA	ACACA	-a>
+PRKAB1	AMPK	component>
+PRKAG1	AMPK	component>
+PRKAG2	AMPK	component>
+PRKAA2	AMPK	component>
+PRKAA1	AMPK	component>
+LEPR	Leptin/Leptin R	component>
+LEP	Leptin/Leptin R	component>
+Leptin/Leptin R	AMPK	ACTIVATION
+PRKAB2	AMPK	component>
+acetyl coenzyme a	malonyl coenzyme a	-a>

@@ -1,0 +1,27 @@
+protein	ACIN1
+protein	APC
+protein	BCAP31
+protein	BIRC2
+protein	BMX
+protein	CLSPN
+protein	FNTA
+protein	MST4
+protein	PRKCD
+protein	PRKCQ
+protein	PTK2
+protein	ROCK1
+protein	SATB1
+protein	STK24
+BCAP31	BCAP31	-a>
+PTK2	PTK2	-a>
+CLSPN	CLSPN	-a>
+MST4	MST4	-a>
+PRKCD	PRKCD	-a>
+ACIN1	ACIN1	-a>
+BIRC2	BIRC2	-a>
+ROCK1	ROCK1	-a>
+STK24	STK24	-a>
+SATB1	SATB1	-a>
+PRKCQ	PRKCQ	-a>
+APC	APC	-a>
+BMX	BMX	-a>

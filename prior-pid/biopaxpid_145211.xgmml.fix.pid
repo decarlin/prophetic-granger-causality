@@ -1,0 +1,282 @@
+protein	BCAR1
+complex	CK2
+protein	CRK
+protein	CTRC
+protein	CTSG
+protein	DOCK1
+protein	EGFR
+complex	EGFR (dimer)
+protein	ELANE
+protein	FGA
+protein	FGB
+protein	FGG
+protein	FN1
+SmallMolecule	GDP
+protein	GPLD1
+SmallMolecule	GTP
+complex	HGF
+protein	ITGA3
+protein	ITGA5
+protein	ITGAM
+protein	ITGAV
+protein	ITGB1
+protein	ITGB2
+protein	ITGB3
+protein	ITGB5
+protein	KLK4
+protein	LRP1
+protein	MMP12
+protein	MMP13
+protein	MMP3
+protein	MMP9
+protein	NCL
+protein	None
+complex	PAI/Vitronectin
+complex	PDGF-DD
+protein	PDGFD
+complex	PDGFRB (dimer)
+protein	PLAU
+protein	PLAUR
+protein	PLG
+complex	Plasmin
+protein	RAC1
+complex	RAC1/GDP
+complex	RAC1/GTP
+protein	SERPINE1
+protein	SRC
+protein	TGFB1
+protein	VLDLR
+protein	VTN
+complex	alpha3/beta1 Integrin
+complex	alphav/beta3 Integrin
+protein	alphav/beta5 Integrin
+protein	fMLP receptors
+complex	latent PDGF-DD
+complex	p130 CAS/CRK/DOCK1
+complex	pro-uPA/alphaM/beta2 Integrin
+complex	pro-uPA/uPAR
+complex	pro-uPA/uPAR (dimer)
+complex	pro-uPA/uPAR/Vitronectin
+complex	pro-uPA/uPAR/alphav/beta3 Integrin
+complex	pro-uPA/uPAR/alphav/beta3 Integrin/Vitronectin
+complex	uPA/PAI-1
+complex	uPA/alphav/beta3 Integrin
+complex	uPA/uPAR
+complex	uPA/uPAR (dimer)
+complex	uPA/uPAR (dimer)/Vitronectin
+complex	uPA/uPAR/PAI-1
+complex	uPA/uPAR/PDGFRB (dimer)
+complex	uPA/uPAR/Vitronectin
+complex	uPA/uPAR/alpha3/beta 1 Integrin
+complex	uPA/uPAR/alpha3/beta1 Integrin/Vitronectin
+complex	uPA/uPAR/alpha5/beta1 Integrin
+complex	uPA/uPAR/alpha5/beta1 Integrin/Fibronectin
+complex	uPA/uPAR/alphaM/beta2 Integrin
+complex	uPA/uPAR/alphaM/beta2 Integrin/Fibrinogen
+complex	uPA/uPAR/alphav/beta3 Integrin
+complex	uPA/uPAR/alphav/beta3 Integrin/PAI-1
+complex	uPA/uPAR/alphav/beta3 Integrin/Vitronectin
+complex	uPA/uPAR/alphav/beta3 Integrin/Vitronectin/CK2/Nucleolin
+complex	uPA/uPAR/alphav/beta5 Integrin
+complex	uPA/uPAR/alphav/beta5 Integrin/PAI-1
+complex	uPA/uPAR/alphav/beta5 Integrin/Vitronectin
+complex	uPAR(dimer)
+complex	uPAR-DII-DIII/fMLP receptors
+complex	uPAR/alphaM/beta2 Integrin
+complex	uPAR/alphaM/beta2 Integrin/Fibrinogen
+ELANE	PLAUR	ACTIVATION
+CTRC	PLAUR	ACTIVATION
+fMLP receptors	uPAR-DII-DIII/fMLP receptors	component>
+EGFR (dimer)	EGFR (dimer)	-a>
+uPA/uPAR/alphav/beta3 Integrin/Vitronectin/CK2/Nucleolin	None	ACTIVATION
+pro-uPA/uPAR	uPA/uPAR	-a>
+pro-uPA/uPAR	Plasmin	ACTIVATION
+FGG	uPAR/alphaM/beta2 Integrin/Fibrinogen	component>
+FGG	uPA/uPAR/alphaM/beta2 Integrin/Fibrinogen	component>
+FGA	uPAR/alphaM/beta2 Integrin/Fibrinogen	component>
+FGA	uPA/uPAR/alphaM/beta2 Integrin/Fibrinogen	component>
+FGB	uPAR/alphaM/beta2 Integrin/Fibrinogen	component>
+FGB	uPA/uPAR/alphaM/beta2 Integrin/Fibrinogen	component>
+CTSG	PLAUR	ACTIVATION
+KLK4	PLAUR	ACTIVATION
+Plasmin	TGFB1	ACTIVATION
+Plasmin	MMP12	ACTIVATION
+Plasmin	MMP13	ACTIVATION
+Plasmin	PLAUR	ACTIVATION
+Plasmin	uPA/uPAR	ACTIVATION
+Plasmin	MMP9	ACTIVATION
+Plasmin	MMP3	ACTIVATION
+FN1	uPA/uPAR/alpha5/beta1 Integrin/Fibronectin	component>
+CK2	uPA/uPAR/alphav/beta3 Integrin/Vitronectin/CK2/Nucleolin	component>
+uPA/alphav/beta3 Integrin	None	ACTIVATION
+VLDLR	uPA/PAI-1	ACTIVATION
+MMP12	PLAUR	ACTIVATION
+MMP12	MMP12	-a>
+MMP13	MMP13	-a>
+DOCK1	p130 CAS/CRK/DOCK1	component>
+uPA/uPAR/alpha3/beta1 Integrin/Vitronectin	None	ACTIVATION
+GPLD1	PLAUR	ACTIVATION
+alphav/beta5 Integrin	uPA/uPAR/alphav/beta5 Integrin/Vitronectin	component>
+CRK	p130 CAS/CRK/DOCK1	component>
+SERPINE1	uPA/uPAR (dimer)	component>
+SERPINE1	uPA/PAI-1	component>
+SERPINE1	uPA/uPAR/PAI-1	component>
+SERPINE1	VTN	-a>
+SERPINE1	PAI/Vitronectin	component>
+SERPINE1	uPA/uPAR/alphav/beta3 Integrin/PAI-1	component>
+SERPINE1	uPA/uPAR/alphav/beta5 Integrin/PAI-1	component>
+uPA/PAI-1	uPA/PAI-1	transport
+RAC1/GTP	None	ACTIVATION
+ITGB5	uPA/uPAR/alphav/beta5 Integrin/PAI-1	component>
+ITGB5	uPA/uPAR/alphav/beta5 Integrin	component>
+ITGB5	alphav/beta5 Integrin	component>
+PDGFRB (dimer)	uPA/uPAR/PDGFRB (dimer)	component>
+BCAR1	p130 CAS/CRK/DOCK1	component>
+BCAR1	BCAR1	-a>
+ITGAV	uPA/alphav/beta3 Integrin	component>
+ITGAV	uPA/uPAR/alphav/beta5 Integrin	component>
+ITGAV	alphav/beta3 Integrin	component>
+ITGAV	uPA/uPAR/alphav/beta3 Integrin	component>
+ITGAV	uPA/uPAR/alphav/beta3 Integrin/Vitronectin	component>
+ITGAV	alphav/beta5 Integrin	component>
+ITGAV	uPA/uPAR/alphav/beta3 Integrin/Vitronectin/CK2/Nucleolin	component>
+ITGAV	pro-uPA/uPAR/alphav/beta3 Integrin/Vitronectin	component>
+ITGAV	pro-uPA/uPAR/alphav/beta3 Integrin	component>
+ITGAV	uPA/uPAR/alphav/beta3 Integrin/PAI-1	component>
+ITGAV	uPA/uPAR/alphav/beta5 Integrin/PAI-1	component>
+ITGAM	uPAR/alphaM/beta2 Integrin/Fibrinogen	component>
+ITGAM	uPA/uPAR/alphaM/beta2 Integrin	component>
+ITGAM	uPAR/alphaM/beta2 Integrin	component>
+ITGAM	pro-uPA/alphaM/beta2 Integrin	component>
+ITGAM	uPA/uPAR/alphaM/beta2 Integrin/Fibrinogen	component>
+uPAR/alphaM/beta2 Integrin/Fibrinogen	None	ACTIVATION
+uPAR(dimer)	uPA/uPAR (dimer)	component>
+p130 CAS/CRK/DOCK1	GDP	ACTIVATION
+uPA/uPAR/alpha5/beta1 Integrin/Fibronectin	None	ACTIVATION
+pro-uPA/uPAR/alphav/beta3 Integrin/Vitronectin	None	ACTIVATION
+SRC	SRC	-a>
+SRC	BCAR1	ACTIVATION
+SRC	EGFR (dimer)	ACTIVATION
+ITGA3	alpha3/beta1 Integrin	component>
+ITGA3	uPA/uPAR/alpha3/beta 1 Integrin	component>
+ITGA3	uPA/uPAR/alpha3/beta1 Integrin/Vitronectin	component>
+RAC1/GDP	GDP	-a>
+RAC1/GDP	RAC1/GTP	-a>
+ITGA5	uPA/uPAR/alpha5/beta1 Integrin/Fibronectin	component>
+ITGA5	uPA/uPAR/alpha5/beta1 Integrin	component>
+GTP	GDP	-a>
+GTP	RAC1/GTP	component>
+GDP	RAC1/GDP	component>
+LRP1	uPA/PAI-1	ACTIVATION
+LRP1	alphav/beta3 Integrin	ACTIVATION
+LRP1	alphav/beta5 Integrin	ACTIVATION
+latent PDGF-DD	PDGF-DD	-a>
+PLG	Plasmin	component>
+TGFB1	TGFB1	-a>
+uPAR-DII-DIII/fMLP receptors	None	ACTIVATION
+PLAUR	uPAR-DII-DIII/fMLP receptors	component>
+PLAUR	PLAUR	-a>
+PLAUR	uPAR/alphaM/beta2 Integrin	component>
+PLAUR	uPA/uPAR/alphav/beta3 Integrin/Vitronectin	component>
+PLAUR	uPA/uPAR/alpha3/beta1 Integrin/Vitronectin	component>
+PLAUR	uPA/uPAR/alphav/beta3 Integrin/Vitronectin/CK2/Nucleolin	component>
+PLAUR	pro-uPA/uPAR (dimer)	component>
+PLAUR	pro-uPA/uPAR/alphav/beta3 Integrin	component>
+PLAUR	uPA/uPAR/alphav/beta3 Integrin/PAI-1	component>
+PLAUR	uPA/uPAR (dimer)/Vitronectin	component>
+PLAUR	uPA/uPAR/PDGFRB (dimer)	component>
+PLAUR	uPA/uPAR/alpha5/beta1 Integrin/Fibronectin	component>
+PLAUR	uPA/uPAR/Vitronectin	component>
+PLAUR	uPA/uPAR	component>
+PLAUR	pro-uPA/uPAR/alphav/beta3 Integrin/Vitronectin	component>
+PLAUR	uPA/uPAR/alphaM/beta2 Integrin	component>
+PLAUR	uPA/uPAR/alphav/beta5 Integrin/PAI-1	component>
+PLAUR	uPA/uPAR (dimer)	component>
+PLAUR	uPA/uPAR/alphav/beta3 Integrin	component>
+PLAUR	uPA/uPAR/alpha5/beta1 Integrin	component>
+PLAUR	pro-uPA/uPAR	component>
+PLAUR	uPA/uPAR/alphav/beta5 Integrin	component>
+PLAUR	pro-uPA/uPAR/Vitronectin	component>
+PLAUR	uPA/uPAR/alpha3/beta 1 Integrin	component>
+PLAUR	uPA/uPAR/PAI-1	component>
+PLAUR	uPA/uPAR/alphaM/beta2 Integrin/Fibrinogen	component>
+PLAUR	uPAR/alphaM/beta2 Integrin/Fibrinogen	component>
+PLAUR	uPA/uPAR/alphav/beta5 Integrin/Vitronectin	component>
+uPA/uPAR/alphav/beta3 Integrin/Vitronectin	SRC	ACTIVATION
+uPA/uPAR/alphav/beta3 Integrin/Vitronectin	uPA/uPAR/alphav/beta3 Integrin/PAI-1	-a>
+uPA/uPAR/alphav/beta3 Integrin/Vitronectin	VTN	-a>
+uPA/uPAR (dimer)/Vitronectin	None	ACTIVATION
+uPA/uPAR/Vitronectin	None	ACTIVATION
+pro-uPA/alphaM/beta2 Integrin	Plasmin	ACTIVATION
+uPA/uPAR	HGF	ACTIVATION
+uPA/uPAR	EGFR (dimer)	ACTIVATION
+uPA/uPAR	PDGF-DD	ACTIVATION
+ITGB1	alpha3/beta1 Integrin	component>
+ITGB1	uPA/uPAR/alpha3/beta 1 Integrin	component>
+ITGB1	uPA/uPAR/alpha5/beta1 Integrin/Fibronectin	component>
+ITGB1	uPA/uPAR/alpha3/beta1 Integrin/Vitronectin	component>
+ITGB1	uPA/uPAR/alpha5/beta1 Integrin	component>
+ITGB3	uPA/alphav/beta3 Integrin	component>
+ITGB3	alphav/beta3 Integrin	component>
+ITGB3	uPA/uPAR/alphav/beta3 Integrin	component>
+ITGB3	uPA/uPAR/alphav/beta3 Integrin/Vitronectin	component>
+ITGB3	uPA/uPAR/alphav/beta3 Integrin/Vitronectin/CK2/Nucleolin	component>
+ITGB3	pro-uPA/uPAR/alphav/beta3 Integrin/Vitronectin	component>
+ITGB3	pro-uPA/uPAR/alphav/beta3 Integrin	component>
+ITGB3	uPA/uPAR/alphav/beta3 Integrin/PAI-1	component>
+ITGB2	uPAR/alphaM/beta2 Integrin/Fibrinogen	component>
+ITGB2	uPA/uPAR/alphaM/beta2 Integrin	component>
+ITGB2	uPAR/alphaM/beta2 Integrin	component>
+ITGB2	pro-uPA/alphaM/beta2 Integrin	component>
+ITGB2	uPA/uPAR/alphaM/beta2 Integrin/Fibrinogen	component>
+PDGFD	PDGF-DD	component>
+RAC1	RAC1/GTP	component>
+RAC1	RAC1/GDP	component>
+PLAU	uPA/alphav/beta3 Integrin	component>
+PLAU	PLAUR	ACTIVATION
+PLAU	uPA/uPAR/alphav/beta3 Integrin/Vitronectin	component>
+PLAU	uPA/uPAR/alpha5/beta1 Integrin	component>
+PLAU	uPA/uPAR/alphav/beta3 Integrin/Vitronectin/CK2/Nucleolin	component>
+PLAU	pro-uPA/uPAR (dimer)	component>
+PLAU	pro-uPA/uPAR/alphav/beta3 Integrin	component>
+PLAU	uPA/uPAR/alphav/beta3 Integrin/PAI-1	component>
+PLAU	uPA/uPAR (dimer)/Vitronectin	component>
+PLAU	uPA/uPAR/PDGFRB (dimer)	component>
+PLAU	uPA/PAI-1	component>
+PLAU	uPA/uPAR/alpha5/beta1 Integrin/Fibronectin	component>
+PLAU	uPA/uPAR/Vitronectin	component>
+PLAU	pro-uPA/alphaM/beta2 Integrin	component>
+PLAU	uPA/uPAR	component>
+PLAU	pro-uPA/uPAR/alphav/beta3 Integrin/Vitronectin	component>
+PLAU	uPA/uPAR/alphaM/beta2 Integrin	component>
+PLAU	uPA/uPAR/alphav/beta5 Integrin/PAI-1	component>
+PLAU	uPA/uPAR (dimer)	component>
+PLAU	uPA/uPAR/alphav/beta3 Integrin	component>
+PLAU	uPA/uPAR/alpha3/beta1 Integrin/Vitronectin	component>
+PLAU	pro-uPA/uPAR	component>
+PLAU	uPA/uPAR/alphav/beta5 Integrin	component>
+PLAU	pro-uPA/uPAR/Vitronectin	component>
+PLAU	uPA/uPAR/alpha3/beta 1 Integrin	component>
+PLAU	uPA/uPAR/PAI-1	component>
+PLAU	uPA/uPAR/alphaM/beta2 Integrin/Fibrinogen	component>
+PLAU	uPA/uPAR/alphav/beta5 Integrin/Vitronectin	component>
+alpha3/beta1 Integrin	EGFR (dimer)	ACTIVATION
+HGF	HGF	component>
+VTN	uPA/uPAR (dimer)/Vitronectin	component>
+VTN	pro-uPA/uPAR/Vitronectin	component>
+VTN	uPA/uPAR/alphav/beta5 Integrin/Vitronectin	component>
+VTN	uPA/uPAR/alphav/beta3 Integrin/Vitronectin	component>
+VTN	uPA/uPAR/alpha3/beta1 Integrin/Vitronectin	component>
+VTN	PAI/Vitronectin	component>
+VTN	uPA/uPAR/Vitronectin	component>
+VTN	uPA/uPAR/alphav/beta3 Integrin/Vitronectin/CK2/Nucleolin	component>
+VTN	pro-uPA/uPAR/alphav/beta3 Integrin/Vitronectin	component>
+pro-uPA/uPAR/Vitronectin	None	ACTIVATION
+uPA/uPAR/alphav/beta5 Integrin/Vitronectin	None	ACTIVATION
+uPA/uPAR/alphav/beta5 Integrin/Vitronectin	VTN	-a>
+uPA/uPAR/alphav/beta5 Integrin/Vitronectin	uPA/uPAR/alphav/beta5 Integrin/PAI-1	-a>
+uPA/uPAR/alphaM/beta2 Integrin/Fibrinogen	None	ACTIVATION
+NCL	uPA/uPAR/alphav/beta3 Integrin/Vitronectin/CK2/Nucleolin	component>
+MMP9	MMP9	-a>
+EGFR	EGFR (dimer)	component>
+MMP3	MMP3	-a>

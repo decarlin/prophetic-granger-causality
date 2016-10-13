@@ -1,0 +1,68 @@
+protein	CCNA1
+protein	CCNA2
+protein	CDK2
+protein	CDKN1A
+protein	CDKN1B
+family	Cyclin A
+family	Cyclin A:Cdk1 substrate proteins
+complex	Cyclin A:Cdk2 complex
+complex	Cyclin A:Cdk2:p21/p27 complex
+complex	Cyclin A:Cdk2:phospho-p27/p21 complex
+complex	Cyclin A:Cdk2:phosphorylated substrate complex
+complex	Cyclin A:Cdk2:substrate complex
+complex	Cyclin A:phospho-Cdk2(Thr160) complex
+complex	Cyclin A:phospho-Cdk2(Tyr 15)
+protein	FZR1
+SmallMolecule	H4atp
+protein	RB1
+SmallMolecule	[PO4](3-)
+SmallMolecule	adenosine 5'-(trihydrogen diphosphate)
+SmallMolecule	eau
+family	p21/p27
+family	phospho-p27/p21
+family	phosphorylated Cyclin A:Cdk2 substrate proteins
+Cyclin A	Cyclin A:phospho-Cdk2(Tyr 15)	component>
+Cyclin A	Cyclin A:phospho-Cdk2(Thr160) complex	component>
+Cyclin A	Cyclin A:Cdk2 complex	component>
+phospho-p27/p21	Cyclin A:Cdk2:phospho-p27/p21 complex	component>
+CDKN1B	p21/p27	member>
+CDKN1B	CDKN1B	-a>
+CDKN1B	Cyclin A:Cdk1 substrate proteins	member>
+CDKN1B	phospho-p27/p21	member>
+CDKN1B	phosphorylated Cyclin A:Cdk2 substrate proteins	member>
+CDKN1A	p21/p27	member>
+CDKN1A	CDKN1A	-a>
+CDKN1A	Cyclin A:Cdk1 substrate proteins	member>
+CDKN1A	phospho-p27/p21	member>
+CDKN1A	phosphorylated Cyclin A:Cdk2 substrate proteins	member>
+Cyclin A:phospho-Cdk2(Tyr 15)	[PO4](3-)	-a>
+Cyclin A:phospho-Cdk2(Tyr 15)	Cyclin A:Cdk2 complex	-a>
+phosphorylated Cyclin A:Cdk2 substrate proteins	Cyclin A:Cdk2:phosphorylated substrate complex	component>
+CCNA2	Cyclin A	member>
+CCNA1	Cyclin A	member>
+Cyclin A:Cdk1 substrate proteins	Cyclin A:Cdk2:substrate complex	component>
+RB1	Cyclin A:Cdk1 substrate proteins	member>
+RB1	phosphorylated Cyclin A:Cdk2 substrate proteins	member>
+Cyclin A:phospho-Cdk2(Thr160) complex	Cyclin A:Cdk2:phosphorylated substrate complex	component>
+Cyclin A:phospho-Cdk2(Thr160) complex	Cyclin A:Cdk2:substrate complex	component>
+Cyclin A:Cdk2 complex	Cyclin A:Cdk2:phospho-p27/p21 complex	component>
+Cyclin A:Cdk2 complex	Cyclin A:phospho-Cdk2(Thr160) complex	-a>
+Cyclin A:Cdk2 complex	adenosine 5'-(trihydrogen diphosphate)	-a>
+Cyclin A:Cdk2 complex	Cyclin A:Cdk2 complex	-a>
+Cyclin A:Cdk2 complex	Cyclin A:Cdk2:p21/p27 complex	component>
+Cyclin A:Cdk2 complex	Cyclin A:phospho-Cdk2(Tyr 15)	-a>
+Cyclin A:Cdk2:p21/p27 complex	Cyclin A:Cdk2:phospho-p27/p21 complex	-a>
+H4atp	adenosine 5'-(trihydrogen diphosphate)	-a>
+H4atp	Cyclin A:phospho-Cdk2(Tyr 15)	-a>
+H4atp	Cyclin A:Cdk2:phosphorylated substrate complex	-a>
+H4atp	Cyclin A:phospho-Cdk2(Thr160) complex	-a>
+eau	[PO4](3-)	-a>
+eau	Cyclin A:Cdk2 complex	-a>
+FZR1	Cyclin A:Cdk1 substrate proteins	member>
+FZR1	phosphorylated Cyclin A:Cdk2 substrate proteins	member>
+Cyclin A:Cdk2:substrate complex	adenosine 5'-(trihydrogen diphosphate)	-a>
+Cyclin A:Cdk2:substrate complex	Cyclin A:Cdk2:phosphorylated substrate complex	-a>
+CDK2	Cyclin A:phospho-Cdk2(Tyr 15)	component>
+CDK2	Cyclin A:phospho-Cdk2(Thr160) complex	component>
+CDK2	Cyclin A:Cdk2 complex	component>
+p21/p27	Cyclin A:Cdk2:p21/p27 complex	component>

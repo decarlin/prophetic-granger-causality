@@ -1,0 +1,84 @@
+SmallMolecule	1-phosphatidyl-1D-myo-inositol 3,4,5-trisphosphate
+SmallMolecule	1-phosphatidyl-1D-myo-inositol 4,5-bisphosphate
+protein	AKT1
+complex	Activated TrkA receptor:IRS1/2
+complex	Activated TrkA receptor:Phospho-IRS1/2
+complex	Activated TrkA receptor:Phospho-IRS1/2:PI3K(p85:p110)
+SmallMolecule	Adenosine 5'-diphosphate
+SmallMolecule	Adenosine 5'-triphosphate
+protein	IRS1/2
+protein	MLST8
+protein	MTOR
+protein	NGF
+protein	NTRK1
+complex	PDK1:AKT
+complex	PDK1:AKT:PIP3
+protein	PDPK1
+complex	PI3K
+protein	PI3K-catalytic subunit
+protein	PI3K-regulatory subunit
+complex	PIP3:PDK1:Phospho-AKT
+complex	PIP3:PDK1:active AKT
+complex	PIP3:RhoA
+SmallMolecule	Phosphatidylinositol-3,4,5-trisphosphate
+protein	Phospho-IRS1/2 (by TRKA)
+complex	Phospho-IRS1/2:PI3K(p85:p110)
+protein	RHOA
+protein	RICTOR
+protein	SIN1
+protein	THEM4
+complex	TORC2 complex
+protein	TRIB3
+complex	beta-NGF homodimer
+NGF	beta-NGF homodimer	component>
+PIP3:PDK1:Phospho-AKT	PIP3:PDK1:active AKT	-a>
+PIP3:PDK1:Phospho-AKT	Adenosine 5'-diphosphate	-a>
+TORC2 complex	PIP3:PDK1:active AKT	ACTIVATION
+TRIB3	PIP3:PDK1:Phospho-AKT	INHIBITION
+PI3K-regulatory subunit	PI3K	component>
+RICTOR	TORC2 complex	component>
+PDK1:AKT:PIP3	Adenosine 5'-diphosphate	-a>
+PDK1:AKT:PIP3	PIP3:PDK1:Phospho-AKT	-a>
+PDK1:AKT	PDK1:AKT:PIP3	component>
+PDK1:AKT	PDK1:AKT:PIP3	-a>
+NTRK1	Activated TrkA receptor:IRS1/2	component>
+NTRK1	Activated TrkA receptor:Phospho-IRS1/2:PI3K(p85:p110)	component>
+NTRK1	Activated TrkA receptor:Phospho-IRS1/2	component>
+1-phosphatidyl-1D-myo-inositol 3,4,5-trisphosphate	PIP3:PDK1:active AKT	component>
+1-phosphatidyl-1D-myo-inositol 3,4,5-trisphosphate	PIP3:PDK1:Phospho-AKT	component>
+1-phosphatidyl-1D-myo-inositol 3,4,5-trisphosphate	PDK1:AKT:PIP3	component>
+1-phosphatidyl-1D-myo-inositol 3,4,5-trisphosphate	PDK1:AKT:PIP3	-a>
+1-phosphatidyl-1D-myo-inositol 3,4,5-trisphosphate	1-phosphatidyl-1D-myo-inositol 4,5-bisphosphate	-a>
+Phosphatidylinositol-3,4,5-trisphosphate	PIP3:RhoA	component>
+PI3K	Phospho-IRS1/2:PI3K(p85:p110)	component>
+PI3K	Activated TrkA receptor:Phospho-IRS1/2:PI3K(p85:p110)	component>
+IRS1/2	Activated TrkA receptor:IRS1/2	component>
+PI3K-catalytic subunit	PI3K	component>
+Phospho-IRS1/2:PI3K(p85:p110)	Adenosine 5'-diphosphate	ACTIVATION
+THEM4	PIP3:PDK1:active AKT	INHIBITION
+MTOR	TORC2 complex	component>
+RHOA	PIP3:RhoA	component>
+MLST8	TORC2 complex	component>
+Activated TrkA receptor:IRS1/2	Adenosine 5'-diphosphate	-a>
+Activated TrkA receptor:IRS1/2	Activated TrkA receptor:Phospho-IRS1/2	-a>
+AKT1	PIP3:PDK1:active AKT	component>
+AKT1	PIP3:PDK1:Phospho-AKT	component>
+AKT1	PDK1:AKT	component>
+AKT1	AKT1	-a>
+SIN1	TORC2 complex	component>
+beta-NGF homodimer	Activated TrkA receptor:IRS1/2	component>
+beta-NGF homodimer	Activated TrkA receptor:Phospho-IRS1/2:PI3K(p85:p110)	component>
+beta-NGF homodimer	Activated TrkA receptor:Phospho-IRS1/2	component>
+Adenosine 5'-triphosphate	PIP3:PDK1:active AKT	-a>
+Adenosine 5'-triphosphate	1-phosphatidyl-1D-myo-inositol 3,4,5-trisphosphate	-a>
+Adenosine 5'-triphosphate	Adenosine 5'-diphosphate	-a>
+Adenosine 5'-triphosphate	Activated TrkA receptor:Phospho-IRS1/2	-a>
+Adenosine 5'-triphosphate	PIP3:PDK1:Phospho-AKT	-a>
+1-phosphatidyl-1D-myo-inositol 4,5-bisphosphate	Adenosine 5'-diphosphate	-a>
+1-phosphatidyl-1D-myo-inositol 4,5-bisphosphate	1-phosphatidyl-1D-myo-inositol 3,4,5-trisphosphate	-a>
+PDPK1	PIP3:PDK1:active AKT	component>
+PDPK1	PIP3:PDK1:Phospho-AKT	component>
+PDPK1	PDK1:AKT	component>
+Phospho-IRS1/2 (by TRKA)	Phospho-IRS1/2:PI3K(p85:p110)	component>
+Phospho-IRS1/2 (by TRKA)	Activated TrkA receptor:Phospho-IRS1/2:PI3K(p85:p110)	component>
+Phospho-IRS1/2 (by TRKA)	Activated TrkA receptor:Phospho-IRS1/2	component>

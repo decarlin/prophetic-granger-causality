@@ -1,0 +1,79 @@
+protein	CCNA1
+protein	CCNB1
+protein	CCND1
+protein	CCND2
+protein	CCND3
+protein	CCNE1
+protein	CCNH
+complex	CDC2/cyclin A
+complex	CDC2/cyclin B
+protein	CDC25A
+protein	CDK1
+protein	CDK2
+protein	CDK4
+complex	CDK4/cyclin D1
+complex	CDK4/cyclin D2
+protein	CDK6
+complex	CDK6/cyclin D3
+protein	CDK7
+complex	CDK7/cyclin H
+protein	CDKN1A
+protein	CDKN1B
+protein	CDKN2B
+protein	CDKN2C
+protein	CDKN2D
+complex	CYCLIN A/CDK2
+complex	Cyclin E/CDK2
+complex	E2F-1/DP-1
+protein	E2F1
+protein	RB1
+protein	RBL1
+protein	TFDP1
+protein	p14arf
+CYCLIN A/CDK2	CYCLIN A/CDK2	-a>
+CYCLIN A/CDK2	RB1	ACTIVATION
+CDKN1B	CYCLIN A/CDK2	ACTIVATION
+CDKN1B	Cyclin E/CDK2	ACTIVATION
+CDKN1A	CDK4/cyclin D2	ACTIVATION
+CDKN1A	CDK4/cyclin D1	ACTIVATION
+CDKN1A	CYCLIN A/CDK2	ACTIVATION
+CDKN1A	Cyclin E/CDK2	ACTIVATION
+CDK7/cyclin H	CYCLIN A/CDK2	ACTIVATION
+CCNA1	CDC2/cyclin A	component>
+CCNA1	CYCLIN A/CDK2	component>
+CCNE1	Cyclin E/CDK2	component>
+CDC2/cyclin A	CDC2/cyclin A	-a>
+CDC2/cyclin A	RB1	ACTIVATION
+CDC2/cyclin B	CDC2/cyclin B	-a>
+p14arf	CDK4/cyclin D2	ACTIVATION
+p14arf	CDK4/cyclin D1	ACTIVATION
+p14arf	CDK6/cyclin D3	ACTIVATION
+Cyclin E/CDK2	RB1	ACTIVATION
+Cyclin E/CDK2	Cyclin E/CDK2	-a>
+CDKN2B	CDK4/cyclin D1	ACTIVATION
+CDKN2C	CDK4/cyclin D1	ACTIVATION
+CDK6/cyclin D3	CDK6/cyclin D3	-a>
+CDK6/cyclin D3	E2F1	ACTIVATION
+CDKN2D	CDK4/cyclin D1	ACTIVATION
+CDC25A	CDC2/cyclin A	ACTIVATION
+CDC25A	CDC2/cyclin B	ACTIVATION
+CDC25A	CYCLIN A/CDK2	ACTIVATION
+CDK4/cyclin D2	CDK4/cyclin D2	-a>
+CDK4/cyclin D2	E2F1	ACTIVATION
+CDK4/cyclin D1	CDK4/cyclin D1	-a>
+CDK4/cyclin D1	RBL1	ACTIVATION
+CCNB1	CDC2/cyclin B	component>
+E2F1	E2F-1/DP-1	component>
+CCND1	CDK4/cyclin D1	component>
+CCND3	CDK6/cyclin D3	component>
+CCND2	CDK4/cyclin D2	component>
+CDK1	CDC2/cyclin A	component>
+CDK1	CDC2/cyclin B	component>
+CDK2	CYCLIN A/CDK2	component>
+CDK2	Cyclin E/CDK2	component>
+CDK4	CDK4/cyclin D2	component>
+CDK4	CDK4/cyclin D1	component>
+CDK6	CDK6/cyclin D3	component>
+CDK7	CDK7/cyclin H	component>
+CCNH	CDK7/cyclin H	component>
+TFDP1	E2F-1/DP-1	component>

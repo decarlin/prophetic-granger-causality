@@ -1,0 +1,107 @@
+protein	ABL1
+protein	BIN1
+protein	BUB1
+protein	BUB3
+protein	CCNA2
+protein	CDK1-2
+protein	CDK2
+protein	CHEK1
+complex	Cyclin A/CDK1-2
+complex	Cyclin B/CDK1-2
+protein	Cyclin E
+complex	Cyclin E/CDK2
+protein	EP300
+protein	FBXO45
+protein	GNB2L1
+protein	ITCH
+protein	KAT5
+protein	MDM2
+protein	None
+protein	PFDN5
+protein	PIN1
+protein	PLK1
+protein	PLK3
+protein	PML
+protein	PRKACB
+complex	RACK1/RB1
+protein	RB1
+protein	RCHY1
+protein	SIRT1
+complex	TAp73a (tetramer)
+complex	TAp73a (tetramer)/BUB3
+complex	TAp73a (tetramer)/MM1
+complex	TAp73a (tetramer)/PKACB
+complex	TAp73a (tetramer)/PML
+complex	TAp73a (tetramer)/WT1
+complex	TAp73b (tetramer)
+complex	TAp73b (tetramer)/Amphiphysin IIB
+complex	TAp73b (tetramer)/MDM2/TIP60
+protein	TP73
+protein	UBE4B
+protein	WT1
+protein	WWOX
+complex	dNp73a (tetramer)
+protein	http://pid.nci.nih.gov/biopaxpid_15949
+protein	http://pid.nci.nih.gov/biopaxpid_16079
+protein	http://pid.nci.nih.gov/biopaxpid_16147
+protein	http://pid.nci.nih.gov/biopaxpid_16188
+protein	http://pid.nci.nih.gov/biopaxpid_16395
+protein	http://pid.nci.nih.gov/biopaxpid_16649
+protein	http://pid.nci.nih.gov/biopaxpid_16660
+protein	http://pid.nci.nih.gov/biopaxpid_16688
+protein	p38alpha-beta-active
+Cyclin E	Cyclin B/CDK1-2	component>
+Cyclin E	Cyclin E/CDK2	component>
+ITCH	TAp73a (tetramer)	ACTIVATION
+WT1	TAp73a (tetramer)/WT1	component>
+PLK1	TAp73a (tetramer)	ACTIVATION
+PLK3	TAp73a (tetramer)	ACTIVATION
+None	http://pid.nci.nih.gov/biopaxpid_16688	ACTIVATION
+None	http://pid.nci.nih.gov/biopaxpid_15949	ACTIVATION
+None	http://pid.nci.nih.gov/biopaxpid_16395	INHIBITION
+None	http://pid.nci.nih.gov/biopaxpid_16188	ACTIVATION
+None	http://pid.nci.nih.gov/biopaxpid_16660	INHIBITION
+Cyclin E/CDK2	TAp73b (tetramer)	ACTIVATION
+TAp73b (tetramer)	TAp73b (tetramer)	-a>
+TAp73b (tetramer)	TAp73b (tetramer)	transport
+ABL1	TAp73a (tetramer)	ACTIVATION
+PFDN5	TAp73a (tetramer)/MM1	component>
+PIN1	TAp73a (tetramer)	ACTIVATION
+BIN1	TAp73b (tetramer)/Amphiphysin IIB	component>
+RCHY1	dNp73a (tetramer)	ACTIVATION
+TAp73a (tetramer)	TAp73a (tetramer)	-a>
+TAp73a (tetramer)	None	ACTIVATION
+RB1	RACK1/RB1	component>
+GNB2L1	RACK1/RB1	component>
+TAp73a (tetramer)/BUB3	None	ACTIVATION
+PRKACB	TAp73a (tetramer)/PKACB	component>
+PML	TAp73a (tetramer)/PML	component>
+CHEK1	TAp73a (tetramer)	ACTIVATION
+FBXO45	TAp73a (tetramer)	ACTIVATION
+p38alpha-beta-active	TAp73a (tetramer)	ACTIVATION
+SIRT1	PML	INHIBITION
+SIRT1	TAp73a (tetramer)	INHIBITION
+Cyclin A/CDK1-2	TAp73b (tetramer)	ACTIVATION
+BUB3	TAp73a (tetramer)/BUB3	component>
+Cyclin B/CDK1-2	TAp73b (tetramer)	ACTIVATION
+CDK1-2	Cyclin B/CDK1-2	component>
+CDK1-2	Cyclin A/CDK1-2	component>
+CCNA2	Cyclin A/CDK1-2	component>
+MDM2	TAp73b (tetramer)/MDM2/TIP60	component>
+EP300	PML	ACTIVATION
+EP300	TAp73a (tetramer)	ACTIVATION
+UBE4B	TAp73a (tetramer)	ACTIVATION
+KAT5	TAp73b (tetramer)/MDM2/TIP60	component>
+TP73	TAp73a (tetramer)	component>
+TP73	TAp73a (tetramer)/MM1	component>
+TP73	TAp73a (tetramer)/WT1	component>
+TP73	TAp73a (tetramer)/PML	component>
+TP73	TAp73b (tetramer)/MDM2/TIP60	component>
+TP73	TAp73a (tetramer)/BUB3	component>
+TP73	TAp73a (tetramer)/PKACB	component>
+TP73	TAp73b (tetramer)	component>
+TP73	TAp73b (tetramer)/Amphiphysin IIB	component>
+TP73	dNp73a (tetramer)	component>
+CDK2	Cyclin E/CDK2	component>
+WWOX	TAp73b (tetramer)	ACTIVATION
+dNp73a (tetramer)	dNp73a (tetramer)	-a>

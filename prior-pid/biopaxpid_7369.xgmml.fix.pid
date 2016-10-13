@@ -1,0 +1,182 @@
+protein	AICD
+protein	ANP32A
+protein	APBB1
+protein	BRCA1
+protein	CALCOCO1
+protein	CEBPB
+protein	DDX17
+protein	DDX54
+SmallMolecule	E2
+complex	E2/ERA (dimer)
+complex	E2/ERA (dimer)/AIB1
+complex	E2/ERA (dimer)/BRCA1
+complex	E2/ERA (dimer)/DAX-1
+complex	E2/ERA (dimer)/DP97
+complex	E2/ERA (dimer)/ERAP140
+complex	E2/ERA (dimer)/FE65/AICD
+complex	E2/ERA (dimer)/JUN
+complex	E2/ERA (dimer)/JUN/HSF2/CEBPB
+complex	E2/ERA (dimer)/LCOR
+complex	E2/ERA (dimer)/MED1
+complex	E2/ERA (dimer)/NEDD8/UBC12/UBA3
+complex	E2/ERA (dimer)/PCNA
+complex	E2/ERA (dimer)/PDI
+complex	E2/ERA (dimer)/POU4F1
+complex	E2/ERA (dimer)/POU4F2
+complex	E2/ERA (dimer)/REA
+complex	E2/ERA (dimer)/Src-1
+complex	E2/ERA (dimer)/Src-1/MPG
+complex	E2/ERA (dimer)/TIF2
+complex	E2/ERA (dimer)/TIF2/CoCoA
+complex	E2/ERA (dimer)/TIF2/P72
+complex	E2/ERA (dimer)/TIF2/P72/SRA1
+complex	E2/ERA/ERB
+complex	ERA/HDAC4
+complex	ERA/HET
+complex	ERA/MRF1
+complex	ERA/MTA1/HDAC1/LMO4
+complex	ERA/NCOR1
+complex	ERA/NR0B2
+complex	ERA/PP32
+complex	ERA/SMAD4
+complex	ERA/SMRT
+complex	ERA/STAT5A
+complex	ERA/TAF1B
+protein	ESR1
+protein	ESR2
+protein	HDAC1
+protein	HDAC4
+protein	HSF2
+protein	JUN
+protein	LCOR
+protein	LMO4
+protein	MED1
+protein	MPG
+protein	MTA1
+protein	NCOA1
+protein	NCOA2
+protein	NCOA3
+protein	NCOA7
+protein	NCOR1
+protein	NCOR2
+protein	NEDD8
+protein	NR0B1
+protein	NR0B2
+protein	PCNA
+protein	PDIA2
+protein	PHB2
+protein	POU4F1
+protein	POU4F2
+protein	SAFB
+protein	SET
+protein	SMAD4
+protein	SRA1
+protein	STAT5A
+protein	TRIM59
+protein	UBA3
+protein	UBE2M
+HDAC1	ERA/MTA1/HDAC1/LMO4	component>
+BRCA1	E2/ERA (dimer)/BRCA1	component>
+HDAC4	ERA/HDAC4	component>
+SMAD4	ERA/SMAD4	component>
+JUN	E2/ERA (dimer)/JUN/HSF2/CEBPB	component>
+JUN	E2/ERA (dimer)/JUN	component>
+APBB1	E2/ERA (dimer)/FE65/AICD	component>
+NCOA2	E2/ERA (dimer)/TIF2/P72	component>
+NCOA2	E2/ERA (dimer)/TIF2/P72/SRA1	component>
+NCOA2	E2/ERA (dimer)/TIF2/CoCoA	component>
+NCOA2	E2/ERA (dimer)/TIF2	component>
+TRIM59	ERA/MRF1	component>
+ANP32A	ERA/PP32	component>
+NCOR2	ERA/SMRT	component>
+NCOR1	ERA/NCOR1	component>
+NEDD8	E2/ERA (dimer)/NEDD8/UBC12/UBA3	component>
+CEBPB	E2/ERA (dimer)/JUN/HSF2/CEBPB	component>
+NCOA7	E2/ERA (dimer)/ERAP140	component>
+NR0B2	ERA/NR0B2	component>
+NR0B1	E2/ERA (dimer)/DAX-1	component>
+DDX54	E2/ERA (dimer)/DP97	component>
+DDX17	E2/ERA (dimer)/TIF2/P72	component>
+DDX17	E2/ERA (dimer)/TIF2/P72/SRA1	component>
+LCOR	E2/ERA (dimer)/LCOR	component>
+MTA1	ERA/MTA1/HDAC1/LMO4	component>
+E2	E2/ERA (dimer)/BRCA1	component>
+E2	E2/ERA/ERB	component>
+E2	E2/ERA (dimer)/Src-1	component>
+E2	E2/ERA (dimer)/PDI	component>
+E2	E2/ERA (dimer)/AIB1	component>
+E2	E2/ERA (dimer)	component>
+E2	E2/ERA (dimer)/JUN/HSF2/CEBPB	component>
+E2	E2/ERA (dimer)/MED1	component>
+E2	E2/ERA (dimer)/TIF2/P72	component>
+E2	E2/ERA (dimer)/DP97	component>
+E2	E2/ERA (dimer)/TIF2	component>
+E2	E2/ERA (dimer)/TIF2/P72/SRA1	component>
+E2	E2/ERA (dimer)/LCOR	component>
+E2	E2/ERA (dimer)/FE65/AICD	component>
+E2	E2/ERA (dimer)/TIF2/CoCoA	component>
+E2	E2/ERA (dimer)/ERAP140	component>
+E2	E2/ERA (dimer)/NEDD8/UBC12/UBA3	component>
+E2	E2/ERA (dimer)/Src-1/MPG	component>
+E2	E2/ERA (dimer)/DAX-1	component>
+E2	E2/ERA (dimer)/REA	component>
+E2	E2/ERA (dimer)/PCNA	component>
+E2	E2/ERA (dimer)/JUN	component>
+E2	E2/ERA (dimer)/POU4F2	component>
+E2	E2/ERA (dimer)/POU4F1	component>
+PCNA	E2/ERA (dimer)/PCNA	component>
+NCOA3	E2/ERA (dimer)/AIB1	component>
+SAFB	ERA/HET	component>
+PDIA2	E2/ERA (dimer)/PDI	component>
+POU4F1	E2/ERA (dimer)/POU4F1	component>
+POU4F2	E2/ERA (dimer)/POU4F2	component>
+SET	ERA/TAF1B	component>
+UBA3	E2/ERA (dimer)/NEDD8/UBC12/UBA3	component>
+AICD	E2/ERA (dimer)/FE65/AICD	component>
+UBE2M	E2/ERA (dimer)/NEDD8/UBC12/UBA3	component>
+MPG	E2/ERA (dimer)/Src-1/MPG	component>
+ESR2	E2/ERA/ERB	component>
+STAT5A	ERA/STAT5A	component>
+ESR1	ERA/HET	component>
+ESR1	ERA/STAT5A	component>
+ESR1	ERA/NR0B2	component>
+ESR1	E2/ERA (dimer)/BRCA1	component>
+ESR1	E2/ERA/ERB	component>
+ESR1	ERA/SMRT	component>
+ESR1	E2/ERA (dimer)/Src-1	component>
+ESR1	E2/ERA (dimer)/PDI	component>
+ESR1	ERA/NCOR1	component>
+ESR1	E2/ERA (dimer)/AIB1	component>
+ESR1	E2/ERA (dimer)	component>
+ESR1	E2/ERA (dimer)/JUN/HSF2/CEBPB	component>
+ESR1	E2/ERA (dimer)/MED1	component>
+ESR1	ERA/HDAC4	component>
+ESR1	ERA/MRF1	component>
+ESR1	E2/ERA (dimer)/TIF2/P72	component>
+ESR1	E2/ERA (dimer)/DP97	component>
+ESR1	E2/ERA (dimer)/TIF2	component>
+ESR1	E2/ERA (dimer)/TIF2/P72/SRA1	component>
+ESR1	E2/ERA (dimer)/LCOR	component>
+ESR1	E2/ERA (dimer)/FE65/AICD	component>
+ESR1	E2/ERA (dimer)/TIF2/CoCoA	component>
+ESR1	ERA/TAF1B	component>
+ESR1	ERA/PP32	component>
+ESR1	E2/ERA (dimer)/ERAP140	component>
+ESR1	E2/ERA (dimer)/NEDD8/UBC12/UBA3	component>
+ESR1	E2/ERA (dimer)/Src-1/MPG	component>
+ESR1	E2/ERA (dimer)/DAX-1	component>
+ESR1	ERA/SMAD4	component>
+ESR1	ERA/MTA1/HDAC1/LMO4	component>
+ESR1	E2/ERA (dimer)/REA	component>
+ESR1	E2/ERA (dimer)/PCNA	component>
+ESR1	E2/ERA (dimer)/JUN	component>
+ESR1	E2/ERA (dimer)/POU4F2	component>
+ESR1	E2/ERA (dimer)/POU4F1	component>
+HSF2	E2/ERA (dimer)/JUN/HSF2/CEBPB	component>
+NCOA1	E2/ERA (dimer)/Src-1	component>
+NCOA1	E2/ERA (dimer)/Src-1/MPG	component>
+LMO4	ERA/MTA1/HDAC1/LMO4	component>
+PHB2	E2/ERA (dimer)/REA	component>
+MED1	E2/ERA (dimer)/MED1	component>
+SRA1	E2/ERA (dimer)/TIF2/P72/SRA1	component>
+CALCOCO1	E2/ERA (dimer)/TIF2/CoCoA	component>

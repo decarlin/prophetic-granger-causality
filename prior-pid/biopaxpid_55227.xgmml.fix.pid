@@ -1,0 +1,145 @@
+protein	AKT1
+protein	BAD
+SmallMolecule	Ca2+
+protein	DOCK7
+protein	ERBB2
+protein	ERBB3
+protein	ERK1-2
+complex	ErbB2/ErbB3/neuregulin 1 beta
+complex	ErbB2/ErbB3/neuregulin 1 beta/SHC
+complex	ErbB2/ErbB3/neuregulin 1 beta/SHC/GRB2/SOS1
+complex	ErbB2/ErbB3/neuregulin 2
+protein	Erk1-2-active
+SmallMolecule	GDP
+protein	GRB2
+SmallMolecule	GTP
+protein	JAK2
+protein	JNK family
+protein	JNK family-active
+protein	JUN
+protein	MAP2K1
+protein	MAPK8
+protein	MEK1-2
+protein	MEK1-2-active
+protein	MTOR
+protein	NF2
+protein	NFATC4
+protein	NRG1
+protein	NRG2
+protein	None
+SmallMolecule	PI-3-4-5-P3
+SmallMolecule	PI-4-5-P2
+complex	PI3K Class IA family
+protein	PPP3CB
+protein	PRKACA
+protein	PTPN11
+protein	RAC1-CDC42
+complex	RAC1-CDC42/GDP
+complex	RAC1-CDC42/GTP
+protein	RAF1
+protein	RAS family
+complex	RAS family/GDP
+complex	RAS family/GTP
+protein	RNF41
+protein	SHC1
+protein	SOS1
+protein	SRC
+protein	STAT3
+complex	STAT3 (dimer)
+protein	USP8
+SmallMolecule	cAMP
+USP8	USP8	-a>
+USP8	RNF41	ACTIVATION
+Erk1-2-active	Erk1-2-active	transport
+Erk1-2-active	None	ACTIVATION
+NFATC4	None	ACTIVATION
+NFATC4	NFATC4	-a>
+ERBB3	ErbB2/ErbB3/neuregulin 1 beta/SHC	component>
+ERBB3	ErbB2/ErbB3/neuregulin 1 beta	component>
+ERBB3	ErbB2/ErbB3/neuregulin 2	component>
+ERBB3	ErbB2/ErbB3/neuregulin 1 beta/SHC/GRB2/SOS1	component>
+ErbB2/ErbB3/neuregulin 2	None	INHIBITION
+cAMP	PRKACA	ACTIVATION
+DOCK7	RAC1-CDC42/GTP	ACTIVATION
+DOCK7	DOCK7	-a>
+AKT1	USP8	ACTIVATION
+AKT1	AKT1	-a>
+AKT1	None	INHIBITION
+AKT1	MTOR	ACTIVATION
+AKT1	BAD	ACTIVATION
+MAP2K1	MAP2K1	-a>
+ErbB2/ErbB3/neuregulin 1 beta	None	ACTIVATION
+ErbB2/ErbB3/neuregulin 1 beta	PI3K Class IA family	ACTIVATION
+ErbB2/ErbB3/neuregulin 1 beta	PTPN11	ACTIVATION
+ErbB2/ErbB3/neuregulin 1 beta	DOCK7	ACTIVATION
+ErbB2/ErbB3/neuregulin 1 beta	Ca2+	ACTIVATION
+ErbB2/ErbB3/neuregulin 1 beta	MAP2K1	ACTIVATION
+ErbB2/ErbB3/neuregulin 1 beta	PRKACA	ACTIVATION
+ErbB2/ErbB3/neuregulin 1 beta	ErbB2/ErbB3/neuregulin 1 beta	-a>
+ErbB2/ErbB3/neuregulin 1 beta	JAK2	ACTIVATION
+ErbB2/ErbB3/neuregulin 1 beta	MAPK8	ACTIVATION
+RAF1	MEK1-2-active	ACTIVATION
+RAF1	RAF1	-a>
+SHC1	ErbB2/ErbB3/neuregulin 1 beta/SHC	component>
+SHC1	ErbB2/ErbB3/neuregulin 1 beta/SHC/GRB2/SOS1	component>
+STAT3	STAT3 (dimer)	component>
+STAT3	STAT3	-a>
+JNK family	JNK family-active	-a>
+JUN	JUN	-a>
+RAS family/GDP	GDP	-a>
+RAS family/GDP	RAS family/GTP	-a>
+Ca2+	Ca2+	transport
+Ca2+	PPP3CB	ACTIVATION
+JAK2	JAK2	-a>
+JAK2	STAT3	ACTIVATION
+NF2	None	ACTIVATION
+NF2	NF2	-a>
+PI-4-5-P2	PI-3-4-5-P3	-a>
+ErbB2/ErbB3/neuregulin 1 beta/SHC/GRB2/SOS1	GDP	ACTIVATION
+NRG1	ErbB2/ErbB3/neuregulin 1 beta/SHC	component>
+NRG1	ErbB2/ErbB3/neuregulin 1 beta	component>
+NRG1	ErbB2/ErbB3/neuregulin 1 beta/SHC/GRB2/SOS1	component>
+MAPK8	MAPK8	-a>
+MAPK8	JUN	ACTIVATION
+NRG2	ErbB2/ErbB3/neuregulin 2	component>
+ERBB2	ErbB2/ErbB3/neuregulin 1 beta/SHC	component>
+ERBB2	ErbB2/ErbB3/neuregulin 1 beta	component>
+ERBB2	ErbB2/ErbB3/neuregulin 2	component>
+ERBB2	ErbB2/ErbB3/neuregulin 1 beta/SHC/GRB2/SOS1	component>
+SRC	STAT3	ACTIVATION
+MEK1-2-active	Erk1-2-active	ACTIVATION
+PI3K Class IA family	PI-3-4-5-P3	ACTIVATION
+PI3K Class IA family	PI3K Class IA family	transport
+PI3K Class IA family	PI3K Class IA family	-a>
+STAT3 (dimer)	STAT3 (dimer)	transport
+RAC1-CDC42	RAC1-CDC42/GDP	component>
+RAC1-CDC42	RAC1-CDC42/GTP	component>
+RNF41	ErbB2/ErbB3/neuregulin 1 beta	ACTIVATION
+RNF41	RNF41	-a>
+GTP	GDP	-a>
+GTP	RAC1-CDC42/GTP	component>
+GTP	RAS family/GTP	component>
+RAC1-CDC42/GTP	JNK family-active	ACTIVATION
+MTOR	None	ACTIVATION
+MTOR	MTOR	-a>
+JNK family-active	None	ACTIVATION
+MEK1-2	MEK1-2-active	-a>
+GDP	RAC1-CDC42/GDP	component>
+GDP	RAS family/GDP	component>
+RAC1-CDC42/GDP	RAC1-CDC42/GTP	-a>
+SOS1	ErbB2/ErbB3/neuregulin 1 beta/SHC/GRB2/SOS1	component>
+PTPN11	PTPN11	-a>
+PTPN11	ErbB2/ErbB3/neuregulin 1 beta/SHC/GRB2/SOS1	INHIBITION
+PI-3-4-5-P3	AKT1	ACTIVATION
+BAD	BAD	-a>
+BAD	None	INHIBITION
+ERK1-2	Erk1-2-active	-a>
+GRB2	ErbB2/ErbB3/neuregulin 1 beta/SHC/GRB2/SOS1	component>
+PRKACA	ErbB2/ErbB3/neuregulin 1 beta	ACTIVATION
+PRKACA	PRKACA	-a>
+PRKACA	NF2	ACTIVATION
+PPP3CB	PPP3CB	-a>
+PPP3CB	NFATC4	ACTIVATION
+RAS family	RAS family/GDP	component>
+RAS family	RAS family/GTP	component>
+RAS family/GTP	RAF1	ACTIVATION

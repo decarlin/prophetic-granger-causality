@@ -1,0 +1,14 @@
+protein	MAP2K1
+protein	MAPK1
+protein	None
+protein	PDE3B
+complex	PI3K Class IB family
+complex	PI3K Class IB/PDE3B
+PI3K Class IB family	PI3K Class IB/PDE3B	component>
+PI3K Class IB family	MAP2K1	ACTIVATION
+PI3K Class IB family	PI3K Class IB family	transport
+PDE3B	PI3K Class IB/PDE3B	component>
+MAP2K1	MAP2K1	-a>
+MAP2K1	MAPK1	ACTIVATION
+MAPK1	MAPK1	-a>
+PI3K Class IB/PDE3B	None	INHIBITION

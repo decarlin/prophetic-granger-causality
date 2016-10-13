@@ -1,0 +1,74 @@
+SmallMolecule	1-phosphatidyl-1D-myo-inositol 3,4,5-trisphosphate
+protein	AKT1
+SmallMolecule	Adenosine 5'-diphosphate
+SmallMolecule	Adenosine 5'-triphosphate
+complex	Akt:pCot
+complex	Akt:pCot:pNIK
+protein	CD28
+complex	CD28:PI3K
+protein	CD86
+SmallMolecule	ChEBI:18348 1-phosphatidyl-1D-myo-inositol 4,5-bisphosphate
+protein	Lck/Fyn
+protein	MAP3K14
+protein	MAP3K8
+protein	MLST8
+protein	MTOR
+complex	PDK1:AKT
+complex	PDK1:AKT:PIP3
+protein	PDPK1
+complex	PI3K alpha
+protein	PIK3CA
+protein	PIK3R1
+complex	PIP3:PDK1:Phospho-AKT
+complex	PIP3:PDK1:active AKT
+complex	Phospho CD28 homodimer
+protein	RICTOR
+protein	SIN1
+protein	THEM4
+complex	TORC2 complex
+protein	TRIB3
+complex	phospho CD28:B7-1/B7-2
+Phospho CD28 homodimer	phospho CD28:B7-1/B7-2	component>
+phospho CD28:B7-1/B7-2	CD28:PI3K	component>
+AKT1	PIP3:PDK1:active AKT	component>
+AKT1	PIP3:PDK1:Phospho-AKT	component>
+AKT1	PDK1:AKT	component>
+TORC2 complex	Adenosine 5'-diphosphate	ACTIVATION
+TRIB3	Adenosine 5'-diphosphate	INHIBITION
+RICTOR	TORC2 complex	component>
+MAP3K8	Akt:pCot	component>
+THEM4	Adenosine 5'-diphosphate	INHIBITION
+PIK3CA	PI3K alpha	component>
+PDK1:AKT	PDK1:AKT:PIP3	component>
+PDK1:AKT	PDK1:AKT:PIP3	-a>
+CD86	phospho CD28:B7-1/B7-2	component>
+Adenosine 5'-triphosphate	PIP3:PDK1:active AKT	-a>
+Adenosine 5'-triphosphate	PIP3:PDK1:Phospho-AKT	-a>
+Adenosine 5'-triphosphate	Adenosine 5'-diphosphate	-a>
+Adenosine 5'-triphosphate	1-phosphatidyl-1D-myo-inositol 3,4,5-trisphosphate	-a>
+PIK3R1	PI3K alpha	component>
+1-phosphatidyl-1D-myo-inositol 3,4,5-trisphosphate	PIP3:PDK1:active AKT	component>
+1-phosphatidyl-1D-myo-inositol 3,4,5-trisphosphate	PIP3:PDK1:Phospho-AKT	component>
+1-phosphatidyl-1D-myo-inositol 3,4,5-trisphosphate	PDK1:AKT:PIP3	-a>
+1-phosphatidyl-1D-myo-inositol 3,4,5-trisphosphate	PDK1:AKT:PIP3	component>
+Akt:pCot	Akt:pCot:pNIK	ACTIVATION
+Akt:pCot	Akt:pCot:pNIK	component>
+CD28	Phospho CD28 homodimer	component>
+PDK1:AKT:PIP3	Adenosine 5'-diphosphate	-a>
+PDK1:AKT:PIP3	PIP3:PDK1:Phospho-AKT	-a>
+MTOR	TORC2 complex	component>
+PI3K alpha	CD28:PI3K	component>
+CD28:PI3K	1-phosphatidyl-1D-myo-inositol 3,4,5-trisphosphate	ACTIVATION
+PIP3:PDK1:active AKT	Adenosine 5'-diphosphate	ACTIVATION
+PIP3:PDK1:active AKT	Akt:pCot	component>
+MLST8	TORC2 complex	component>
+Lck/Fyn	phospho CD28:B7-1/B7-2	component>
+PIP3:PDK1:Phospho-AKT	PIP3:PDK1:active AKT	-a>
+PIP3:PDK1:Phospho-AKT	Adenosine 5'-diphosphate	-a>
+SIN1	TORC2 complex	component>
+ChEBI:18348 1-phosphatidyl-1D-myo-inositol 4,5-bisphosphate	1-phosphatidyl-1D-myo-inositol 3,4,5-trisphosphate	-a>
+ChEBI:18348 1-phosphatidyl-1D-myo-inositol 4,5-bisphosphate	Adenosine 5'-diphosphate	-a>
+MAP3K14	Akt:pCot:pNIK	component>
+PDPK1	PIP3:PDK1:active AKT	component>
+PDPK1	PIP3:PDK1:Phospho-AKT	component>
+PDPK1	PDK1:AKT	component>

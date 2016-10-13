@@ -1,0 +1,158 @@
+protein	AKT1
+protein	ARRB2
+protein	BTRC
+protein	CK1 family
+protein	CREBBP
+SmallMolecule	Cholesterol
+protein	FBXW11
+complex	G beta/gamma
+protein	GLI family
+protein	GLI family-active
+protein	GLI1
+complex	GLI1/Su(fu)
+protein	GLI2
+complex	GLI2/SPOP
+complex	GLI2/Su(fu)
+protein	GLI2A
+protein	GLI2R
+protein	GLI3
+complex	GLI3/SPOP
+complex	GLI3/Su(fu)
+protein	GLI3A
+complex	GLI3A/Cbp
+protein	GLI3R
+protein	GNB1
+protein	GNG2
+protein	GSK3B
+SmallMolecule	GTP
+protein	Gi family
+complex	Gi family/GTP
+protein	HDAC1
+protein	HDAC2
+protein	IFT172
+protein	IFT88
+protein	KIF3A
+protein	LGALS3
+protein	MAP2K1
+complex	MIM/GLI1
+complex	MIM/GLI2A
+protein	MTSS1
+protein	None
+protein	PIAS1
+protein	PRKACA
+protein	PRKCD
+protein	RAB23
+protein	RBBP4
+protein	RBBP7
+protein	SAP18
+protein	SAP30
+complex	SCF ubiquitin ligase complex
+protein	SCF ubiquitin ligases
+protein	SHH
+complex	SHH Np/Cholesterol
+protein	SIN3A
+protein	SIN3B
+protein	SMO
+complex	SMO/beta Arrestin2
+protein	SPOP
+protein	STK36
+protein	SUFU
+complex	Su(fu)/Galectin3
+complex	Su(fu)/PIAS1
+complex	Su(fu)/SIN3/HDAC complex
+protein	XPO1
+complex	beta TrCP1/SCF
+complex	beta TrCP1/SCF ubiquitin ligase complex
+LGALS3	Su(fu)/Galectin3	component>
+HDAC1	Su(fu)/SIN3/HDAC complex	component>
+HDAC2	Su(fu)/SIN3/HDAC complex	component>
+GLI3R	None	ACTIVATION
+GLI3R	GLI1	INHIBITION
+Cholesterol	SHH Np/Cholesterol	component>
+SMO/beta Arrestin2	GLI2A	ACTIVATION
+SMO/beta Arrestin2	GLI family-active	ACTIVATION
+SMO/beta Arrestin2	GLI1	ACTIVATION
+SMO/beta Arrestin2	SUFU	ACTIVATION
+SMO	G beta/gamma	ACTIVATION
+SMO	GLI3A	ACTIVATION
+SMO	SMO/beta Arrestin2	component>
+SMO	GLI3	INHIBITION
+SHH	SHH Np/Cholesterol	component>
+MAP2K1	GLI2A	ACTIVATION
+MAP2K1	MAP2K1	-a>
+FBXW11	beta TrCP1/SCF	component>
+SHH Np/Cholesterol	MAP2K1	ACTIVATION
+SHH Np/Cholesterol	PRKCD	ACTIVATION
+GLI3/SPOP	None	ACTIVATION
+XPO1	GLI1	ACTIVATION
+SCF ubiquitin ligase complex	beta TrCP1/SCF ubiquitin ligase complex	component>
+SAP30	Su(fu)/SIN3/HDAC complex	component>
+beta TrCP1/SCF	GLI3R	ACTIVATION
+IFT88	GLI2A	ACTIVATION
+IFT88	GLI3	ACTIVATION
+IFT88	None	ACTIVATION
+GLI2	GLI2A	-a>
+GLI2	GLI2	-a>
+GLI2	GLI2R	-a>
+GLI2	GLI2/Su(fu)	component>
+GLI2	GLI2/SPOP	component>
+GLI3	GLI3R	-a>
+GLI3	GLI3	-a>
+GLI3	GLI3A	-a>
+GLI3	GLI3/SPOP	component>
+GLI3	GLI3/Su(fu)	component>
+GLI1	GLI1/Su(fu)	component>
+GLI1	None	ACTIVATION
+GLI1	GLI1	-a>
+GLI1	MIM/GLI1	component>
+SAP18	Su(fu)/SIN3/HDAC complex	component>
+CK1 family	GLI2	ACTIVATION
+PRKACA	GLI2	ACTIVATION
+PRKACA	GLI3	ACTIVATION
+GSK3B	GLI2	ACTIVATION
+GSK3B	GLI3	ACTIVATION
+SIN3B	Su(fu)/SIN3/HDAC complex	component>
+SIN3A	Su(fu)/SIN3/HDAC complex	component>
+GLI family-active	None	ACTIVATION
+SCF ubiquitin ligases	beta TrCP1/SCF	component>
+STK36	GLI1	ACTIVATION
+STK36	SUFU	ACTIVATION
+SPOP	GLI3/SPOP	component>
+SPOP	GLI2/SPOP	component>
+GNB1	G beta/gamma	component>
+PRKCD	GLI2A	ACTIVATION
+PRKCD	PRKCD	-a>
+Gi family	Gi family/GTP	component>
+GTP	Gi family/GTP	component>
+MTSS1	MIM/GLI2A	component>
+MTSS1	MIM/GLI1	component>
+SUFU	GLI1/Su(fu)	component>
+SUFU	GLI3/Su(fu)	component>
+SUFU	GLI2/Su(fu)	component>
+SUFU	Su(fu)/PIAS1	component>
+SUFU	Su(fu)/Galectin3	component>
+SUFU	Su(fu)/SIN3/HDAC complex	component>
+GLI family	GLI family-active	-a>
+KIF3A	GLI2A	ACTIVATION
+KIF3A	GLI3	ACTIVATION
+GLI3A	GLI3A/Cbp	component>
+RAB23	GLI2A	INHIBITION
+RAB23	GLI3	ACTIVATION
+beta TrCP1/SCF ubiquitin ligase complex	GLI2R	ACTIVATION
+AKT1	GLI2A	ACTIVATION
+IFT172	GLI2A	ACTIVATION
+IFT172	GLI3	ACTIVATION
+BTRC	beta TrCP1/SCF ubiquitin ligase complex	component>
+RBBP7	Su(fu)/SIN3/HDAC complex	component>
+RBBP4	Su(fu)/SIN3/HDAC complex	component>
+PIAS1	Su(fu)/PIAS1	component>
+GNG2	G beta/gamma	component>
+GLI2/SPOP	None	ACTIVATION
+GLI2A	GLI2A	transport
+GLI2A	MIM/GLI2A	component>
+GLI2A	None	ACTIVATION
+ARRB2	SMO/beta Arrestin2	component>
+Gi family/GTP	GLI1	ACTIVATION
+CREBBP	GLI3A/Cbp	component>
+Su(fu)/SIN3/HDAC complex	GLI3	ACTIVATION
+Su(fu)/SIN3/HDAC complex	GLI1	INHIBITION

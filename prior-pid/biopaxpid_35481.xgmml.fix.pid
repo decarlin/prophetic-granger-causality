@@ -1,0 +1,143 @@
+protein	AKT1
+protein	BIRC2
+protein	BIRC3
+protein	C4BPA
+complex	C4BPA/CD40
+protein	CBLB
+protein	CD40
+complex	CD40/CD40L (trimer)
+complex	CD40/CD40L (trimer)/JAK3 (trimer)
+complex	CD40/CD40L (trimer)/TRAF2 (trimer)/MEKK1
+complex	CD40/CD40L (trimer)/TRAF2 (trimer)/TRAF1
+complex	CD40/CD40L (trimer)/TRAF2 (trimer)/TRAF6
+complex	CD40/CD40L (trimer)/TRAF2 (trimer)/cIAP1/cIAP2
+complex	CD40/CD40L (trimer)/TRAF3 (trimer)
+complex	CD40/CD40L (trimer)/TRAF6
+complex	CD40/CD40L (trimer)/TRAF6/PI3K Class I family/CBL-b
+complex	CD40/CD40L (trimer)/TTRAP
+protein	CD40LG
+protein	FCAMR
+protein	IL4
+protein	JAK3
+protein	JNK family
+protein	JNK family-active
+protein	JUN
+protein	MAP2K4
+protein	MAP3K1
+protein	MAP3K14
+complex	NF kappa B1 p50/RelA/I kappa B alpha
+complex	NF kappa B1/RelA
+protein	NFKB1
+protein	NFKBIA
+protein	None
+complex	PI3K Class I family
+protein	RELA
+protein	STAT5A
+complex	STAT5A (dimer)
+protein	TDP2
+protein	TRAF1
+protein	TRAF2
+complex	TRAF2/CBL-b
+protein	TRAF3
+protein	TRAF6
+SmallMolecule	Zn2+
+complex	cIAP1/cIAP2/TRAF2
+complex	cIAP1/cIAP2/TRAF2/TRAF3
+protein	http://pid.nci.nih.gov/biopaxpid_35689
+protein	p38alpha-beta
+protein	p38alpha-beta-active
+CD40/CD40L (trimer)/TRAF2 (trimer)/TRAF1	None	INHIBITION
+CD40/CD40L (trimer)/TRAF2 (trimer)/TRAF1	NF kappa B1 p50/RelA/I kappa B alpha	ACTIVATION
+NF kappa B1/RelA	NF kappa B1/RelA	transport
+MAP3K1	CD40/CD40L (trimer)/TRAF2 (trimer)/MEKK1	component>
+CD40LG	CD40/CD40L (trimer)/TRAF2 (trimer)/TRAF1	component>
+CD40LG	CD40/CD40L (trimer)/JAK3 (trimer)	component>
+CD40LG	CD40/CD40L (trimer)/TRAF2 (trimer)/TRAF6	component>
+CD40LG	CD40/CD40L (trimer)/TRAF3 (trimer)	component>
+CD40LG	CD40/CD40L (trimer)/TRAF6	component>
+CD40LG	CD40/CD40L (trimer)/TRAF2 (trimer)/cIAP1/cIAP2	component>
+CD40LG	CD40/CD40L (trimer)/TRAF2 (trimer)/MEKK1	component>
+CD40LG	CD40/CD40L (trimer)/TRAF6/PI3K Class I family/CBL-b	component>
+CD40LG	CD40/CD40L (trimer)	component>
+CD40LG	CD40/CD40L (trimer)/TTRAP	component>
+FCAMR	None	ACTIVATION
+CD40/CD40L (trimer)/TRAF2 (trimer)/TRAF6	None	ACTIVATION
+CD40/CD40L (trimer)/TRAF2 (trimer)/TRAF6	JNK family-active	ACTIVATION
+CD40/CD40L (trimer)/TRAF2 (trimer)/TRAF6	CD40/CD40L (trimer)/TRAF2 (trimer)/TRAF6	transport
+C4BPA/CD40	NF kappa B1 p50/RelA/I kappa B alpha	ACTIVATION
+NFKBIA	NF kappa B1 p50/RelA/I kappa B alpha	component>
+BIRC3	CD40/CD40L (trimer)/TRAF2 (trimer)/cIAP1/cIAP2	component>
+BIRC3	cIAP1/cIAP2/TRAF2/TRAF3	component>
+BIRC3	cIAP1/cIAP2/TRAF2	component>
+PI3K Class I family	CD40/CD40L (trimer)/TRAF6/PI3K Class I family/CBL-b	component>
+cIAP1/cIAP2/TRAF2/TRAF3	MAP3K14	ACTIVATION
+AKT1	AKT1	transport
+CD40/CD40L (trimer)/TRAF6/PI3K Class I family/CBL-b	AKT1	ACTIVATION
+MAP2K4	JNK family-active	ACTIVATION
+MAP2K4	MAP2K4	-a>
+Zn2+	CD40/CD40L (trimer)/TRAF2 (trimer)/TRAF6	ACTIVATION
+CD40/CD40L (trimer)/TTRAP	NF kappa B1 p50/RelA/I kappa B alpha	INHIBITION
+TRAF1	CD40/CD40L (trimer)/TRAF2 (trimer)/TRAF1	component>
+TRAF1	None	INHIBITION
+NF kappa B1 p50/RelA/I kappa B alpha	NF kappa B1 p50/RelA/I kappa B alpha	-a>
+C4BPA	C4BPA/CD40	component>
+JNK family	JNK family-active	-a>
+JUN	JUN	-a>
+STAT5A	STAT5A (dimer)	component>
+STAT5A	STAT5A	-a>
+CD40/CD40L (trimer)/TRAF2 (trimer)/cIAP1/cIAP2	TRAF3	ACTIVATION
+p38alpha-beta	p38alpha-beta-active	-a>
+JAK3	CD40/CD40L (trimer)/JAK3 (trimer)	component>
+NFKB1	NF kappa B1/RelA	component>
+NFKB1	NF kappa B1 p50/RelA/I kappa B alpha	component>
+RELA	NF kappa B1/RelA	component>
+RELA	NF kappa B1 p50/RelA/I kappa B alpha	component>
+CBLB	CD40/CD40L (trimer)/TRAF6/PI3K Class I family/CBL-b	component>
+CBLB	TRAF2/CBL-b	component>
+TRAF2	CD40/CD40L (trimer)/TRAF2 (trimer)/TRAF1	component>
+TRAF2	cIAP1/cIAP2/TRAF2/TRAF3	component>
+TRAF2	TRAF2/CBL-b	component>
+TRAF2	CD40/CD40L (trimer)/TRAF2 (trimer)/TRAF6	component>
+TRAF2	CD40/CD40L (trimer)/TRAF2 (trimer)/cIAP1/cIAP2	component>
+TRAF2	CD40/CD40L (trimer)/TRAF2 (trimer)/MEKK1	component>
+TRAF2	cIAP1/cIAP2/TRAF2	component>
+TRAF3	CD40/CD40L (trimer)/TRAF3 (trimer)	component>
+TRAF3	cIAP1/cIAP2/TRAF2/TRAF3	component>
+TRAF3	TRAF3	-a>
+TRAF6	CD40/CD40L (trimer)/TRAF6/PI3K Class I family/CBL-b	component>
+TRAF6	CD40/CD40L (trimer)/TRAF6	component>
+CD40/CD40L (trimer)/TRAF3 (trimer)	JNK family	ACTIVATION
+CD40	CD40/CD40L (trimer)/TRAF2 (trimer)/TRAF1	component>
+CD40	CD40/CD40L (trimer)/JAK3 (trimer)	component>
+CD40	CD40/CD40L (trimer)/TRAF2 (trimer)/TRAF6	component>
+CD40	CD40/CD40L (trimer)/TRAF3 (trimer)	component>
+CD40	C4BPA/CD40	component>
+CD40	CD40/CD40L (trimer)/TRAF6	component>
+CD40	CD40/CD40L (trimer)/TRAF2 (trimer)/cIAP1/cIAP2	component>
+CD40	CD40/CD40L (trimer)/TRAF2 (trimer)/MEKK1	component>
+CD40	CD40/CD40L (trimer)/TRAF6/PI3K Class I family/CBL-b	component>
+CD40	CD40/CD40L (trimer)	component>
+CD40	CD40/CD40L (trimer)/TTRAP	component>
+BIRC2	CD40/CD40L (trimer)/TRAF2 (trimer)/cIAP1/cIAP2	component>
+BIRC2	cIAP1/cIAP2/TRAF2/TRAF3	component>
+BIRC2	cIAP1/cIAP2/TRAF2	component>
+JNK family-active	JNK family	-a>
+JNK family-active	JUN	ACTIVATION
+None	p38alpha-beta-active	ACTIVATION
+None	None	ACTIVATION
+None	NF kappa B1 p50/RelA/I kappa B alpha	ACTIVATION
+None	JNK family	ACTIVATION
+None	CD40/CD40L (trimer)/JAK3 (trimer)	ACTIVATION
+None	JNK family-active	ACTIVATION
+None	http://pid.nci.nih.gov/biopaxpid_35689	ACTIVATION
+TDP2	CD40/CD40L (trimer)/TTRAP	component>
+STAT5A (dimer)	STAT5A (dimer)	transport
+CD40/CD40L (trimer)/TRAF6	p38alpha-beta-active	ACTIVATION
+CD40/CD40L (trimer)/TRAF6	None	ACTIVATION
+CD40/CD40L (trimer)/TRAF6	NF kappa B1 p50/RelA/I kappa B alpha	ACTIVATION
+CD40/CD40L (trimer)/TRAF2 (trimer)/MEKK1	p38alpha-beta-active	ACTIVATION
+CD40/CD40L (trimer)/TRAF2 (trimer)/MEKK1	None	ACTIVATION
+CD40/CD40L (trimer)/TRAF2 (trimer)/MEKK1	MAP2K4	ACTIVATION
+IL4	None	ACTIVATION
+MAP3K14	MAP3K14	-a>
+CD40/CD40L (trimer)/JAK3 (trimer)	STAT5A	ACTIVATION

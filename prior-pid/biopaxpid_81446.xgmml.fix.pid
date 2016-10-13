@@ -1,0 +1,72 @@
+complex	AP-1
+protein	CSNK2A1
+complex	ELK-1/SRF/SRF
+protein	ELK1
+protein	FOS
+protein	GRB2
+protein	HRAS
+complex	IGF-1/IGF-1/IGF-1R-alpha/IGF-1R-alpha/IGF-1R-beta/IGF-1R-beta
+protein	IGF1
+protein	IGF1R
+protein	IRS1
+protein	JUN
+protein	MAP2K1
+protein	MAPK3
+protein	MAPK8
+complex	PI3K
+protein	PIK3CA
+protein	PIK3R1
+protein	PTPN11
+protein	RAF1
+protein	RASA1
+complex	SHC/GRB2/SOS-1
+protein	SHC1
+complex	SHP-2/GRB2/SOS-1
+protein	SOS1
+protein	SRF
+SmallMolecule	guanosine 5`-triphosphate
+SmallMolecule	nucleoside diphosphate
+HRAS	RAF1	ACTIVATION
+HRAS	HRAS	-a>
+HRAS	nucleoside diphosphate	-a>
+MAP2K1	MAPK3	ACTIVATION
+MAP2K1	MAP2K1	-a>
+SHC/GRB2/SOS-1	nucleoside diphosphate	ACTIVATION
+SHC/GRB2/SOS-1	SHC/GRB2/SOS-1	-a>
+RAF1	MAP2K1	ACTIVATION
+RAF1	RAF1	-a>
+IGF-1/IGF-1/IGF-1R-alpha/IGF-1R-alpha/IGF-1R-beta/IGF-1R-beta	SHC/GRB2/SOS-1	ACTIVATION
+PIK3CA	PI3K	component>
+FOS	AP-1	component>
+FOS	FOS	-a>
+JUN	AP-1	component>
+JUN	JUN	-a>
+MAPK3	MAPK3	transport
+MAPK3	ELK1	ACTIVATION
+ELK1	ELK-1/SRF/SRF	component>
+ELK1	ELK1	-a>
+ELK1	FOS	ACTIVATION
+PIK3R1	PI3K	component>
+guanosine 5`-triphosphate	HRAS	-a>
+guanosine 5`-triphosphate	nucleoside diphosphate	-a>
+MAPK8	JUN	ACTIVATION
+IGF1R	IGF-1/IGF-1/IGF-1R-alpha/IGF-1R-alpha/IGF-1R-beta/IGF-1R-beta	component>
+IGF1	IGF-1/IGF-1/IGF-1R-alpha/IGF-1R-alpha/IGF-1R-beta/IGF-1R-beta	component>
+SRF	ELK-1/SRF/SRF	component>
+SRF	SRF	-a>
+SHC1	SHC/GRB2/SOS-1	component>
+PI3K	PI3K	-a>
+RASA1	HRAS	ACTIVATION
+CSNK2A1	SRF	ACTIVATION
+CSNK2A1	JUN	ACTIVATION
+SOS1	SHP-2/GRB2/SOS-1	component>
+SOS1	SHC/GRB2/SOS-1	component>
+IRS1	PTPN11	ACTIVATION
+IRS1	GRB2	ACTIVATION
+IRS1	PI3K	ACTIVATION
+GRB2	SHP-2/GRB2/SOS-1	component>
+GRB2	GRB2	-a>
+GRB2	SHC/GRB2/SOS-1	component>
+SHP-2/GRB2/SOS-1	HRAS	ACTIVATION
+PTPN11	SHP-2/GRB2/SOS-1	component>
+PTPN11	PTPN11	-a>

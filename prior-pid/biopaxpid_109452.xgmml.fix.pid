@@ -1,0 +1,216 @@
+protein	CDC42
+complex	CDC42/GDP
+complex	CDC42/GTP
+protein	CRK
+protein	DNM1
+protein	EFNA5
+protein	EFNB1
+protein	EFNB2
+protein	EPHB1
+protein	EPHB1-2
+protein	EPHB2
+protein	EPHB3
+protein	EPHB4
+protein	ERK1-2
+protein	Endophilin
+complex	Ephrin A5/EPHB2
+protein	Ephrin B
+complex	Ephrin B/EPHB1
+complex	Ephrin B/EPHB1/GRB7
+complex	Ephrin B/EPHB1/Src
+complex	Ephrin B/EPHB1/Src/Paxillin
+complex	Ephrin B/EPHB1/Src/p52 SHC/GRB2
+complex	Ephrin B/EPHB2
+complex	Ephrin B/EPHB2/Intersectin/N-WASP
+complex	Ephrin B/EPHB2/KALRN
+complex	Ephrin B/EPHB2/RasGAP
+complex	Ephrin B/EPHB3
+complex	Ephrin B1/EPHB1
+complex	Ephrin B1/EPHB1-2
+complex	Ephrin B1/EPHB1-2/NCK1
+complex	Ephrin B1/EPHB3
+complex	Ephrin B2/EPHB1-2
+complex	Ephrin B2/EPHB4
+protein	Erk1-2-active
+SmallMolecule	GDP
+protein	GRB2
+protein	GRB7
+SmallMolecule	GTP
+protein	HRAS
+complex	HRAS/GDP
+complex	HRAS/GTP
+protein	ITSN1
+protein	KALRN
+protein	MAP2K1
+protein	MAP4K4
+protein	NCK1
+protein	None
+protein	PAK1
+complex	PI3K
+protein	PIK3CA
+protein	PIK3R1
+protein	PTK2
+protein	PXN
+protein	RAC1
+protein	RAC1-CDC42
+complex	RAC1-CDC42/GDP
+complex	RAC1-CDC42/GTP
+complex	RAC1/GDP
+complex	RAC1/GTP
+protein	RAP1
+complex	RAP1/GDP
+complex	RAP1/GTP
+protein	RAS family
+complex	RAS family/GDP
+complex	RAS family/GTP
+protein	RASA1
+protein	ROCK1
+protein	RRAS
+protein	SHC1
+protein	SRC
+protein	SYNJ1
+protein	TF
+protein	WASL
+EFNB2	Ephrin B2/EPHB1-2	component>
+EFNB2	Ephrin B2/EPHB4	component>
+Ephrin B1/EPHB1-2	GDP	INHIBITION
+Ephrin B1/EPHB1-2	None	ACTIVATION
+Ephrin B1/EPHB1-2	PTK2	INHIBITION
+RAS family/GTP	GTP	-a>
+RAS family/GTP	RAS family/GDP	-a>
+PTK2	PTK2	-a>
+Ephrin A5/EPHB2	None	ACTIVATION
+CDC42/GDP	GDP	-a>
+CDC42/GDP	CDC42/GTP	-a>
+EPHB1-2	Ephrin B1/EPHB1-2	component>
+EPHB1-2	Ephrin B2/EPHB1-2	component>
+EPHB1-2	Ephrin B1/EPHB1-2/NCK1	component>
+KALRN	Ephrin B/EPHB2/KALRN	component>
+HRAS	HRAS/GDP	component>
+HRAS	HRAS/GTP	component>
+Erk1-2-active	None	ACTIVATION
+RRAS	RRAS	-a>
+RRAS	None	INHIBITION
+CDC42/GTP	None	ACTIVATION
+MAP2K1	Erk1-2-active	ACTIVATION
+MAP2K1	MAP2K1	-a>
+EFNB1	Ephrin B1/EPHB1-2	component>
+EFNB1	Ephrin B1/EPHB3	component>
+EFNB1	Ephrin B1/EPHB1	component>
+EFNB1	Ephrin B1/EPHB1-2/NCK1	component>
+DNM1	None	ACTIVATION
+WASL	Ephrin B/EPHB2/Intersectin/N-WASP	component>
+CRK	GDP	ACTIVATION
+CRK	CRK	transport
+CRK	None	ACTIVATION
+Ephrin B/EPHB2/RasGAP	GTP	ACTIVATION
+MAP4K4	None	ACTIVATION
+MAP4K4	MAP4K4	-a>
+Ephrin B1/EPHB1-2/NCK1	MAP4K4	ACTIVATION
+ITSN1	Ephrin B/EPHB2/Intersectin/N-WASP	component>
+Ephrin B/EPHB1/Src/p52 SHC/GRB2	MAP2K1	ACTIVATION
+RAC1	RAC1/GTP	component>
+RAC1	RAC1/GDP	component>
+RAS family/GDP	None	ACTIVATION
+EPHB3	Ephrin B/EPHB3	component>
+EPHB3	Ephrin B1/EPHB3	component>
+SYNJ1	TF	ACTIVATION
+SYNJ1	None	ACTIVATION
+PXN	Ephrin B/EPHB1/Src/Paxillin	component>
+PIK3R1	PI3K	component>
+Ephrin B1/EPHB3	RAC1-CDC42/GTP	INHIBITION
+Ephrin B1/EPHB3	ROCK1	ACTIVATION
+TF	TF	transport
+RAC1/GTP	None	ACTIVATION
+HRAS/GTP	GTP	-a>
+HRAS/GTP	HRAS/GDP	-a>
+EPHB2	Ephrin B/EPHB2	component>
+EPHB2	Ephrin B/EPHB2/RasGAP	component>
+EPHB2	Ephrin B/EPHB2/KALRN	component>
+EPHB2	Ephrin A5/EPHB2	component>
+EPHB2	Ephrin B/EPHB2/Intersectin/N-WASP	component>
+SRC	Ephrin B/EPHB1/Src	component>
+SRC	Ephrin B/EPHB1/Src/p52 SHC/GRB2	component>
+SRC	Ephrin B/EPHB1/Src/Paxillin	component>
+None	Ephrin B1/EPHB1-2	ACTIVATION
+None	None	ACTIVATION
+None	Ephrin B1/EPHB1	ACTIVATION
+None	Ephrin A5/EPHB2	ACTIVATION
+None	Ephrin B1/EPHB3	ACTIVATION
+None	Ephrin B2/EPHB1-2	ACTIVATION
+None	Ephrin B2/EPHB4	ACTIVATION
+None	Ephrin B/EPHB2	ACTIVATION
+None	Ephrin B/EPHB3	ACTIVATION
+None	Ephrin B/EPHB1	ACTIVATION
+EPHB1	Ephrin B/EPHB1/Src	component>
+EPHB1	Ephrin B/EPHB1	component>
+EPHB1	Ephrin B/EPHB1/Src/p52 SHC/GRB2	component>
+EPHB1	Ephrin B1/EPHB1	component>
+EPHB1	Ephrin B/EPHB1/GRB7	component>
+EPHB1	Ephrin B/EPHB1/Src/Paxillin	component>
+SHC1	Ephrin B/EPHB1/Src/p52 SHC/GRB2	component>
+EPHB4	Ephrin B2/EPHB4	component>
+PI3K	None	ACTIVATION
+PI3K	PI3K	-a>
+RAC1/GDP	GDP	-a>
+RAC1/GDP	RAC1/GTP	-a>
+EFNA5	Ephrin A5/EPHB2	component>
+Ephrin B2/EPHB4	RAC1/GTP	ACTIVATION
+Ephrin B2/EPHB4	PI3K	ACTIVATION
+Ephrin B	Ephrin B/EPHB1/Src	component>
+Ephrin B	Ephrin B/EPHB1	component>
+Ephrin B	Ephrin B/EPHB1/Src/p52 SHC/GRB2	component>
+Ephrin B	Ephrin B/EPHB2/KALRN	component>
+Ephrin B	Ephrin B/EPHB1/GRB7	component>
+Ephrin B	Ephrin B/EPHB2/Intersectin/N-WASP	component>
+Ephrin B	Ephrin B/EPHB2	component>
+Ephrin B	Ephrin B/EPHB3	component>
+Ephrin B	Ephrin B/EPHB2/RasGAP	component>
+Ephrin B	Ephrin B/EPHB1/Src/Paxillin	component>
+GTP	GDP	-a>
+GTP	RAS family/GTP	component>
+GTP	RAP1/GTP	component>
+GTP	CDC42/GTP	component>
+GTP	RAC1-CDC42/GTP	component>
+GTP	RAC1/GTP	component>
+GTP	HRAS/GTP	component>
+Ephrin B/EPHB1/GRB7	None	ACTIVATION
+Ephrin B/EPHB2/Intersectin/N-WASP	CDC42/GTP	ACTIVATION
+Ephrin B/EPHB2	RRAS	ACTIVATION
+Ephrin B/EPHB2	Endophilin	ACTIVATION
+Ephrin B/EPHB3	None	INHIBITION
+Ephrin B/EPHB1	GTP	ACTIVATION
+Ephrin B/EPHB1	RAC1/GTP	ACTIVATION
+Ephrin B/EPHB1	CRK	ACTIVATION
+RAP1/GTP	None	ACTIVATION
+RASA1	Ephrin B/EPHB2/RasGAP	component>
+GDP	CDC42/GDP	component>
+GDP	RAC1-CDC42/GDP	component>
+GDP	RAP1/GDP	component>
+GDP	HRAS/GDP	component>
+GDP	GTP	-a>
+GDP	RAS family/GDP	component>
+GDP	RAC1/GDP	component>
+RAC1-CDC42	RAC1-CDC42/GDP	component>
+RAC1-CDC42	RAC1-CDC42/GTP	component>
+RAC1-CDC42/GDP	GDP	-a>
+RAC1-CDC42/GDP	RAC1-CDC42/GTP	-a>
+NCK1	Ephrin B1/EPHB1-2/NCK1	component>
+RAP1	RAP1/GDP	component>
+RAP1	RAP1/GTP	component>
+Ephrin B/EPHB2/KALRN	PAK1	ACTIVATION
+RAP1/GDP	GDP	-a>
+RAP1/GDP	RAP1/GTP	-a>
+ROCK1	None	INHIBITION
+ROCK1	ROCK1	-a>
+ERK1-2	Erk1-2-active	-a>
+GRB2	Ephrin B/EPHB1/Src/p52 SHC/GRB2	component>
+GRB7	Ephrin B/EPHB1/GRB7	component>
+PIK3CA	PI3K	component>
+Ephrin B/EPHB1/Src/Paxillin	None	ACTIVATION
+RAS family	RAS family/GDP	component>
+RAS family	RAS family/GTP	component>
+PAK1	None	ACTIVATION
+PAK1	PAK1	-a>
+CDC42	CDC42/GTP	component>
+CDC42	CDC42/GDP	component>

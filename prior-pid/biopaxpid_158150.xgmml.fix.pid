@@ -1,0 +1,22 @@
+SmallMolecule	Adenosine 5'-diphosphate
+SmallMolecule	Adenosine 5'-triphosphate
+protein	CDK1
+protein	MAP2K1
+protein	MAPK3
+complex	MEK1:ERK-1
+complex	phospho-ERK-1 dimer
+complex	phospho-ERK-1:MEK1
+phospho-ERK-1 dimer	phospho-ERK-1 dimer	-a>
+Adenosine 5'-triphosphate	Adenosine 5'-diphosphate	-a>
+Adenosine 5'-triphosphate	MAP2K1	-a>
+Adenosine 5'-triphosphate	phospho-ERK-1:MEK1	-a>
+MEK1:ERK-1	Adenosine 5'-diphosphate	-a>
+MEK1:ERK-1	phospho-ERK-1:MEK1	-a>
+CDK1	MAP2K1	ACTIVATION
+MAP2K1	MEK1:ERK-1	component>
+MAP2K1	Adenosine 5'-diphosphate	-a>
+MAP2K1	MAP2K1	-a>
+MAP2K1	phospho-ERK-1:MEK1	component>
+MAPK3	MEK1:ERK-1	component>
+MAPK3	phospho-ERK-1 dimer	component>
+MAPK3	phospho-ERK-1:MEK1	component>

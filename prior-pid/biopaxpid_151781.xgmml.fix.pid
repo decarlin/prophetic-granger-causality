@@ -1,0 +1,99 @@
+protein	40s Ribosome subunit
+complex	48S/S6
+protein	AKT1
+complex	EIF-2-beta/EIF-2-gamma/EIF-2-alpha
+complex	EIF-4E/EIF4EBP
+complex	EIF-4F
+protein	EIF2B5
+protein	EIF2S1
+protein	EIF2S2
+protein	EIF2S3
+protein	EIF4A1
+protein	EIF4E
+protein	EIF4EBP1
+protein	EIF4G1
+protein	GSK3B
+complex	IGF-1/IGF-1R
+protein	IGF1
+protein	IGF1R
+protein	INPPL1
+protein	MKNK1
+protein	MTOR
+rna	Met-tRNA
+protein	None
+complex	PABP/EIF-4F
+protein	PABPC1
+protein	PDK2
+complex	PI3K
+protein	PIK3CA
+protein	PIK3R1
+SmallMolecule	PIP2
+SmallMolecule	PIP3
+protein	PPP2R5D
+protein	PSMC4
+protein	PTEN
+protein	RPS6
+SmallMolecule	guanosine 5'-triphosphate
+SmallMolecule	guanosine diphosphate
+SmallMolecule	rapamycin (tn)
+Met-tRNA	48S/S6	component>
+EIF-2-beta/EIF-2-gamma/EIF-2-alpha	None	ACTIVATION
+EIF-2-beta/EIF-2-gamma/EIF-2-alpha	EIF-2-beta/EIF-2-gamma/EIF-2-alpha	-a>
+EIF-2-beta/EIF-2-gamma/EIF-2-alpha	guanosine diphosphate	-a>
+PABPC1	PABP/EIF-4F	component>
+PABPC1	48S/S6	component>
+MKNK1	EIF-4F	ACTIVATION
+RPS6	RPS6	-a>
+RPS6	None	ACTIVATION
+IGF-1/IGF-1R	PI3K	ACTIVATION
+EIF2S1	EIF-2-beta/EIF-2-gamma/EIF-2-alpha	component>
+EIF2S3	EIF-2-beta/EIF-2-gamma/EIF-2-alpha	component>
+rapamycin (tn)	MTOR	ACTIVATION
+INPPL1	AKT1	ACTIVATION
+PIK3CA	PI3K	component>
+PIP2	PIP3	-a>
+PIK3R1	PI3K	component>
+48S/S6	None	ACTIVATION
+guanosine 5'-triphosphate	EIF-2-beta/EIF-2-gamma/EIF-2-alpha	-a>
+guanosine 5'-triphosphate	guanosine diphosphate	-a>
+IGF1R	IGF-1/IGF-1R	component>
+IGF1	IGF-1/IGF-1R	component>
+PIP3	PIP2	-a>
+PIP3	GSK3B	ACTIVATION
+PI3K	PIP3	ACTIVATION
+PI3K	PI3K	-a>
+MTOR	PPP2R5D	ACTIVATION
+MTOR	EIF4E	ACTIVATION
+MTOR	MTOR	-a>
+MTOR	GSK3B	ACTIVATION
+EIF4E	PABP/EIF-4F	component>
+EIF4E	EIF-4E/EIF4EBP	component>
+EIF4E	EIF-4F	component>
+EIF4E	48S/S6	component>
+40s Ribosome subunit	48S/S6	component>
+AKT1	AKT1	-a>
+AKT1	MTOR	ACTIVATION
+AKT1	GSK3B	ACTIVATION
+EIF2B5	EIF2B5	-a>
+EIF2B5	EIF-2-beta/EIF-2-gamma/EIF-2-alpha	ACTIVATION
+PSMC4	48S/S6	component>
+EIF4G1	PABP/EIF-4F	component>
+EIF4G1	EIF-4F	component>
+EIF4G1	48S/S6	component>
+GSK3B	EIF2B5	ACTIVATION
+GSK3B	AKT1	ACTIVATION
+GSK3B	PDK2	-a>
+GSK3B	RPS6	ACTIVATION
+GSK3B	GSK3B	-a>
+PTEN	PIP2	ACTIVATION
+PDK2	AKT1	ACTIVATION
+PDK2	PDK2	-a>
+PDK2	GSK3B	-a>
+EIF4EBP1	EIF4EBP1	-a>
+EIF4EBP1	EIF-4E/EIF4EBP	component>
+PPP2R5D	PPP2R5D	-a>
+PPP2R5D	EIF4EBP1	ACTIVATION
+EIF4A1	PABP/EIF-4F	component>
+EIF4A1	EIF-4F	component>
+EIF4A1	48S/S6	component>
+EIF2S2	EIF-2-beta/EIF-2-gamma/EIF-2-alpha	component>

@@ -1,0 +1,200 @@
+SmallMolecule	1-O-(3-sn-phosphatidyl)-1D-myo-inositol 4,5-bis(dihydrogen phosphate)
+SmallMolecule	1-acyl-sn-glycero-3-phosphocholines
+SmallMolecule	3,5,6-trioxyphosphate-1,2,4-cyclohexanetriol
+SmallMolecule	Adenosine triphosphate
+PhysicalEntity	Antigen
+complex	Antigen-antibody complex
+SmallMolecule	Arachidonsaeure
+SmallMolecule	Ca(2+)
+SmallMolecule	H3adp
+protein	HV101_HUMAN
+protein	HV102_HUMAN
+protein	HV104_HUMAN
+protein	HV105_HUMAN
+protein	HV106_HUMAN
+protein	HV107_HUMAN
+protein	HV201_HUMAN
+protein	HV202_HUMAN
+protein	HV203_HUMAN
+protein	HV204_HUMAN
+protein	HV205_HUMAN
+protein	HV206_HUMAN
+protein	HV207_HUMAN
+protein	HV208_HUMAN
+protein	HV209_HUMAN
+protein	HV301_HUMAN
+protein	HV302_HUMAN
+protein	HV303_HUMAN
+protein	HV304_HUMAN
+protein	HV305_HUMAN
+protein	HV306_HUMAN
+protein	HV307_HUMAN
+protein	HV308_HUMAN
+protein	HV309_HUMAN
+protein	HV310_HUMAN
+protein	HV311_HUMAN
+protein	HV312_HUMAN
+protein	HV313_HUMAN
+protein	HV314_HUMAN
+protein	HV315_HUMAN
+protein	HV316_HUMAN
+protein	HV317_HUMAN
+protein	HV318_HUMAN
+protein	HV319_HUMAN
+protein	HV320_HUMAN
+protein	HV321_HUMAN
+protein	IGHG1
+protein	IGHG2
+protein	IGHG3
+protein	IGHG4
+complex	IP3 receptor homotetramer
+complex	IP3 receptor:IP3 complex
+family	IP3 receptors
+protein	ITPR1
+protein	ITPR2
+protein	ITPR3
+complex	Ig Antibody Light Chain
+complex	Ig G Antibody
+family	Ig Heavy Chain V Region
+family	Ig gamma C region
+complex	Ig gamma heavy chain
+SmallMolecule	N-trimethylethanolamine
+complex	PI3K
+family	PI3K-catalytic subunit
+family	PI3K-regulatory subunit
+complex	PI3K:p-6Y-SYK
+protein	PIK3CA
+protein	PIK3CB
+protein	PIK3R1
+protein	PIK3R2
+family	PKC-delta/epsilon
+protein	PLCG1
+protein	PLCG2
+protein	PRKCD
+protein	PRKCE
+family	Phospho-PKC-delta/epsilon
+family	Phospholipase C gamma1 and Phospholipase C gamma2
+family	Phosphorylated Phospholipase C gamma1 and Phosphorylated Phospholipase C gamma2
+SmallMolecule	PtsIns-3,4,5-P3
+protein	SYK
+protein	UniProt:A2KUC3 IGHV
+protein	UniProt:Q6PIL0 IGHV7-81
+complex	clustered IgG-Ag:p-FCGRs
+complex	clustered IgG-Ag:p-FCGRs:p-6Y-SYK
+complex	clustered IgG-Ag:p-FCGRs:p-6Y-SYK:PLCG
+complex	clustered IgG-Ag:p-FCGRs:p-6Y-SYK:p-3Y-PLCG
+SmallMolecule	diacylglycerols [ChEBI:18035]
+SmallMolecule	hydrogen hydroxide
+SmallMolecule	lecithins
+PhysicalEntity	p-FCGRs
+SmallMolecule	phosphatidic acids
+SmallMolecule	tetraoxophosphate(V)
+IGHG4	Ig gamma C region	member>
+IGHG1	Ig gamma C region	member>
+IGHG2	Ig gamma C region	member>
+IGHG3	Ig gamma C region	member>
+HV305_HUMAN	Ig Heavy Chain V Region	member>
+PI3K-regulatory subunit	PI3K	component>
+3,5,6-trioxyphosphate-1,2,4-cyclohexanetriol	IP3 receptor:IP3 complex	component>
+HV321_HUMAN	Ig Heavy Chain V Region	member>
+PIK3CA	PI3K-catalytic subunit	member>
+PIK3CB	PI3K-catalytic subunit	member>
+HV205_HUMAN	Ig Heavy Chain V Region	member>
+PKC-delta/epsilon	H3adp	-a>
+PKC-delta/epsilon	Phospho-PKC-delta/epsilon	-a>
+HV206_HUMAN	Ig Heavy Chain V Region	member>
+PtsIns-3,4,5-P3	clustered IgG-Ag:p-FCGRs:p-6Y-SYK:p-3Y-PLCG	component>
+PtsIns-3,4,5-P3	H3adp	-a>
+1-O-(3-sn-phosphatidyl)-1D-myo-inositol 4,5-bis(dihydrogen phosphate)	H3adp	-a>
+1-O-(3-sn-phosphatidyl)-1D-myo-inositol 4,5-bis(dihydrogen phosphate)	diacylglycerols [ChEBI:18035]	-a>
+1-O-(3-sn-phosphatidyl)-1D-myo-inositol 4,5-bis(dihydrogen phosphate)	PtsIns-3,4,5-P3	-a>
+1-O-(3-sn-phosphatidyl)-1D-myo-inositol 4,5-bis(dihydrogen phosphate)	3,5,6-trioxyphosphate-1,2,4-cyclohexanetriol	-a>
+Ig G Antibody	Antigen-antibody complex	component>
+HV107_HUMAN	Ig Heavy Chain V Region	member>
+HV314_HUMAN	Ig Heavy Chain V Region	member>
+SYK	clustered IgG-Ag:p-FCGRs:p-6Y-SYK	component>
+Antigen	Antigen-antibody complex	component>
+HV301_HUMAN	Ig Heavy Chain V Region	member>
+hydrogen hydroxide	phosphatidic acids	-a>
+hydrogen hydroxide	diacylglycerols [ChEBI:18035]	-a>
+hydrogen hydroxide	1-acyl-sn-glycero-3-phosphocholines	-a>
+hydrogen hydroxide	Arachidonsaeure	-a>
+hydrogen hydroxide	tetraoxophosphate(V)	-a>
+hydrogen hydroxide	3,5,6-trioxyphosphate-1,2,4-cyclohexanetriol	-a>
+hydrogen hydroxide	N-trimethylethanolamine	-a>
+HV313_HUMAN	Ig Heavy Chain V Region	member>
+HV310_HUMAN	Ig Heavy Chain V Region	member>
+clustered IgG-Ag:p-FCGRs:p-6Y-SYK:p-3Y-PLCG	clustered IgG-Ag:p-FCGRs:p-6Y-SYK	-a>
+clustered IgG-Ag:p-FCGRs:p-6Y-SYK:p-3Y-PLCG	PtsIns-3,4,5-P3	-a>
+clustered IgG-Ag:p-FCGRs:p-6Y-SYK:p-3Y-PLCG	Phosphorylated Phospholipase C gamma1 and Phosphorylated Phospholipase C gamma2	-a>
+HV308_HUMAN	Ig Heavy Chain V Region	member>
+UniProt:Q6PIL0 IGHV7-81	Ig Heavy Chain V Region	member>
+HV304_HUMAN	Ig Heavy Chain V Region	member>
+p-FCGRs	clustered IgG-Ag:p-FCGRs	component>
+HV209_HUMAN	Ig Heavy Chain V Region	member>
+HV319_HUMAN	Ig Heavy Chain V Region	member>
+Phospholipase C gamma1 and Phospholipase C gamma2	clustered IgG-Ag:p-FCGRs:p-6Y-SYK:PLCG	component>
+Ig gamma heavy chain	Ig G Antibody	component>
+HV203_HUMAN	Ig Heavy Chain V Region	member>
+PIK3R2	PI3K-regulatory subunit	member>
+PIK3R1	PI3K-regulatory subunit	member>
+HV105_HUMAN	Ig Heavy Chain V Region	member>
+Ig gamma C region	Ig gamma heavy chain	component>
+HV302_HUMAN	Ig Heavy Chain V Region	member>
+HV306_HUMAN	Ig Heavy Chain V Region	member>
+HV202_HUMAN	Ig Heavy Chain V Region	member>
+HV102_HUMAN	Ig Heavy Chain V Region	member>
+ITPR2	IP3 receptors	member>
+ITPR3	IP3 receptors	member>
+clustered IgG-Ag:p-FCGRs	clustered IgG-Ag:p-FCGRs:p-6Y-SYK	component>
+HV208_HUMAN	Ig Heavy Chain V Region	member>
+HV316_HUMAN	Ig Heavy Chain V Region	member>
+phosphatidic acids	diacylglycerols [ChEBI:18035]	-a>
+phosphatidic acids	tetraoxophosphate(V)	-a>
+HV315_HUMAN	Ig Heavy Chain V Region	member>
+HV207_HUMAN	Ig Heavy Chain V Region	member>
+Ig Antibody Light Chain	Ig G Antibody	component>
+HV312_HUMAN	Ig Heavy Chain V Region	member>
+HV201_HUMAN	Ig Heavy Chain V Region	member>
+HV106_HUMAN	Ig Heavy Chain V Region	member>
+UniProt:A2KUC3 IGHV	Ig Heavy Chain V Region	member>
+Phosphorylated Phospholipase C gamma1 and Phosphorylated Phospholipase C gamma2	clustered IgG-Ag:p-FCGRs:p-6Y-SYK:p-3Y-PLCG	component>
+Adenosine triphosphate	clustered IgG-Ag:p-FCGRs:p-6Y-SYK:p-3Y-PLCG	-a>
+Adenosine triphosphate	H3adp	-a>
+Adenosine triphosphate	PtsIns-3,4,5-P3	-a>
+Adenosine triphosphate	Phospho-PKC-delta/epsilon	-a>
+HV311_HUMAN	Ig Heavy Chain V Region	member>
+Antigen-antibody complex	clustered IgG-Ag:p-FCGRs	component>
+clustered IgG-Ag:p-FCGRs:p-6Y-SYK	clustered IgG-Ag:p-FCGRs:p-6Y-SYK:p-3Y-PLCG	component>
+clustered IgG-Ag:p-FCGRs:p-6Y-SYK	PI3K:p-6Y-SYK	component>
+clustered IgG-Ag:p-FCGRs:p-6Y-SYK	clustered IgG-Ag:p-FCGRs:p-6Y-SYK:PLCG	component>
+Ig Heavy Chain V Region	Ig gamma heavy chain	component>
+PI3K	PI3K:p-6Y-SYK	component>
+PI3K-catalytic subunit	PI3K	component>
+HV317_HUMAN	Ig Heavy Chain V Region	member>
+IP3 receptors	IP3 receptor homotetramer	component>
+HV303_HUMAN	Ig Heavy Chain V Region	member>
+IP3 receptor homotetramer	IP3 receptor:IP3 complex	component>
+Ca(2+)	Ca(2+)	-a>
+HV101_HUMAN	Ig Heavy Chain V Region	member>
+HV307_HUMAN	Ig Heavy Chain V Region	member>
+PLCG2	Phospholipase C gamma1 and Phospholipase C gamma2	member>
+PLCG2	Phosphorylated Phospholipase C gamma1 and Phosphorylated Phospholipase C gamma2	member>
+PLCG1	Phospholipase C gamma1 and Phospholipase C gamma2	member>
+PLCG1	Phosphorylated Phospholipase C gamma1 and Phosphorylated Phospholipase C gamma2	member>
+HV104_HUMAN	Ig Heavy Chain V Region	member>
+HV309_HUMAN	Ig Heavy Chain V Region	member>
+HV320_HUMAN	Ig Heavy Chain V Region	member>
+HV204_HUMAN	Ig Heavy Chain V Region	member>
+HV318_HUMAN	Ig Heavy Chain V Region	member>
+clustered IgG-Ag:p-FCGRs:p-6Y-SYK:PLCG	clustered IgG-Ag:p-FCGRs:p-6Y-SYK:p-3Y-PLCG	-a>
+clustered IgG-Ag:p-FCGRs:p-6Y-SYK:PLCG	H3adp	-a>
+PRKCE	PKC-delta/epsilon	member>
+PRKCE	Phospho-PKC-delta/epsilon	member>
+PRKCD	PKC-delta/epsilon	member>
+PRKCD	Phospho-PKC-delta/epsilon	member>
+ITPR1	IP3 receptors	member>
+lecithins	phosphatidic acids	-a>
+lecithins	N-trimethylethanolamine	-a>
+lecithins	1-acyl-sn-glycero-3-phosphocholines	-a>
+lecithins	Arachidonsaeure	-a>

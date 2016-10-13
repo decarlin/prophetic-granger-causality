@@ -1,0 +1,115 @@
+complex	AP-1
+protein	B-cell antigen
+complex	B-cell antigen/BCR complex
+complex	B-cell antigen/BCR/CD79A/CD79B/Btk/LYN/BLNK
+protein	BCR
+protein	BLNK
+protein	BTK
+protein	CD79A
+protein	CD79B
+protein	CSNK2A1
+SmallMolecule	Ca ++
+protein	CaM
+complex	Calcineurin
+SmallMolecule	DAG
+protein	ELK1
+protein	FOS
+protein	GRB2
+protein	HRAS
+SmallMolecule	IP3
+protein	JUN
+protein	LYN
+protein	MAP2K1
+protein	MAP3K1
+protein	MAPK14
+protein	MAPK3
+protein	MAPK8
+protein	NFATc
+protein	None
+SmallMolecule	PIP2
+protein	PKC
+protein	PLCG1
+protein	PPP3CA
+protein	PPP3CB
+protein	PPP3CC
+protein	RAC1
+protein	RAF1
+complex	SHC/GRB2/SOS-1
+protein	SHC1
+protein	SOS1
+protein	SYK
+protein	VAV1
+SmallMolecule	guanosine 5'-triphosphate
+SmallMolecule	guanosine diphosphate
+B-cell antigen/BCR/CD79A/CD79B/Btk/LYN/BLNK	SYK	ACTIVATION
+B-cell antigen/BCR/CD79A/CD79B/Btk/LYN/BLNK	PLCG1	ACTIVATION
+B-cell antigen/BCR/CD79A/CD79B/Btk/LYN/BLNK	SHC/GRB2/SOS-1	ACTIVATION
+HRAS	HRAS	-a>
+HRAS	RAF1	ACTIVATION
+HRAS	guanosine diphosphate	-a>
+MAPK14	MAPK14	-a>
+MAPK14	JUN	ACTIVATION
+IP3	Ca ++	ACTIVATION
+MAP2K1	MAPK3	ACTIVATION
+MAP2K1	MAP2K1	-a>
+SHC/GRB2/SOS-1	SHC/GRB2/SOS-1	-a>
+SHC/GRB2/SOS-1	guanosine diphosphate	ACTIVATION
+RAF1	MAP2K1	ACTIVATION
+RAF1	RAF1	-a>
+BCR	B-cell antigen/BCR/CD79A/CD79B/Btk/LYN/BLNK	component>
+BCR	B-cell antigen/BCR complex	component>
+CD79A	B-cell antigen/BCR/CD79A/CD79B/Btk/LYN/BLNK	component>
+CD79A	B-cell antigen/BCR complex	component>
+DAG	PKC	ACTIVATION
+MAPK3	MAPK3	transport
+MAPK3	JUN	ACTIVATION
+CD79B	B-cell antigen/BCR/CD79A/CD79B/Btk/LYN/BLNK	component>
+CD79B	B-cell antigen/BCR complex	component>
+PIP2	IP3	-a>
+PIP2	DAG	-a>
+JUN	AP-1	component>
+JUN	JUN	-a>
+CaM	Calcineurin	ACTIVATION
+CaM	CaM	-a>
+PKC	PKC	-a>
+PKC	ELK1	ACTIVATION
+ELK1	None	ACTIVATION
+ELK1	ELK1	-a>
+ELK1	FOS	ACTIVATION
+AP-1	None	ACTIVATION
+MAPK8	MAPK8	-a>
+MAPK8	JUN	ACTIVATION
+guanosine 5'-triphosphate	HRAS	-a>
+guanosine 5'-triphosphate	guanosine diphosphate	-a>
+FOS	AP-1	component>
+FOS	FOS	-a>
+BLNK	B-cell antigen/BCR/CD79A/CD79B/Btk/LYN/BLNK	component>
+MAP3K1	MAPK14	ACTIVATION
+MAP3K1	MAPK8	ACTIVATION
+MAP3K1	MAP3K1	-a>
+Calcineurin	Calcineurin	-a>
+Calcineurin	NFATc	ACTIVATION
+SHC1	SHC/GRB2/SOS-1	component>
+Ca ++	PKC	ACTIVATION
+Ca ++	CaM	ACTIVATION
+Ca ++	Ca ++	transport
+NFATc	None	ACTIVATION
+NFATc	NFATc	-a>
+LYN	B-cell antigen/BCR/CD79A/CD79B/Btk/LYN/BLNK	component>
+CSNK2A1	JUN	INHIBITION
+SOS1	SHC/GRB2/SOS-1	component>
+B-cell antigen	B-cell antigen/BCR/CD79A/CD79B/Btk/LYN/BLNK	component>
+B-cell antigen	B-cell antigen/BCR complex	component>
+SYK	SYK	-a>
+SYK	VAV1	ACTIVATION
+PLCG1	PLCG1	-a>
+PLCG1	DAG	ACTIVATION
+VAV1	VAV1	-a>
+VAV1	RAC1	ACTIVATION
+GRB2	SHC/GRB2/SOS-1	component>
+RAC1	MAP3K1	ACTIVATION
+RAC1	RAC1	-a>
+PPP3CA	Calcineurin	component>
+PPP3CB	Calcineurin	component>
+PPP3CC	Calcineurin	component>
+BTK	B-cell antigen/BCR/CD79A/CD79B/Btk/LYN/BLNK	component>

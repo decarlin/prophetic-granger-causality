@@ -1,0 +1,119 @@
+protein	40s Ribosome subunit
+complex	40s Ribosome subunit/60s Ribosome Subunit/RNA strand
+protein	60s Ribosome Subunit
+protein	AKT1
+SmallMolecule	CCI-779
+complex	EIF-4E/EIF-4G/EIF-4A
+complex	EIF-4E/EIF-4G/EIF-4A/eIF-4B/RNA strand
+complex	EIF-4E/EIF4EBP
+protein	EIF3A
+protein	EIF4A1
+protein	EIF4B
+protein	EIF4E
+protein	EIF4EBP1
+protein	EIF4G1
+complex	FKBP12/Rapamycin
+protein	FKBP1A
+complex	GH R/IRS-1
+complex	GH/GH R
+protein	GH1
+protein	GHR
+protein	IRS1
+protein	MKNK1
+protein	MTOR
+protein	None
+protein	PDK2
+protein	PDPK1
+complex	PI3K
+protein	PIK3CA
+protein	PIK3R1
+SmallMolecule	PIP2
+SmallMolecule	PIP3
+protein	PPP2R5D
+protein	PTEN
+protein	RHEB
+rna	RNA strand
+protein	RPS6
+complex	RPS6(+)/eIF3/40s Ribosome subunit
+complex	RPS6/eIF3/40s Ribosome subunit
+protein	RPS6KB1
+SmallMolecule	Rapamycin
+protein	TSC1
+complex	TSC1/TSC2
+protein	TSC2
+SmallMolecule	guanosine 5'-triphosphate
+SmallMolecule	guanosine diphosphate
+GHR	GH/GH R	component>
+MKNK1	EIF-4E/EIF-4G/EIF-4A	ACTIVATION
+AKT1	AKT1	-a>
+AKT1	TSC1/TSC2	ACTIVATION
+AKT1	MTOR	ACTIVATION
+AKT1	RPS6KB1	ACTIVATION
+PIP2	PIP3	-a>
+TSC2	TSC1/TSC2	component>
+TSC1	TSC1/TSC2	component>
+Rapamycin	FKBP12/Rapamycin	component>
+EIF3A	RPS6/eIF3/40s Ribosome subunit	component>
+EIF3A	RPS6(+)/eIF3/40s Ribosome subunit	component>
+RPS6/eIF3/40s Ribosome subunit	RPS6(+)/eIF3/40s Ribosome subunit	-a>
+RPS6KB1	RPS6KB1	-a>
+RPS6KB1	RPS6(+)/eIF3/40s Ribosome subunit	ACTIVATION
+RPS6KB1	EIF4B	ACTIVATION
+PIK3R1	PI3K	component>
+EIF4B	EIF-4E/EIF-4G/EIF-4A/eIF-4B/RNA strand	component>
+EIF4B	EIF4B	-a>
+guanosine 5'-triphosphate	RHEB	-a>
+guanosine 5'-triphosphate	guanosine diphosphate	-a>
+PIP3	PDK2	ACTIVATION
+PIP3	PIP2	-a>
+PI3K	PIP3	ACTIVATION
+PI3K	PI3K	-a>
+FKBP1A	FKBP12/Rapamycin	component>
+FKBP12/Rapamycin	MTOR	ACTIVATION
+TSC1/TSC2	TSC1/TSC2	-a>
+TSC1/TSC2	guanosine diphosphate	ACTIVATION
+MTOR	PPP2R5D	ACTIVATION
+MTOR	RPS6KB1	ACTIVATION
+MTOR	MTOR	-a>
+MTOR	EIF4EBP1	ACTIVATION
+RNA strand	EIF-4E/EIF-4G/EIF-4A/eIF-4B/RNA strand	component>
+RNA strand	40s Ribosome subunit/60s Ribosome Subunit/RNA strand	component>
+EIF4E	EIF-4E/EIF4EBP	component>
+EIF4E	EIF-4E/EIF-4G/EIF-4A/eIF-4B/RNA strand	component>
+EIF4E	EIF-4E/EIF-4G/EIF-4A	component>
+GH1	GH/GH R	component>
+GH1	IRS1	-a>
+GH1	GH R/IRS-1	component>
+40s Ribosome subunit	RPS6/eIF3/40s Ribosome subunit	component>
+40s Ribosome subunit	40s Ribosome subunit/60s Ribosome Subunit/RNA strand	component>
+40s Ribosome subunit	RPS6(+)/eIF3/40s Ribosome subunit	component>
+60s Ribosome Subunit	40s Ribosome subunit/60s Ribosome Subunit/RNA strand	component>
+RPS6	RPS6/eIF3/40s Ribosome subunit	component>
+RPS6	RPS6(+)/eIF3/40s Ribosome subunit	component>
+EIF4G1	EIF-4E/EIF-4G/EIF-4A/eIF-4B/RNA strand	component>
+EIF4G1	EIF-4E/EIF-4G/EIF-4A	component>
+IRS1	GH R/IRS-1	component>
+IRS1	PI3K	ACTIVATION
+CCI-779	MTOR	ACTIVATION
+PTEN	PIP2	ACTIVATION
+PDK2	AKT1	ACTIVATION
+PDK2	PDK2	-a>
+PDK2	PDPK1	-a>
+EIF4EBP1	EIF-4E/EIF4EBP	component>
+EIF4EBP1	EIF4EBP1	-a>
+GH R/IRS-1	GH/GH R	-a>
+GH R/IRS-1	IRS1	-a>
+PIK3CA	PI3K	component>
+PPP2R5D	PPP2R5D	-a>
+PPP2R5D	EIF-4E/EIF-4G/EIF-4A	ACTIVATION
+PPP2R5D	RPS6KB1	ACTIVATION
+PPP2R5D	EIF4EBP1	ACTIVATION
+PDPK1	AKT1	ACTIVATION
+PDPK1	PDK2	-a>
+PDPK1	PDPK1	-a>
+RHEB	RHEB	-a>
+RHEB	MTOR	ACTIVATION
+RHEB	guanosine diphosphate	-a>
+EIF4A1	EIF-4E/EIF-4G/EIF-4A/eIF-4B/RNA strand	component>
+EIF4A1	EIF-4E/EIF-4G/EIF-4A	component>
+40s Ribosome subunit/60s Ribosome Subunit/RNA strand	None	ACTIVATION

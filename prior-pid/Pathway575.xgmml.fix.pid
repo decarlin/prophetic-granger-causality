@@ -1,0 +1,17 @@
+family	ERK1/2/5
+SmallMolecule	H2O
+protein	MAPK1
+protein	MAPK3
+protein	MAPK7
+family	p-ERK1/2/5
+SmallMolecule	tetraoxophosphate(V)
+p-ERK1/2/5	tetraoxophosphate(V)	-a>
+p-ERK1/2/5	ERK1/2/5	-a>
+MAPK3	p-ERK1/2/5	member>
+MAPK3	ERK1/2/5	member>
+H2O	tetraoxophosphate(V)	-a>
+H2O	ERK1/2/5	-a>
+MAPK1	p-ERK1/2/5	member>
+MAPK1	ERK1/2/5	member>
+MAPK7	p-ERK1/2/5	member>
+MAPK7	ERK1/2/5	member>

@@ -1,0 +1,212 @@
+protein	14-3-3 family
+complex	4E-BP1/eIF4E
+protein	AKT1
+protein	AKT1S1
+protein	ATG13
+protein	BNIP3
+protein	CCNE1
+protein	CDK2
+complex	CDK2/Cyclin E1
+protein	CLIP1
+SmallMolecule	Choline
+protein	DEPTOR
+protein	EEF2
+protein	EEF2K
+protein	EIF4A1
+protein	EIF4B
+protein	EIF4E
+protein	EIF4EBP1
+complex	EJC
+protein	ERK1-2
+protein	Erk1-2-active
+SmallMolecule	GDP
+SmallMolecule	GTP
+protein	IKBKB
+protein	IRS1
+protein	MAPKAP1
+protein	MEK1-2
+protein	MEK1-2-active
+protein	MLST8
+protein	MTOR
+protein	None
+protein	PDPK1
+protein	PLD1-2
+protein	PML
+protein	POLDIP3
+protein	PPARGC1A
+complex	PRAS40/14-3-3 family
+protein	PRKCA
+protein	PRR5
+SmallMolecule	Phosphatidic acid
+SmallMolecule	Phosphatidylcholine
+protein	RAF1-BRAF
+protein	RAS family
+complex	RAS family/GTP
+protein	RB1CC1
+protein	RHEB
+complex	RHEB/GTP
+complex	RHEB/GTP/BNIP3
+protein	RICTOR
+protein	RPS6KA1
+protein	RPS6KB1
+protein	RPTOR
+protein	RRN3
+protein	RagA-B
+complex	RagA-B/GTP/RagC-D/GDP
+protein	RagC-D
+complex	SKAR/EJC/mRNA cap binding complex/p70S6K
+protein	SREBF1
+protein	TSC1
+complex	TSC1/TSC2
+complex	TSC1/TSC2/IKK beta
+protein	TSC2
+protein	ULK1-2
+protein	YY1
+protein	beta TrCP1-2
+protein	mRNA cap binding complex
+complex	mTORC1
+complex	mTORC1/PGC1A/YY1
+complex	mTORC1/PRAS40/DEPTOR
+complex	mTORC1/PRAS40/DEPTOR/14-3-3 family
+complex	mTORC1/PRAS40/DEPTOR/PML
+complex	mTORC1/ULK1-2/ATG13/FIP200
+complex	mTORC2
+complex	mTORC2/DEPTOR
+SmallMolecule	phosphate
+RAS family/GTP	RAF1-BRAF	ACTIVATION
+RagC-D	RagA-B/GTP/RagC-D/GDP	component>
+EEF2K	EEF2K	-a>
+EEF2K	EEF2	ACTIVATION
+Erk1-2-active	RPS6KA1	ACTIVATION
+Erk1-2-active	TSC2	ACTIVATION
+mTORC1	RPS6KB1	ACTIVATION
+mTORC1	4E-BP1/eIF4E	ACTIVATION
+mTORC1	IRS1	ACTIVATION
+mTORC1	RRN3	ACTIVATION
+mTORC1	CLIP1	ACTIVATION
+mTORC1	SREBF1	ACTIVATION
+IKBKB	TSC1/TSC2/IKK beta	component>
+AKT1	AKT1	-a>
+AKT1	None	INHIBITION
+AKT1	AKT1S1	ACTIVATION
+AKT1	TSC1	ACTIVATION
+4E-BP1/eIF4E	None	ACTIVATION
+4E-BP1/eIF4E	4E-BP1/eIF4E	-a>
+YY1	mTORC1/PGC1A/YY1	component>
+RB1CC1	mTORC1/ULK1-2/ATG13/FIP200	component>
+RICTOR	mTORC2/DEPTOR	component>
+RICTOR	mTORC2	component>
+ULK1-2	mTORC1/ULK1-2/ATG13/FIP200	component>
+TSC1	TSC1/TSC2/IKK beta	component>
+TSC1	TSC1/TSC2	component>
+14-3-3 family	mTORC1/PRAS40/DEPTOR/14-3-3 family	component>
+14-3-3 family	PRAS40/14-3-3 family	component>
+MAPKAP1	mTORC2/DEPTOR	component>
+MAPKAP1	mTORC2	component>
+beta TrCP1-2	None	ACTIVATION
+mTORC1/PRAS40/DEPTOR	mTORC1/PRAS40/DEPTOR	transport
+RHEB	RHEB/GTP/BNIP3	component>
+RHEB	RHEB/GTP	component>
+POLDIP3	SKAR/EJC/mRNA cap binding complex/p70S6K	component>
+TSC2	TSC1/TSC2/IKK beta	component>
+TSC2	TSC1/TSC2	component>
+MLST8	mTORC1/PRAS40/DEPTOR/PML	component>
+MLST8	mTORC1/PRAS40/DEPTOR	component>
+MLST8	mTORC2/DEPTOR	component>
+MLST8	mTORC1	component>
+MLST8	mTORC2	component>
+MLST8	mTORC1/ULK1-2/ATG13/FIP200	component>
+MLST8	mTORC1/PRAS40/DEPTOR/14-3-3 family	component>
+MLST8	mTORC1/PGC1A/YY1	component>
+CCNE1	CDK2/Cyclin E1	component>
+RPS6KB1	EEF2K	ACTIVATION
+RPS6KB1	RPS6KB1	-a>
+RPS6KB1	IRS1	ACTIVATION
+RPS6KB1	EIF4A1	ACTIVATION
+RPS6KB1	SKAR/EJC/mRNA cap binding complex/p70S6K	component>
+RPS6KB1	EIF4B	ACTIVATION
+PRR5	mTORC2/DEPTOR	component>
+PRR5	mTORC2	component>
+CDK2/Cyclin E1	RRN3	ACTIVATION
+Phosphatidic acid	mTORC2/DEPTOR	ACTIVATION
+Phosphatidic acid	mTORC1/PRAS40/DEPTOR	ACTIVATION
+CLIP1	CLIP1	-a>
+AKT1S1	mTORC1/PRAS40/DEPTOR/PML	component>
+AKT1S1	mTORC1/PRAS40/DEPTOR/14-3-3 family	component>
+AKT1S1	PRAS40/14-3-3 family	component>
+AKT1S1	mTORC1/PRAS40/DEPTOR	component>
+RPTOR	mTORC1/PRAS40/DEPTOR/PML	component>
+RPTOR	mTORC1/PRAS40/DEPTOR	component>
+RPTOR	mTORC1	component>
+RPTOR	mTORC1/ULK1-2/ATG13/FIP200	component>
+RPTOR	mTORC1/PRAS40/DEPTOR/14-3-3 family	component>
+RPTOR	mTORC1/PGC1A/YY1	component>
+mTORC1/ULK1-2/ATG13/FIP200	None	INHIBITION
+PML	mTORC1/PRAS40/DEPTOR/PML	component>
+BNIP3	RHEB/GTP/BNIP3	component>
+SKAR/EJC/mRNA cap binding complex/p70S6K	None	ACTIVATION
+None	EEF2K	ACTIVATION
+None	mTORC1/PRAS40/DEPTOR	ACTIVATION
+MEK1-2-active	Erk1-2-active	ACTIVATION
+RPS6KA1	RPS6KA1	-a>
+RPS6KA1	TSC1/TSC2	ACTIVATION
+PRKCA	PRKCA	-a>
+RagA-B	RagA-B/GTP/RagC-D/GDP	component>
+RHEB/GTP	phosphate	-a>
+RHEB/GTP	AKT1S1	ACTIVATION
+RHEB/GTP	RHEB/GTP	-a>
+ERK1-2	Erk1-2-active	-a>
+mTORC2	PRKCA	ACTIVATION
+mTORC2	AKT1	ACTIVATION
+mTORC2	None	ACTIVATION
+mTORC2	PDPK1	ACTIVATION
+Phosphatidylcholine	Phosphatidic acid	-a>
+Phosphatidylcholine	Choline	-a>
+RRN3	RRN3	transport
+RRN3	None	ACTIVATION
+ATG13	mTORC1/ULK1-2/ATG13/FIP200	component>
+MTOR	mTORC1/PRAS40/DEPTOR/PML	component>
+MTOR	mTORC1/PRAS40/DEPTOR	component>
+MTOR	mTORC2/DEPTOR	component>
+MTOR	mTORC1	component>
+MTOR	mTORC2	component>
+MTOR	mTORC1/ULK1-2/ATG13/FIP200	component>
+MTOR	mTORC1/PRAS40/DEPTOR/14-3-3 family	component>
+MTOR	mTORC1/PGC1A/YY1	component>
+EIF4E	4E-BP1/eIF4E	component>
+MEK1-2	MEK1-2-active	-a>
+EJC	SKAR/EJC/mRNA cap binding complex/p70S6K	component>
+PLD1-2	Phosphatidic acid	ACTIVATION
+EIF4B	EIF4A1	ACTIVATION
+EIF4B	EIF4B	-a>
+GDP	RHEB/GTP	component>
+GDP	RagA-B/GTP/RagC-D/GDP	component>
+GTP	RAS family/GTP	component>
+GTP	RHEB/GTP/BNIP3	component>
+GTP	RHEB/GTP	component>
+GTP	RagA-B/GTP/RagC-D/GDP	component>
+TSC1/TSC2	TSC1/TSC2	-a>
+TSC1/TSC2	DEPTOR	ACTIVATION
+TSC1/TSC2	RHEB/GTP	ACTIVATION
+DEPTOR	mTORC1/PRAS40/DEPTOR/14-3-3 family	component>
+DEPTOR	mTORC1/PRAS40/DEPTOR/PML	component>
+DEPTOR	mTORC2/DEPTOR	component>
+DEPTOR	mTORC1/PRAS40/DEPTOR	component>
+mRNA cap binding complex	SKAR/EJC/mRNA cap binding complex/p70S6K	component>
+EIF4A1	EIF4A1	-a>
+IRS1	None	INHIBITION
+IRS1	IRS1	-a>
+PPARGC1A	mTORC1/PGC1A/YY1	component>
+CDK2	CDK2/Cyclin E1	component>
+EIF4EBP1	4E-BP1/eIF4E	component>
+RAF1-BRAF	MEK1-2-active	ACTIVATION
+RAF1-BRAF	RAF1-BRAF	-a>
+RagA-B/GTP/RagC-D/GDP	mTORC1/PRAS40/DEPTOR	ACTIVATION
+PDPK1	PDPK1	-a>
+PDPK1	PDPK1	ACTIVATION
+PDPK1	None	INHIBITION
+PDPK1	RPS6KB1	ACTIVATION
+SREBF1	None	ACTIVATION
+SREBF1	SREBF1	transport
+RAS family	RAS family/GTP	component>
+EEF2	EEF2	-a>

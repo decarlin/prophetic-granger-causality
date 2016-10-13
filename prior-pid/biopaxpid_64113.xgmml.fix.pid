@@ -1,0 +1,67 @@
+protein	AKT1
+protein	CXCR4
+SmallMolecule	Ca2+
+protein	ERK1-2
+protein	Erk1-2-active
+SmallMolecule	GDP
+protein	GNA12
+protein	GNA13
+SmallMolecule	GTP
+protein	Gi family
+protein	Gq family
+protein	JAK2
+protein	None
+complex	PDGF-BB/PDGFRB (dimer)
+protein	PDGFB
+protein	PDGFRB
+protein	RAC1
+complex	RAC1/GDP
+complex	RAC1/GTP
+protein	RHOA
+complex	RHOA/GDP
+complex	RHOA/GTP
+SmallMolecule	S1P
+complex	S1P/S1P3/G12/G13
+complex	S1P/S1P3/Gi
+complex	S1P/S1P3/Gq
+protein	S1PR3
+protein	SRC
+PDGFRB	PDGF-BB/PDGFRB (dimer)	component>
+AKT1	AKT1	-a>
+Gi family	S1P/S1P3/Gi	component>
+PDGF-BB/PDGFRB (dimer)	AKT1	ACTIVATION
+Gq family	S1P/S1P3/Gq	component>
+S1PR3	S1P/S1P3/Gq	component>
+S1PR3	S1P/S1P3/Gi	component>
+S1PR3	S1P/S1P3/G12/G13	component>
+Ca2+	Ca2+	transport
+JAK2	JAK2	-a>
+CXCR4	JAK2	ACTIVATION
+CXCR4	CXCR4	-a>
+SRC	SRC	-a>
+SRC	JAK2	ACTIVATION
+PDGFB	PDGF-BB/PDGFRB (dimer)	component>
+S1P/S1P3/Gi	SRC	ACTIVATION
+S1P/S1P3/Gi	Erk1-2-active	ACTIVATION
+S1P/S1P3/Gi	AKT1	ACTIVATION
+S1P/S1P3/Gi	RHOA/GTP	ACTIVATION
+S1P/S1P3/Gi	None	ACTIVATION
+S1P/S1P3/Gi	Ca2+	ACTIVATION
+S1P/S1P3/Gi	CXCR4	ACTIVATION
+S1P/S1P3/Gi	RAC1/GTP	ACTIVATION
+RAC1	RAC1/GTP	component>
+RAC1	RAC1/GDP	component>
+RAC1/GDP	RAC1/GTP	-a>
+S1P	S1P/S1P3/Gq	component>
+S1P	S1P/S1P3/Gi	component>
+S1P	S1P/S1P3/G12/G13	component>
+GTP	RAC1/GTP	component>
+GTP	RHOA/GTP	component>
+RHOA	RHOA/GDP	component>
+RHOA	RHOA/GTP	component>
+GDP	RAC1/GDP	component>
+GDP	RHOA/GDP	component>
+ERK1-2	Erk1-2-active	-a>
+GNA12	S1P/S1P3/G12/G13	component>
+GNA13	S1P/S1P3/G12/G13	component>
+RHOA/GDP	RHOA/GTP	-a>

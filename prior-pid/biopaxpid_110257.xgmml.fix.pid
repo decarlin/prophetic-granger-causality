@@ -1,0 +1,188 @@
+protein	ACTN1
+protein	AKT1
+protein	ARHGEF6
+protein	ARHGEF7
+protein	AURKA
+complex	Aurora A/chTOG/TACC3
+protein	CDC37
+protein	CDC42
+complex	CDC42/GDP
+complex	CDC42/GTP
+protein	CKAP5
+protein	CREB1
+protein	CTNNB1
+protein	DIAPH1
+protein	ELMO2
+SmallMolecule	GDP
+protein	GIT2
+protein	GSK3B
+SmallMolecule	GTP
+protein	HSP90
+protein	ILK
+complex	ILK/ELMO2
+complex	ILK/ELMO2/RhoG/GTP
+complex	ILK/HSP90/CDC37
+complex	ILK/PINCH1
+complex	ILK/PINCH1/NCK2
+complex	ILK/PINCH1/alpha parvin
+complex	ILK/PINCH1/alpha parvin/Paxillin
+complex	ILK/PINCH1/alpha parvin/tensin
+complex	ILK/PINCH1/alpha parvin/zyxin
+complex	ILK/PINCH1/beta parvin
+complex	ILK/PINCH1/beta parvin/alpha-actinin
+complex	ILK/RICTOR
+complex	ILK/alpha parvin
+complex	ILK/beta parvin
+complex	ILK/betaPIX/PKL
+complex	ILK/gamma parvin
+protein	ILKAP
+protein	IQGAP1
+protein	JUN
+complex	JUN (dimer)
+protein	LIMS1
+protein	MYL9
+SmallMolecule	Mn2+
+protein	NACA
+protein	NCK2
+protein	None
+protein	PARP1
+protein	PARVA
+protein	PARVB
+protein	PARVG
+SmallMolecule	PI-3-4-5-P3
+protein	PPP1R12A
+protein	PPP1R14A
+protein	PPP1R14B
+protein	PPP1R14C
+protein	PXN
+protein	RAC1
+complex	RAC1/GDP
+complex	RAC1/GTP
+protein	RHOG
+protein	RICTOR
+protein	RUVBL1
+protein	RUVBL2
+protein	TACC3
+protein	TNS1
+protein	XPO1
+protein	ZYX
+complex	beta catenin/LEF1
+ILK/gamma parvin	ARHGEF6	ACTIVATION
+TACC3	Aurora A/chTOG/TACC3	component>
+ILK/beta parvin	ARHGEF6	ACTIVATION
+CDC42/GDP	GDP	-a>
+CDC42/GDP	CDC42/GTP	-a>
+HSP90	ILK/HSP90/CDC37	component>
+ILK	ILK/gamma parvin	component>
+ILK	ILK/ELMO2	component>
+ILK	ILK/PINCH1/beta parvin	component>
+ILK	Aurora A/chTOG/TACC3	ACTIVATION
+ILK	beta catenin/LEF1	ACTIVATION
+ILK	IQGAP1	ACTIVATION
+ILK	ILK/PINCH1	component>
+ILK	MYL9	ACTIVATION
+ILK	ILK/HSP90/CDC37	component>
+ILK	ILK/RICTOR	component>
+ILK	ILK/PINCH1/alpha parvin/zyxin	component>
+ILK	ILK/PINCH1/alpha parvin/tensin	component>
+ILK	PPP1R12A	ACTIVATION
+ILK	PPP1R14B	ACTIVATION
+ILK	PPP1R14C	ACTIVATION
+ILK	PPP1R14A	ACTIVATION
+ILK	ILK/PINCH1/beta parvin/alpha-actinin	component>
+ILK	None	ACTIVATION
+ILK	NACA	ACTIVATION
+ILK	PARP1	ACTIVATION
+ILK	CREB1	ACTIVATION
+ILK	ILK	transport
+ILK	ILK/PINCH1/NCK2	component>
+ILK	ILK/PINCH1/alpha parvin	component>
+ILK	ILK/alpha parvin	component>
+ILK	ILK/PINCH1/alpha parvin/Paxillin	component>
+ILK	ILK/beta parvin	component>
+ILK	GSK3B	ACTIVATION
+ILK	ILK/ELMO2/RhoG/GTP	component>
+ILK	ILK/betaPIX/PKL	component>
+CTNNB1	beta catenin/LEF1	component>
+CDC42/GTP	None	ACTIVATION
+LIMS1	ILK/PINCH1/beta parvin/alpha-actinin	component>
+LIMS1	ILK/PINCH1/alpha parvin/Paxillin	component>
+LIMS1	ILK/PINCH1/beta parvin	component>
+LIMS1	ILK/PINCH1/alpha parvin/zyxin	component>
+LIMS1	ILK/PINCH1/alpha parvin/tensin	component>
+LIMS1	ILK/PINCH1/NCK2	component>
+LIMS1	ILK/PINCH1/alpha parvin	component>
+LIMS1	ILK/PINCH1	component>
+Mn2+	ILK	ACTIVATION
+ILK/betaPIX/PKL	GDP	ACTIVATION
+RICTOR	ILK/RICTOR	component>
+IQGAP1	IQGAP1	-a>
+IQGAP1	DIAPH1	ACTIVATION
+ILK/PINCH1	AKT1	ACTIVATION
+PPP1R12A	PPP1R12A	-a>
+XPO1	ILK	ACTIVATION
+RUVBL1	ILK	ACTIVATION
+RUVBL2	ILK	ACTIVATION
+ARHGEF6	ARHGEF6	-a>
+ARHGEF6	CDC42/GTP	ACTIVATION
+ARHGEF6	RAC1/GTP	ACTIVATION
+ARHGEF7	ILK/betaPIX/PKL	component>
+JUN	JUN (dimer)	component>
+ILK/RICTOR	AKT1	ACTIVATION
+CDC37	ILK/HSP90/CDC37	component>
+ZYX	ILK/PINCH1/alpha parvin/zyxin	component>
+PARVB	ILK/PINCH1/beta parvin/alpha-actinin	component>
+PARVB	ILK/PINCH1/beta parvin	component>
+PARVB	ILK/beta parvin	component>
+RAC1/GTP	None	ACTIVATION
+TNS1	ILK/PINCH1/alpha parvin/tensin	component>
+MYL9	MYL9	-a>
+PPP1R14B	PPP1R14B	-a>
+PPP1R14C	PPP1R14C	-a>
+PXN	ILK/PINCH1/alpha parvin/Paxillin	component>
+ILK/PINCH1/beta parvin/alpha-actinin	None	ACTIVATION
+None	CREB1	ACTIVATION
+NACA	NACA	transport
+DIAPH1	None	ACTIVATION
+DIAPH1	DIAPH1	-a>
+RAC1	RAC1/GTP	component>
+RAC1	RAC1/GDP	component>
+RAC1/GDP	GDP	-a>
+RAC1/GDP	RAC1/GTP	-a>
+PARP1	PARP1	-a>
+CREB1	CREB1	-a>
+GTP	GDP	-a>
+GTP	RAC1/GTP	component>
+GTP	CDC42/GTP	component>
+GTP	ILK/ELMO2/RhoG/GTP	component>
+ILKAP	ILK	ACTIVATION
+GSK3B	JUN (dimer)	ACTIVATION
+GSK3B	None	ACTIVATION
+GSK3B	GSK3B	-a>
+CKAP5	Aurora A/chTOG/TACC3	component>
+ILK/PINCH1/alpha parvin	AKT1	INHIBITION
+AURKA	Aurora A/chTOG/TACC3	component>
+RHOG	ILK/ELMO2/RhoG/GTP	component>
+GDP	CDC42/GDP	component>
+GDP	RAC1/GDP	component>
+ACTN1	ILK/PINCH1/beta parvin/alpha-actinin	component>
+PARVA	ILK/PINCH1/alpha parvin	component>
+PARVA	ILK/PINCH1/alpha parvin/tensin	component>
+PARVA	ILK/PINCH1/alpha parvin/Paxillin	component>
+PARVA	ILK/alpha parvin	component>
+PARVA	ILK/PINCH1/alpha parvin/zyxin	component>
+NCK2	ILK/PINCH1/NCK2	component>
+AKT1	AKT1	-a>
+AKT1	None	INHIBITION
+PI-3-4-5-P3	ILK	ACTIVATION
+Aurora A/chTOG/TACC3	None	ACTIVATION
+Aurora A/chTOG/TACC3	Aurora A/chTOG/TACC3	-a>
+PARVG	ILK/gamma parvin	component>
+JUN (dimer)	JUN (dimer)	-a>
+GIT2	ILK/betaPIX/PKL	component>
+ILK/ELMO2/RhoG/GTP	None	ACTIVATION
+PPP1R14A	PPP1R14A	-a>
+ELMO2	ILK/ELMO2	component>
+ELMO2	ILK/ELMO2/RhoG/GTP	component>
+CDC42	CDC42/GDP	component>
+CDC42	CDC42/GTP	component>

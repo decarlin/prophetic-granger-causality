@@ -1,0 +1,75 @@
+protein	CASP10
+protein	CASP3
+protein	CASP7
+protein	CASP8
+protein	CFLAR
+protein	DAXX
+protein	FADD
+protein	FAF1
+protein	FAS
+complex	FAS L/FAS/DAXX/FADD/FAF1/Caspase 10
+complex	FAS/DAXX/FADD/Caspase 10/FAS L
+protein	FASLG
+complex	I-FLICE/RIP2
+protein	MAP2K4
+protein	MAP3K1
+protein	MAP3K1 (cleaved)
+protein	MAP3K7
+protein	MAPK8
+protein	PAK1
+protein	PAK1 (cleaved)
+protein	PAK2
+protein	PAK2 (cleaved)
+protein	PRKDC
+protein	PRKDC (cleaved)
+protein	PTPN13
+protein	RB1
+protein	RB1 (cleaved)
+protein	RIPK2
+SmallMolecule	n-acylsphingosine
+MAP3K1	MAP3K1	-a>
+MAP3K1	MAP3K1 (cleaved)	-a>
+MAP3K1	MAP2K4	ACTIVATION
+PRKDC	PRKDC (cleaved)	-a>
+CASP10	FAS/DAXX/FADD/Caspase 10/FAS L	component>
+CASP10	FAS L/FAS/DAXX/FADD/FAF1/Caspase 10	component>
+RIPK2	I-FLICE/RIP2	component>
+PAK1 (cleaved)	MAP3K1	ACTIVATION
+MAP2K4	MAPK8	ACTIVATION
+MAP2K4	MAP2K4	-a>
+DAXX	FAS/DAXX/FADD/Caspase 10/FAS L	component>
+DAXX	FAS L/FAS/DAXX/FADD/FAF1/Caspase 10	component>
+FAS	FAS/DAXX/FADD/Caspase 10/FAS L	component>
+FAS	FAS L/FAS/DAXX/FADD/FAF1/Caspase 10	component>
+MAP3K7	MAP3K7	-a>
+MAP3K7	MAP2K4	ACTIVATION
+RB1	RB1 (cleaved)	-a>
+CFLAR	I-FLICE/RIP2	component>
+FADD	FAS/DAXX/FADD/Caspase 10/FAS L	component>
+FADD	FAS L/FAS/DAXX/FADD/FAF1/Caspase 10	component>
+MAPK8	MAPK8	-a>
+FAS L/FAS/DAXX/FADD/FAF1/Caspase 10	CASP7	ACTIVATION
+FAS L/FAS/DAXX/FADD/FAF1/Caspase 10	FAS L/FAS/DAXX/FADD/FAF1/Caspase 10	-a>
+FAS L/FAS/DAXX/FADD/FAF1/Caspase 10	MAP2K4	ACTIVATION
+n-acylsphingosine	MAP3K7	ACTIVATION
+I-FLICE/RIP2	CASP8	INHIBITION
+I-FLICE/RIP2	FAS L/FAS/DAXX/FADD/FAF1/Caspase 10	ACTIVATION
+FAF1	FAS L/FAS/DAXX/FADD/FAF1/Caspase 10	component>
+FASLG	FAS/DAXX/FADD/Caspase 10/FAS L	component>
+FASLG	FAS L/FAS/DAXX/FADD/FAF1/Caspase 10	component>
+CASP7	CASP7	-a>
+CASP7	MAP3K1 (cleaved)	ACTIVATION
+CASP3	RB1 (cleaved)	ACTIVATION
+CASP3	PRKDC (cleaved)	ACTIVATION
+CASP3	CASP3	-a>
+CASP3	PAK2 (cleaved)	ACTIVATION
+PTPN13	CASP8	INHIBITION
+PTPN13	FAS L/FAS/DAXX/FADD/FAF1/Caspase 10	INHIBITION
+PAK2 (cleaved)	MAP3K1	ACTIVATION
+CASP8	CASP7	ACTIVATION
+CASP8	CASP3	ACTIVATION
+CASP8	CASP8	-a>
+PAK1	PAK2 (cleaved)	-a>
+PAK1	PAK1 (cleaved)	-a>
+PAK2	PAK2 (cleaved)	-a>
+PAK2	PAK1 (cleaved)	-a>

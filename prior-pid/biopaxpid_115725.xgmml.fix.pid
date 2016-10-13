@@ -1,0 +1,260 @@
+protein	CDK2
+protein	CISH
+protein	DOK2
+protein	ERK1-2
+protein	Erk1-2-active
+protein	GAB2
+SmallMolecule	GDP
+protein	GRB2
+SmallMolecule	GTP
+protein	IKZF3
+protein	IL2
+complex	IL2/IL2R alpha/beta/gamma/JAK1/LCK/JAK3
+complex	IL2/IL2R alpha/beta/gamma/JAK1/LCK/JAK3/IRS1-2
+complex	IL2/IL2R alpha/beta/gamma/JAK1/LCK/JAK3/IRS1-2/PI3K
+complex	IL2/IL2R alpha/beta/gamma/JAK1/LCK/JAK3/PYK2
+complex	IL2/IL2R alpha/beta/gamma/JAK1/LCK/JAK3/SHC
+complex	IL2/IL2R alpha/beta/gamma/JAK1/LCK/JAK3/SHC/GAB2/GRB2/SOS1/SHP2/PI3K
+complex	IL2/IL2R alpha/beta/gamma/JAK1/LCK/JAK3/SHC/GRB2/SOS1/GAB2
+complex	IL2/IL2R alpha/beta/gamma/JAK1/LCK/JAK3/SHC/GRB2/SOS1/GAB2/SHP2
+complex	IL2/IL2R alpha/beta/gamma/JAK1/LCK/JAK3/STAM1-2
+complex	IL2/IL2R alpha/beta/gamma/JAK1/LCK/JAK3/SYK
+complex	IL2/IL2R beta/gamma/JAK1/Fyn/JAK3
+complex	IL2/IL2R beta/gamma/JAK1/Fyn/JAK3/PI3K
+complex	IL2/IL2R beta/gamma/JAK1/LCK/JAK3
+complex	IL2/IL2R beta/gamma/JAK1/LCK/JAK3/PI3K
+complex	IL2R beta/JAK1/LCK/CISH
+complex	IL2R beta/JAK1/LCK/SOCS1
+complex	IL2R beta/JAK1/LCK/SOCS3
+complex	IL2R beta/JAK1/LCK/SOCS3/SOCS2
+complex	IL2R gamma/JAK3/SOCS1
+protein	IL2RA
+protein	IL2RB
+protein	IL2RG
+protein	IRS1-2
+protein	JAK1
+protein	JNK1-2
+protein	LCK
+protein	MAPKAPK2
+protein	MEK1-2
+protein	None
+complex	PI3K
+protein	PIK3CA
+protein	PIK3R1
+protein	PRKCB
+protein	PRKCE
+protein	PTK2B
+protein	PTPN11
+protein	RAF1
+protein	RAS family
+complex	RAS family/GTP
+protein	RASA1
+protein	RHOA
+complex	RHOA/GDP
+complex	RHOA/GTP
+complex	RasGAP/Dok-R
+protein	SHC1
+protein	SOCS1
+protein	SOCS2
+protein	SOCS3
+complex	SOCS3/RasGAP
+protein	SOS1
+protein	STAM1-2-active
+protein	STAT1
+complex	STAT1 (dimer)
+protein	STAT3
+complex	STAT3 (dimer )
+complex	STAT5 (dimer)-active
+protein	p38alpha-beta
+protein	p38alpha-beta-active
+RAS family/GTP	RAF1	ACTIVATION
+CISH	IL2R beta/JAK1/LCK/CISH	component>
+IL2/IL2R alpha/beta/gamma/JAK1/LCK/JAK3/SYK	PI3K	ACTIVATION
+RHOA/GTP	IL2/IL2R alpha/beta/gamma/JAK1/LCK/JAK3/SHC/GAB2/GRB2/SOS1/SHP2/PI3K	ACTIVATION
+Erk1-2-active	None	ACTIVATION
+Erk1-2-active	CDK2	ACTIVATION
+PTK2B	IL2/IL2R alpha/beta/gamma/JAK1/LCK/JAK3/PYK2	component>
+MEK1-2	MEK1-2	-a>
+MEK1-2	Erk1-2-active	ACTIVATION
+MEK1-2	STAT3 (dimer )	ACTIVATION
+RasGAP/Dok-R	IKZF3	INHIBITION
+RAF1	MEK1-2	ACTIVATION
+RAF1	RAF1	transport
+MAPKAPK2	MAPKAPK2	-a>
+IKZF3	IKZF3	transport
+IL2/IL2R beta/gamma/JAK1/LCK/JAK3	PRKCB	ACTIVATION
+PI3K	PI3K	-a>
+IL2/IL2R alpha/beta/gamma/JAK1/LCK/JAK3/PYK2	None	ACTIVATION
+STAT1	STAT1 (dimer)	component>
+IL2/IL2R alpha/beta/gamma/JAK1/LCK/JAK3/SHC/GRB2/SOS1/GAB2	IKZF3	ACTIVATION
+PIK3CA	IL2/IL2R alpha/beta/gamma/JAK1/LCK/JAK3/IRS1-2/PI3K	component>
+PIK3CA	IL2/IL2R beta/gamma/JAK1/Fyn/JAK3/PI3K	component>
+PIK3CA	IL2/IL2R alpha/beta/gamma/JAK1/LCK/JAK3/SHC/GAB2/GRB2/SOS1/SHP2/PI3K	component>
+PIK3CA	IL2/IL2R beta/gamma/JAK1/LCK/JAK3/PI3K	component>
+PIK3CA	PI3K	component>
+CDK2	None	ACTIVATION
+CDK2	CDK2	transport
+RHOA/GDP	GDP	-a>
+RHOA/GDP	RHOA/GTP	-a>
+DOK2	DOK2	-a>
+DOK2	RasGAP/Dok-R	component>
+IL2/IL2R alpha/beta/gamma/JAK1/LCK/JAK3/SHC	p38alpha-beta-active	ACTIVATION
+IL2/IL2R alpha/beta/gamma/JAK1/LCK/JAK3/SHC	JNK1-2	ACTIVATION
+p38alpha-beta	p38alpha-beta-active	-a>
+PIK3R1	IL2/IL2R alpha/beta/gamma/JAK1/LCK/JAK3/IRS1-2/PI3K	component>
+PIK3R1	IL2/IL2R beta/gamma/JAK1/Fyn/JAK3/PI3K	component>
+PIK3R1	IL2/IL2R alpha/beta/gamma/JAK1/LCK/JAK3/SHC/GAB2/GRB2/SOS1/SHP2/PI3K	component>
+PIK3R1	IL2/IL2R beta/gamma/JAK1/LCK/JAK3/PI3K	component>
+PIK3R1	PI3K	component>
+JAK1	IL2/IL2R beta/gamma/JAK1/LCK/JAK3	component>
+JAK1	IL2/IL2R alpha/beta/gamma/JAK1/LCK/JAK3/PYK2	component>
+JAK1	IL2R beta/JAK1/LCK/SOCS1	component>
+JAK1	IL2/IL2R alpha/beta/gamma/JAK1/LCK/JAK3/SYK	component>
+JAK1	IL2R gamma/JAK3/SOCS1	component>
+JAK1	IL2/IL2R alpha/beta/gamma/JAK1/LCK/JAK3/SHC/GRB2/SOS1/GAB2	component>
+JAK1	IL2/IL2R alpha/beta/gamma/JAK1/LCK/JAK3/SHC/GAB2/GRB2/SOS1/SHP2/PI3K	component>
+JAK1	IL2/IL2R beta/gamma/JAK1/Fyn/JAK3/PI3K	component>
+JAK1	IL2R beta/JAK1/LCK/SOCS3/SOCS2	component>
+JAK1	IL2/IL2R alpha/beta/gamma/JAK1/LCK/JAK3/IRS1-2/PI3K	component>
+JAK1	IL2/IL2R alpha/beta/gamma/JAK1/LCK/JAK3/SHC	component>
+JAK1	IL2R beta/JAK1/LCK/CISH	component>
+JAK1	IL2/IL2R alpha/beta/gamma/JAK1/LCK/JAK3/IRS1-2	component>
+JAK1	IL2/IL2R beta/gamma/JAK1/LCK/JAK3/PI3K	component>
+JAK1	IL2R beta/JAK1/LCK/SOCS3	component>
+JAK1	IL2/IL2R alpha/beta/gamma/JAK1/LCK/JAK3/STAM1-2	component>
+JAK1	IL2/IL2R alpha/beta/gamma/JAK1/LCK/JAK3	component>
+JAK1	IL2/IL2R alpha/beta/gamma/JAK1/LCK/JAK3/SHC/GRB2/SOS1/GAB2/SHP2	component>
+JAK1	IL2/IL2R beta/gamma/JAK1/Fyn/JAK3	component>
+IL2R beta/JAK1/LCK/CISH	IL2/IL2R alpha/beta/gamma/JAK1/LCK/JAK3	INHIBITION
+IL2/IL2R alpha/beta/gamma/JAK1/LCK/JAK3/SHC/GAB2/GRB2/SOS1/SHP2/PI3K	MEK1-2	ACTIVATION
+IRS1-2	IL2/IL2R alpha/beta/gamma/JAK1/LCK/JAK3/IRS1-2/PI3K	component>
+IRS1-2	IL2/IL2R alpha/beta/gamma/JAK1/LCK/JAK3/IRS1-2	component>
+p38alpha-beta-active	None	ACTIVATION
+p38alpha-beta-active	MAPKAPK2	ACTIVATION
+SHC1	IL2/IL2R alpha/beta/gamma/JAK1/LCK/JAK3/SHC/GRB2/SOS1/GAB2	component>
+SHC1	IL2/IL2R alpha/beta/gamma/JAK1/LCK/JAK3/SHC	component>
+SHC1	IL2/IL2R alpha/beta/gamma/JAK1/LCK/JAK3/SHC/GAB2/GRB2/SOS1/SHP2/PI3K	component>
+SHC1	IL2/IL2R alpha/beta/gamma/JAK1/LCK/JAK3/SHC/GRB2/SOS1/GAB2/SHP2	component>
+IL2R gamma/JAK3/SOCS1	IL2/IL2R alpha/beta/gamma/JAK1/LCK/JAK3	INHIBITION
+GAB2	IL2/IL2R alpha/beta/gamma/JAK1/LCK/JAK3/SHC/GRB2/SOS1/GAB2	component>
+GAB2	IL2/IL2R alpha/beta/gamma/JAK1/LCK/JAK3/SHC/GAB2/GRB2/SOS1/SHP2/PI3K	component>
+GAB2	IL2/IL2R alpha/beta/gamma/JAK1/LCK/JAK3/SHC/GRB2/SOS1/GAB2/SHP2	component>
+PRKCB	None	ACTIVATION
+PRKCB	PRKCB	-a>
+PRKCE	None	ACTIVATION
+PRKCE	PRKCE	-a>
+GTP	GDP	-a>
+GTP	RAS family/GTP	component>
+GTP	RHOA/GTP	component>
+STAM1-2-active	IL2/IL2R alpha/beta/gamma/JAK1/LCK/JAK3/STAM1-2	component>
+SOCS3/RasGAP	IKZF3	ACTIVATION
+STAT3	STAT3 (dimer )	component>
+RHOA	RHOA/GDP	component>
+RHOA	RHOA/GTP	component>
+RASA1	SOCS3/RasGAP	component>
+RASA1	RasGAP/Dok-R	component>
+JNK1-2	JNK1-2	-a>
+GDP	RHOA/GDP	component>
+IL2RA	IL2/IL2R alpha/beta/gamma/JAK1/LCK/JAK3/PYK2	component>
+IL2RA	IL2/IL2R alpha/beta/gamma/JAK1/LCK/JAK3/SYK	component>
+IL2RA	IL2/IL2R alpha/beta/gamma/JAK1/LCK/JAK3/IRS1-2/PI3K	component>
+IL2RA	IL2/IL2R alpha/beta/gamma/JAK1/LCK/JAK3/SHC/GRB2/SOS1/GAB2	component>
+IL2RA	IL2/IL2R alpha/beta/gamma/JAK1/LCK/JAK3/SHC/GAB2/GRB2/SOS1/SHP2/PI3K	component>
+IL2RA	IL2/IL2R alpha/beta/gamma/JAK1/LCK/JAK3/SHC	component>
+IL2RA	IL2/IL2R alpha/beta/gamma/JAK1/LCK/JAK3/IRS1-2	component>
+IL2RA	IL2/IL2R alpha/beta/gamma/JAK1/LCK/JAK3/STAM1-2	component>
+IL2RA	IL2/IL2R alpha/beta/gamma/JAK1/LCK/JAK3	component>
+IL2RA	IL2/IL2R alpha/beta/gamma/JAK1/LCK/JAK3/SHC/GRB2/SOS1/GAB2/SHP2	component>
+IL2RB	IL2/IL2R beta/gamma/JAK1/LCK/JAK3	component>
+IL2RB	IL2/IL2R alpha/beta/gamma/JAK1/LCK/JAK3/PYK2	component>
+IL2RB	IL2/IL2R beta/gamma/JAK1/LCK/JAK3/PI3K	component>
+IL2RB	IL2/IL2R alpha/beta/gamma/JAK1/LCK/JAK3/SYK	component>
+IL2RB	IL2/IL2R alpha/beta/gamma/JAK1/LCK/JAK3/IRS1-2/PI3K	component>
+IL2RB	IL2/IL2R alpha/beta/gamma/JAK1/LCK/JAK3/SHC/GRB2/SOS1/GAB2	component>
+IL2RB	IL2/IL2R alpha/beta/gamma/JAK1/LCK/JAK3/SHC/GAB2/GRB2/SOS1/SHP2/PI3K	component>
+IL2RB	IL2/IL2R beta/gamma/JAK1/Fyn/JAK3/PI3K	component>
+IL2RB	IL2R beta/JAK1/LCK/SOCS3/SOCS2	component>
+IL2RB	IL2/IL2R alpha/beta/gamma/JAK1/LCK/JAK3/SHC	component>
+IL2RB	IL2R beta/JAK1/LCK/CISH	component>
+IL2RB	IL2/IL2R alpha/beta/gamma/JAK1/LCK/JAK3/IRS1-2	component>
+IL2RB	IL2R beta/JAK1/LCK/SOCS1	component>
+IL2RB	IL2R beta/JAK1/LCK/SOCS3	component>
+IL2RB	IL2/IL2R alpha/beta/gamma/JAK1/LCK/JAK3/STAM1-2	component>
+IL2RB	IL2/IL2R alpha/beta/gamma/JAK1/LCK/JAK3	component>
+IL2RB	IL2/IL2R alpha/beta/gamma/JAK1/LCK/JAK3/SHC/GRB2/SOS1/GAB2/SHP2	component>
+IL2RB	IL2/IL2R beta/gamma/JAK1/Fyn/JAK3	component>
+SOCS1	IL2R beta/JAK1/LCK/SOCS1	component>
+SOCS1	IL2R gamma/JAK3/SOCS1	component>
+SOS1	IL2/IL2R alpha/beta/gamma/JAK1/LCK/JAK3/SHC/GRB2/SOS1/GAB2	component>
+SOS1	IL2/IL2R alpha/beta/gamma/JAK1/LCK/JAK3/SHC/GAB2/GRB2/SOS1/SHP2/PI3K	component>
+SOS1	IL2/IL2R alpha/beta/gamma/JAK1/LCK/JAK3/SHC/GRB2/SOS1/GAB2/SHP2	component>
+SOCS3	SOCS3/RasGAP	component>
+SOCS3	IL2R beta/JAK1/LCK/SOCS3	component>
+SOCS3	IL2R beta/JAK1/LCK/SOCS3/SOCS2	component>
+SOCS3	SOCS3	-a>
+SOCS2	IL2R beta/JAK1/LCK/SOCS3/SOCS2	component>
+IL2/IL2R alpha/beta/gamma/JAK1/LCK/JAK3	None	ACTIVATION
+IL2/IL2R alpha/beta/gamma/JAK1/LCK/JAK3	SOCS3	ACTIVATION
+IL2/IL2R alpha/beta/gamma/JAK1/LCK/JAK3	PRKCE	ACTIVATION
+IL2/IL2R alpha/beta/gamma/JAK1/LCK/JAK3	RHOA/GTP	ACTIVATION
+IL2/IL2R alpha/beta/gamma/JAK1/LCK/JAK3	DOK2	ACTIVATION
+IL2/IL2R alpha/beta/gamma/JAK1/LCK/JAK3	STAT1 (dimer)	ACTIVATION
+IL2/IL2R alpha/beta/gamma/JAK1/LCK/JAK3	STAT5 (dimer)-active	ACTIVATION
+IL2/IL2R alpha/beta/gamma/JAK1/LCK/JAK3	STAT3 (dimer )	ACTIVATION
+PTPN11	IL2/IL2R alpha/beta/gamma/JAK1/LCK/JAK3/SHC/GAB2/GRB2/SOS1/SHP2/PI3K	component>
+PTPN11	IL2/IL2R alpha/beta/gamma/JAK1/LCK/JAK3/SHC/GRB2/SOS1/GAB2/SHP2	component>
+IL2RG	IL2/IL2R beta/gamma/JAK1/LCK/JAK3	component>
+IL2RG	IL2/IL2R alpha/beta/gamma/JAK1/LCK/JAK3/PYK2	component>
+IL2RG	IL2/IL2R alpha/beta/gamma/JAK1/LCK/JAK3/SYK	component>
+IL2RG	IL2R gamma/JAK3/SOCS1	component>
+IL2RG	IL2/IL2R alpha/beta/gamma/JAK1/LCK/JAK3/SHC/GRB2/SOS1/GAB2	component>
+IL2RG	IL2/IL2R alpha/beta/gamma/JAK1/LCK/JAK3/SHC/GAB2/GRB2/SOS1/SHP2/PI3K	component>
+IL2RG	IL2/IL2R beta/gamma/JAK1/Fyn/JAK3/PI3K	component>
+IL2RG	IL2/IL2R alpha/beta/gamma/JAK1/LCK/JAK3/SHC	component>
+IL2RG	IL2/IL2R alpha/beta/gamma/JAK1/LCK/JAK3/IRS1-2	component>
+IL2RG	IL2/IL2R beta/gamma/JAK1/LCK/JAK3/PI3K	component>
+IL2RG	IL2/IL2R alpha/beta/gamma/JAK1/LCK/JAK3/STAM1-2	component>
+IL2RG	IL2/IL2R alpha/beta/gamma/JAK1/LCK/JAK3/IRS1-2/PI3K	component>
+IL2RG	IL2/IL2R alpha/beta/gamma/JAK1/LCK/JAK3	component>
+IL2RG	IL2/IL2R alpha/beta/gamma/JAK1/LCK/JAK3/SHC/GRB2/SOS1/GAB2/SHP2	component>
+IL2RG	IL2/IL2R beta/gamma/JAK1/Fyn/JAK3	component>
+IL2R beta/JAK1/LCK/SOCS3/SOCS2	None	ACTIVATION
+IL2R beta/JAK1/LCK/SOCS3	IL2/IL2R alpha/beta/gamma/JAK1/LCK/JAK3	INHIBITION
+IL2R beta/JAK1/LCK/SOCS3	STAT5 (dimer)-active	INHIBITION
+ERK1-2	Erk1-2-active	-a>
+GRB2	IL2/IL2R alpha/beta/gamma/JAK1/LCK/JAK3/SHC/GRB2/SOS1/GAB2	component>
+GRB2	IL2/IL2R alpha/beta/gamma/JAK1/LCK/JAK3/SHC/GAB2/GRB2/SOS1/SHP2/PI3K	component>
+GRB2	IL2/IL2R alpha/beta/gamma/JAK1/LCK/JAK3/SHC/GRB2/SOS1/GAB2/SHP2	component>
+IL2	IL2/IL2R beta/gamma/JAK1/LCK/JAK3	component>
+IL2	IL2/IL2R alpha/beta/gamma/JAK1/LCK/JAK3/PYK2	component>
+IL2	IL2/IL2R alpha/beta/gamma/JAK1/LCK/JAK3/SYK	component>
+IL2	IL2/IL2R alpha/beta/gamma/JAK1/LCK/JAK3/IRS1-2/PI3K	component>
+IL2	IL2/IL2R alpha/beta/gamma/JAK1/LCK/JAK3/SHC/GRB2/SOS1/GAB2	component>
+IL2	IL2/IL2R alpha/beta/gamma/JAK1/LCK/JAK3/SHC/GAB2/GRB2/SOS1/SHP2/PI3K	component>
+IL2	IL2/IL2R beta/gamma/JAK1/Fyn/JAK3/PI3K	component>
+IL2	IL2/IL2R alpha/beta/gamma/JAK1/LCK/JAK3/SHC	component>
+IL2	IL2/IL2R alpha/beta/gamma/JAK1/LCK/JAK3/IRS1-2	component>
+IL2	IL2/IL2R beta/gamma/JAK1/LCK/JAK3/PI3K	component>
+IL2	IL2/IL2R alpha/beta/gamma/JAK1/LCK/JAK3/STAM1-2	component>
+IL2	IL2/IL2R alpha/beta/gamma/JAK1/LCK/JAK3	component>
+IL2	IL2/IL2R alpha/beta/gamma/JAK1/LCK/JAK3/SHC/GRB2/SOS1/GAB2/SHP2	component>
+IL2	IL2/IL2R beta/gamma/JAK1/Fyn/JAK3	component>
+IL2R beta/JAK1/LCK/SOCS1	IL2/IL2R alpha/beta/gamma/JAK1/LCK/JAK3	INHIBITION
+IL2R beta/JAK1/LCK/SOCS1	STAT5 (dimer)-active	INHIBITION
+RAS family	RAS family/GTP	component>
+LCK	IL2/IL2R beta/gamma/JAK1/LCK/JAK3	component>
+LCK	IL2/IL2R alpha/beta/gamma/JAK1/LCK/JAK3/PYK2	component>
+LCK	IL2/IL2R beta/gamma/JAK1/LCK/JAK3/PI3K	component>
+LCK	IL2/IL2R alpha/beta/gamma/JAK1/LCK/JAK3/SYK	component>
+LCK	IL2/IL2R alpha/beta/gamma/JAK1/LCK/JAK3/IRS1-2/PI3K	component>
+LCK	IL2/IL2R alpha/beta/gamma/JAK1/LCK/JAK3/SHC/GRB2/SOS1/GAB2	component>
+LCK	IL2/IL2R alpha/beta/gamma/JAK1/LCK/JAK3/SHC/GAB2/GRB2/SOS1/SHP2/PI3K	component>
+LCK	IL2R beta/JAK1/LCK/SOCS3/SOCS2	component>
+LCK	IL2/IL2R alpha/beta/gamma/JAK1/LCK/JAK3/SHC	component>
+LCK	IL2R beta/JAK1/LCK/CISH	component>
+LCK	IL2R beta/JAK1/LCK/SOCS3	component>
+LCK	IL2R beta/JAK1/LCK/SOCS1	component>
+LCK	IL2/IL2R alpha/beta/gamma/JAK1/LCK/JAK3/IRS1-2	component>
+LCK	IL2/IL2R alpha/beta/gamma/JAK1/LCK/JAK3/STAM1-2	component>
+LCK	IL2/IL2R alpha/beta/gamma/JAK1/LCK/JAK3	component>
+LCK	IL2/IL2R alpha/beta/gamma/JAK1/LCK/JAK3/SHC/GRB2/SOS1/GAB2/SHP2	component>

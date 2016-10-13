@@ -1,0 +1,45 @@
+SmallMolecule	Ca2+
+protein	EDN1
+protein	EDNRA
+protein	EGF
+complex	EGF/EGFR
+complex	EGF/EGFR dimer
+complex	EGF/EGFR dimer/SHC
+complex	EGF/EGFR dimer/SHC/GRB2/SOS1
+protein	EGFR
+complex	ETA receptor/Endothelin-1
+SmallMolecule	GDP
+protein	GRB2
+SmallMolecule	GTP
+protein	HRAS
+complex	HRAS/GDP
+complex	HRAS/GTP
+protein	MTOR
+protein	SHC1
+protein	SOS1
+GDP	HRAS/GDP	component>
+SOS1	EGF/EGFR dimer/SHC/GRB2/SOS1	component>
+EGFR	EGF/EGFR dimer	component>
+EGFR	EGF/EGFR dimer/SHC/GRB2/SOS1	component>
+EGFR	EGF/EGFR	component>
+EGFR	EGF/EGFR dimer/SHC	component>
+HRAS	HRAS/GTP	component>
+HRAS	HRAS/GDP	component>
+HRAS/GDP	GDP	-a>
+HRAS/GDP	HRAS/GTP	-a>
+GTP	GDP	-a>
+GTP	HRAS/GTP	component>
+Ca2+	EGF/EGFR	ACTIVATION
+EGF/EGFR dimer/SHC/GRB2/SOS1	HRAS/GTP	ACTIVATION
+EGF/EGFR dimer/SHC/GRB2/SOS1	MTOR	ACTIVATION
+GRB2	EGF/EGFR dimer/SHC/GRB2/SOS1	component>
+MTOR	MTOR	-a>
+EDNRA	ETA receptor/Endothelin-1	component>
+EDN1	ETA receptor/Endothelin-1	component>
+ETA receptor/Endothelin-1	EGF/EGFR	ACTIVATION
+EGF	EGF/EGFR dimer	component>
+EGF	EGF/EGFR dimer/SHC/GRB2/SOS1	component>
+EGF	EGF/EGFR	component>
+EGF	EGF/EGFR dimer/SHC	component>
+SHC1	EGF/EGFR dimer/SHC/GRB2/SOS1	component>
+SHC1	EGF/EGFR dimer/SHC	component>

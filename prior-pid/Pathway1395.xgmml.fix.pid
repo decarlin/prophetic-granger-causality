@@ -1,0 +1,137 @@
+complex	14-3-3E homodimer
+SmallMolecule	5'-adenylphosphoric acid
+protein	AMOT
+family	AMOT proteins
+complex	AMOT:WWTR1 (TAZ)
+complex	AMOT:YAP1
+protein	AMOTL1
+protein	AMOTL2
+SmallMolecule	Adenosine triphosphate
+protein	DVL2
+complex	KIBRA:LATS
+family	LATS
+protein	LATS1
+protein	LATS2
+complex	LATS:p-MOB
+family	MOB1
+protein	MOB1A
+protein	MOB1B
+complex	MST1 dimer
+complex	MST2 dimer
+protein	NPHP4
+complex	NPHP4:LATS
+protein	SAV1
+protein	STK3
+complex	STK3:SAV1
+protein	STK4
+complex	STK4:SAV1
+complex	TAZ:TJP1
+complex	TAZ:TJP2
+protein	TJP1
+protein	TJP2
+protein	WWC1
+protein	WWTR1
+protein	YAP1
+complex	YAP1:TJP2
+protein	YWHAB
+complex	YWHAB dimer
+protein	YWHAE
+family	p-LATS
+complex	p-LATS:p-MOB
+family	p-MOB1
+complex	p-MST1 dimer
+complex	p-MST1/N dimer
+complex	p-MST2 dimer
+complex	p-MST2/N dimer
+complex	p-STK3/N:p-SAV1
+complex	p-STK3:p-SAV1
+complex	p-STK4/N:p-SAV1
+complex	p-STK4:p-SAV1
+complex	p-WWTR1:DVL2
+complex	p-WWTR1:YWHAE
+complex	p-YAP1:YWHAB
+family	phospho-YAP1
+complex	phosphorylated salvador dimer
+complex	salvador dimer
+AMOTL1	AMOT proteins	member>
+AMOTL2	AMOT proteins	member>
+p-MST2 dimer	p-STK3:p-SAV1	component>
+p-STK3:p-SAV1	STK3	-a>
+p-STK3:p-SAV1	p-STK3/N:p-SAV1	-a>
+SAV1	phosphorylated salvador dimer	component>
+SAV1	salvador dimer	component>
+YAP1:TJP2	YAP1:TJP2	-a>
+NPHP4	NPHP4:LATS	component>
+MOB1A	MOB1	member>
+MOB1A	p-MOB1	member>
+MOB1B	MOB1	member>
+MOB1B	p-MOB1	member>
+STK4:SAV1	5'-adenylphosphoric acid	-a>
+STK4:SAV1	p-STK4:p-SAV1	-a>
+p-STK4:p-SAV1	STK4	-a>
+p-STK4:p-SAV1	p-STK4/N:p-SAV1	-a>
+STK4	MST1 dimer	component>
+STK4	p-MST1/N dimer	component>
+STK4	p-MST1 dimer	component>
+p-MST1/N dimer	p-STK4/N:p-SAV1	component>
+14-3-3E homodimer	p-WWTR1:YWHAE	component>
+WWC1	KIBRA:LATS	component>
+Adenosine triphosphate	p-LATS:p-MOB	-a>
+Adenosine triphosphate	WWTR1	-a>
+Adenosine triphosphate	p-STK3:p-SAV1	-a>
+Adenosine triphosphate	5'-adenylphosphoric acid	-a>
+Adenosine triphosphate	p-MOB1	-a>
+Adenosine triphosphate	p-STK4:p-SAV1	-a>
+Adenosine triphosphate	YAP1	-a>
+DVL2	p-WWTR1:DVL2	component>
+MST2 dimer	STK3:SAV1	component>
+AMOT proteins	AMOT:YAP1	component>
+AMOT proteins	AMOT:WWTR1 (TAZ)	component>
+salvador dimer	STK4:SAV1	component>
+salvador dimer	STK3:SAV1	component>
+YWHAE	14-3-3E homodimer	component>
+TJP2	TAZ:TJP2	component>
+TJP2	YAP1:TJP2	component>
+STK3:SAV1	5'-adenylphosphoric acid	-a>
+STK3:SAV1	p-STK3:p-SAV1	-a>
+YWHAB dimer	p-YAP1:YWHAB	component>
+YWHAB	YWHAB dimer	component>
+STK3	p-MST2/N dimer	component>
+STK3	MST2 dimer	component>
+STK3	p-MST2 dimer	component>
+p-MOB1	p-LATS:p-MOB	component>
+p-MOB1	LATS:p-MOB	component>
+p-LATS	p-LATS:p-MOB	component>
+MOB1	5'-adenylphosphoric acid	-a>
+MOB1	p-MOB1	-a>
+YAP1	5'-adenylphosphoric acid	-a>
+YAP1	AMOT:YAP1	component>
+YAP1	phospho-YAP1	member>
+YAP1	YAP1:TJP2	component>
+YAP1	YAP1	-a>
+MST1 dimer	STK4:SAV1	component>
+TJP1	TAZ:TJP1	component>
+LATS	NPHP4:LATS	component>
+LATS	KIBRA:LATS	component>
+LATS	LATS:p-MOB	component>
+LATS2	p-LATS	member>
+LATS2	LATS	member>
+WWTR1	WWTR1	-a>
+WWTR1	p-WWTR1:YWHAE	component>
+WWTR1	5'-adenylphosphoric acid	-a>
+WWTR1	TAZ:TJP2	component>
+WWTR1	TAZ:TJP1	component>
+WWTR1	p-WWTR1:DVL2	component>
+WWTR1	AMOT:WWTR1 (TAZ)	component>
+phosphorylated salvador dimer	p-STK3:p-SAV1	component>
+phosphorylated salvador dimer	p-STK3/N:p-SAV1	component>
+phosphorylated salvador dimer	p-STK4/N:p-SAV1	component>
+phosphorylated salvador dimer	p-STK4:p-SAV1	component>
+LATS:p-MOB	5'-adenylphosphoric acid	-a>
+LATS:p-MOB	p-LATS:p-MOB	-a>
+LATS1	p-LATS	member>
+LATS1	LATS	member>
+phospho-YAP1	p-YAP1:YWHAB	component>
+p-MST2/N dimer	p-STK3/N:p-SAV1	component>
+p-MST1 dimer	p-STK4:p-SAV1	component>
+AMOT	AMOT proteins	member>

@@ -1,0 +1,139 @@
+protein	ADRBK2
+protein	AKAP13
+protein	ARHGDIA
+protein	ARHGEF1
+protein	ARRB1
+SmallMolecule	Ca2+
+protein	Classical PKCs
+SmallMolecule	DAG
+protein	Dynamin
+complex	Dynamin/GTP
+protein	F2
+protein	F2R
+protein	F2RL2
+complex	G beta/gamma
+complex	G beta/gamma/PI3K
+complex	G12/GTP
+complex	G13/GTP
+complex	G13/GTP/p115RhoGEF
+SmallMolecule	GDP
+protein	GNA12
+protein	GNA13
+protein	GNB1
+protein	GNG2
+SmallMolecule	GTP
+complex	Gi family/GTP
+protein	Gq family
+SmallMolecule	IP3
+protein	MYL2
+protein	NOS3
+protein	None
+complex	PAR1/PAR3
+complex	PAR1/beta Arrestin1
+SmallMolecule	PI-4-5-P2
+protein	PIK3CA
+protein	PIK3R1
+protein	PKN1
+protein	PLC beta
+protein	PRKCA
+protein	PRKCD
+protein	RHOA
+complex	RHOA/GDP
+complex	RHOA/GTP
+protein	ROCK1-ROCK2
+protein	SNX1
+complex	SNX1/SNX2
+protein	SNX2
+protein	TRPC6
+protein	VASP
+protein	ZYX
+complex	myosin II complex
+SNX1/SNX2	F2R	INHIBITION
+SNX1	SNX1/SNX2	component>
+SNX1	F2R	ACTIVATION
+G12/GTP	AKAP13	ACTIVATION
+G12/GTP	ARHGEF1	ACTIVATION
+SNX2	SNX1/SNX2	component>
+RHOA/GTP	PKN1	ACTIVATION
+RHOA/GTP	ROCK1-ROCK2	ACTIVATION
+myosin II complex	myosin II complex	-a>
+myosin II complex	None	ACTIVATION
+IP3	Ca2+	ACTIVATION
+MYL2	myosin II complex	component>
+AKAP13	RHOA/GTP	ACTIVATION
+AKAP13	AKAP13	-a>
+ARRB1	PAR1/beta Arrestin1	component>
+Gq family	Gi family/GTP	component>
+ZYX	None	ACTIVATION
+ZYX	VASP	ACTIVATION
+DAG	PRKCA	ACTIVATION
+DAG	PRKCD	ACTIVATION
+DAG	Classical PKCs	ACTIVATION
+PIK3CA	G beta/gamma/PI3K	component>
+ARHGEF1	G13/GTP/p115RhoGEF	component>
+ARHGEF1	GDP	ACTIVATION
+ARHGEF1	ARHGEF1	-a>
+VASP	None	ACTIVATION
+VASP	VASP	transport
+Ca2+	PRKCA	ACTIVATION
+Ca2+	Ca2+	transport
+Ca2+	NOS3	ACTIVATION
+Ca2+	Classical PKCs	ACTIVATION
+ADRBK2	F2R	ACTIVATION
+PI-4-5-P2	IP3	-a>
+PI-4-5-P2	DAG	-a>
+Dynamin/GTP	F2R	ACTIVATION
+G13/GTP/p115RhoGEF	GDP	ACTIVATION
+GNG2	G beta/gamma	component>
+GNG2	G beta/gamma/PI3K	component>
+PAR1/PAR3	G13/GTP	ACTIVATION
+None	F2R	ACTIVATION
+None	None	ACTIVATION
+NOS3	NOS3	-a>
+PIK3R1	G beta/gamma/PI3K	component>
+Classical PKCs	None	ACTIVATION
+Classical PKCs	Classical PKCs	transport
+Dynamin	Dynamin/GTP	component>
+PRKCA	PRKCA	transport
+PRKCA	ARHGDIA	ACTIVATION
+GNB1	G beta/gamma	component>
+GNB1	G beta/gamma/PI3K	component>
+PRKCD	NOS3	ACTIVATION
+PRKCD	PRKCD	transport
+GTP	GDP	-a>
+GTP	G13/GTP	component>
+GTP	G12/GTP	component>
+GTP	RHOA/GTP	component>
+GTP	Dynamin/GTP	component>
+GTP	G13/GTP/p115RhoGEF	component>
+GTP	Gi family/GTP	component>
+RHOA	RHOA/GDP	component>
+RHOA	RHOA/GTP	component>
+PLC beta	DAG	ACTIVATION
+PLC beta	PLC beta	-a>
+GDP	RHOA/GDP	component>
+G beta/gamma	PLC beta	ACTIVATION
+PKN1	PKN1	-a>
+PKN1	None	ACTIVATION
+F2R	GDP	ACTIVATION
+F2R	F2R	transport
+F2R	G beta/gamma	ACTIVATION
+F2R	PAR1/PAR3	component>
+F2R	PAR1/beta Arrestin1	component>
+GNA12	G12/GTP	component>
+GNA13	G13/GTP/p115RhoGEF	component>
+GNA13	G13/GTP	component>
+TRPC6	Ca2+	ACTIVATION
+TRPC6	TRPC6	-a>
+ROCK1-ROCK2	myosin II complex	ACTIVATION
+ROCK1-ROCK2	None	ACTIVATION
+ROCK1-ROCK2	ROCK1-ROCK2	-a>
+F2	F2R	ACTIVATION
+F2	PAR1/PAR3	ACTIVATION
+F2RL2	PAR1/PAR3	component>
+G beta/gamma/PI3K	None	ACTIVATION
+RHOA/GDP	GDP	-a>
+RHOA/GDP	RHOA/GTP	-a>
+Gi family/GTP	None	INHIBITION
+Gi family/GTP	TRPC6	ACTIVATION
+Gi family/GTP	PLC beta	ACTIVATION

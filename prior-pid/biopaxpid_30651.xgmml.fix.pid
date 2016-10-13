@@ -1,0 +1,117 @@
+SmallMolecule	1-phosphatidyl-1D-myo-inositol 4-phosphate
+SmallMolecule	ADP
+SmallMolecule	ATP
+protein	Actin
+protein	BCAR1
+protein	CD44
+complex	CD44/Rho Family GTPase/ROCK2
+protein	CHUK
+protein	ERK1-2
+protein	Erk1-2-active
+protein	FOS
+SmallMolecule	GDP
+protein	GSN
+SmallMolecule	GTP
+complex	Gelsolin/PI-3-4-5-P3
+complex	Gelsolin/PI-3-4-5-P3/PI3K
+complex	IKK alpha homodimer
+protein	ILK
+protein	ITGAV
+protein	ITGB3
+protein	JUN
+complex	JUN/FOS
+protein	MAP3K1
+protein	MAP3K14
+protein	MAPK8
+protein	MMP9
+protein	NFKBIA
+protein	None
+SmallMolecule	PI-3-4-5-P3
+SmallMolecule	PI-4-5-P2
+complex	PI3K
+protein	PIK3CA
+protein	PIK3R1
+complex	PIP5K1A
+protein	PTK2B
+complex	PYK2/p130Cas
+protein	RAC1
+complex	RAC1/GDP
+complex	RAC1/GTP
+protein	ROCK2
+complex	Rho family GTPase
+complex	Rho family GTPase-active
+protein	SPP1
+protein	SYK
+protein	VAV3
+complex	alphav/beta3 Integrin/Osteopontin
+complex	alphav/beta3 Integrin/Osteopontin/Src
+complex	beta3 Integrin/Src
+IKK alpha homodimer	IKK alpha homodimer	-a>
+IKK alpha homodimer	NFKBIA	ACTIVATION
+MAP3K1	MAPK8	ACTIVATION
+MAP3K1	MAP3K1	-a>
+alphav/beta3 Integrin/Osteopontin	Rho family GTPase-active	ACTIVATION
+alphav/beta3 Integrin/Osteopontin	SYK	ACTIVATION
+alphav/beta3 Integrin/Osteopontin	MAP3K1	ACTIVATION
+alphav/beta3 Integrin/Osteopontin	MAP3K14	ACTIVATION
+Erk1-2-active	NFKBIA	ACTIVATION
+ITGB3	alphav/beta3 Integrin/Osteopontin	component>
+PTK2B	PYK2/p130Cas	component>
+ROCK2	CD44/Rho Family GTPase/ROCK2	component>
+ATP	ADP	-a>
+ATP	PI-4-5-P2	-a>
+CD44/Rho Family GTPase/ROCK2	None	ACTIVATION
+GSN	Gelsolin/PI-3-4-5-P3/PI3K	component>
+GSN	Gelsolin/PI-3-4-5-P3	component>
+Rho family GTPase-active	PIP5K1A	ACTIVATION
+Rho family GTPase-active	CD44/Rho Family GTPase/ROCK2	component>
+Rho family GTPase-active	PI3K	ACTIVATION
+Gelsolin/PI-3-4-5-P3/PI3K	None	ACTIVATION
+1-phosphatidyl-1D-myo-inositol 4-phosphate	ADP	-a>
+1-phosphatidyl-1D-myo-inositol 4-phosphate	PI-4-5-P2	-a>
+PIK3CA	Gelsolin/PI-3-4-5-P3/PI3K	component>
+PIK3CA	PI3K	component>
+RAC1	RAC1/GDP	component>
+RAC1	RAC1/GTP	component>
+JUN	JUN/FOS	component>
+PI-4-5-P2	PI-3-4-5-P3	-a>
+CD44	CD44/Rho Family GTPase/ROCK2	component>
+MAPK8	JUN/FOS	ACTIVATION
+MAPK8	MAPK8	transport
+Gelsolin/PI-3-4-5-P3	None	ACTIVATION
+FOS	JUN/FOS	component>
+PIK3R1	Gelsolin/PI-3-4-5-P3/PI3K	component>
+PIK3R1	PI3K	component>
+PI3K	PI-3-4-5-P3	ACTIVATION
+PI3K	PI3K	-a>
+RAC1/GDP	RAC1/GTP	-a>
+MMP9	None	ACTIVATION
+CHUK	IKK alpha homodimer	component>
+ILK	JUN/FOS	ACTIVATION
+GTP	RAC1/GTP	component>
+SPP1	alphav/beta3 Integrin/Osteopontin/Src	component>
+SPP1	alphav/beta3 Integrin/Osteopontin	component>
+PYK2/p130Cas	None	ACTIVATION
+PYK2/p130Cas	PYK2/p130Cas	-a>
+JUN/FOS	JUN/FOS	-a>
+BCAR1	PYK2/p130Cas	component>
+GDP	RAC1/GDP	component>
+Rho family GTPase	Rho family GTPase-active	-a>
+SYK	SYK	-a>
+SYK	VAV3	ACTIVATION
+SYK	PYK2/p130Cas	ACTIVATION
+PIP5K1A	PIP5K1A	component>
+PIP5K1A	PIP5K1A	-a>
+PIP5K1A	ADP	ACTIVATION
+beta3 Integrin/Src	alphav/beta3 Integrin/Osteopontin/Src	component>
+PI-3-4-5-P3	Gelsolin/PI-3-4-5-P3/PI3K	component>
+PI-3-4-5-P3	Gelsolin/PI-3-4-5-P3	component>
+ITGAV	alphav/beta3 Integrin/Osteopontin/Src	component>
+ITGAV	alphav/beta3 Integrin/Osteopontin	component>
+ERK1-2	Erk1-2-active	-a>
+MAP3K14	Erk1-2-active	ACTIVATION
+MAP3K14	MAP3K14	-a>
+MAP3K14	IKK alpha homodimer	ACTIVATION
+alphav/beta3 Integrin/Osteopontin/Src	PYK2/p130Cas	ACTIVATION
+VAV3	RAC1/GTP	ACTIVATION
+VAV3	VAV3	-a>

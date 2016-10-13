@@ -1,0 +1,50 @@
+protein	ACACB
+complex	AMPK heterotrimer (active)
+SmallMolecule	Acetyl coenzyme A
+SmallMolecule	Acid carbonate
+SmallMolecule	Adenosine 5'-diphosphate
+SmallMolecule	Adenosine 5'-triphosphate
+protein	CPT1A or B
+protein	CPT2
+SmallMolecule	Coenzyme A
+SmallMolecule	Hexadecanoyl-CoA
+SmallMolecule	Inorganic Phosphate
+SmallMolecule	L-Palmitoylcarnitine
+SmallMolecule	Malonyl coenzyme A
+protein	PRKAA2
+protein	PRKAB2
+protein	PRKAG2
+protein	SLC25A20
+SmallMolecule	gamma-Trimethyl-hydroxybutyrobetaine
+Coenzyme A	Hexadecanoyl-CoA	-a>
+Coenzyme A	gamma-Trimethyl-hydroxybutyrobetaine	-a>
+Malonyl coenzyme A	L-Palmitoylcarnitine	INHIBITION
+PRKAB2	AMPK heterotrimer (active)	component>
+ACACB	Adenosine 5'-diphosphate	ACTIVATION
+ACACB	ACACB	-a>
+Acid carbonate	Adenosine 5'-diphosphate	-a>
+Acid carbonate	Inorganic Phosphate	-a>
+Acid carbonate	Malonyl coenzyme A	-a>
+CPT2	gamma-Trimethyl-hydroxybutyrobetaine	ACTIVATION
+AMPK heterotrimer (active)	ACACB	ACTIVATION
+PRKAA2	AMPK heterotrimer (active)	component>
+gamma-Trimethyl-hydroxybutyrobetaine	Coenzyme A	-a>
+gamma-Trimethyl-hydroxybutyrobetaine	L-Palmitoylcarnitine	-a>
+gamma-Trimethyl-hydroxybutyrobetaine	L-Palmitoylcarnitine	transport
+gamma-Trimethyl-hydroxybutyrobetaine	gamma-Trimethyl-hydroxybutyrobetaine	transport
+PRKAG2	AMPK heterotrimer (active)	component>
+Adenosine 5'-triphosphate	Adenosine 5'-diphosphate	-a>
+Adenosine 5'-triphosphate	Inorganic Phosphate	-a>
+Adenosine 5'-triphosphate	Malonyl coenzyme A	-a>
+Adenosine 5'-triphosphate	ACACB	-a>
+SLC25A20	L-Palmitoylcarnitine	ACTIVATION
+Hexadecanoyl-CoA	Coenzyme A	-a>
+Hexadecanoyl-CoA	L-Palmitoylcarnitine	-a>
+CPT1A or B	L-Palmitoylcarnitine	ACTIVATION
+L-Palmitoylcarnitine	Hexadecanoyl-CoA	-a>
+L-Palmitoylcarnitine	L-Palmitoylcarnitine	transport
+L-Palmitoylcarnitine	gamma-Trimethyl-hydroxybutyrobetaine	-a>
+L-Palmitoylcarnitine	gamma-Trimethyl-hydroxybutyrobetaine	transport
+Acetyl coenzyme A	Adenosine 5'-diphosphate	-a>
+Acetyl coenzyme A	Inorganic Phosphate	-a>
+Acetyl coenzyme A	Malonyl coenzyme A	-a>

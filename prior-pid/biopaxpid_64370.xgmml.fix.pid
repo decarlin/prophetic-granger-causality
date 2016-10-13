@@ -1,0 +1,76 @@
+SmallMolecule	(s)-2-amino-5-guanidinovaleric acid
+SmallMolecule	2-amino-5-ureidovaleric acid
+protein	AKT1
+protein	ANXA1
+protein	BDKRB2
+protein	CORIN
+SmallMolecule	Ca ++
+protein	CaM
+complex	CaM/Ca ++
+complex	G-gamma/G-beta/GTP
+protein	GNB1
+protein	GNGT1
+protein	HSP90AA1
+protein	KNG1
+protein	NOS3
+protein	NPPA
+protein	NR3C1
+protein	None
+protein	PDPK1
+complex	PI3K
+protein	PIK3CA
+protein	PIK3R1
+SmallMolecule	PIP2
+SmallMolecule	PIP3
+protein	ProANF
+protein	RELA
+complex	RELA/p50
+complex	bradykinin/Bradykinin receptor B2
+SmallMolecule	glucocorticoid
+complex	glucocorticoid/glucocorticoid receptor
+complex	glucocorticoid/glucocorticoid receptor/glucocorticoid/glucocorticoid receptor
+SmallMolecule	guanosine 5'-triphosphate
+SmallMolecule	nitric oxide
+protein	p50
+ANXA1	ANXA1	-a>
+ANXA1	None	ACTIVATION
+NR3C1	glucocorticoid/glucocorticoid receptor/glucocorticoid/glucocorticoid receptor	component>
+NR3C1	glucocorticoid/glucocorticoid receptor	component>
+AKT1	AKT1	-a>
+AKT1	NOS3	ACTIVATION
+PIP2	PIP3	-a>
+CaM/Ca ++	NOS3	ACTIVATION
+PIK3CA	PI3K	component>
+Ca ++	CaM/Ca ++	component>
+CaM	CaM/Ca ++	component>
+RELA/p50	RELA/p50	-a>
+RELA/p50	None	ACTIVATION
+PIK3R1	PI3K	component>
+RELA	RELA/p50	component>
+guanosine 5'-triphosphate	G-gamma/G-beta/GTP	component>
+G-gamma/G-beta/GTP	PI3K	ACTIVATION
+NOS3	2-amino-5-ureidovaleric acid	ACTIVATION
+NOS3	nitric oxide	ACTIVATION
+NOS3	NOS3	-a>
+glucocorticoid	glucocorticoid/glucocorticoid receptor/glucocorticoid/glucocorticoid receptor	component>
+glucocorticoid	glucocorticoid/glucocorticoid receptor	component>
+PIP3	PDPK1	ACTIVATION
+PI3K	PIP3	ACTIVATION
+PI3K	PI3K	-a>
+GNB1	G-gamma/G-beta/GTP	component>
+CORIN	NPPA	ACTIVATION
+bradykinin/Bradykinin receptor B2	NOS3	INHIBITION
+HSP90AA1	NOS3	ACTIVATION
+nitric oxide	None	ACTIVATION
+p50	RELA/p50	component>
+ProANF	NPPA	-a>
+BDKRB2	bradykinin/Bradykinin receptor B2	component>
+KNG1	bradykinin/Bradykinin receptor B2	component>
+(s)-2-amino-5-guanidinovaleric acid	2-amino-5-ureidovaleric acid	-a>
+GNGT1	G-gamma/G-beta/GTP	component>
+glucocorticoid/glucocorticoid receptor/glucocorticoid/glucocorticoid receptor	RELA/p50	ACTIVATION
+glucocorticoid/glucocorticoid receptor/glucocorticoid/glucocorticoid receptor	glucocorticoid/glucocorticoid receptor/glucocorticoid/glucocorticoid receptor	transport
+glucocorticoid/glucocorticoid receptor/glucocorticoid/glucocorticoid receptor	ANXA1	ACTIVATION
+glucocorticoid/glucocorticoid receptor/glucocorticoid/glucocorticoid receptor	PI3K	ACTIVATION
+PDPK1	AKT1	ACTIVATION
+PDPK1	PDPK1	-a>

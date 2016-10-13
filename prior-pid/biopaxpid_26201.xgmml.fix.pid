@@ -1,0 +1,242 @@
+protein	ABL1
+protein	ADAM10
+protein	ARF6
+complex	ARF6/GDP
+complex	Arf6/GTP
+protein	BDNF
+complex	BDNF (dimer)/TRKB
+protein	CABLES1
+protein	CASP3
+protein	CBLL1
+protein	CDH1
+protein	CDH2
+protein	CREBBP
+protein	CTNNA1
+protein	CTNNB1
+protein	CTNND1
+SmallMolecule	Ca2+
+protein	DNM2
+protein	DSP
+complex	Dynamin 2/GDP
+complex	Dynamin 2/GTP
+complex	E-cad-CTF2/p120 catenin
+complex	E-cad-CTF2/p120 catenin/Kaiso
+complex	E-cadherin/Ca2+/beta catenin/IQGAP1/p120 catenin
+complex	E-cadherin/Ca2+/beta catenin/alpha catenin/p120 catenin
+complex	E-cadherin/Ca2+/p120 catenin
+complex	E-cadherin/beta catenin
+complex	E-cadherin/beta catenin/alpha catenin
+complex	E-cadherin/beta catenin/p120 catenin
+protein	EGF
+protein	EGFR
+complex	EGFR/EGFR/EGF/EGF
+complex	FGFR1-FGF complex
+protein	FYN
+protein	Fer-Fyn
+protein	G12 family
+complex	G12 family/GTP
+protein	GDNF
+SmallMolecule	GDP
+protein	GFRA1
+SmallMolecule	GTP
+complex	Gamma Secretase
+complex	HGF (dimer)
+complex	HGF(dimer)/MET(dimer)
+protein	HGS
+protein	HRAS
+complex	HRAS/GDP
+complex	HRAS/GTP
+protein	IQGAP1
+protein	JUP
+protein	MEP1B
+protein	MET
+protein	MMP3
+protein	MMP7
+complex	N-cad-CTF2/Cbp
+complex	N-cadherin/Ca2+/p120 catenin
+complex	N-cadherin/p120 catenin
+protein	NME1
+protein	NTRK2
+protein	None
+protein	PTPN1
+protein	PTPN6
+complex	RAB5/GDP
+complex	RAB5/GTP
+protein	RAB5A
+complex	RAB7/GTP
+protein	RAB7A
+protein	RAC1
+protein	RAC1-CDC42
+complex	RAC1-CDC42/GTP/IQGAP1
+complex	RAC1/GDP
+complex	RAC1/GTP
+protein	RET
+complex	RET/GFRalpha1/GDNF
+protein	RIN2
+protein	ROBO1
+protein	SLIT1
+protein	SNX1
+protein	SRC
+complex	Slit/Robo/c-Abl/Cables
+protein	TIAM1
+protein	ZBTB33
+protein	beta catenin-gamma catenin
+complex	beta catenin/alpha catenin
+complex	desmoplakin/gamma catenin
+GDP	RAC1/GDP	component>
+GDP	ARF6/GDP	component>
+GDP	HRAS/GDP	component>
+GDP	RAB5/GDP	component>
+GDP	Dynamin 2/GDP	component>
+SNX1	E-cadherin/beta catenin/p120 catenin	ACTIVATION
+HGF(dimer)/MET(dimer)	GDP	ACTIVATION
+HGF(dimer)/MET(dimer)	SRC	ACTIVATION
+HGF(dimer)/MET(dimer)	HGF(dimer)/MET(dimer)	transport
+HGF(dimer)/MET(dimer)	CTNNB1	ACTIVATION
+HGF(dimer)/MET(dimer)	E-cadherin/beta catenin/alpha catenin	transport
+HGF(dimer)/MET(dimer)	CTNNA1	ACTIVATION
+RAB5/GTP	HGF(dimer)/MET(dimer)	ACTIVATION
+RAB5/GTP	E-cadherin/beta catenin/alpha catenin	ACTIVATION
+Dynamin 2/GTP	E-cadherin/beta catenin/alpha catenin	ACTIVATION
+IQGAP1	RAC1-CDC42/GTP/IQGAP1	component>
+IQGAP1	CTNNA1	-a>
+IQGAP1	E-cadherin/Ca2+/beta catenin/IQGAP1/p120 catenin	-a>
+IQGAP1	E-cadherin/Ca2+/beta catenin/IQGAP1/p120 catenin	component>
+E-cadherin/beta catenin/p120 catenin	E-cadherin/beta catenin/p120 catenin	transport
+HRAS	HRAS/GDP	component>
+HRAS	HRAS/GTP	component>
+EGFR	EGFR/EGFR/EGF/EGF	component>
+Slit/Robo/c-Abl/Cables	N-cadherin/p120 catenin	ACTIVATION
+ARF6	Arf6/GTP	component>
+ARF6	ARF6/GDP	component>
+ADAM10	CDH1	ACTIVATION
+ADAM10	Ca2+	ACTIVATION
+CTNNA1	E-cadherin/beta catenin/alpha catenin	component>
+CTNNA1	beta catenin/alpha catenin	component>
+CTNNA1	E-cadherin/Ca2+/beta catenin/alpha catenin/p120 catenin	component>
+EGFR/EGFR/EGF/EGF	SRC	ACTIVATION
+EGFR/EGFR/EGF/EGF	E-cadherin/Ca2+/p120 catenin	ACTIVATION
+EGFR/EGFR/EGF/EGF	RAC1/GTP	ACTIVATION
+CBLL1	E-cadherin/beta catenin	ACTIVATION
+CTNND1	E-cadherin/beta catenin/p120 catenin	component>
+CTNND1	N-cadherin/p120 catenin	component>
+CTNND1	E-cad-CTF2/p120 catenin	component>
+CTNND1	E-cad-CTF2/p120 catenin/Kaiso	component>
+CTNND1	N-cadherin/Ca2+/p120 catenin	component>
+CTNND1	E-cadherin/Ca2+/p120 catenin	component>
+CTNND1	E-cadherin/Ca2+/beta catenin/IQGAP1/p120 catenin	component>
+CTNND1	E-cadherin/Ca2+/beta catenin/alpha catenin/p120 catenin	component>
+DNM2	Dynamin 2/GTP	component>
+DNM2	Dynamin 2/GDP	component>
+ABL1	Slit/Robo/c-Abl/Cables	component>
+BDNF	BDNF (dimer)/TRKB	component>
+EGF	EGFR/EGFR/EGF/EGF	component>
+G12 family/GTP	E-cadherin/Ca2+/p120 catenin	ACTIVATION
+RAC1-CDC42	RAC1-CDC42/GTP/IQGAP1	component>
+CDH1	E-cadherin/beta catenin/p120 catenin	component>
+CDH1	E-cadherin/beta catenin	component>
+CDH1	E-cad-CTF2/p120 catenin	component>
+CDH1	E-cad-CTF2/p120 catenin/Kaiso	component>
+CDH1	E-cadherin/Ca2+/p120 catenin	component>
+CDH1	E-cadherin/Ca2+/beta catenin/IQGAP1/p120 catenin	component>
+CDH1	CDH1	-a>
+CDH1	E-cadherin/beta catenin/alpha catenin	component>
+CDH1	E-cadherin/Ca2+/beta catenin/alpha catenin/p120 catenin	component>
+G12 family	G12 family/GTP	component>
+Ca2+	E-cadherin/Ca2+/beta catenin/IQGAP1/p120 catenin	component>
+Ca2+	E-cadherin/Ca2+/p120 catenin	component>
+Ca2+	N-cadherin/Ca2+/p120 catenin	component>
+Ca2+	E-cadherin/Ca2+/beta catenin/alpha catenin/p120 catenin	component>
+RAC1	RAC1/GDP	component>
+RAC1	RAC1/GTP	component>
+FYN	E-cadherin/Ca2+/beta catenin/alpha catenin/p120 catenin	ACTIVATION
+JUP	desmoplakin/gamma catenin	component>
+NTRK2	BDNF (dimer)/TRKB	component>
+FGFR1-FGF complex	None	INHIBITION
+TIAM1	TIAM1	-a>
+RET	RET/GFRalpha1/GDNF	component>
+SLIT1	Slit/Robo/c-Abl/Cables	component>
+Arf6/GTP	NME1	ACTIVATION
+CABLES1	Slit/Robo/c-Abl/Cables	component>
+BDNF (dimer)/TRKB	N-cadherin/Ca2+/p120 catenin	ACTIVATION
+ZBTB33	E-cad-CTF2/p120 catenin/Kaiso	component>
+CDH2	N-cad-CTF2/Cbp	component>
+CDH2	None	INHIBITION
+CDH2	N-cadherin/p120 catenin	component>
+CDH2	N-cadherin/Ca2+/p120 catenin	component>
+HGF (dimer)	HGF(dimer)/MET(dimer)	component>
+SRC	SRC	-a>
+SRC	RAB5/GTP	ACTIVATION
+SRC	HGS	ACTIVATION
+SRC	TIAM1	ACTIVATION
+SRC	Arf6/GTP	ACTIVATION
+SRC	CDH1	ACTIVATION
+SRC	CTNNA1	ACTIVATION
+None	beta catenin/alpha catenin	ACTIVATION
+None	CTNND1	ACTIVATION
+RAB5A	RAB5/GTP	component>
+RAB5A	RAB5/GDP	component>
+ARF6/GDP	GDP	-a>
+ARF6/GDP	Arf6/GTP	-a>
+MEP1B	beta catenin-gamma catenin	ACTIVATION
+RET/GFRalpha1/GDNF	CTNNA1	ACTIVATION
+E-cad-CTF2/p120 catenin	E-cad-CTF2/p120 catenin	transport
+HRAS/GDP	GDP	-a>
+HRAS/GDP	HRAS/GTP	-a>
+HGS	E-cadherin/beta catenin	ACTIVATION
+HGS	HGS	-a>
+DSP	desmoplakin/gamma catenin	component>
+beta catenin/alpha catenin	None	ACTIVATION
+beta catenin/alpha catenin	beta catenin/alpha catenin	-a>
+GTP	GDP	-a>
+GTP	RAB5/GTP	component>
+GTP	Dynamin 2/GTP	component>
+GTP	RAC1-CDC42/GTP/IQGAP1	component>
+GTP	Arf6/GTP	component>
+GTP	RAB7/GTP	component>
+GTP	RAC1/GTP	component>
+GTP	G12 family/GTP	component>
+GTP	HRAS/GTP	component>
+RAB7/GTP	E-cadherin/beta catenin	ACTIVATION
+Gamma Secretase	beta catenin-gamma catenin	ACTIVATION
+Gamma Secretase	E-cad-CTF2/p120 catenin	ACTIVATION
+RAB5/GDP	GDP	-a>
+RAB5/GDP	RAB5/GTP	-a>
+RAC1/GTP	Ca2+	ACTIVATION
+PTPN1	beta catenin/alpha catenin	ACTIVATION
+PTPN6	CTNNB1	ACTIVATION
+CASP3	CDH1	ACTIVATION
+Fer-Fyn	CTNNA1	ACTIVATION
+CTNNB1	None	INHIBITION
+CTNNB1	E-cadherin/beta catenin/p120 catenin	component>
+CTNNB1	E-cadherin/beta catenin	component>
+CTNNB1	beta catenin/alpha catenin	component>
+CTNNB1	CTNNB1	transport
+CTNNB1	E-cadherin/Ca2+/beta catenin/IQGAP1/p120 catenin	component>
+CTNNB1	E-cadherin/beta catenin/alpha catenin	component>
+CTNNB1	E-cadherin/Ca2+/beta catenin/alpha catenin/p120 catenin	component>
+NME1	NME1	transport
+NME1	Dynamin 2/GTP	ACTIVATION
+RAC1-CDC42/GTP/IQGAP1	CTNNA1	INHIBITION
+ROBO1	Slit/Robo/c-Abl/Cables	component>
+HRAS/GTP	RIN2	ACTIVATION
+E-cadherin/beta catenin	E-cadherin/beta catenin	transport
+E-cadherin/beta catenin	E-cadherin/beta catenin	-a>
+RAC1/GDP	GDP	-a>
+RAC1/GDP	RAC1/GTP	-a>
+RIN2	RAB5/GTP	ACTIVATION
+RIN2	RIN2	-a>
+MET	HGF(dimer)/MET(dimer)	component>
+GFRA1	RET/GFRalpha1/GDNF	component>
+GDNF	RET/GFRalpha1/GDNF	component>
+Dynamin 2/GDP	GDP	-a>
+Dynamin 2/GDP	Dynamin 2/GTP	-a>
+RAB7A	RAB7/GTP	component>
+MMP7	CDH1	ACTIVATION
+E-cadherin/beta catenin/alpha catenin	HGF(dimer)/MET(dimer)	transport
+E-cadherin/beta catenin/alpha catenin	E-cadherin/beta catenin/alpha catenin	transport
+MMP3	Ca2+	ACTIVATION
+CREBBP	N-cad-CTF2/Cbp	component>
+E-cadherin/Ca2+/beta catenin/alpha catenin/p120 catenin	E-cadherin/Ca2+/beta catenin/IQGAP1/p120 catenin	-a>
+E-cadherin/Ca2+/beta catenin/alpha catenin/p120 catenin	CTNNA1	-a>
+E-cadherin/Ca2+/beta catenin/alpha catenin/p120 catenin	E-cadherin/Ca2+/beta catenin/alpha catenin/p120 catenin	-a>

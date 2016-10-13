@@ -1,0 +1,290 @@
+protein	AKT1
+protein	B-cell antigen
+complex	B-cell antigen/BCR complex
+complex	B-cell antigen/BCR complex/Btk/LYN/SYK/BLNK/PLCgamma2
+complex	B-cell antigen/BCR complex/Btk/LYN/SYK/BLNK/PLCgamma2/CD72
+complex	B-cell antigen/BCR complex/FcgammaRIIB
+complex	B-cell antigen/BCR complex/LYN
+complex	B-cell antigen/BCR complex/LYN/SYK
+complex	B-cell antigen/BCR complex/LYN/SYK/BLNK
+protein	BCAP
+protein	BCL10
+protein	BCL2A1
+protein	BCR
+protein	BLNK
+protein	BTK
+complex	Bam32/HPK1
+protein	CALM2
+protein	CAMK2G
+protein	CARD11
+complex	CARD11/BCL10/MALT1/TAK1
+protein	CD19
+protein	CD22
+protein	CD72
+complex	CD72/SHP1
+protein	CD79A
+protein	CD79B
+protein	CHUK
+protein	CSK
+protein	CSNK2A1
+SmallMolecule	Ca2+
+complex	Calcineurin
+SmallMolecule	DAG
+protein	DAPP1
+protein	DOK1
+protein	ELK1
+protein	ERK1-2
+protein	ETS1
+protein	Erk1-2-active
+protein	FCGR2B
+protein	FOS
+SmallMolecule	GDP
+protein	GRB2
+SmallMolecule	GTP
+protein	HRAS
+protein	IBTK
+protein	IKBKB
+protein	INPP5D
+SmallMolecule	IP3
+protein	JUN
+complex	JUN/FOS
+protein	LYN
+protein	MALT1
+protein	MAP2K1
+protein	MAP3K1
+protein	MAP3K7
+protein	MAP4K1
+protein	MAPK14
+protein	MAPK3
+protein	MAPK8
+complex	NF-kappa-B/RelA
+protein	NFATC1
+protein	NFKB1
+protein	NFKBIA
+protein	NFKBIB
+protein	None
+protein	PAG1
+complex	PAG1/CSK
+protein	PDPK1
+SmallMolecule	PI-3-4-5-P3
+SmallMolecule	PI-4-5-P2
+complex	PI3K
+complex	PI3K/BCAP/CD19
+protein	PIK3CA
+protein	PIK3R1
+protein	PKC
+protein	PLCG2
+protein	POU2F2
+protein	PPP3CA
+protein	PPP3CB
+protein	PPP3CC
+protein	PTEN
+protein	PTPN6
+protein	PTPRC
+protein	RAC1
+protein	RAF1
+protein	RASA1
+protein	RELA
+complex	RasGAP/Csk
+complex	RasGAP/p62DOK/SHIP
+protein	SH3BP5
+complex	SHC/GRB2/SOS1
+protein	SHC1
+protein	SOS1
+protein	SYK
+protein	TRAF6
+protein	VAV2
+IKBKB	NFKBIB	ACTIVATION
+IKBKB	NFKBIA	ACTIVATION
+IP3	Ca2+	ACTIVATION
+CALM2	CALM2	-a>
+CALM2	CAMK2G	ACTIVATION
+CALM2	Calcineurin	ACTIVATION
+Ca2+	Ca2+	transport
+Ca2+	CALM2	ACTIVATION
+Ca2+	PKC	ACTIVATION
+PIK3CA	PI3K/BCAP/CD19	component>
+PIK3CA	PI3K	component>
+MAP3K1	MAPK14	ACTIVATION
+MAP3K1	MAPK8	ACTIVATION
+MAP3K1	MAP3K1	-a>
+MAP3K7	CARD11/BCL10/MALT1/TAK1	component>
+MAP3K7	MAP3K1	ACTIVATION
+DOK1	RasGAP/p62DOK/SHIP	component>
+LYN	B-cell antigen/BCR complex/LYN/SYK	component>
+LYN	B-cell antigen/BCR complex/LYN/SYK/BLNK	component>
+LYN	B-cell antigen/BCR complex/LYN	component>
+LYN	B-cell antigen/BCR complex/Btk/LYN/SYK/BLNK/PLCgamma2	component>
+LYN	B-cell antigen/BCR complex/Btk/LYN/SYK/BLNK/PLCgamma2/CD72	component>
+BLNK	B-cell antigen/BCR complex/LYN/SYK/BLNK	component>
+BLNK	B-cell antigen/BCR complex/Btk/LYN/SYK/BLNK/PLCgamma2	component>
+BLNK	B-cell antigen/BCR complex/Btk/LYN/SYK/BLNK/PLCgamma2/CD72	component>
+SHC1	SHC/GRB2/SOS1	component>
+CD22	CD22	-a>
+CD22	PTPN6	ACTIVATION
+CAMK2G	CAMK2G	-a>
+CAMK2G	ETS1	ACTIVATION
+CSNK2A1	JUN	INHIBITION
+INPP5D	IP3	INHIBITION
+INPP5D	RasGAP/p62DOK/SHIP	component>
+INPP5D	BTK	INHIBITION
+AKT1	AKT1	transport
+AKT1	CHUK	ACTIVATION
+SHC/GRB2/SOS1	SHC/GRB2/SOS1	-a>
+SHC/GRB2/SOS1	GDP	ACTIVATION
+SYK	B-cell antigen/BCR complex/LYN/SYK	component>
+SYK	B-cell antigen/BCR complex/LYN/SYK/BLNK	component>
+SYK	B-cell antigen/BCR complex/Btk/LYN/SYK/BLNK/PLCgamma2	component>
+SYK	B-cell antigen/BCR complex/Btk/LYN/SYK/BLNK/PLCgamma2/CD72	component>
+GRB2	SHC/GRB2/SOS1	component>
+NFATC1	NFATC1	transport
+NFATC1	None	ACTIVATION
+PAG1/CSK	B-cell antigen/BCR complex/LYN	INHIBITION
+NFKBIB	NFKBIB	transport
+NFKBIB	None	ACTIVATION
+HRAS	GDP	-a>
+HRAS	HRAS	-a>
+HRAS	RAF1	ACTIVATION
+NFKBIA	None	ACTIVATION
+NFKBIA	NFKBIA	transport
+NFKBIA	NF-kappa-B/RelA	INHIBITION
+PI3K/BCAP/CD19	AKT1	ACTIVATION
+RasGAP/Csk	B-cell antigen/BCR complex/LYN	ACTIVATION
+PTEN	PI-3-4-5-P3	INHIBITION
+CD79B	B-cell antigen/BCR complex	component>
+CD79B	B-cell antigen/BCR complex/LYN/SYK	component>
+CD79B	B-cell antigen/BCR complex/FcgammaRIIB	component>
+CD79B	B-cell antigen/BCR complex/Btk/LYN/SYK/BLNK/PLCgamma2/CD72	component>
+CD79B	B-cell antigen/BCR complex/LYN/SYK/BLNK	component>
+CD79B	B-cell antigen/BCR complex/LYN	component>
+CD79B	B-cell antigen/BCR complex/Btk/LYN/SYK/BLNK/PLCgamma2	component>
+JUN	JUN/FOS	component>
+JUN	JUN	-a>
+PKC	GDP	ACTIVATION
+PKC	PKC	-a>
+PKC	CARD11	ACTIVATION
+PKC	ELK1	ACTIVATION
+ELK1	None	ACTIVATION
+ELK1	ELK1	-a>
+ELK1	FOS	ACTIVATION
+BCR	B-cell antigen/BCR complex	component>
+BCR	B-cell antigen/BCR complex/LYN/SYK	component>
+BCR	B-cell antigen/BCR complex/FcgammaRIIB	component>
+BCR	B-cell antigen/BCR complex/Btk/LYN/SYK/BLNK/PLCgamma2/CD72	component>
+BCR	B-cell antigen/BCR complex/LYN/SYK/BLNK	component>
+BCR	B-cell antigen/BCR complex/LYN	component>
+BCR	B-cell antigen/BCR complex/Btk/LYN/SYK/BLNK/PLCgamma2	component>
+PIK3R1	PI3K/BCAP/CD19	component>
+PIK3R1	PI3K	component>
+CSK	RasGAP/Csk	component>
+CSK	PAG1/CSK	component>
+FOS	JUN/FOS	component>
+FOS	FOS	-a>
+IBTK	B-cell antigen/BCR complex/Btk/LYN/SYK/BLNK/PLCgamma2	INHIBITION
+CARD11/BCL10/MALT1/TAK1	CHUK	ACTIVATION
+PTPN6	CD72/SHP1	component>
+PTPN6	B-cell antigen/BCR complex/LYN/SYK	INHIBITION
+PTPN6	PTPN6	-a>
+RELA	NF-kappa-B/RelA	component>
+BCL2A1	POU2F2	-a>
+BCL2A1	BCL2A1	-a>
+VAV2	NFATC1	ACTIVATION
+VAV2	VAV2	-a>
+VAV2	PI3K/BCAP/CD19	ACTIVATION
+VAV2	RAC1	ACTIVATION
+ERK1-2	Erk1-2-active	-a>
+BTK	B-cell antigen/BCR complex/Btk/LYN/SYK/BLNK/PLCgamma2	component>
+BTK	BTK	transport
+BTK	B-cell antigen/BCR complex/Btk/LYN/SYK/BLNK/PLCgamma2/CD72	component>
+CD19	VAV2	ACTIVATION
+CD19	PI3K/BCAP/CD19	component>
+CD19	CD19	-a>
+CD72	CD72/SHP1	component>
+CD72	B-cell antigen/BCR complex/Btk/LYN/SYK/BLNK/PLCgamma2/CD72	component>
+PAG1	PAG1/CSK	component>
+B-cell antigen	B-cell antigen/BCR complex	component>
+B-cell antigen	B-cell antigen/BCR complex/LYN/SYK	component>
+B-cell antigen	B-cell antigen/BCR complex/FcgammaRIIB	component>
+B-cell antigen	B-cell antigen/BCR complex/Btk/LYN/SYK/BLNK/PLCgamma2/CD72	component>
+B-cell antigen	B-cell antigen/BCR complex/LYN/SYK/BLNK	component>
+B-cell antigen	B-cell antigen/BCR complex/LYN	component>
+B-cell antigen	B-cell antigen/BCR complex/Btk/LYN/SYK/BLNK/PLCgamma2	component>
+MAPK14	MAPK14	-a>
+MAPK14	JUN	ACTIVATION
+SH3BP5	B-cell antigen/BCR complex/Btk/LYN/SYK/BLNK/PLCgamma2	INHIBITION
+B-cell antigen/BCR complex/Btk/LYN/SYK/BLNK/PLCgamma2/CD72	None	ACTIVATION
+RAF1	MAP2K1	ACTIVATION
+RAF1	RAF1	-a>
+RasGAP/p62DOK/SHIP	GDP	INHIBITION
+CD79A	B-cell antigen/BCR complex	component>
+CD79A	B-cell antigen/BCR complex/LYN/SYK	component>
+CD79A	B-cell antigen/BCR complex/FcgammaRIIB	component>
+CD79A	B-cell antigen/BCR complex/Btk/LYN/SYK/BLNK/PLCgamma2/CD72	component>
+CD79A	B-cell antigen/BCR complex/LYN/SYK/BLNK	component>
+CD79A	B-cell antigen/BCR complex/LYN	component>
+CD79A	B-cell antigen/BCR complex/Btk/LYN/SYK/BLNK/PLCgamma2	component>
+BCL10	CARD11/BCL10/MALT1/TAK1	component>
+MAPK3	JUN	ACTIVATION
+NFKB1	NF-kappa-B/RelA	component>
+MAPK8	MAPK8	-a>
+MAPK8	JUN	ACTIVATION
+NF-kappa-B/RelA	NFKBIB	ACTIVATION
+NF-kappa-B/RelA	NF-kappa-B/RelA	transport
+NF-kappa-B/RelA	NFKBIA	ACTIVATION
+NF-kappa-B/RelA	BCL2A1	ACTIVATION
+Calcineurin	NFATC1	ACTIVATION
+Calcineurin	Calcineurin	-a>
+PI3K	DAPP1	ACTIVATION
+PI3K	PI-3-4-5-P3	ACTIVATION
+GTP	GDP	-a>
+GTP	HRAS	-a>
+B-cell antigen/BCR complex/Btk/LYN/SYK/BLNK/PLCgamma2	IP3	ACTIVATION
+B-cell antigen/BCR complex/Btk/LYN/SYK/BLNK/PLCgamma2	BCAP	ACTIVATION
+SOS1	SHC/GRB2/SOS1	component>
+Bam32/HPK1	MAP3K1	ACTIVATION
+DAPP1	Bam32/HPK1	component>
+DAPP1	NFATC1	INHIBITION
+DAPP1	DAPP1	-a>
+MAP4K1	Bam32/HPK1	component>
+Erk1-2-active	Erk1-2-active	transport
+PLCG2	B-cell antigen/BCR complex/Btk/LYN/SYK/BLNK/PLCgamma2	component>
+PLCG2	B-cell antigen/BCR complex/Btk/LYN/SYK/BLNK/PLCgamma2/CD72	component>
+MAP2K1	Erk1-2-active	ACTIVATION
+MAP2K1	MAP2K1	-a>
+B-cell antigen/BCR complex/FcgammaRIIB	RasGAP/Csk	ACTIVATION
+B-cell antigen/BCR complex/FcgammaRIIB	RasGAP/p62DOK/SHIP	ACTIVATION
+DAG	PKC	ACTIVATION
+ETS1	ETS1	-a>
+PI-4-5-P2	IP3	-a>
+PI-4-5-P2	DAG	-a>
+PI-4-5-P2	PI-3-4-5-P3	-a>
+B-cell antigen/BCR complex/LYN/SYK/BLNK	SHC/GRB2/SOS1	ACTIVATION
+B-cell antigen/BCR complex/LYN/SYK/BLNK	VAV2	ACTIVATION
+B-cell antigen/BCR complex/LYN	CD22	ACTIVATION
+B-cell antigen/BCR complex/LYN	DAPP1	ACTIVATION
+B-cell antigen/BCR complex/LYN	B-cell antigen/BCR complex/LYN	-a>
+B-cell antigen/BCR complex/LYN	CD19	ACTIVATION
+MALT1	CARD11/BCL10/MALT1/TAK1	component>
+TRAF6	CHUK	ACTIVATION
+RAC1	None	ACTIVATION
+RAC1	MAP3K1	ACTIVATION
+RAC1	RAC1	-a>
+B-cell antigen/BCR complex/LYN/SYK	PI3K/BCAP/CD19	ACTIVATION
+CARD11	CARD11/BCL10/MALT1/TAK1	component>
+CARD11	CARD11	-a>
+FCGR2B	B-cell antigen/BCR complex/FcgammaRIIB	component>
+PDPK1	PDPK1	transport
+PDPK1	AKT1	ACTIVATION
+RASA1	RasGAP/Csk	component>
+RASA1	RasGAP/p62DOK/SHIP	component>
+PI-3-4-5-P3	PDPK1	ACTIVATION
+PI-3-4-5-P3	BTK	ACTIVATION
+PI-3-4-5-P3	AKT1	ACTIVATION
+PTPRC	B-cell antigen/BCR complex/LYN	ACTIVATION
+BCAP	BCAP	-a>
+BCAP	PI3K/BCAP/CD19	component>
+PPP3CA	Calcineurin	component>
+PPP3CB	Calcineurin	component>
+PPP3CC	Calcineurin	component>
+POU2F2	POU2F2	-a>
+POU2F2	BCL2A1	-a>

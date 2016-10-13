@@ -1,0 +1,92 @@
+SmallMolecule	(13e)-(15s)-15-hydroxy-9-oxoprosta-10,13-dienoate
+SmallMolecule	BAY 11-7082
+protein	Cd binding protein
+complex	Cd/Cd binding protein
+SmallMolecule	Chelerythrin
+SmallMolecule	DAG
+protein	HRAS
+complex	I-kappa-B-alpha/RELA/p50/ubiquitin
+SmallMolecule	IP3
+protein	MAP2K1
+protein	MAP2K2
+protein	MAPK1
+protein	MAPK3
+protein	NFKBIA
+protein	None
+SmallMolecule	PD98059
+SmallMolecule	PIP2
+protein	PKC
+protein	PLCB1
+protein	RAF1
+protein	RELA
+complex	RELA/p50
+SmallMolecule	SB203580
+SmallMolecule	U0126
+SmallMolecule	U73122
+SmallMolecule	Xestospongin C
+SmallMolecule	adalat (tn)
+SmallMolecule	calcium
+SmallMolecule	cd2+
+SmallMolecule	guanosine 5'-diphosphate
+SmallMolecule	guanosine 5'-triphosphate
+SmallMolecule	manumycin a
+protein	p50
+complex	p50/RELA/I-kappa-B-alpha
+protein	ubiquitin
+PD98059	None	INHIBITION
+PLCB1	IP3	ACTIVATION
+PLCB1	PLCB1	-a>
+Xestospongin C	calcium	INHIBITION
+HRAS	HRAS	-a>
+HRAS	guanosine 5'-diphosphate	-a>
+HRAS	RAF1	ACTIVATION
+NFKBIA	I-kappa-B-alpha/RELA/p50/ubiquitin	component>
+NFKBIA	p50/RELA/I-kappa-B-alpha	component>
+(13e)-(15s)-15-hydroxy-9-oxoprosta-10,13-dienoate	RELA/p50	INHIBITION
+cd2+	cd2+	transport
+cd2+	calcium	ACTIVATION
+cd2+	Cd/Cd binding protein	component>
+IP3	calcium	ACTIVATION
+U73122	IP3	INHIBITION
+Chelerythrin	PKC	INHIBITION
+RAF1	MAP2K1	ACTIVATION
+RAF1	RAF1	-a>
+ubiquitin	I-kappa-B-alpha/RELA/p50/ubiquitin	component>
+DAG	PKC	ACTIVATION
+Cd binding protein	Cd/Cd binding protein	component>
+PKC	PKC	-a>
+PKC	HRAS	ACTIVATION
+PKC	I-kappa-B-alpha/RELA/p50/ubiquitin	ACTIVATION
+BAY 11-7082	RELA/p50	INHIBITION
+RELA/p50	RELA/p50	transport
+RELA/p50	None	ACTIVATION
+MAPK3	MAPK3	-a>
+MAPK3	None	ACTIVATION
+MAPK3	MAPK1	-a>
+MAPK1	MAPK3	-a>
+MAPK1	None	ACTIVATION
+MAPK1	MAPK1	-a>
+p50/RELA/I-kappa-B-alpha	I-kappa-B-alpha/RELA/p50/ubiquitin	-a>
+manumycin a	HRAS	INHIBITION
+RELA	RELA/p50	component>
+RELA	I-kappa-B-alpha/RELA/p50/ubiquitin	component>
+RELA	p50/RELA/I-kappa-B-alpha	component>
+guanosine 5'-triphosphate	HRAS	-a>
+guanosine 5'-triphosphate	guanosine 5'-diphosphate	-a>
+U0126	MAPK1	INHIBITION
+PIP2	IP3	-a>
+PIP2	DAG	-a>
+SB203580	None	INHIBITION
+p50	RELA/p50	component>
+p50	I-kappa-B-alpha/RELA/p50/ubiquitin	component>
+p50	p50/RELA/I-kappa-B-alpha	component>
+Cd/Cd binding protein	PLCB1	ACTIVATION
+MAP2K2	MAP2K2	-a>
+MAP2K2	MAP2K1	-a>
+MAP2K2	MAPK1	ACTIVATION
+MAP2K1	MAP2K2	-a>
+MAP2K1	MAP2K1	-a>
+MAP2K1	MAPK1	ACTIVATION
+calcium	PKC	ACTIVATION
+calcium	calcium	transport
+adalat (tn)	cd2+	INHIBITION

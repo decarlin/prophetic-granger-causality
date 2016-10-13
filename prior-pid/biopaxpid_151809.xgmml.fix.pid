@@ -1,0 +1,51 @@
+protein	CDK5
+protein	CDK5R1
+protein	EGR1
+protein	GRB2
+protein	HRAS
+protein	MAP2K1
+protein	MAP2K2
+protein	MAPK1
+protein	MAPK3
+protein	NGF
+complex	NGF/NGF R
+complex	NGF/NGF R/SHC/GRB2/SOS-1
+protein	NGFR
+complex	P35/CDK5
+protein	RAF1
+protein	SHC1
+protein	SOS1
+SmallMolecule	guanosine 5`-triphosphate
+SmallMolecule	nucleoside diphosphate
+NGF	NGF/NGF R/SHC/GRB2/SOS-1	component>
+NGF	NGF/NGF R	component>
+SHC1	NGF/NGF R/SHC/GRB2/SOS-1	component>
+SOS1	NGF/NGF R/SHC/GRB2/SOS-1	component>
+MAP2K2	MAPK3	ACTIVATION
+MAP2K2	MAP2K1	-a>
+MAP2K2	MAP2K2	-a>
+guanosine 5`-triphosphate	HRAS	-a>
+guanosine 5`-triphosphate	nucleoside diphosphate	-a>
+P35/CDK5	MAP2K1	ACTIVATION
+EGR1	EGR1	-a>
+NGF/NGF R/SHC/GRB2/SOS-1	HRAS	ACTIVATION
+MAPK3	MAPK3	-a>
+MAPK3	MAPK1	-a>
+MAPK3	EGR1	ACTIVATION
+MAP2K1	MAPK3	ACTIVATION
+MAP2K1	MAP2K1	-a>
+MAP2K1	MAP2K2	-a>
+GRB2	NGF/NGF R/SHC/GRB2/SOS-1	component>
+CDK5R1	P35/CDK5	component>
+CDK5R1	CDK5R1	transport
+NGFR	NGF/NGF R/SHC/GRB2/SOS-1	component>
+NGFR	NGF/NGF R	component>
+MAPK1	MAPK3	-a>
+MAPK1	MAPK1	-a>
+MAPK1	EGR1	ACTIVATION
+RAF1	MAP2K2	ACTIVATION
+RAF1	RAF1	-a>
+HRAS	nucleoside diphosphate	-a>
+HRAS	HRAS	-a>
+HRAS	RAF1	ACTIVATION
+CDK5	P35/CDK5	component>

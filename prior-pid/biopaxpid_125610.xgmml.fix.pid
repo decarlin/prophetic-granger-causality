@@ -1,0 +1,20 @@
+complex	AP-1
+protein	CASP3
+protein	CD36
+protein	FOS
+protein	FYN
+protein	GZMA
+protein	JUN
+protein	MAPK14
+protein	None
+complex	TSP-1/CD36/FYN
+GZMA	TSP-1/CD36/FYN	component>
+FOS	AP-1	component>
+AP-1	None	ACTIVATION
+FYN	TSP-1/CD36/FYN	component>
+JUN	AP-1	component>
+CD36	TSP-1/CD36/FYN	component>
+MAPK14	MAPK14	-a>
+MAPK14	AP-1	ACTIVATION
+TSP-1/CD36/FYN	MAPK14	ACTIVATION
+CASP3	MAPK14	ACTIVATION

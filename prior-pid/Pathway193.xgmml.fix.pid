@@ -1,0 +1,110 @@
+SmallMolecule	1-O-(3-sn-phosphatidyl)-1D-myo-inositol 3,4,5-tris(dihydrogen phosphate)
+SmallMolecule	5'-adenylphosphoric acid
+SmallMolecule	AKT inhibitors
+complex	AKT inhibitors:AKT
+PhysicalEntity	AKT/AKT1 E17K mutant
+protein	AKT1
+complex	AKT1 E17K mutant:PIP2
+protein	AKT1S1
+PhysicalEntity	Activator:PI3K/PI3K mutants
+SmallMolecule	Adenosine triphosphate
+protein	BAD
+protein	CASP9
+family	CDKN1A/CDKN1B
+protein	CDKN1B
+protein	CHUK
+protein	CREB1
+protein	FOXO1
+protein	FOXO3
+protein	FOXO4
+family	Forkhead box transcription factor
+family	GSK3
+protein	MDM2
+protein	NR4A1
+protein	PDPK1
+complex	PDPK1:PIP2
+complex	PDPK1:p-S473-AKT1 E17K mutant:PIP2
+complex	PI3K Inhibitors:PI3K
+SmallMolecule	PI3K inhibitors
+family	Phospho-CDK inhibitor
+family	Phospho-Forkhead box transcription factor
+family	Phospho-GSK3
+SmallMolecule	PtsIns(4,5)P2
+protein	RPS6KB2
+protein	TSC2
+SmallMolecule	dihydrogen oxide
+protein	hCG_15367
+complex	p-S473-AKT1 E17K mutant:PIP2
+FOXO4	Forkhead box transcription factor	member>
+FOXO4	Phospho-Forkhead box transcription factor	member>
+FOXO3	Forkhead box transcription factor	member>
+FOXO3	Phospho-Forkhead box transcription factor	member>
+AKT1	p-S473-AKT1 E17K mutant:PIP2	component>
+AKT1	AKT1	-a>
+AKT1	AKT1 E17K mutant:PIP2	component>
+BAD	5'-adenylphosphoric acid	-a>
+BAD	BAD	-a>
+PDPK1:PIP2	PDPK1:p-S473-AKT1 E17K mutant:PIP2	component>
+p-S473-AKT1 E17K mutant:PIP2	PDPK1:p-S473-AKT1 E17K mutant:PIP2	component>
+Adenosine triphosphate	1-O-(3-sn-phosphatidyl)-1D-myo-inositol 3,4,5-tris(dihydrogen phosphate)	-a>
+Adenosine triphosphate	5'-adenylphosphoric acid	-a>
+Adenosine triphosphate	Phospho-CDK inhibitor	-a>
+Adenosine triphosphate	NR4A1	-a>
+Adenosine triphosphate	Phospho-Forkhead box transcription factor	-a>
+Adenosine triphosphate	Phospho-GSK3	-a>
+Adenosine triphosphate	RPS6KB2	-a>
+Adenosine triphosphate	AKT1	-a>
+Adenosine triphosphate	BAD	-a>
+Adenosine triphosphate	AKT1S1	-a>
+Adenosine triphosphate	CREB1	-a>
+Adenosine triphosphate	PDPK1:PIP2	-a>
+Adenosine triphosphate	p-S473-AKT1 E17K mutant:PIP2	-a>
+Adenosine triphosphate	CHUK	-a>
+Adenosine triphosphate	MDM2	-a>
+Adenosine triphosphate	CASP9	-a>
+Adenosine triphosphate	TSC2	-a>
+PDPK1:p-S473-AKT1 E17K mutant:PIP2	5'-adenylphosphoric acid	-a>
+PDPK1:p-S473-AKT1 E17K mutant:PIP2	AKT1	-a>
+PDPK1:p-S473-AKT1 E17K mutant:PIP2	PDPK1:PIP2	-a>
+Forkhead box transcription factor	5'-adenylphosphoric acid	-a>
+Forkhead box transcription factor	Phospho-Forkhead box transcription factor	-a>
+AKT1 E17K mutant:PIP2	p-S473-AKT1 E17K mutant:PIP2	-a>
+AKT1 E17K mutant:PIP2	5'-adenylphosphoric acid	-a>
+PtsIns(4,5)P2	5'-adenylphosphoric acid	-a>
+PtsIns(4,5)P2	p-S473-AKT1 E17K mutant:PIP2	component>
+PtsIns(4,5)P2	AKT1 E17K mutant:PIP2	component>
+PtsIns(4,5)P2	1-O-(3-sn-phosphatidyl)-1D-myo-inositol 3,4,5-tris(dihydrogen phosphate)	-a>
+PtsIns(4,5)P2	PDPK1:PIP2	component>
+TSC2	5'-adenylphosphoric acid	-a>
+TSC2	TSC2	-a>
+RPS6KB2	5'-adenylphosphoric acid	-a>
+RPS6KB2	RPS6KB2	-a>
+AKT1S1	5'-adenylphosphoric acid	-a>
+AKT1S1	AKT1S1	-a>
+CDKN1B	Phospho-CDK inhibitor	member>
+CDKN1B	CDKN1A/CDKN1B	member>
+GSK3	5'-adenylphosphoric acid	-a>
+GSK3	Phospho-GSK3	-a>
+NR4A1	5'-adenylphosphoric acid	-a>
+NR4A1	NR4A1	-a>
+CHUK	5'-adenylphosphoric acid	-a>
+CHUK	CHUK	-a>
+FOXO1	Forkhead box transcription factor	member>
+FOXO1	Phospho-Forkhead box transcription factor	member>
+CREB1	5'-adenylphosphoric acid	-a>
+CREB1	CREB1	-a>
+AKT/AKT1 E17K mutant	AKT inhibitors:AKT	component>
+MDM2	5'-adenylphosphoric acid	-a>
+MDM2	MDM2	-a>
+AKT inhibitors	AKT inhibitors:AKT	component>
+hCG_15367	Phospho-CDK inhibitor	member>
+hCG_15367	CDKN1A/CDKN1B	member>
+CASP9	5'-adenylphosphoric acid	-a>
+CASP9	CASP9	-a>
+CDKN1A/CDKN1B	5'-adenylphosphoric acid	-a>
+CDKN1A/CDKN1B	Phospho-CDK inhibitor	-a>
+PI3K inhibitors	PI3K Inhibitors:PI3K	component>
+PDPK1	GSK3	member>
+PDPK1	Phospho-GSK3	member>
+PDPK1	PDPK1:PIP2	component>
+Activator:PI3K/PI3K mutants	PI3K Inhibitors:PI3K	component>

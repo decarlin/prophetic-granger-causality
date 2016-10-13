@@ -1,0 +1,133 @@
+complex	AP2 clathrin:L1:KIF4:microtubule
+protein	AP2A1
+protein	AP2A2
+protein	AP2B1
+protein	AP2M1
+protein	AP2S1
+complex	Adaptor protein 2 complex
+family	Adaptor protein complex 2 (AP-2) large adaptins
+protein	CLTA
+complex	CRMP-2:NUMB:alpha adaptin
+family	Chromosome-associated kinesin KIF4
+complex	Clathrin
+complex	Clathrin-coated vesicle
+protein	DPYSL2
+family	ERM
+complex	ERM:PIP2
+protein	EZR
+PhysicalEntity	F-actin
+SmallMolecule	H3adp
+SmallMolecule	H4gtp
+protein	KIAA1598
+complex	KIF4 dimer
+protein	KIF4A
+protein	KIF4B
+complex	L1 trans-homodimer
+complex	L1:AP-2 Clathrin complex
+complex	L1:NUMB:CRMP-2:alpha-adaptin
+complex	L1:clathrin-coated vesicle
+protein	L1CAM
+protein	MAPK1
+protein	MSN
+protein	NUMB
+SmallMolecule	Phosphatidylinositol-4,5-bisphosphate
+protein	RDX
+protein	RPS6KA1
+protein	RPS6KA2
+protein	RPS6KA3
+protein	RPS6KA4
+protein	RPS6KA5
+protein	RPS6KA6
+family	Ribosomal protein S6 kinase
+protein	SH3GL2
+SmallMolecule	[PO4](3-)
+SmallMolecule	adenosine 5'-(tetrahydrogen triphosphate)
+SmallMolecule	guanosine 5'-(trihydrogen diphosphate)
+PhysicalEntity	microtubule
+complex	pL1 (S1152):p90rsk:clathrin-dynamin complex
+complex	pL1 (S1204, 1248):ERK2:clathrin-dynamin complex
+complex	pL1:ERM:F-actin
+complex	pL1:Ezrin
+complex	pL1:Shootin-1:F-actin
+MSN	ERM	member>
+CRMP-2:NUMB:alpha adaptin	L1:NUMB:CRMP-2:alpha-adaptin	component>
+L1CAM	L1 trans-homodimer	component>
+L1CAM	pL1 (S1204, 1248):ERK2:clathrin-dynamin complex	component>
+L1CAM	pL1:Ezrin	component>
+L1CAM	pL1 (S1152):p90rsk:clathrin-dynamin complex	component>
+L1CAM	L1:AP-2 Clathrin complex	component>
+L1CAM	L1CAM	-a>
+L1CAM	H3adp	-a>
+L1CAM	pL1:Shootin-1:F-actin	component>
+L1CAM	L1:clathrin-coated vesicle	component>
+L1CAM	L1:NUMB:CRMP-2:alpha-adaptin	component>
+Adaptor protein 2 complex	Clathrin-coated vesicle	component>
+L1:AP-2 Clathrin complex	AP2 clathrin:L1:KIF4:microtubule	component>
+L1:AP-2 Clathrin complex	H3adp	-a>
+L1:AP-2 Clathrin complex	L1:AP-2 Clathrin complex	-a>
+L1:AP-2 Clathrin complex	pL1 (S1204, 1248):ERK2:clathrin-dynamin complex	-a>
+L1:AP-2 Clathrin complex	pL1 (S1152):p90rsk:clathrin-dynamin complex	-a>
+pL1:Ezrin	L1 trans-homodimer	component>
+F-actin	pL1:ERM:F-actin	component>
+F-actin	pL1:Shootin-1:F-actin	component>
+ERM	ERM:PIP2	component>
+AP2B1	Adaptor protein 2 complex	component>
+KIF4 dimer	AP2 clathrin:L1:KIF4:microtubule	component>
+pL1:ERM:F-actin	ERM:PIP2	-a>
+pL1:ERM:F-actin	L1CAM	-a>
+pL1:ERM:F-actin	[PO4](3-)	-a>
+pL1:ERM:F-actin	F-actin	-a>
+H4gtp	L1:AP-2 Clathrin complex	-a>
+H4gtp	[PO4](3-)	-a>
+H4gtp	guanosine 5'-(trihydrogen diphosphate)	-a>
+adenosine 5'-(tetrahydrogen triphosphate)	pL1 (S1152):p90rsk:clathrin-dynamin complex	-a>
+adenosine 5'-(tetrahydrogen triphosphate)	H3adp	-a>
+adenosine 5'-(tetrahydrogen triphosphate)	pL1 (S1204, 1248):ERK2:clathrin-dynamin complex	-a>
+adenosine 5'-(tetrahydrogen triphosphate)	L1CAM	-a>
+microtubule	AP2 clathrin:L1:KIF4:microtubule	component>
+Clathrin	Clathrin-coated vesicle	component>
+KIF4B	Chromosome-associated kinesin KIF4	member>
+Ribosomal protein S6 kinase	pL1 (S1152):p90rsk:clathrin-dynamin complex	component>
+Ribosomal protein S6 kinase	H3adp	-a>
+AP2M1	Adaptor protein 2 complex	component>
+MAPK1	H3adp	-a>
+MAPK1	pL1 (S1204, 1248):ERK2:clathrin-dynamin complex	component>
+AP2 clathrin:L1:KIF4:microtubule	microtubule	-a>
+AP2 clathrin:L1:KIF4:microtubule	KIF4 dimer	-a>
+AP2 clathrin:L1:KIF4:microtubule	SH3GL2	-a>
+AP2 clathrin:L1:KIF4:microtubule	Clathrin-coated vesicle	-a>
+AP2 clathrin:L1:KIF4:microtubule	L1CAM	-a>
+SH3GL2	pL1 (S1152):p90rsk:clathrin-dynamin complex	component>
+SH3GL2	pL1 (S1204, 1248):ERK2:clathrin-dynamin complex	component>
+SH3GL2	L1:AP-2 Clathrin complex	component>
+SH3GL2	[PO4](3-)	-a>
+SH3GL2	guanosine 5'-(trihydrogen diphosphate)	-a>
+DPYSL2	CRMP-2:NUMB:alpha adaptin	component>
+Phosphatidylinositol-4,5-bisphosphate	ERM:PIP2	component>
+RDX	ERM	member>
+Chromosome-associated kinesin KIF4	KIF4 dimer	component>
+KIAA1598	pL1:Shootin-1:F-actin	component>
+AP2A1	Adaptor protein complex 2 (AP-2) large adaptins	member>
+NUMB	CRMP-2:NUMB:alpha adaptin	component>
+AP2A2	Adaptor protein complex 2 (AP-2) large adaptins	member>
+L1:clathrin-coated vesicle	L1:AP-2 Clathrin complex	-a>
+L1:clathrin-coated vesicle	[PO4](3-)	-a>
+L1:clathrin-coated vesicle	guanosine 5'-(trihydrogen diphosphate)	-a>
+Clathrin-coated vesicle	pL1 (S1152):p90rsk:clathrin-dynamin complex	component>
+Clathrin-coated vesicle	pL1 (S1204, 1248):ERK2:clathrin-dynamin complex	component>
+Clathrin-coated vesicle	L1:clathrin-coated vesicle	component>
+Clathrin-coated vesicle	L1:AP-2 Clathrin complex	component>
+Adaptor protein complex 2 (AP-2) large adaptins	Adaptor protein 2 complex	component>
+Adaptor protein complex 2 (AP-2) large adaptins	CRMP-2:NUMB:alpha adaptin	component>
+L1 trans-homodimer	pL1:ERM:F-actin	component>
+RPS6KA1	Ribosomal protein S6 kinase	member>
+RPS6KA2	Ribosomal protein S6 kinase	member>
+RPS6KA3	Ribosomal protein S6 kinase	member>
+RPS6KA4	Ribosomal protein S6 kinase	member>
+RPS6KA5	Ribosomal protein S6 kinase	member>
+RPS6KA6	Ribosomal protein S6 kinase	member>
+AP2S1	Adaptor protein 2 complex	component>
+EZR	ERM	member>
+KIF4A	Chromosome-associated kinesin KIF4	member>
+CLTA	Clathrin	component>
+ERM:PIP2	pL1:Ezrin	component>

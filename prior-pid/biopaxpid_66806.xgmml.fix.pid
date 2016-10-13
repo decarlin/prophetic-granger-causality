@@ -1,0 +1,93 @@
+SmallMolecule	(s)-2-amino-5-guanidinovaleric acid
+SmallMolecule	2-amino-5-ureidovaleric acid
+protein	ACTA1
+protein	AKT1
+protein	BCAR1
+protein	BDKRB2
+protein	CSK
+SmallMolecule	Ca ++
+protein	CaM
+complex	CaM/Ca ++
+SmallMolecule	DAG
+complex	FAK/p130CAS/SRC/CSK/paxillin/actin
+protein	GRB2
+protein	HRAS
+protein	HSP90AA1
+SmallMolecule	IP3
+protein	KNG1
+protein	NOS3
+protein	None
+protein	PDPK1
+complex	PI3K
+protein	PIK3CA
+protein	PIK3R1
+SmallMolecule	PIP2
+SmallMolecule	PIP3
+protein	PKC
+protein	PLCG1
+protein	PTK2
+protein	PXN
+complex	SHC/GRB2/SOS-1
+protein	SHC1
+protein	SOS1
+protein	SRC
+protein	VEGF R
+complex	VEGF/VEGF R
+protein	VEGFA
+complex	bradykinin/Bradykinin receptor B2
+SmallMolecule	guanosine 5'-diphosphate
+SmallMolecule	guanosine 5'-triphosphate
+SmallMolecule	inomax (tn)
+ACTA1	FAK/p130CAS/SRC/CSK/paxillin/actin	component>
+HRAS	HRAS	-a>
+HRAS	guanosine 5'-diphosphate	-a>
+IP3	Ca ++	ACTIVATION
+PIP2	IP3	-a>
+PIP2	DAG	-a>
+PIP2	PIP3	-a>
+PTK2	FAK/p130CAS/SRC/CSK/paxillin/actin	component>
+SHC/GRB2/SOS-1	HRAS	ACTIVATION
+SHC/GRB2/SOS-1	SHC/GRB2/SOS-1	-a>
+CaM/Ca ++	NOS3	ACTIVATION
+DAG	PKC	ACTIVATION
+CSK	FAK/p130CAS/SRC/CSK/paxillin/actin	component>
+PIK3CA	PI3K	component>
+PI3K	PIP3	ACTIVATION
+PI3K	PI3K	-a>
+PKC	PKC	-a>
+(s)-2-amino-5-guanidinovaleric acid	2-amino-5-ureidovaleric acid	-a>
+PXN	FAK/p130CAS/SRC/CSK/paxillin/actin	component>
+PIK3R1	PI3K	component>
+guanosine 5'-triphosphate	HRAS	-a>
+guanosine 5'-triphosphate	guanosine 5'-diphosphate	-a>
+SRC	FAK/p130CAS/SRC/CSK/paxillin/actin	component>
+NOS3	2-amino-5-ureidovaleric acid	ACTIVATION
+NOS3	inomax (tn)	ACTIVATION
+NOS3	NOS3	-a>
+VEGF R	VEGF/VEGF R	component>
+SHC1	SHC/GRB2/SOS-1	component>
+PIP3	PDPK1	ACTIVATION
+Ca ++	PKC	ACTIVATION
+Ca ++	CaM/Ca ++	component>
+Ca ++	Ca ++	transport
+FAK/p130CAS/SRC/CSK/paxillin/actin	None	ACTIVATION
+FAK/p130CAS/SRC/CSK/paxillin/actin	FAK/p130CAS/SRC/CSK/paxillin/actin	-a>
+bradykinin/Bradykinin receptor B2	NOS3	INHIBITION
+PDPK1	PDPK1	-a>
+PDPK1	AKT1	ACTIVATION
+BCAR1	FAK/p130CAS/SRC/CSK/paxillin/actin	component>
+BDKRB2	bradykinin/Bradykinin receptor B2	component>
+VEGFA	VEGF/VEGF R	component>
+VEGF/VEGF R	PLCG1	ACTIVATION
+VEGF/VEGF R	SHC/GRB2/SOS-1	ACTIVATION
+VEGF/VEGF R	FAK/p130CAS/SRC/CSK/paxillin/actin	ACTIVATION
+VEGF/VEGF R	PI3K	ACTIVATION
+SOS1	SHC/GRB2/SOS-1	component>
+AKT1	AKT1	-a>
+AKT1	NOS3	ACTIVATION
+KNG1	bradykinin/Bradykinin receptor B2	component>
+PLCG1	PLCG1	-a>
+PLCG1	DAG	ACTIVATION
+GRB2	SHC/GRB2/SOS-1	component>
+CaM	CaM/Ca ++	component>
+HSP90AA1	NOS3	ACTIVATION

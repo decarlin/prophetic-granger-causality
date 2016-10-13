@@ -1,0 +1,94 @@
+complex	ADP:P2Y purinoceptor 1
+complex	ADP:P2Y purinoceptor 1:G-protein Gq (active)
+complex	ADP:P2Y purinoceptor 1:G-protein Gq (inactive)
+SmallMolecule	Adenosine triphosphate
+family	G-protein alpha (q/11)
+complex	G-protein alpha (q/11): GTP
+complex	G-protein alpha (q/11):GDP
+family	G-protein beta subunit
+complex	G-protein beta-gamma complex
+family	G-protein gamma subunit
+protein	GNA11
+protein	GNA14
+protein	GNA15
+protein	GNAQ
+protein	GNB1
+protein	GNB2
+protein	GNB3
+protein	GNB4
+protein	GNB5
+protein	GNG10
+protein	GNG11
+protein	GNG12
+protein	GNG13
+protein	GNG2
+protein	GNG3
+protein	GNG4
+protein	GNG5
+protein	GNG7
+protein	GNG8
+protein	GNGT1
+protein	GNGT2
+SmallMolecule	H4gtp
+complex	Heterotrimeric G-protein Gq (active)
+complex	Heterotrimeric G-protein Gq/11 (inactive)
+protein	MAPK14
+protein	P2RY1
+protein	PLA2G4A
+protein	SRC
+SmallMolecule	adenosine 5'-(trihydrogen diphosphate)
+SmallMolecule	guanosine 5'-(trihydrogen diphosphate)
+GNG11	G-protein gamma subunit	member>
+MAPK14	adenosine 5'-(trihydrogen diphosphate)	-a>
+MAPK14	MAPK14	-a>
+G-protein gamma subunit	G-protein beta-gamma complex	component>
+G-protein alpha (q/11):GDP	Heterotrimeric G-protein Gq/11 (inactive)	component>
+H4gtp	ADP:P2Y purinoceptor 1:G-protein Gq (active)	-a>
+H4gtp	G-protein alpha (q/11): GTP	component>
+H4gtp	guanosine 5'-(trihydrogen diphosphate)	-a>
+GNG10	G-protein gamma subunit	member>
+GNA14	G-protein alpha (q/11)	member>
+GNG12	G-protein gamma subunit	member>
+GNG13	G-protein gamma subunit	member>
+adenosine 5'-(trihydrogen diphosphate)	ADP:P2Y purinoceptor 1	component>
+adenosine 5'-(trihydrogen diphosphate)	ADP:P2Y purinoceptor 1	-a>
+ADP:P2Y purinoceptor 1:G-protein Gq (active)	adenosine 5'-(trihydrogen diphosphate)	-a>
+ADP:P2Y purinoceptor 1:G-protein Gq (active)	G-protein beta-gamma complex	-a>
+ADP:P2Y purinoceptor 1:G-protein Gq (active)	P2RY1	-a>
+ADP:P2Y purinoceptor 1:G-protein Gq (active)	G-protein alpha (q/11): GTP	-a>
+GNG5	G-protein gamma subunit	member>
+GNGT2	G-protein gamma subunit	member>
+SRC	SRC	-a>
+Heterotrimeric G-protein Gq (active)	ADP:P2Y purinoceptor 1:G-protein Gq (active)	component>
+GNB5	G-protein beta subunit	member>
+GNB4	G-protein beta subunit	member>
+GNB1	G-protein beta subunit	member>
+ADP:P2Y purinoceptor 1	ADP:P2Y purinoceptor 1:G-protein Gq (inactive)	component>
+ADP:P2Y purinoceptor 1	ADP:P2Y purinoceptor 1:G-protein Gq (active)	component>
+GNB2	G-protein beta subunit	member>
+Adenosine triphosphate	adenosine 5'-(trihydrogen diphosphate)	-a>
+Adenosine triphosphate	MAPK14	-a>
+Adenosine triphosphate	PLA2G4A	-a>
+GNB3	G-protein beta subunit	member>
+PLA2G4A	adenosine 5'-(trihydrogen diphosphate)	-a>
+PLA2G4A	PLA2G4A	-a>
+P2RY1	ADP:P2Y purinoceptor 1	component>
+G-protein alpha (q/11): GTP	Heterotrimeric G-protein Gq (active)	component>
+Heterotrimeric G-protein Gq/11 (inactive)	ADP:P2Y purinoceptor 1:G-protein Gq (inactive)	component>
+G-protein alpha (q/11)	G-protein alpha (q/11):GDP	component>
+G-protein alpha (q/11)	G-protein alpha (q/11): GTP	component>
+G-protein beta subunit	G-protein beta-gamma complex	component>
+GNAQ	G-protein alpha (q/11)	member>
+guanosine 5'-(trihydrogen diphosphate)	G-protein alpha (q/11):GDP	component>
+ADP:P2Y purinoceptor 1:G-protein Gq (inactive)	ADP:P2Y purinoceptor 1:G-protein Gq (active)	-a>
+ADP:P2Y purinoceptor 1:G-protein Gq (inactive)	guanosine 5'-(trihydrogen diphosphate)	-a>
+GNG7	G-protein gamma subunit	member>
+GNG4	G-protein gamma subunit	member>
+GNA15	G-protein alpha (q/11)	member>
+GNG2	G-protein gamma subunit	member>
+GNG3	G-protein gamma subunit	member>
+GNGT1	G-protein gamma subunit	member>
+GNA11	G-protein alpha (q/11)	member>
+G-protein beta-gamma complex	Heterotrimeric G-protein Gq/11 (inactive)	component>
+G-protein beta-gamma complex	Heterotrimeric G-protein Gq (active)	component>
+GNG8	G-protein gamma subunit	member>

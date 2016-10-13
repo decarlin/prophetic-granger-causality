@@ -1,0 +1,143 @@
+protein	B2M
+protein	BRAF
+protein	CALM1
+protein	CD247
+protein	CD3D
+protein	CD3E
+protein	CD3G
+protein	CD8A
+protein	CD8B
+SmallMolecule	Ca2+
+complex	CaM/Ca2+
+complex	CaM/Ca2+/Calcineurin A alpha-beta B1
+complex	Calcineurin A alpha-beta B1
+protein	EGR1
+protein	EGR4
+protein	ELK1
+protein	ERK1-2
+complex	ERK1-2/ELK1
+protein	Erk1-2-active
+protein	FOS
+protein	FOSL1
+SmallMolecule	GTP
+protein	HLA-A
+protein	IL2
+complex	IL2/IL2R
+complex	IL2R
+protein	IL2R gamma cytokines
+complex	IL2R gamma cytokines/IL2R gamma
+protein	IL2RA
+protein	IL2RB
+protein	IL2RG
+protein	JUN
+complex	JUN/FOS/NFAT1-c-4
+protein	JUNB
+complex	JUNB/Fra1/NFAT1-c-4
+protein	MAPK8
+protein	MAPK9
+protein	MEK1-2
+protein	NFAT1-c-4
+complex	NFAT1-c-4 (dimer)/EGR1
+complex	NFAT1-c-4 (dimer)/EGR4
+protein	NFAT1-c-4-active
+protein	None
+protein	PRF1
+protein	PRKCA
+protein	PRKCB
+protein	PRKCQ
+protein	PTPN7
+protein	RAF1
+protein	RAS family
+complex	RAS family/GTP
+protein	TCR-alpha
+protein	TCR-beta
+complex	TCR/CD3/MHC I/CD8
+protein	http://pid.nci.nih.gov/biopaxpid_83414
+protein	http://pid.nci.nih.gov/biopaxpid_83438
+protein	http://pid.nci.nih.gov/biopaxpid_83493
+protein	http://pid.nci.nih.gov/biopaxpid_83581
+protein	http://pid.nci.nih.gov/biopaxpid_83606
+protein	http://pid.nci.nih.gov/biopaxpid_83682
+protein	http://pid.nci.nih.gov/biopaxpid_83706
+protein	http://pid.nci.nih.gov/biopaxpid_83787
+protein	peptide
+Erk1-2-active	Erk1-2-active	transport
+Erk1-2-active	ERK1-2/ELK1	component>
+Erk1-2-active	ERK1-2	-a>
+Erk1-2-active	FOS	ACTIVATION
+NFAT1-c-4-active	JUNB/Fra1/NFAT1-c-4	component>
+NFAT1-c-4-active	NFAT1-c-4 (dimer)/EGR1	component>
+NFAT1-c-4-active	JUN/FOS/NFAT1-c-4	component>
+NFAT1-c-4-active	NFAT1-c-4 (dimer)/EGR4	component>
+CD247	TCR/CD3/MHC I/CD8	component>
+HLA-A	TCR/CD3/MHC I/CD8	component>
+JUNB	JUNB/Fra1/NFAT1-c-4	component>
+CaM/Ca2+/Calcineurin A alpha-beta B1	NFAT1-c-4-active	ACTIVATION
+PRKCQ	Erk1-2-active	ACTIVATION
+PRKCQ	MAPK8	ACTIVATION
+B2M	TCR/CD3/MHC I/CD8	component>
+Calcineurin A alpha-beta B1	CaM/Ca2+/Calcineurin A alpha-beta B1	component>
+RAF1	MEK1-2	ACTIVATION
+RAF1	RAF1	-a>
+NFAT1-c-4	NFAT1-c-4-active	-a>
+IL2R gamma cytokines	IL2R gamma cytokines/IL2R gamma	component>
+EGR1	NFAT1-c-4 (dimer)/EGR1	component>
+JUN	JUN	-a>
+JUN	JUN/FOS/NFAT1-c-4	component>
+EGR4	NFAT1-c-4 (dimer)/EGR4	component>
+Ca2+	CaM/Ca2+/Calcineurin A alpha-beta B1	component>
+Ca2+	CaM/Ca2+	component>
+FOSL1	JUNB/Fra1/NFAT1-c-4	component>
+TCR-alpha	TCR/CD3/MHC I/CD8	component>
+MAPK8	MAPK8	-a>
+MAPK8	JUN	ACTIVATION
+MAPK9	None	INHIBITION
+TCR-beta	TCR/CD3/MHC I/CD8	component>
+TCR/CD3/MHC I/CD8	IL2/IL2R	ACTIVATION
+TCR/CD3/MHC I/CD8	JUN	ACTIVATION
+TCR/CD3/MHC I/CD8	IL2R gamma cytokines/IL2R gamma	ACTIVATION
+IL2R gamma cytokines/IL2R gamma	None	ACTIVATION
+None	http://pid.nci.nih.gov/biopaxpid_83682	ACTIVATION
+None	None	ACTIVATION
+None	http://pid.nci.nih.gov/biopaxpid_83493	ACTIVATION
+None	http://pid.nci.nih.gov/biopaxpid_83414	ACTIVATION
+None	http://pid.nci.nih.gov/biopaxpid_83606	ACTIVATION
+None	http://pid.nci.nih.gov/biopaxpid_83706	ACTIVATION
+None	http://pid.nci.nih.gov/biopaxpid_83581	ACTIVATION
+None	http://pid.nci.nih.gov/biopaxpid_83787	ACTIVATION
+peptide	TCR/CD3/MHC I/CD8	component>
+IL2RA	IL2/IL2R	component>
+IL2RA	IL2R	component>
+PRKCA	RAF1	ACTIVATION
+PRKCA	BRAF	ACTIVATION
+FOS	JUN/FOS/NFAT1-c-4	component>
+FOS	FOS	-a>
+PRKCB	MAPK8	ACTIVATION
+PRKCB	RAF1	ACTIVATION
+PRKCB	BRAF	ACTIVATION
+GTP	RAS family/GTP	component>
+PRF1	None	ACTIVATION
+CD8A	TCR/CD3/MHC I/CD8	component>
+MEK1-2	MEK1-2	-a>
+MEK1-2	Erk1-2-active	ACTIVATION
+CD8B	TCR/CD3/MHC I/CD8	component>
+PTPN7	ERK1-2	ACTIVATION
+IL2RB	IL2/IL2R	component>
+IL2RB	IL2R	component>
+IL2RG	IL2/IL2R	component>
+IL2RG	IL2R	component>
+IL2RG	IL2R gamma cytokines/IL2R gamma	component>
+CALM1	CaM/Ca2+/Calcineurin A alpha-beta B1	component>
+CALM1	CaM/Ca2+	component>
+ERK1-2	Erk1-2-active	-a>
+ELK1	ERK1-2/ELK1	component>
+IL2	IL2/IL2R	component>
+IL2	None	ACTIVATION
+BRAF	MEK1-2	ACTIVATION
+BRAF	BRAF	-a>
+RAS family	RAS family/GTP	component>
+CD3D	TCR/CD3/MHC I/CD8	component>
+CD3E	TCR/CD3/MHC I/CD8	component>
+RAS family/GTP	RAF1	ACTIVATION
+RAS family/GTP	BRAF	ACTIVATION
+CD3G	TCR/CD3/MHC I/CD8	component>

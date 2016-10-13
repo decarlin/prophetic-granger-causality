@@ -1,0 +1,42 @@
+protein	CBL
+protein	EGF
+complex	EGF R/SRC/EGF
+complex	EGF/EGF R
+complex	EGF/EGF R/ubiquitin
+complex	EGF/EGF R/ubiquitin (cytoplasm)
+complex	EGF/EGF-R
+protein	EGFR
+protein	END
+protein	GRB2
+protein	None
+protein	PKC
+protein	SH3KBP1
+protein	SRC
+SmallMolecule	chloroquine
+SmallMolecule	leupeptin
+protein	ubiquitin
+SRC	EGF R/SRC/EGF	component>
+chloroquine	None	INHIBITION
+END	None	ACTIVATION
+PKC	EGF/EGF R	ACTIVATION
+leupeptin	None	INHIBITION
+EGFR	EGFR	transport
+EGFR	EGF/EGF R/ubiquitin	component>
+EGFR	EGF R/SRC/EGF	component>
+EGFR	EGF/EGF R/ubiquitin (cytoplasm)	component>
+EGFR	EGF/EGF-R	component>
+EGFR	EGF/EGF R	component>
+CBL	None	ACTIVATION
+CBL	CBL	-a>
+EGF/EGF R/ubiquitin	EGF/EGF R/ubiquitin (cytoplasm)	-a>
+EGF R/SRC/EGF	CBL	ACTIVATION
+GRB2	None	ACTIVATION
+EGF/EGF-R	EGF/EGF R	-a>
+EGF	EGF R/SRC/EGF	component>
+EGF	EGF/EGF R/ubiquitin (cytoplasm)	component>
+EGF	EGF/EGF-R	component>
+EGF	EGF/EGF R	component>
+EGF	EGF/EGF R/ubiquitin	component>
+SH3KBP1	None	ACTIVATION
+ubiquitin	EGF/EGF R/ubiquitin (cytoplasm)	component>
+ubiquitin	EGF/EGF R/ubiquitin	component>

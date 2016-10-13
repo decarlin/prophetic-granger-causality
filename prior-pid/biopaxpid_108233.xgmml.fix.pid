@@ -1,0 +1,55 @@
+complex	14-3-3/Forkhead Transcription Factors
+protein	AKT1
+protein	BAD
+protein	CASP9
+protein	CHUK
+protein	Forkhead Transcription Factors
+complex	GH/GH R
+protein	GH1
+protein	GHR
+complex	HSP90/AKT
+protein	HSP90AA1
+complex	NF-kappa-B
+protein	None
+protein	PDPK1
+complex	PI3K
+protein	PIK3CA
+protein	PIK3R1
+SmallMolecule	PIP2
+SmallMolecule	PIP3
+protein	PPP2CA
+protein	RELA
+protein	YWHAH
+protein	p50
+GHR	GH/GH R	component>
+NF-kappa-B	None	ACTIVATION
+BAD	BAD	-a>
+BAD	None	ACTIVATION
+PIK3CA	PI3K	component>
+PIP2	PIP3	-a>
+Forkhead Transcription Factors	Forkhead Transcription Factors	transport
+Forkhead Transcription Factors	14-3-3/Forkhead Transcription Factors	component>
+YWHAH	14-3-3/Forkhead Transcription Factors	component>
+PIK3R1	PI3K	component>
+RELA	NF-kappa-B	component>
+PIP3	PDPK1	ACTIVATION
+PI3K	PIP3	ACTIVATION
+PI3K	PI3K	-a>
+14-3-3/Forkhead Transcription Factors	None	ACTIVATION
+CHUK	None	ACTIVATION
+CHUK	CHUK	-a>
+HSP90AA1	HSP90/AKT	component>
+GH/GH R	PI3K	ACTIVATION
+p50	NF-kappa-B	component>
+GH1	GH/GH R	component>
+AKT1	CHUK	ACTIVATION
+AKT1	CASP9	ACTIVATION
+AKT1	Forkhead Transcription Factors	ACTIVATION
+AKT1	AKT1	-a>
+AKT1	BAD	ACTIVATION
+AKT1	HSP90/AKT	component>
+PPP2CA	AKT1	ACTIVATION
+CASP9	None	ACTIVATION
+CASP9	CASP9	-a>
+PDPK1	AKT1	ACTIVATION
+PDPK1	PDPK1	-a>

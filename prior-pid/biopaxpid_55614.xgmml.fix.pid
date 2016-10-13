@@ -1,0 +1,85 @@
+protein	IL12B
+protein	IL12RB1
+complex	IL23
+complex	IL23/IL23R/JAK2/TYK2
+complex	IL23/IL23R/JAK2/TYK2/SOCS3
+protein	IL23A
+protein	IL23R
+complex	IL23R/JAK2
+protein	JAK2
+complex	NF kappa B1 p50/RelA/I kappa B alpha
+protein	NFKB1
+protein	NFKBIA
+protein	None
+complex	PI3K
+protein	PIK3CA
+protein	PIK3R1
+protein	RELA
+protein	SOCS3
+protein	STAT1
+complex	STAT1 (dimer)
+protein	STAT3
+complex	STAT3 (dimer)-active
+complex	STAT3/STAT4
+protein	STAT4
+complex	STAT4 (dimer)
+protein	STAT5A
+complex	STAT5A (dimer)
+protein	TYK2
+protein	http://pid.nci.nih.gov/biopaxpid_55615
+protein	http://pid.nci.nih.gov/biopaxpid_55665
+protein	http://pid.nci.nih.gov/biopaxpid_55712
+protein	http://pid.nci.nih.gov/biopaxpid_55779
+protein	http://pid.nci.nih.gov/biopaxpid_55799
+protein	http://pid.nci.nih.gov/biopaxpid_55809
+protein	http://pid.nci.nih.gov/biopaxpid_55816
+protein	http://pid.nci.nih.gov/biopaxpid_55891
+IL23/IL23R/JAK2/TYK2	STAT5A (dimer)	ACTIVATION
+IL23/IL23R/JAK2/TYK2	NF kappa B1 p50/RelA/I kappa B alpha	ACTIVATION
+IL23/IL23R/JAK2/TYK2	PI3K	ACTIVATION
+IL23/IL23R/JAK2/TYK2	None	ACTIVATION
+IL23/IL23R/JAK2/TYK2	STAT4 (dimer)	ACTIVATION
+IL23/IL23R/JAK2/TYK2	STAT3 (dimer)-active	ACTIVATION
+IL23/IL23R/JAK2/TYK2	STAT1 (dimer)	ACTIVATION
+IL23/IL23R/JAK2/TYK2	STAT3/STAT4	ACTIVATION
+IL23A	IL23	component>
+IL23A	IL23/IL23R/JAK2/TYK2	component>
+IL23A	IL23/IL23R/JAK2/TYK2/SOCS3	component>
+NF kappa B1 p50/RelA/I kappa B alpha	NF kappa B1 p50/RelA/I kappa B alpha	-a>
+NFKBIA	NF kappa B1 p50/RelA/I kappa B alpha	component>
+IL12B	IL23	component>
+IL12B	IL23/IL23R/JAK2/TYK2	component>
+IL12B	IL23/IL23R/JAK2/TYK2/SOCS3	component>
+IL23	None	ACTIVATION
+IL23R	IL23/IL23R/JAK2/TYK2	component>
+IL23R	IL23R/JAK2	component>
+IL23R	IL23/IL23R/JAK2/TYK2/SOCS3	component>
+TYK2	IL23/IL23R/JAK2/TYK2	component>
+TYK2	IL23/IL23R/JAK2/TYK2/SOCS3	component>
+PI3K	STAT3 (dimer)-active	ACTIVATION
+PI3K	PI3K	-a>
+STAT4	STAT3/STAT4	component>
+STAT4	STAT4 (dimer)	component>
+STAT3	STAT3 (dimer)-active	component>
+STAT3	STAT3/STAT4	component>
+STAT1	STAT1 (dimer)	component>
+IL12RB1	IL23/IL23R/JAK2/TYK2	component>
+IL12RB1	IL23/IL23R/JAK2/TYK2/SOCS3	component>
+PIK3CA	PI3K	component>
+JAK2	IL23/IL23R/JAK2/TYK2	component>
+JAK2	IL23R/JAK2	component>
+JAK2	IL23/IL23R/JAK2/TYK2/SOCS3	component>
+PIK3R1	PI3K	component>
+NFKB1	NF kappa B1 p50/RelA/I kappa B alpha	component>
+RELA	NF kappa B1 p50/RelA/I kappa B alpha	component>
+None	None	ACTIVATION
+None	http://pid.nci.nih.gov/biopaxpid_55809	ACTIVATION
+None	http://pid.nci.nih.gov/biopaxpid_55712	ACTIVATION
+None	http://pid.nci.nih.gov/biopaxpid_55816	ACTIVATION
+None	http://pid.nci.nih.gov/biopaxpid_55891	ACTIVATION
+None	http://pid.nci.nih.gov/biopaxpid_55665	ACTIVATION
+None	http://pid.nci.nih.gov/biopaxpid_55799	ACTIVATION
+None	http://pid.nci.nih.gov/biopaxpid_55779	ACTIVATION
+None	http://pid.nci.nih.gov/biopaxpid_55615	ACTIVATION
+SOCS3	IL23/IL23R/JAK2/TYK2/SOCS3	component>
+STAT5A	STAT5A (dimer)	component>

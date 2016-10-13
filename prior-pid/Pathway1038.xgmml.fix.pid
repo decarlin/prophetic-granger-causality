@@ -1,0 +1,44 @@
+complex	14-3-3-zeta:Raf1
+complex	14-3-3zeta dimer
+complex	Active c-Src:Raf1
+protein	FLNA
+protein	GP1BA
+protein	GP1BB
+protein	GP5
+protein	GP9
+complex	GPIb
+complex	GPIb-IX-V complex
+complex	GPIb-IX-V:vWF
+complex	GPIb-IX-V:vWF:14-3-3-zeta
+complex	GPIb-IX-V:vWF:14-3-3-zeta:p85
+complex	GPIb-IX-V:vWF:filamin-A
+protein	PIK3R1
+protein	RAF1
+protein	SRC
+protein	VWF
+protein	YWHAZ
+YWHAZ	GPIb-IX-V:vWF:14-3-3-zeta	component>
+YWHAZ	14-3-3zeta dimer	component>
+SRC	SRC	-a>
+SRC	Active c-Src:Raf1	component>
+GPIb-IX-V:vWF:14-3-3-zeta	GPIb-IX-V:vWF	-a>
+GPIb-IX-V:vWF:14-3-3-zeta	GPIb-IX-V:vWF:14-3-3-zeta:p85	component>
+GPIb-IX-V:vWF:14-3-3-zeta	14-3-3zeta dimer	-a>
+GPIb-IX-V complex	GPIb-IX-V:vWF	component>
+GPIb-IX-V complex	GPIb-IX-V:vWF:filamin-A	component>
+GPIb-IX-V:vWF	SRC	-a>
+GPIb-IX-V:vWF	GPIb-IX-V:vWF:14-3-3-zeta	component>
+GPIb-IX-V:vWF	GPIb-IX-V:vWF:filamin-A	-a>
+GP1BA	GPIb	component>
+GP1BB	GPIb	component>
+GPIb	GPIb-IX-V complex	component>
+GP5	GPIb-IX-V complex	component>
+PIK3R1	GPIb-IX-V:vWF:14-3-3-zeta:p85	component>
+FLNA	GPIb-IX-V:vWF:filamin-A	component>
+VWF	GPIb-IX-V:vWF	component>
+VWF	GPIb-IX-V:vWF:filamin-A	component>
+RAF1	14-3-3-zeta:Raf1	component>
+RAF1	Active c-Src:Raf1	component>
+14-3-3zeta dimer	14-3-3-zeta:Raf1	component>
+14-3-3zeta dimer	GPIb-IX-V:vWF:14-3-3-zeta	-a>
+GP9	GPIb-IX-V complex	component>

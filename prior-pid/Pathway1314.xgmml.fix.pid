@@ -1,0 +1,68 @@
+protein	CDC37
+complex	CDC37 homodimer
+protein	ERBB2
+PhysicalEntity	ERBB2 heterodimers
+complex	ERBB2:ERBB2IP:HSP90:CDC37
+protein	ERBB2IP
+protein	ERBB3
+SmallMolecule	H3adp
+SmallMolecule	H4atp
+complex	HSP90 homodimer
+protein	HSP90AA1
+complex	Ligand-Activated EGFR/ERBB3/ERBB4
+protein	MATK
+PhysicalEntity	NRG1/2
+complex	NRG1/2:ERBB3
+PhysicalEntity	Phosphorylated ERBB2 heterodimers
+complex	Phosphorylated ERBB2 heterodimers:MATK
+PhysicalEntity	Phosphorylated p-6Y-ERBB2 heterodimers
+PhysicalEntity	Phosphorylated p-Y877-ERBB2 heterodimers
+protein	RPS27A
+protein	UBA52
+protein	UBC
+complex	Ub-ERBB2:ERBB2IP:HSP90:CDC37
+complex	Ub-ERBB2:ERBB2IP:Ub-HSP90:CDC37
+PhysicalEntity	p-Y877-ERBB2 heterodimers
+family	ubiquitin
+ERBB2:ERBB2IP:HSP90:CDC37	ERBB2IP	-a>
+ERBB2:ERBB2IP:HSP90:CDC37	HSP90 homodimer	-a>
+ERBB2:ERBB2IP:HSP90:CDC37	CDC37 homodimer	-a>
+ERBB2:ERBB2IP:HSP90:CDC37	Ub-ERBB2:ERBB2IP:Ub-HSP90:CDC37	-a>
+ERBB2:ERBB2IP:HSP90:CDC37	ERBB2 heterodimers	-a>
+ERBB2:ERBB2IP:HSP90:CDC37	Ub-ERBB2:ERBB2IP:HSP90:CDC37	-a>
+ERBB2IP	ERBB2:ERBB2IP:HSP90:CDC37	component>
+ERBB2IP	Ub-ERBB2:ERBB2IP:HSP90:CDC37	component>
+ERBB2IP	Ub-ERBB2:ERBB2IP:Ub-HSP90:CDC37	component>
+RPS27A	ubiquitin	member>
+Phosphorylated ERBB2 heterodimers	Phosphorylated ERBB2 heterodimers:MATK	component>
+ubiquitin	Ub-ERBB2:ERBB2IP:HSP90:CDC37	component>
+ubiquitin	Ub-ERBB2:ERBB2IP:Ub-HSP90:CDC37	component>
+H4atp	p-Y877-ERBB2 heterodimers	-a>
+H4atp	H3adp	-a>
+H4atp	Phosphorylated p-Y877-ERBB2 heterodimers	-a>
+H4atp	Phosphorylated p-6Y-ERBB2 heterodimers	-a>
+NRG1/2	NRG1/2:ERBB3	component>
+CDC37 homodimer	ERBB2:ERBB2IP:HSP90:CDC37	component>
+CDC37 homodimer	Ub-ERBB2:ERBB2IP:HSP90:CDC37	component>
+CDC37 homodimer	Ub-ERBB2:ERBB2IP:Ub-HSP90:CDC37	component>
+ERBB2 heterodimers	p-Y877-ERBB2 heterodimers	-a>
+ERBB2 heterodimers	H3adp	-a>
+ERBB2 heterodimers	Phosphorylated p-6Y-ERBB2 heterodimers	-a>
+CDC37	CDC37 homodimer	component>
+ERBB2	ERBB2:ERBB2IP:HSP90:CDC37	component>
+ERBB2	Ub-ERBB2:ERBB2IP:HSP90:CDC37	component>
+ERBB2	Ub-ERBB2:ERBB2IP:Ub-HSP90:CDC37	component>
+ERBB3	NRG1/2:ERBB3	component>
+HSP90 homodimer	ERBB2:ERBB2IP:HSP90:CDC37	component>
+HSP90 homodimer	Ub-ERBB2:ERBB2IP:HSP90:CDC37	component>
+HSP90 homodimer	Ub-ERBB2:ERBB2IP:Ub-HSP90:CDC37	component>
+Ligand-Activated EGFR/ERBB3/ERBB4	ERBB2 heterodimers	-a>
+Ligand-Activated EGFR/ERBB3/ERBB4	CDC37 homodimer	-a>
+Ligand-Activated EGFR/ERBB3/ERBB4	ERBB2IP	-a>
+Ligand-Activated EGFR/ERBB3/ERBB4	HSP90 homodimer	-a>
+p-Y877-ERBB2 heterodimers	H3adp	-a>
+p-Y877-ERBB2 heterodimers	Phosphorylated p-Y877-ERBB2 heterodimers	-a>
+UBA52	ubiquitin	member>
+UBC	ubiquitin	member>
+HSP90AA1	HSP90 homodimer	component>
+MATK	Phosphorylated ERBB2 heterodimers:MATK	component>

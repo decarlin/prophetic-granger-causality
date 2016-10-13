@@ -1,0 +1,27 @@
+protein	CREBBP
+protein	EP300
+protein	ESR1
+complex	Estrogen/ER alpha
+complex	Estrogen/ER alpha/PELP1
+complex	Estrogen/ER alpha/PELP1/SRC
+protein	None
+protein	PELP1
+complex	PELP1/CBP
+complex	PELP1/p300
+protein	SRC
+SmallMolecule	diethylstilbestrol
+EP300	PELP1/p300	component>
+diethylstilbestrol	Estrogen/ER alpha	component>
+diethylstilbestrol	Estrogen/ER alpha/PELP1	component>
+diethylstilbestrol	Estrogen/ER alpha/PELP1/SRC	component>
+SRC	Estrogen/ER alpha/PELP1/SRC	component>
+Estrogen/ER alpha/PELP1/SRC	None	ACTIVATION
+ESR1	Estrogen/ER alpha	component>
+ESR1	Estrogen/ER alpha/PELP1	component>
+ESR1	Estrogen/ER alpha/PELP1/SRC	component>
+PELP1	PELP1/p300	component>
+PELP1	Estrogen/ER alpha/PELP1	component>
+PELP1	Estrogen/ER alpha/PELP1/SRC	component>
+PELP1	PELP1/CBP	component>
+PELP1	PELP1	transport
+CREBBP	PELP1/CBP	component>

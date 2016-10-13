@@ -1,0 +1,29 @@
+SmallMolecule	Adenosine 5'-diphosphate
+SmallMolecule	Adenosine 5'-triphosphate
+protein	CREB1
+SmallMolecule	Guanosine 5'-triphosphate
+protein	HRAS
+protein	MAPK1
+SmallMolecule	Orthophosphate
+protein	Phospho(S221,S363,S380,T573)- ribosomal S6 kinase
+protein	RAF1
+complex	Ras:GTP
+RAF1	Adenosine 5'-diphosphate	-a>
+RAF1	Orthophosphate	-a>
+RAF1	MAPK1	ACTIVATION
+RAF1	RAF1	-a>
+HRAS	Ras:GTP	component>
+CREB1	Adenosine 5'-diphosphate	-a>
+CREB1	Orthophosphate	-a>
+CREB1	CREB1	-a>
+Phospho(S221,S363,S380,T573)- ribosomal S6 kinase	Adenosine 5'-diphosphate	ACTIVATION
+Adenosine 5'-triphosphate	Adenosine 5'-diphosphate	-a>
+Adenosine 5'-triphosphate	Orthophosphate	-a>
+Adenosine 5'-triphosphate	MAPK1	-a>
+Adenosine 5'-triphosphate	RAF1	-a>
+Adenosine 5'-triphosphate	CREB1	-a>
+MAPK1	Adenosine 5'-diphosphate	-a>
+MAPK1	Orthophosphate	ACTIVATION
+MAPK1	MAPK1	-a>
+Guanosine 5'-triphosphate	Ras:GTP	component>
+Ras:GTP	Orthophosphate	ACTIVATION

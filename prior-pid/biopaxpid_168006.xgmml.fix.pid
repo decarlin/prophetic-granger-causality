@@ -1,0 +1,115 @@
+protein	CAPN1
+protein	CAPN2
+protein	CAPNS1
+protein	CAST
+SmallMolecule	Ca ++
+complex	Calpain1
+complex	Calpain2
+protein	ECM
+protein	EGF
+complex	EGF/EGF-R
+protein	EGFR
+protein	EZR
+protein	GRB2
+protein	HRAS
+protein	ITGA1
+protein	ITGB1
+complex	Integrin-alpha/Integrin-beta/ECM
+protein	MAP2K1
+protein	MAP2K2
+protein	MAPK1
+protein	MAPK3
+protein	MLC1
+protein	MYLK
+protein	None
+complex	PKA
+protein	PRKACB
+protein	PRKACG
+protein	PRKAR1A
+protein	PRKAR1B
+protein	PRKAR2A
+protein	PRKAR2B
+protein	PTK2
+protein	PXN
+protein	Paxillin (cleaved)
+complex	Paxillin/FAK/Talin/MLC(+)/Integrin-alpha/Integrin-beta/ECM
+complex	Paxillin/FAK/Talin/MLC/Integrin-alpha/Integrin-beta/ECM
+protein	RAC1
+complex	SHC/GRB2/SOS-1
+protein	SHC1
+protein	SOS1
+protein	TLN1
+SmallMolecule	guanosine 5'-diphosphate
+SmallMolecule	guanosine 5'-triphosphate
+PTK2	Paxillin/FAK/Talin/MLC/Integrin-alpha/Integrin-beta/ECM	component>
+PTK2	Paxillin/FAK/Talin/MLC(+)/Integrin-alpha/Integrin-beta/ECM	component>
+CAPNS1	Calpain1	component>
+CAPNS1	Calpain2	component>
+ITGA1	Paxillin/FAK/Talin/MLC/Integrin-alpha/Integrin-beta/ECM	component>
+ITGA1	Integrin-alpha/Integrin-beta/ECM	component>
+ITGA1	Paxillin/FAK/Talin/MLC(+)/Integrin-alpha/Integrin-beta/ECM	component>
+HRAS	HRAS	-a>
+HRAS	guanosine 5'-diphosphate	-a>
+HRAS	RAC1	ACTIVATION
+EGFR	EGF/EGF-R	component>
+PRKAR2A	PKA	component>
+MAP2K2	MAP2K2	-a>
+MAP2K2	MAP2K1	-a>
+MAP2K2	MAPK3	ACTIVATION
+MAP2K1	MAP2K2	-a>
+MAP2K1	MAP2K1	-a>
+MAP2K1	MAPK3	ACTIVATION
+Paxillin/FAK/Talin/MLC/Integrin-alpha/Integrin-beta/ECM	Paxillin/FAK/Talin/MLC(+)/Integrin-alpha/Integrin-beta/ECM	-a>
+SHC/GRB2/SOS-1	guanosine 5'-diphosphate	ACTIVATION
+SHC/GRB2/SOS-1	SHC/GRB2/SOS-1	-a>
+EGF	EGF/EGF-R	component>
+CAPN2	Calpain2	component>
+MAPK3	MAPK3	-a>
+MAPK3	MAPK1	-a>
+MAPK3	MYLK	ACTIVATION
+MAPK3	Calpain2	ACTIVATION
+ECM	Paxillin/FAK/Talin/MLC/Integrin-alpha/Integrin-beta/ECM	component>
+ECM	Integrin-alpha/Integrin-beta/ECM	component>
+ECM	Paxillin/FAK/Talin/MLC(+)/Integrin-alpha/Integrin-beta/ECM	component>
+Ca ++	Calpain1	ACTIVATION
+Ca ++	Ca ++	transport
+Calpain1	Calpain1	-a>
+Calpain1	EZR	ACTIVATION
+Calpain1	Integrin-alpha/Integrin-beta/ECM	ACTIVATION
+Calpain2	Calpain2	-a>
+Calpain2	Paxillin (cleaved)	ACTIVATION
+TLN1	Paxillin/FAK/Talin/MLC/Integrin-alpha/Integrin-beta/ECM	component>
+TLN1	Paxillin/FAK/Talin/MLC(+)/Integrin-alpha/Integrin-beta/ECM	component>
+CAST	Integrin-alpha/Integrin-beta/ECM	INHIBITION
+CAST	Paxillin (cleaved)	INHIBITION
+PKA	Paxillin (cleaved)	INHIBITION
+PXN	Paxillin/FAK/Talin/MLC/Integrin-alpha/Integrin-beta/ECM	component>
+PXN	Paxillin/FAK/Talin/MLC(+)/Integrin-alpha/Integrin-beta/ECM	component>
+CAPN1	Calpain1	component>
+guanosine 5'-triphosphate	HRAS	-a>
+guanosine 5'-triphosphate	guanosine 5'-diphosphate	-a>
+EGF/EGF-R	SHC/GRB2/SOS-1	ACTIVATION
+ITGB1	Paxillin/FAK/Talin/MLC/Integrin-alpha/Integrin-beta/ECM	component>
+ITGB1	Integrin-alpha/Integrin-beta/ECM	component>
+ITGB1	Paxillin/FAK/Talin/MLC(+)/Integrin-alpha/Integrin-beta/ECM	component>
+SHC1	SHC/GRB2/SOS-1	component>
+Paxillin/FAK/Talin/MLC(+)/Integrin-alpha/Integrin-beta/ECM	None	ACTIVATION
+RAC1	MAP2K2	ACTIVATION
+RAC1	RAC1	-a>
+PRKAR1A	PKA	component>
+PRKAR1B	PKA	component>
+PRKAR2B	PKA	component>
+SOS1	SHC/GRB2/SOS-1	component>
+GRB2	SHC/GRB2/SOS-1	component>
+MYLK	MYLK	-a>
+MYLK	Paxillin/FAK/Talin/MLC(+)/Integrin-alpha/Integrin-beta/ECM	ACTIVATION
+EZR	Integrin-alpha/Integrin-beta/ECM	ACTIVATION
+EZR	EZR	-a>
+PRKACG	PKA	component>
+MLC1	Paxillin/FAK/Talin/MLC/Integrin-alpha/Integrin-beta/ECM	component>
+MLC1	Paxillin/FAK/Talin/MLC(+)/Integrin-alpha/Integrin-beta/ECM	component>
+PRKACB	PKA	component>
+MAPK1	MAPK3	-a>
+MAPK1	MAPK1	-a>
+MAPK1	MYLK	ACTIVATION
+MAPK1	Calpain2	ACTIVATION

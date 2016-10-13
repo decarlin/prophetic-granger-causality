@@ -1,0 +1,206 @@
+SmallMolecule	5'-adenylphosphoric acid
+family	Adapter proteins
+complex	Adapter proteins:p-KIT complex
+SmallMolecule	Adenosine triphosphate
+protein	CHEK1
+protein	FER
+protein	FES
+protein	FYN
+protein	GAB2
+complex	GAB2:GRB2:p-SHP2:p-KIT complex
+protein	GRAP
+protein	GRAP2
+protein	GRB10
+protein	GRB2
+complex	GRB2:SOS1
+complex	GRB2:SOS1:p-KIT:sSCF dimer:p-KIT
+complex	GRB2:p-SHP2:SFKs:p-7Y-KIT:sSCF dimer:p-7Y-KIT
+protein	GRB7
+SmallMolecule	H4gtp
+protein	HRAS
+protein	JAK2
+complex	JAK2:SFKS:p-KIT complex
+protein	KIT
+complex	KIT:sSCF dimer
+complex	KIT:sSCF dimer:KIT
+protein	KITLG
+protein	KRAS
+protein	LCK
+protein	NRAS
+complex	P13K:p(Y)-GAB2:GRB2:p-SHP2:p-KIT complex
+complex	PI3K alpha
+family	PI3K-regulatory subunits
+complex	PI3K:p-KIT:sSCF dimer:p-KIT
+protein	PIK3CA
+protein	PIK3R1
+protein	PIK3R2
+protein	PIK3R3
+SmallMolecule	PIP3
+SmallMolecule	PIPP
+protein	PTPN11
+complex	PTPRO:KIT
+protein	PTPRU
+protein	RAC1
+complex	RAC1-GDP
+complex	RAC1-GTP
+complex	SFKs:p-7Y-KIT:sSCF dimer:p-7Y-KIT
+complex	SFKs:p-8Y-KIT:sSCF dimer:p-8Y-KIT
+complex	SHP2:SFKs:p-KIT:sSCF dimer:p-KIT
+protein	SOS1
+protein	SRC
+protein	STAT1
+family	STAT1, STAT5A, STAT5B
+protein	STAT3
+protein	STAT5A
+protein	STAT5B
+family	Src family tyrosine kinases (SFKs)
+protein	TEC
+family	Tyrosine kinases
+complex	Tyrosine kinases:p-KIT complex
+protein	VAV1
+protein	YES1
+SmallMolecule	guanosine 5'-(trihydrogen diphosphate)
+complex	p(Y)-GAB2:GRB2:p-SHP2:p-KIT complex
+complex	p-7Y-KIT:sSCF dimer:p-7Y-KIT
+complex	p-8Y-KIT:sSCF dimer:p-8Y-KIT
+complex	p-JAK2:SFKs:p-KIT complex
+complex	p-JAK2:SFKs:p-KIT complex:STATs
+complex	p-JAK2:SFKs:p-KIT complex:p-STAT dimers
+complex	p-JAK2:SFKs:p-KIT complex:p-STATs
+complex	p-SHP2:SFKs:p-7Y-KIT:sSCF dimer:p-7Y-KIT
+complex	p-STAT dimer
+complex	p-STAT dimers
+family	p-STATs
+complex	p-VAV1:PIP3
+family	p21 RAS
+complex	p21 RAS:GDP
+complex	p21 RAS:GTP
+complex	sSCF dimer
+GRB2:p-SHP2:SFKs:p-7Y-KIT:sSCF dimer:p-7Y-KIT	P13K:p(Y)-GAB2:GRB2:p-SHP2:p-KIT complex	component>
+GRB2:p-SHP2:SFKs:p-7Y-KIT:sSCF dimer:p-7Y-KIT	p(Y)-GAB2:GRB2:p-SHP2:p-KIT complex	component>
+GRB2:p-SHP2:SFKs:p-7Y-KIT:sSCF dimer:p-7Y-KIT	GAB2:GRB2:p-SHP2:p-KIT complex	component>
+SRC	Src family tyrosine kinases (SFKs)	member>
+FYN	Src family tyrosine kinases (SFKs)	member>
+HRAS	p21 RAS	member>
+p21 RAS:GDP	p21 RAS:GTP	-a>
+p21 RAS:GDP	guanosine 5'-(trihydrogen diphosphate)	-a>
+GAB2	P13K:p(Y)-GAB2:GRB2:p-SHP2:p-KIT complex	component>
+GAB2	p(Y)-GAB2:GRB2:p-SHP2:p-KIT complex	component>
+GAB2	GAB2:GRB2:p-SHP2:p-KIT complex	component>
+GRB7	Adapter proteins	member>
+p-STAT dimer	p-JAK2:SFKs:p-KIT complex:p-STAT dimers	component>
+RAC1-GDP	guanosine 5'-(trihydrogen diphosphate)	-a>
+RAC1-GDP	RAC1-GTP	-a>
+KIT:sSCF dimer:KIT	5'-adenylphosphoric acid	-a>
+KIT:sSCF dimer:KIT	p-7Y-KIT:sSCF dimer:p-7Y-KIT	-a>
+Src family tyrosine kinases (SFKs)	SFKs:p-7Y-KIT:sSCF dimer:p-7Y-KIT	component>
+Src family tyrosine kinases (SFKs)	SFKs:p-8Y-KIT:sSCF dimer:p-8Y-KIT	component>
+STAT1, STAT5A, STAT5B	p-JAK2:SFKs:p-KIT complex:STATs	component>
+YES1	Src family tyrosine kinases (SFKs)	member>
+JAK2:SFKS:p-KIT complex	5'-adenylphosphoric acid	-a>
+JAK2:SFKS:p-KIT complex	p-JAK2:SFKs:p-KIT complex	-a>
+H4gtp	p21 RAS:GTP	component>
+H4gtp	guanosine 5'-(trihydrogen diphosphate)	-a>
+H4gtp	RAC1-GTP	component>
+STAT3	p-STATs	member>
+STAT3	STAT1, STAT5A, STAT5B	member>
+PIPP	5'-adenylphosphoric acid	-a>
+PIPP	PIP3	-a>
+STAT1	p-STATs	member>
+STAT1	STAT1, STAT5A, STAT5B	member>
+GRAP	Adapter proteins	member>
+PIK3CA	PI3K alpha	component>
+p(Y)-GAB2:GRB2:p-SHP2:p-KIT complex	P13K:p(Y)-GAB2:GRB2:p-SHP2:p-KIT complex	-a>
+TEC	Tyrosine kinases	member>
+NRAS	p21 RAS	member>
+Adenosine triphosphate	p-JAK2:SFKs:p-KIT complex:p-STATs	-a>
+Adenosine triphosphate	PIP3	-a>
+Adenosine triphosphate	5'-adenylphosphoric acid	-a>
+Adenosine triphosphate	p(Y)-GAB2:GRB2:p-SHP2:p-KIT complex	-a>
+Adenosine triphosphate	p-JAK2:SFKs:p-KIT complex	-a>
+Adenosine triphosphate	p-VAV1:PIP3	-a>
+Adenosine triphosphate	SFKs:p-8Y-KIT:sSCF dimer:p-8Y-KIT	-a>
+Adenosine triphosphate	p-SHP2:SFKs:p-7Y-KIT:sSCF dimer:p-7Y-KIT	-a>
+Adenosine triphosphate	p-7Y-KIT:sSCF dimer:p-7Y-KIT	-a>
+GRAP2	Adapter proteins	member>
+PIK3R3	PI3K-regulatory subunits	member>
+PIK3R2	PI3K-regulatory subunits	member>
+PIK3R1	PI3K-regulatory subunits	member>
+JAK2	p-JAK2:SFKs:p-KIT complex:p-STATs	component>
+JAK2	p-JAK2:SFKs:p-KIT complex:STATs	component>
+JAK2	p-JAK2:SFKs:p-KIT complex:p-STAT dimers	component>
+JAK2	p-JAK2:SFKs:p-KIT complex	component>
+JAK2	JAK2:SFKS:p-KIT complex	component>
+SFKs:p-7Y-KIT:sSCF dimer:p-7Y-KIT	JAK2:SFKS:p-KIT complex	component>
+SFKs:p-7Y-KIT:sSCF dimer:p-7Y-KIT	p-JAK2:SFKs:p-KIT complex:p-STAT dimers	component>
+SFKs:p-7Y-KIT:sSCF dimer:p-7Y-KIT	5'-adenylphosphoric acid	-a>
+SFKs:p-7Y-KIT:sSCF dimer:p-7Y-KIT	p-JAK2:SFKs:p-KIT complex:STATs	component>
+SFKs:p-7Y-KIT:sSCF dimer:p-7Y-KIT	p-JAK2:SFKs:p-KIT complex	component>
+SFKs:p-7Y-KIT:sSCF dimer:p-7Y-KIT	p-JAK2:SFKs:p-KIT complex:p-STATs	component>
+SFKs:p-7Y-KIT:sSCF dimer:p-7Y-KIT	SFKs:p-8Y-KIT:sSCF dimer:p-8Y-KIT	-a>
+SFKs:p-7Y-KIT:sSCF dimer:p-7Y-KIT	p-SHP2:SFKs:p-7Y-KIT:sSCF dimer:p-7Y-KIT	component>
+SFKs:p-7Y-KIT:sSCF dimer:p-7Y-KIT	SHP2:SFKs:p-KIT:sSCF dimer:p-KIT	component>
+p-SHP2:SFKs:p-7Y-KIT:sSCF dimer:p-7Y-KIT	GRB2:p-SHP2:SFKs:p-7Y-KIT:sSCF dimer:p-7Y-KIT	component>
+SHP2:SFKs:p-KIT:sSCF dimer:p-KIT	5'-adenylphosphoric acid	-a>
+SHP2:SFKs:p-KIT:sSCF dimer:p-KIT	p-SHP2:SFKs:p-7Y-KIT:sSCF dimer:p-7Y-KIT	-a>
+CHEK1	Tyrosine kinases	member>
+PI3K-regulatory subunits	PI3K alpha	component>
+p21 RAS	p21 RAS:GDP	component>
+p21 RAS	p21 RAS:GTP	component>
+p-8Y-KIT:sSCF dimer:p-8Y-KIT	SFKs:p-8Y-KIT:sSCF dimer:p-8Y-KIT	component>
+RAC1	RAC1-GDP	component>
+RAC1	RAC1-GTP	component>
+p-JAK2:SFKs:p-KIT complex:STATs	p-JAK2:SFKs:p-KIT complex:p-STATs	-a>
+p-JAK2:SFKs:p-KIT complex:STATs	5'-adenylphosphoric acid	-a>
+GRB2:SOS1	GRB2:SOS1:p-KIT:sSCF dimer:p-KIT	component>
+GAB2:GRB2:p-SHP2:p-KIT complex	5'-adenylphosphoric acid	-a>
+GAB2:GRB2:p-SHP2:p-KIT complex	p(Y)-GAB2:GRB2:p-SHP2:p-KIT complex	-a>
+p-JAK2:SFKs:p-KIT complex:p-STATs	p-JAK2:SFKs:p-KIT complex:p-STAT dimers	-a>
+KIT:sSCF dimer	KIT:sSCF dimer:KIT	-a>
+p-JAK2:SFKs:p-KIT complex:p-STAT dimers	p-STAT dimers	-a>
+p-JAK2:SFKs:p-KIT complex:p-STAT dimers	p-JAK2:SFKs:p-KIT complex	-a>
+FER	Tyrosine kinases	member>
+FES	Tyrosine kinases	member>
+KITLG	sSCF dimer	component>
+KITLG	KITLG	-a>
+p-7Y-KIT:sSCF dimer:p-7Y-KIT	PI3K:p-KIT:sSCF dimer:p-KIT	component>
+p-7Y-KIT:sSCF dimer:p-7Y-KIT	GRB2:SOS1:p-KIT:sSCF dimer:p-KIT	component>
+p-7Y-KIT:sSCF dimer:p-7Y-KIT	SFKs:p-7Y-KIT:sSCF dimer:p-7Y-KIT	component>
+p-7Y-KIT:sSCF dimer:p-7Y-KIT	Adapter proteins:p-KIT complex	component>
+p-7Y-KIT:sSCF dimer:p-7Y-KIT	Tyrosine kinases:p-KIT complex	component>
+KRAS	p21 RAS	member>
+PTPRU	PTPRO:KIT	component>
+Adapter proteins	Adapter proteins:p-KIT complex	component>
+sSCF dimer	KIT:sSCF dimer:KIT	component>
+sSCF dimer	KIT:sSCF dimer	component>
+sSCF dimer	p-8Y-KIT:sSCF dimer:p-8Y-KIT	component>
+sSCF dimer	p-7Y-KIT:sSCF dimer:p-7Y-KIT	component>
+SOS1	GRB2:SOS1	component>
+guanosine 5'-(trihydrogen diphosphate)	p21 RAS:GDP	component>
+guanosine 5'-(trihydrogen diphosphate)	RAC1-GDP	component>
+VAV1	p-VAV1:PIP3	component>
+VAV1	5'-adenylphosphoric acid	-a>
+GRB10	Adapter proteins	member>
+PTPN11	p-SHP2:SFKs:p-7Y-KIT:sSCF dimer:p-7Y-KIT	component>
+PTPN11	SHP2:SFKs:p-KIT:sSCF dimer:p-KIT	component>
+p-JAK2:SFKs:p-KIT complex	p-JAK2:SFKs:p-KIT complex:STATs	-a>
+Tyrosine kinases	Tyrosine kinases:p-KIT complex	component>
+KIT	KIT:sSCF dimer:KIT	component>
+KIT	PTPRO:KIT	component>
+KIT	p-8Y-KIT:sSCF dimer:p-8Y-KIT	component>
+KIT	KIT:sSCF dimer	component>
+KIT	p-7Y-KIT:sSCF dimer:p-7Y-KIT	component>
+STAT5B	p-STATs	member>
+STAT5B	STAT1, STAT5A, STAT5B	member>
+STAT5A	p-STATs	member>
+STAT5A	STAT1, STAT5A, STAT5B	member>
+GRB2	GRB2:p-SHP2:SFKs:p-7Y-KIT:sSCF dimer:p-7Y-KIT	component>
+GRB2	GRB2:SOS1	component>
+PIP3	p-VAV1:PIP3	component>
+PIP3	5'-adenylphosphoric acid	-a>
+p-STATs	p-JAK2:SFKs:p-KIT complex:p-STATs	component>
+p-STATs	p-STAT dimer	component>
+p-STATs	p-STAT dimers	component>
+LCK	Src family tyrosine kinases (SFKs)	member>
+PI3K alpha	PI3K:p-KIT:sSCF dimer:p-KIT	component>
+PI3K alpha	P13K:p(Y)-GAB2:GRB2:p-SHP2:p-KIT complex	component>

@@ -1,0 +1,122 @@
+SmallMolecule	Ca ++
+protein	CaM
+complex	CaM/Ca ++
+protein	CaMKI
+complex	CaMKI/CaM/Ca ++
+protein	CaMKK
+complex	CaMKK/CaM/Ca ++
+complex	Calcineurin
+SmallMolecule	DAG
+protein	ELK1
+protein	FPR1
+protein	GNA15
+protein	GNB1
+protein	GNGT1
+protein	HRAS
+SmallMolecule	IP3
+protein	MAP2K1
+protein	MAP2K2
+protein	MAP2K3
+protein	MAP2K6
+protein	MAPK1
+protein	MAPK14
+protein	MAPK3
+protein	NCF1
+protein	NCF2
+protein	NFATc
+protein	None
+protein	PAK1
+SmallMolecule	PD98059
+protein	PIK3C2G
+SmallMolecule	PIP2
+protein	PKC
+protein	PLCB1
+protein	PPP3CA
+protein	PPP3CB
+protein	PPP3CC
+protein	RAC1
+protein	RAF1
+SmallMolecule	SB2003580
+protein	fMLP
+complex	fMLP/FPR1/G-beta/G-gamma/G16-alpha
+SmallMolecule	gf 109203x
+protein	thyroid oxidase
+PD98059	MAPK3	INHIBITION
+PD98059	MAPK1	INHIBITION
+NCF2	NCF2	-a>
+NCF2	thyroid oxidase	ACTIVATION
+NCF1	NCF1	-a>
+NCF1	thyroid oxidase	ACTIVATION
+HRAS	HRAS	-a>
+HRAS	RAF1	ACTIVATION
+CaMKI/CaM/Ca ++	HRAS	ACTIVATION
+CaMKI/CaM/Ca ++	CaMKI/CaM/Ca ++	-a>
+CaMKI/CaM/Ca ++	RAC1	ACTIVATION
+MAP2K3	MAP2K3	-a>
+MAP2K3	MAPK14	ACTIVATION
+IP3	Ca ++	ACTIVATION
+PIP2	IP3	-a>
+PIP2	DAG	-a>
+MAP2K6	MAPK14	ACTIVATION
+MAP2K6	MAP2K6	-a>
+CaM/Ca ++	Calcineurin	ACTIVATION
+RAF1	MAP2K2	ACTIVATION
+RAF1	MAP2K1	ACTIVATION
+RAF1	RAF1	-a>
+DAG	PKC	ACTIVATION
+MAPK3	MAPK3	-a>
+MAPK3	NCF1	ACTIVATION
+MAPK3	ELK1	ACTIVATION
+fMLP	fMLP/FPR1/G-beta/G-gamma/G16-alpha	component>
+Ca ++	PKC	ACTIVATION
+Ca ++	CaM/Ca ++	component>
+Ca ++	CaMKK/CaM/Ca ++	component>
+Ca ++	CaMKI/CaM/Ca ++	component>
+Ca ++	Ca ++	transport
+CaMKI	CaMKI/CaM/Ca ++	component>
+PKC	PKC	-a>
+PKC	None	ACTIVATION
+CaMKK	CaMKK/CaM/Ca ++	component>
+MAPK1	MAPK1	-a>
+MAPK1	NCF1	ACTIVATION
+MAPK1	ELK1	ACTIVATION
+NFATc	NFATc	transport
+fMLP/FPR1/G-beta/G-gamma/G16-alpha	MAP2K3	ACTIVATION
+fMLP/FPR1/G-beta/G-gamma/G16-alpha	PLCB1	ACTIVATION
+fMLP/FPR1/G-beta/G-gamma/G16-alpha	HRAS	ACTIVATION
+fMLP/FPR1/G-beta/G-gamma/G16-alpha	PIK3C2G	ACTIVATION
+fMLP/FPR1/G-beta/G-gamma/G16-alpha	MAP2K6	ACTIVATION
+GNA15	fMLP/FPR1/G-beta/G-gamma/G16-alpha	component>
+PLCB1	IP3	ACTIVATION
+PLCB1	PLCB1	-a>
+gf 109203x	None	INHIBITION
+Calcineurin	Calcineurin	-a>
+Calcineurin	NFATc	ACTIVATION
+GNGT1	fMLP/FPR1/G-beta/G-gamma/G16-alpha	component>
+RAC1	NCF2	ACTIVATION
+RAC1	NCF1	ACTIVATION
+RAC1	PAK1	ACTIVATION
+RAC1	RAC1	-a>
+FPR1	fMLP/FPR1/G-beta/G-gamma/G16-alpha	component>
+GNB1	fMLP/FPR1/G-beta/G-gamma/G16-alpha	component>
+PIK3C2G	HRAS	ACTIVATION
+PIK3C2G	PIK3C2G	-a>
+PIK3C2G	RAC1	ACTIVATION
+thyroid oxidase	thyroid oxidase	-a>
+PPP3CB	Calcineurin	component>
+MAPK14	MAPK14	-a>
+CaMKK/CaM/Ca ++	CaMKI/CaM/Ca ++	ACTIVATION
+MAP2K2	MAP2K2	-a>
+MAP2K2	MAPK1	ACTIVATION
+MAP2K2	MAPK3	ACTIVATION
+MAP2K1	MAPK3	ACTIVATION
+MAP2K1	MAP2K1	-a>
+MAP2K1	MAPK1	ACTIVATION
+ELK1	ELK1	-a>
+CaM	CaM/Ca ++	component>
+CaM	CaMKK/CaM/Ca ++	component>
+CaM	CaMKI/CaM/Ca ++	component>
+PPP3CA	Calcineurin	component>
+SB2003580	MAPK14	INHIBITION
+PPP3CC	Calcineurin	component>
+PAK1	PAK1	-a>

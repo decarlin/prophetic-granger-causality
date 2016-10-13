@@ -1,0 +1,40 @@
+SmallMolecule	1-phosphatidyl-1D-myo-inositol 4,5-bisphosphate
+protein	ADAM metalloprotease
+complex	ADAM metalloprotease:Zinc cofactor
+SmallMolecule	Adenosine 5'-diphosphate
+SmallMolecule	Adenosine 5'-triphosphate
+protein	EGF
+complex	EGF:EGFR
+complex	EGF:EGFR dimer
+complex	EGF:Phospho-EGFR
+complex	EGF:Phospho-EGFR (Y992, Y1068, Y1086, Y1148, Y1173) dimer
+protein	EGFR
+protein	GRB2
+SmallMolecule	Guanosine 5'-triphosphate
+protein	LRIG1
+protein	SRC
+SmallMolecule	Zn(II)
+protein	p21 RAS
+complex	p21 RAS:GTP
+EGF:EGFR	EGF:EGFR dimer	component>
+LRIG1	EGF:EGFR	INHIBITION
+EGF:Phospho-EGFR	EGF:Phospho-EGFR (Y992, Y1068, Y1086, Y1148, Y1173) dimer	component>
+Zn(II)	ADAM metalloprotease:Zinc cofactor	component>
+EGFR	EGF:EGFR	component>
+EGFR	EGF:Phospho-EGFR	component>
+EGF:EGFR dimer	EGF:Phospho-EGFR (Y992, Y1068, Y1086, Y1148, Y1173) dimer	-a>
+EGF:EGFR dimer	Adenosine 5'-diphosphate	-a>
+SRC	EGF:Phospho-EGFR (Y992, Y1068, Y1086, Y1148, Y1173) dimer	ACTIVATION
+EGF:Phospho-EGFR (Y992, Y1068, Y1086, Y1148, Y1173) dimer	EGF:Phospho-EGFR (Y992, Y1068, Y1086, Y1148, Y1173) dimer	-a>
+EGF:Phospho-EGFR (Y992, Y1068, Y1086, Y1148, Y1173) dimer	Adenosine 5'-diphosphate	-a>
+Adenosine 5'-triphosphate	EGF:Phospho-EGFR (Y992, Y1068, Y1086, Y1148, Y1173) dimer	-a>
+Adenosine 5'-triphosphate	Adenosine 5'-diphosphate	-a>
+ADAM metalloprotease	ADAM metalloprotease:Zinc cofactor	component>
+GRB2	Adenosine 5'-diphosphate	-a>
+p21 RAS	p21 RAS:GTP	component>
+1-phosphatidyl-1D-myo-inositol 4,5-bisphosphate	Adenosine 5'-diphosphate	-a>
+Guanosine 5'-triphosphate	p21 RAS:GTP	component>
+EGF	EGF:EGFR	component>
+EGF	EGF	-a>
+EGF	EGF:Phospho-EGFR	component>
+ADAM metalloprotease:Zinc cofactor	EGF	ACTIVATION

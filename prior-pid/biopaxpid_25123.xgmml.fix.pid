@@ -1,0 +1,64 @@
+protein	AR ligand
+complex	AR ligand/Activating receptors
+protein	Activating receptors
+protein	B2M
+complex	Class I MHC/CD94/NKG2
+complex	Class I MHC/Ig-superfamily Inhibitory Receptors
+protein	IL18
+protein	Ig-superfamily Inhibitory Receptors
+protein	KLRC1
+protein	KLRC2
+protein	KLRC3
+protein	KLRC4
+protein	KLRD1
+protein	LAT
+protein	MAP2K1
+protein	MAPK3
+protein	MHC-1A
+protein	None
+protein	PAK1
+complex	PI3K
+protein	PIK3CA
+protein	PIK3R1
+protein	PTPN6
+protein	RAC1
+protein	SYK
+protein	VAV1
+KLRD1	Class I MHC/CD94/NKG2	component>
+MAP2K1	MAPK3	ACTIVATION
+MAP2K1	MAP2K1	-a>
+Ig-superfamily Inhibitory Receptors	Class I MHC/Ig-superfamily Inhibitory Receptors	component>
+PI3K	VAV1	ACTIVATION
+PI3K	PI3K	-a>
+Activating receptors	AR ligand/Activating receptors	component>
+PIK3CA	PI3K	component>
+MHC-1A	Class I MHC/CD94/NKG2	component>
+MHC-1A	Class I MHC/Ig-superfamily Inhibitory Receptors	component>
+AR ligand/Activating receptors	SYK	ACTIVATION
+AR ligand/Activating receptors	PI3K	ACTIVATION
+MAPK3	IL18	ACTIVATION
+MAPK3	MAPK3	-a>
+MAPK3	None	ACTIVATION
+PIK3R1	PI3K	component>
+KLRC1	Class I MHC/CD94/NKG2	component>
+KLRC3	Class I MHC/CD94/NKG2	component>
+KLRC2	Class I MHC/CD94/NKG2	component>
+KLRC4	Class I MHC/CD94/NKG2	component>
+RAC1	PAK1	ACTIVATION
+RAC1	RAC1	-a>
+Class I MHC/CD94/NKG2	PTPN6	ACTIVATION
+PTPN6	PTPN6	-a>
+PTPN6	PI3K	INHIBITION
+IL18	IL18	-a>
+AR ligand	AR ligand/Activating receptors	component>
+Class I MHC/Ig-superfamily Inhibitory Receptors	PTPN6	ACTIVATION
+SYK	LAT	ACTIVATION
+SYK	SYK	-a>
+B2M	Class I MHC/CD94/NKG2	component>
+B2M	Class I MHC/Ig-superfamily Inhibitory Receptors	component>
+VAV1	VAV1	-a>
+VAV1	RAC1	ACTIVATION
+LAT	LAT	-a>
+LAT	PAK1	ACTIVATION
+PAK1	MAP2K1	ACTIVATION
+PAK1	PAK1	-a>

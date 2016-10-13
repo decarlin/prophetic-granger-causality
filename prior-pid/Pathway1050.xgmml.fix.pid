@@ -1,0 +1,56 @@
+SmallMolecule	1,2-diacyl-sn-glycerol 3-phosphates
+SmallMolecule	1,2-diacyl-sn-glycerols
+SmallMolecule	1D-myo-inositol 1,4,5-tris(dihydrogen phosphate)
+SmallMolecule	Adenosine triphosphate
+family	CalDAG-GEFs
+complex	CalDAG-GEFs:DAG:Ca2+
+complex	DAG-activated TRPC3/6/7
+complex	IP3 receptor
+complex	IP3 receptor bound to IP3 and Ca++
+family	IP3R subunits
+protein	ITPR1
+protein	ITPR2
+protein	ITPR3
+protein	PRKCD
+protein	PRKCE
+protein	PRKCH
+protein	PRKCQ
+family	Protein Kinase C, unconventional isoforms
+complex	Protein kinase C, novel isoforms:DAG
+protein	RASGRP1
+protein	RASGRP2
+protein	TRPC3
+family	TRPC3/6/7
+protein	TRPC6
+protein	TRPC7
+SmallMolecule	adenosine 5'-(trihydrogen diphosphate)
+SmallMolecule	calcium, doubly charged positive ion
+RASGRP2	CalDAG-GEFs	member>
+RASGRP1	CalDAG-GEFs	member>
+Protein Kinase C, unconventional isoforms	Protein kinase C, novel isoforms:DAG	component>
+ITPR2	IP3R subunits	member>
+TRPC3	TRPC3/6/7	member>
+TRPC6	TRPC3/6/7	member>
+TRPC7	TRPC3/6/7	member>
+CalDAG-GEFs	CalDAG-GEFs:DAG:Ca2+	component>
+calcium, doubly charged positive ion	IP3 receptor bound to IP3 and Ca++	component>
+calcium, doubly charged positive ion	calcium, doubly charged positive ion	-a>
+calcium, doubly charged positive ion	CalDAG-GEFs:DAG:Ca2+	component>
+Adenosine triphosphate	adenosine 5'-(trihydrogen diphosphate)	-a>
+Adenosine triphosphate	1,2-diacyl-sn-glycerol 3-phosphates	-a>
+IP3 receptor	IP3 receptor bound to IP3 and Ca++	component>
+TRPC3/6/7	DAG-activated TRPC3/6/7	component>
+PRKCH	Protein Kinase C, unconventional isoforms	member>
+PRKCE	Protein Kinase C, unconventional isoforms	member>
+PRKCD	Protein Kinase C, unconventional isoforms	member>
+1,2-diacyl-sn-glycerols	adenosine 5'-(trihydrogen diphosphate)	-a>
+1,2-diacyl-sn-glycerols	CalDAG-GEFs:DAG:Ca2+	component>
+1,2-diacyl-sn-glycerols	1,2-diacyl-sn-glycerol 3-phosphates	-a>
+1,2-diacyl-sn-glycerols	DAG-activated TRPC3/6/7	component>
+1,2-diacyl-sn-glycerols	Protein kinase C, novel isoforms:DAG	component>
+PRKCQ	Protein Kinase C, unconventional isoforms	member>
+ITPR3	IP3R subunits	member>
+ITPR1	IP3R subunits	member>
+1D-myo-inositol 1,4,5-tris(dihydrogen phosphate)	IP3 receptor bound to IP3 and Ca++	component>
+1D-myo-inositol 1,4,5-tris(dihydrogen phosphate)	IP3 receptor bound to IP3 and Ca++	-a>
+IP3R subunits	IP3 receptor	component>

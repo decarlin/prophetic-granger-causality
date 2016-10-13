@@ -1,0 +1,51 @@
+protein	AATF
+SmallMolecule	Adenosine 5'-diphosphate
+SmallMolecule	Adenosine 5'-triphosphate
+protein	BAD
+protein	BIM
+PhysicalEntity	GEF
+SmallMolecule	Guanosine 5'-diphosphate
+SmallMolecule	Guanosine 5'-triphosphate
+protein	MAGED1
+protein	MAPK8
+protein	NGF
+complex	NGF ligand:p75NTR:NRAGE:CHE1
+complex	NGF:p75NTR:NRAGE
+protein	NGFR
+protein	Phospho-BIM
+complex	RAC:GDP
+complex	RAC:GTP
+protein	Rac1
+complex	mature NGF homodimer:p75NTR
+complex	mature beta-NGF homodimer
+NGF	mature beta-NGF homodimer	component>
+BIM	Adenosine 5'-diphosphate	-a>
+BIM	Phospho-BIM	-a>
+BIM	BAD	-a>
+mature NGF homodimer:p75NTR	NGF ligand:p75NTR:NRAGE:CHE1	component>
+mature NGF homodimer:p75NTR	NGF:p75NTR:NRAGE	component>
+Rac1	RAC:GTP	component>
+Rac1	RAC:GDP	component>
+MAGED1	NGF ligand:p75NTR:NRAGE:CHE1	component>
+MAGED1	NGF:p75NTR:NRAGE	component>
+mature beta-NGF homodimer	mature NGF homodimer:p75NTR	component>
+RAC:GTP	MAPK8	ACTIVATION
+NGF:p75NTR:NRAGE	Adenosine 5'-diphosphate	ACTIVATION
+Guanosine 5'-triphosphate	Guanosine 5'-diphosphate	-a>
+Guanosine 5'-triphosphate	RAC:GTP	component>
+Guanosine 5'-triphosphate	RAC:GTP	-a>
+Adenosine 5'-triphosphate	Adenosine 5'-diphosphate	-a>
+Adenosine 5'-triphosphate	Phospho-BIM	-a>
+Adenosine 5'-triphosphate	MAPK8	-a>
+Adenosine 5'-triphosphate	BAD	-a>
+BAD	Adenosine 5'-diphosphate	-a>
+BAD	Phospho-BIM	-a>
+BAD	BAD	-a>
+Guanosine 5'-diphosphate	RAC:GDP	component>
+AATF	NGF ligand:p75NTR:NRAGE:CHE1	component>
+NGFR	mature NGF homodimer:p75NTR	component>
+MAPK8	Adenosine 5'-diphosphate	-a>
+MAPK8	MAPK8	-a>
+RAC:GDP	Guanosine 5'-diphosphate	-a>
+RAC:GDP	RAC:GTP	-a>
+GEF	Guanosine 5'-diphosphate	ACTIVATION

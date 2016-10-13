@@ -1,0 +1,160 @@
+protein	BTK
+protein	CBL
+protein	CRKL
+complex	CRKL/CBL/C3G
+SmallMolecule	DAG
+protein	EPO
+complex	EPO/EPOR
+complex	EPO/EPOR (dimer)
+complex	EPO/EPOR (dimer)/JAK2
+complex	EPO/EPOR (dimer)/JAK2/SOCS3
+complex	EPO/EPOR (dimer)/LYN
+complex	EPO/EPOR (dimer)/SOCS3
+protein	EPOR
+complex	EPOR/TRPC2/IP3 Receptors
+protein	GAB1
+complex	GAB1/SHC/GRB2/SOS1
+complex	GAB1/SHIP/PIK3R1/SHP2/SHC
+SmallMolecule	GDP
+protein	GRB2
+SmallMolecule	GTP
+protein	HRAS
+protein	INPP5D
+SmallMolecule	IP3
+protein	IP3 Receptors
+protein	IRS2
+protein	JAK2
+protein	LYN
+complex	LYN/PLCgamma2
+protein	MAPK14
+protein	MAPK8
+protein	NFKB1
+protein	None
+complex	PI3K regualtory subunit polypeptide 1/IRS2/SHIP
+protein	PIK3R1
+SmallMolecule	PIP3
+protein	PLCG1
+protein	PLCG2
+protein	PTPN11
+protein	PTPN6
+protein	RAP1A
+protein	RAPGEF1
+protein	SH2B3
+complex	SHC/GRB2/SOS1
+protein	SHC1
+protein	SOCS3
+protein	SOS1
+protein	STAT1
+complex	STAT1 (dimer)
+protein	STAT5
+complex	STAT5 (dimer)
+protein	TEC
+complex	TEC/VAV2
+complex	TEC/VAV2/GRB2
+protein	TRPC2
+protein	VAV2
+CRKL	CRKL/CBL/C3G	component>
+CRKL	CRKL	-a>
+HRAS	GDP	-a>
+HRAS	HRAS	-a>
+RAP1A	None	ACTIVATION
+RAP1A	RAP1A	-a>
+GAB1	GAB1/SHC/GRB2/SOS1	component>
+GAB1	GAB1/SHIP/PIK3R1/SHP2/SHC	component>
+GAB1	GAB1	-a>
+TRPC2	EPOR/TRPC2/IP3 Receptors	component>
+PLCG2	LYN/PLCgamma2	component>
+PLCG1	IP3	ACTIVATION
+PLCG1	PLCG1	-a>
+EPOR/TRPC2/IP3 Receptors	None	ACTIVATION
+RAPGEF1	CRKL/CBL/C3G	component>
+GAB1/SHC/GRB2/SOS1	GDP	ACTIVATION
+EPO/EPOR (dimer)	EPO/EPOR (dimer)/LYN	-a>
+EPO/EPOR (dimer)	LYN	-a>
+STAT5	STAT5	-a>
+STAT5	STAT5 (dimer)	component>
+STAT1	STAT1 (dimer)	component>
+STAT1	STAT1	-a>
+TEC	TEC/VAV2	component>
+TEC	TEC	-a>
+TEC	TEC/VAV2/GRB2	component>
+IP3 Receptors	IP3 Receptors	-a>
+IP3 Receptors	EPOR/TRPC2/IP3 Receptors	component>
+CBL	CRKL/CBL/C3G	component>
+CBL	CBL	-a>
+STAT1 (dimer)	STAT1 (dimer)	transport
+JAK2	EPO/EPOR (dimer)/JAK2	component>
+JAK2	EPO/EPOR (dimer)/JAK2/SOCS3	component>
+PIK3R1	GAB1/SHIP/PIK3R1/SHP2/SHC	component>
+PIK3R1	PI3K regualtory subunit polypeptide 1/IRS2/SHIP	component>
+EPO/EPOR (dimer)/LYN	STAT5	ACTIVATION
+EPO/EPOR (dimer)/LYN	STAT1	ACTIVATION
+EPO/EPOR (dimer)/LYN	MAPK14	ACTIVATION
+EPO/EPOR (dimer)/LYN	PLCG1	ACTIVATION
+EPO/EPOR (dimer)/LYN	NFKB1	ACTIVATION
+EPO/EPOR (dimer)/LYN	MAPK8	ACTIVATION
+EPO/EPOR	EPO/EPOR (dimer)	-a>
+MAPK8	MAPK8	-a>
+MAPK8	None	ACTIVATION
+LYN	LYN/PLCgamma2	component>
+LYN	LYN	-a>
+LYN	EPO/EPOR (dimer)/LYN	component>
+SHC1	SHC/GRB2/SOS1	component>
+SHC1	GAB1/SHC/GRB2/SOS1	component>
+SHC1	GAB1/SHIP/PIK3R1/SHP2/SHC	component>
+PIP3	IP3	-a>
+PIP3	DAG	-a>
+EPO/EPOR (dimer)/JAK2	STAT5	ACTIVATION
+EPO/EPOR (dimer)/JAK2	VAV2	ACTIVATION
+EPO/EPOR (dimer)/JAK2	STAT1	ACTIVATION
+EPO/EPOR (dimer)/JAK2	CRKL	ACTIVATION
+EPO/EPOR (dimer)/JAK2	SHC/GRB2/SOS1	ACTIVATION
+EPO/EPOR (dimer)/JAK2	TEC	ACTIVATION
+EPO/EPOR (dimer)/JAK2	CBL	ACTIVATION
+EPO/EPOR (dimer)/JAK2	GAB1	ACTIVATION
+EPO/EPOR (dimer)/JAK2	PLCG1	ACTIVATION
+EPO/EPOR (dimer)/JAK2	IRS2	ACTIVATION
+EPO/EPOR (dimer)/JAK2	PTPN6	ACTIVATION
+EPO/EPOR (dimer)/JAK2	BTK	ACTIVATION
+EPO/EPOR (dimer)/JAK2	RAP1A	ACTIVATION
+GTP	GDP	-a>
+GTP	HRAS	-a>
+SH2B3	EPO/EPOR (dimer)/JAK2/SOCS3	INHIBITION
+NFKB1	NFKB1	-a>
+PTPN6	EPO/EPOR (dimer)/JAK2/SOCS3	INHIBITION
+PTPN6	PTPN6	-a>
+EPOR	EPO/EPOR (dimer)	component>
+EPOR	EPO/EPOR (dimer)/JAK2	component>
+EPOR	EPO/EPOR (dimer)/LYN	component>
+EPOR	EPOR/TRPC2/IP3 Receptors	component>
+EPOR	EPO/EPOR	component>
+EPOR	EPO/EPOR (dimer)/JAK2/SOCS3	component>
+EPOR	EPO/EPOR (dimer)/SOCS3	component>
+MAPK14	MAPK14	-a>
+MAPK14	None	ACTIVATION
+INPP5D	GAB1/SHIP/PIK3R1/SHP2/SHC	component>
+INPP5D	PI3K regualtory subunit polypeptide 1/IRS2/SHIP	component>
+SOS1	SHC/GRB2/SOS1	component>
+SOS1	GAB1/SHC/GRB2/SOS1	component>
+SOCS3	EPO/EPOR (dimer)/JAK2/SOCS3	component>
+SOCS3	EPO/EPOR (dimer)/SOCS3	component>
+IP3	IP3 Receptors	ACTIVATION
+SHC/GRB2/SOS1	GDP	ACTIVATION
+SHC/GRB2/SOS1	SHC/GRB2/SOS1	-a>
+PTPN11	GAB1/SHIP/PIK3R1/SHP2/SHC	component>
+VAV2	TEC/VAV2	component>
+VAV2	VAV2	-a>
+VAV2	TEC/VAV2/GRB2	component>
+IRS2	PI3K regualtory subunit polypeptide 1/IRS2/SHIP	component>
+IRS2	IRS2	-a>
+GRB2	SHC/GRB2/SOS1	component>
+GRB2	GAB1/SHC/GRB2/SOS1	component>
+GRB2	TEC/VAV2/GRB2	component>
+EPO	EPO/EPOR (dimer)	component>
+EPO	EPO/EPOR (dimer)/JAK2	component>
+EPO	EPO/EPOR (dimer)/LYN	component>
+EPO	EPO/EPOR	component>
+EPO	EPO/EPOR (dimer)/SOCS3	component>
+EPO	EPO/EPOR (dimer)/JAK2/SOCS3	component>
+STAT5 (dimer)	STAT5 (dimer)	transport
+BTK	BTK	-a>

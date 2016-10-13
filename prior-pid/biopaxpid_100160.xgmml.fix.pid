@@ -1,0 +1,143 @@
+protein	ARNT
+protein	CAMK2D
+protein	CREBBP
+protein	CTBP1
+SmallMolecule	Ca2+
+complex	CtIP/CtBP/LSD1
+protein	EP300
+protein	GATA1
+complex	GATA1/p300
+protein	GATA4
+protein	GATA6
+protein	HES1
+complex	HES1/GATA1
+complex	HES1/HES6
+complex	HES1/HEY1-2
+complex	HES1/JAK2
+complex	HES1/Myb
+complex	HES1/PARP1/Cbp
+complex	HES1/PTF1A
+complex	HES1/RB1/RUNX2
+complex	HES1/RBPJ
+complex	HES1/TLE1
+complex	HES1/TLE1/PARP1
+protein	HES6
+protein	HEY1
+protein	HEY1-2
+complex	HEY1/GATA4
+complex	HEY1/GATA6
+complex	HEY1/MYOD
+complex	HEY1/RBPJ
+protein	HEY2
+complex	HEY2/ARNT
+complex	HEY2/GATA4
+complex	HEY2/GATA6
+complex	HEY2/RUNX2
+protein	HIF1A
+complex	HIF1A/ARNT
+protein	JAK2
+protein	KDM1A
+protein	MAML1-2
+protein	MYB
+complex	MYOD/TCF3
+protein	MYOD1
+protein	NOTCH1
+protein	None
+protein	PARP1
+protein	PTF1A
+protein	RB1
+protein	RBBP8
+protein	RBPJ
+complex	RBPJ/NICD
+complex	RBPJ/NICD/MAML1-2/p300
+protein	RUNX2
+protein	STAT3
+SmallMolecule	T-DHT
+protein	TCF3
+protein	TLE1
+protein	http://pid.nci.nih.gov/biopaxpid_100237
+protein	http://pid.nci.nih.gov/biopaxpid_100291
+protein	http://pid.nci.nih.gov/biopaxpid_100341
+protein	http://pid.nci.nih.gov/biopaxpid_100418
+protein	http://pid.nci.nih.gov/biopaxpid_100602
+KDM1A	CtIP/CtBP/LSD1	component>
+GATA1	GATA1/p300	component>
+GATA1	HES1/GATA1	component>
+TLE1	HES1/TLE1/PARP1	component>
+TLE1	HES1/TLE1	component>
+HIF1A	HIF1A/ARNT	component>
+MAML1-2	RBPJ/NICD/MAML1-2/p300	component>
+HES1/JAK2	STAT3	ACTIVATION
+STAT3	STAT3	-a>
+MYOD1	HEY1/MYOD	component>
+MYOD1	MYOD/TCF3	component>
+RBPJ	RBPJ/NICD/MAML1-2/p300	component>
+RBPJ	RBPJ/NICD	component>
+RBPJ	HES1/RBPJ	component>
+RBPJ	HEY1/RBPJ	component>
+MYOD/TCF3	HEY1/MYOD	-a>
+MYOD/TCF3	TCF3	-a>
+RB1	HES1/RB1/RUNX2	component>
+GATA1/p300	HES1/GATA1	-a>
+GATA1/p300	EP300	-a>
+Ca2+	TLE1	ACTIVATION
+JAK2	HES1/JAK2	component>
+CAMK2D	TLE1	ACTIVATION
+HEY1/RBPJ	None	INHIBITION
+RBPJ/NICD	HEY1/RBPJ	-a>
+RBPJ/NICD	NOTCH1	-a>
+RBPJ/NICD	HES1/RBPJ	-a>
+HEY1-2	HES1/HEY1-2	component>
+None	TLE1	ACTIVATION
+None	http://pid.nci.nih.gov/biopaxpid_100341	ACTIVATION
+None	http://pid.nci.nih.gov/biopaxpid_100291	ACTIVATION
+None	http://pid.nci.nih.gov/biopaxpid_100602	ACTIVATION
+HIF1A/ARNT	HEY2/ARNT	-a>
+HIF1A/ARNT	HIF1A	-a>
+TCF3	MYOD/TCF3	component>
+PARP1	HES1/TLE1/PARP1	component>
+PARP1	HES1/PARP1/Cbp	component>
+RBBP8	CtIP/CtBP/LSD1	component>
+CTBP1	CtIP/CtBP/LSD1	component>
+GATA6	HEY2/GATA6	component>
+GATA6	HEY1/GATA6	component>
+GATA4	HEY2/GATA4	component>
+GATA4	HEY1/GATA4	component>
+EP300	GATA1/p300	component>
+EP300	RBPJ/NICD/MAML1-2/p300	component>
+HEY2	HEY2/GATA4	component>
+HEY2	HEY2/ARNT	component>
+HEY2	HEY2/GATA6	component>
+HEY2	HEY2/RUNX2	component>
+HEY2	HIF1A	-a>
+HEY1	None	ACTIVATION
+HEY1	TCF3	-a>
+HEY1	HES1/GATA1	component>
+HEY1	NOTCH1	-a>
+HEY1	HEY1/GATA6	component>
+HEY1	HEY1/GATA4	component>
+HEY1	HEY1/RBPJ	component>
+HEY1	HEY1/MYOD	component>
+MYB	HES1/Myb	component>
+ARNT	HEY2/ARNT	component>
+ARNT	HIF1A/ARNT	component>
+PTF1A	HES1/PTF1A	component>
+NOTCH1	RBPJ/NICD/MAML1-2/p300	component>
+NOTCH1	RBPJ/NICD	component>
+RUNX2	HES1/RB1/RUNX2	component>
+RUNX2	HEY2/RUNX2	component>
+HES6	HES1/HES6	component>
+HES1	HES1/TLE1/PARP1	component>
+HES1	HES1/JAK2	component>
+HES1	HES1/RB1/RUNX2	component>
+HES1	HES1/HEY1-2	component>
+HES1	HES1/GATA1	component>
+HES1	HES1/TLE1	component>
+HES1	HES1/HES6	component>
+HES1	NOTCH1	-a>
+HES1	HES1/Myb	component>
+HES1	HES1/PARP1/Cbp	component>
+HES1	EP300	-a>
+HES1	HES1/PTF1A	component>
+HES1	HES1/RBPJ	component>
+CREBBP	HES1/PARP1/Cbp	component>

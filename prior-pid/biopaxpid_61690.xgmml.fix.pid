@@ -1,0 +1,271 @@
+protein	ACTA1
+protein	ACTN1
+protein	ARHGAP26
+protein	ARHGAP35
+protein	ARHGEF11
+protein	ARHGEF28
+protein	ARHGEF7
+protein	ASAP1
+protein	BCAR1
+protein	BMX
+protein	BRAF
+protein	CAPN2
+protein	CRK
+protein	DOCK1
+protein	ELMO1
+protein	ETS1
+complex	FAK/ASAP1
+complex	FAK/GRAF
+complex	FAK/Src-Yes-Fyn
+complex	FAK/Src-Yes-Fyn/ERK2/m-calpain
+complex	FAK/Src-Yes-Fyn/Endophilin-A2
+complex	FAK/Src-Yes-Fyn/GRB2/SOS1
+complex	FAK/Src-Yes-Fyn/GRB7
+complex	FAK/Src-Yes-Fyn/JIP3
+complex	FAK/Src-Yes-Fyn/Paxillin
+complex	FAK/Src-Yes-Fyn/Paxillin/PAK1/betaPIX/PKL/NCK1-2
+complex	FAK/Src-Yes-Fyn/RasGAP
+complex	FAK/Src-Yes-Fyn/RasGAP/p190RhoGAP
+complex	FAK/Src-Yes-Fyn/Src/PTPD1
+complex	FAK/Src-Yes-Fyn/Vinculin
+complex	FAK/Src-Yes-Fyn/alphav/beta5 Integrin
+complex	FAK/Src-Yes-Fyn/p130 CAS
+complex	FAK/Src-Yes-Fyn/p130 CAS/CRK
+complex	FAK/Src-Yes-Fyn/p130 CAS/CRK/DOCK1/ELMO1
+complex	FAK/Src-Yes-Fyn/p130 CAS/NCK1-2
+SmallMolecule	GDP
+protein	GIT2
+protein	GRB2
+protein	GRB7
+SmallMolecule	GTP
+protein	ITGA5
+protein	ITGAV
+protein	ITGB1
+protein	ITGB5
+protein	JNK1-2
+protein	JNK1-2-active
+protein	JUN
+protein	MAP2K1
+protein	MAP2K4
+protein	MAPK1
+protein	MAPK8IP3
+protein	MEK1
+protein	MLCK
+protein	NCK1-2
+protein	None
+protein	PAK1
+complex	PAK1/betaPIX/PKL/NCK1-2
+complex	PI3K
+protein	PIK3CA
+protein	PIK3R1
+protein	PLCG1
+protein	PTK2
+protein	PTPN21
+protein	PXN
+protein	RAC1
+complex	RAC1/GDP
+complex	RAC1/GTP
+complex	RAC1/GTP/betaPIX
+protein	RAF1
+protein	RAP1
+complex	RAP1/GDP
+complex	RAP1/GTP
+protein	RAPGEF1
+protein	RASA1
+protein	RHOA
+complex	RHOA/GDP
+complex	RHOA/GTP
+protein	ROCK2
+protein	RRAS
+complex	RRAS/GTP
+complex	RRas/GDP
+protein	SH3GL1
+protein	SOS1
+protein	SRC
+protein	Src-Yes-Fyn-active
+protein	TLN1
+protein	VCL
+protein	WASL
+protein	alpha-actinin
+complex	alpha-actinin/Actin
+complex	alpha5/beta1 Integrin
+SmallMolecule	phosphate
+RAPGEF1	GDP	ACTIVATION
+RAPGEF1	RAPGEF1	-a>
+FAK/Src-Yes-Fyn/JIP3	None	ACTIVATION
+JNK1-2-active	None	INHIBITION
+JNK1-2-active	JUN	ACTIVATION
+RRas/GDP	GDP	-a>
+RRas/GDP	RRAS/GTP	-a>
+FAK/Src-Yes-Fyn/p130 CAS/CRK/DOCK1/ELMO1	RAC1/GTP	ACTIVATION
+ARHGEF7	RAC1/GTP/betaPIX	component>
+ARHGEF7	FAK/Src-Yes-Fyn/Paxillin/PAK1/betaPIX/PKL/NCK1-2	component>
+ARHGEF7	PAK1/betaPIX/PKL/NCK1-2	component>
+ARHGEF7	ARHGEF7	-a>
+alpha-actinin	alpha-actinin/Actin	component>
+CAPN2	FAK/Src-Yes-Fyn/ERK2/m-calpain	component>
+ARHGEF11	RHOA/GTP	ACTIVATION
+FAK/Src-Yes-Fyn/RasGAP/p190RhoGAP	phosphate	ACTIVATION
+GRB2	FAK/Src-Yes-Fyn/GRB2/SOS1	component>
+GRB7	FAK/Src-Yes-Fyn/GRB7	component>
+PAK1	FAK/Src-Yes-Fyn/Paxillin/PAK1/betaPIX/PKL/NCK1-2	component>
+PAK1	PAK1/betaPIX/PKL/NCK1-2	component>
+PAK1	MAP2K1	ACTIVATION
+PAK1	MAP2K4	ACTIVATION
+ACTA1	alpha-actinin/Actin	component>
+DOCK1	FAK/Src-Yes-Fyn/p130 CAS/CRK/DOCK1/ELMO1	component>
+RHOA/GTP	None	ACTIVATION
+RHOA/GTP	phosphate	-a>
+RHOA/GTP	RHOA/GDP	-a>
+RHOA/GTP	ROCK2	ACTIVATION
+ITGA5	alpha5/beta1 Integrin	component>
+RRAS	RRas/GDP	component>
+RRAS	RRAS/GTP	component>
+RRAS/GTP	RAF1	ACTIVATION
+CRK	FAK/Src-Yes-Fyn/p130 CAS/CRK/DOCK1/ELMO1	component>
+CRK	FAK/Src-Yes-Fyn/p130 CAS/CRK	component>
+SH3GL1	FAK/Src-Yes-Fyn/Endophilin-A2	component>
+RAC1	RAC1/GTP/betaPIX	component>
+RAC1	RAC1/GDP	component>
+RAC1	RAC1/GTP	component>
+JUN	None	ACTIVATION
+JUN	JUN	-a>
+PIK3R1	PI3K	component>
+RAC1/GTP	None	ACTIVATION
+RAC1/GTP	PAK1/betaPIX/PKL/NCK1-2	ACTIVATION
+RAC1/GTP	PAK1	ACTIVATION
+BMX	BMX	-a>
+BMX	None	ACTIVATION
+alpha5/beta1 Integrin	None	ACTIVATION
+alpha5/beta1 Integrin	alpha5/beta1 Integrin	-a>
+Src-Yes-Fyn-active	FAK/Src-Yes-Fyn/RasGAP	component>
+Src-Yes-Fyn-active	FAK/Src-Yes-Fyn/GRB7	component>
+Src-Yes-Fyn-active	FAK/Src-Yes-Fyn/Vinculin	component>
+Src-Yes-Fyn-active	FAK/Src-Yes-Fyn/Endophilin-A2	component>
+Src-Yes-Fyn-active	FAK/Src-Yes-Fyn/p130 CAS/CRK/DOCK1/ELMO1	component>
+Src-Yes-Fyn-active	FAK/Src-Yes-Fyn/RasGAP/p190RhoGAP	component>
+Src-Yes-Fyn-active	FAK/Src-Yes-Fyn/GRB2/SOS1	component>
+Src-Yes-Fyn-active	FAK/Src-Yes-Fyn/ERK2/m-calpain	component>
+Src-Yes-Fyn-active	FAK/Src-Yes-Fyn/p130 CAS/NCK1-2	component>
+Src-Yes-Fyn-active	FAK/Src-Yes-Fyn/alphav/beta5 Integrin	component>
+Src-Yes-Fyn-active	FAK/Src-Yes-Fyn/p130 CAS	component>
+Src-Yes-Fyn-active	FAK/Src-Yes-Fyn/JIP3	component>
+Src-Yes-Fyn-active	FAK/Src-Yes-Fyn/Paxillin	component>
+Src-Yes-Fyn-active	FAK/Src-Yes-Fyn	component>
+Src-Yes-Fyn-active	FAK/Src-Yes-Fyn/Paxillin/PAK1/betaPIX/PKL/NCK1-2	component>
+Src-Yes-Fyn-active	FAK/Src-Yes-Fyn/Src/PTPD1	component>
+Src-Yes-Fyn-active	FAK/Src-Yes-Fyn/p130 CAS/CRK	component>
+RHOA	RHOA/GDP	component>
+RHOA	RHOA/GTP	component>
+BCAR1	FAK/Src-Yes-Fyn/p130 CAS/CRK/DOCK1/ELMO1	component>
+BCAR1	FAK/Src-Yes-Fyn/p130 CAS	component>
+BCAR1	FAK/Src-Yes-Fyn/p130 CAS/CRK	component>
+BCAR1	FAK/Src-Yes-Fyn/p130 CAS/NCK1-2	component>
+NCK1-2	FAK/Src-Yes-Fyn/Paxillin/PAK1/betaPIX/PKL/NCK1-2	component>
+NCK1-2	PAK1/betaPIX/PKL/NCK1-2	component>
+NCK1-2	FAK/Src-Yes-Fyn/p130 CAS/NCK1-2	component>
+PAK1/betaPIX/PKL/NCK1-2	PAK1/betaPIX/PKL/NCK1-2	-a>
+RAP1/GDP	GDP	-a>
+RAP1/GDP	RAP1/GTP	-a>
+ITGAV	FAK/Src-Yes-Fyn/alphav/beta5 Integrin	component>
+ELMO1	FAK/Src-Yes-Fyn/p130 CAS/CRK/DOCK1/ELMO1	component>
+GIT2	FAK/Src-Yes-Fyn/Paxillin/PAK1/betaPIX/PKL/NCK1-2	component>
+GIT2	PAK1/betaPIX/PKL/NCK1-2	component>
+PIK3CA	PI3K	component>
+RHOA/GDP	GDP	-a>
+RHOA/GDP	None	ACTIVATION
+RHOA/GDP	RHOA/GTP	-a>
+FAK/Src-Yes-Fyn/GRB7	None	ACTIVATION
+RAF1	MAP2K1	ACTIVATION
+RAF1	RAF1	-a>
+RAP1/GTP	BRAF	ACTIVATION
+MAPK1	MLCK	ACTIVATION
+MAPK1	ETS1	ACTIVATION
+MAPK1	FAK/Src-Yes-Fyn/ERK2/m-calpain	component>
+MAPK1	MAPK1	-a>
+RAC1/GTP/betaPIX	None	ACTIVATION
+ARHGAP26	FAK/GRAF	component>
+SRC	FAK/Src-Yes-Fyn/Src/PTPD1	component>
+FAK/Src-Yes-Fyn/Endophilin-A2	None	INHIBITION
+RAC1/GDP	GDP	-a>
+RAC1/GDP	RAC1/GTP	-a>
+FAK/Src-Yes-Fyn/GRB2/SOS1	RRAS/GTP	ACTIVATION
+FAK/Src-Yes-Fyn/ERK2/m-calpain	None	ACTIVATION
+GTP	GDP	-a>
+GTP	RAC1/GTP/betaPIX	component>
+GTP	RHOA/GTP	component>
+GTP	RRAS/GTP	component>
+GTP	RAC1/GTP	component>
+GTP	RAP1/GTP	component>
+MAPK8IP3	FAK/Src-Yes-Fyn/JIP3	component>
+GDP	RAP1/GDP	component>
+GDP	RRas/GDP	component>
+GDP	RHOA/GDP	component>
+GDP	RAC1/GDP	component>
+SOS1	FAK/Src-Yes-Fyn/GRB2/SOS1	component>
+PLCG1	PLCG1	-a>
+ARHGEF28	ARHGEF28	-a>
+ARHGEF28	RHOA/GTP	ACTIVATION
+FAK/Src-Yes-Fyn	ACTN1	ACTIVATION
+FAK/Src-Yes-Fyn	ARHGEF7	ACTIVATION
+FAK/Src-Yes-Fyn	PAK1/betaPIX/PKL/NCK1-2	ACTIVATION
+FAK/Src-Yes-Fyn	PLCG1	ACTIVATION
+FAK/Src-Yes-Fyn	FAK/Src-Yes-Fyn	-a>
+FAK/Src-Yes-Fyn	BMX	ACTIVATION
+ASAP1	FAK/ASAP1	component>
+WASL	None	ACTIVATION
+WASL	WASL	-a>
+PTK2	FAK/Src-Yes-Fyn/RasGAP	component>
+PTK2	FAK/Src-Yes-Fyn/GRB7	component>
+PTK2	RHOA/GTP	ACTIVATION
+PTK2	FAK/Src-Yes-Fyn/alphav/beta5 Integrin	component>
+PTK2	WASL	ACTIVATION
+PTK2	FAK/Src-Yes-Fyn/JIP3	component>
+PTK2	FAK/Src-Yes-Fyn/Paxillin	component>
+PTK2	FAK/Src-Yes-Fyn/p130 CAS/CRK/DOCK1/ELMO1	component>
+PTK2	FAK/GRAF	component>
+PTK2	FAK/Src-Yes-Fyn/Endophilin-A2	component>
+PTK2	PI3K	ACTIVATION
+PTK2	FAK/Src-Yes-Fyn/GRB2/SOS1	component>
+PTK2	FAK/Src-Yes-Fyn/ERK2/m-calpain	component>
+PTK2	alpha5/beta1 Integrin	ACTIVATION
+PTK2	FAK/Src-Yes-Fyn/Src/PTPD1	component>
+PTK2	FAK/Src-Yes-Fyn/p130 CAS/CRK	component>
+PTK2	FAK/Src-Yes-Fyn/RasGAP/p190RhoGAP	component>
+PTK2	FAK/Src-Yes-Fyn/p130 CAS/NCK1-2	component>
+PTK2	ARHGEF28	ACTIVATION
+PTK2	FAK/Src-Yes-Fyn	component>
+PTK2	FAK/ASAP1	component>
+PTK2	FAK/Src-Yes-Fyn/Paxillin/PAK1/betaPIX/PKL/NCK1-2	component>
+PTK2	FAK/Src-Yes-Fyn/Vinculin	component>
+PTK2	FAK/Src-Yes-Fyn/p130 CAS	component>
+MLCK	MLCK	-a>
+MLCK	None	ACTIVATION
+MAP2K1	MAP2K1	-a>
+MAP2K1	MAPK1	ACTIVATION
+MAP2K4	JNK1-2-active	ACTIVATION
+MAP2K4	MAP2K4	-a>
+PTPN21	FAK/Src-Yes-Fyn/Src/PTPD1	component>
+PI3K	PI3K	-a>
+TLN1	alpha5/beta1 Integrin	ACTIVATION
+MEK1	MAP2K1	-a>
+ETS1	ETS1	-a>
+PXN	FAK/Src-Yes-Fyn/Paxillin/PAK1/betaPIX/PKL/NCK1-2	component>
+PXN	FAK/Src-Yes-Fyn/Paxillin	component>
+BRAF	MAP2K1	ACTIVATION
+BRAF	BRAF	-a>
+ITGB1	alpha5/beta1 Integrin	component>
+ITGB5	FAK/Src-Yes-Fyn/alphav/beta5 Integrin	component>
+FAK/GRAF	phosphate	ACTIVATION
+VCL	FAK/Src-Yes-Fyn/Vinculin	component>
+RASA1	FAK/Src-Yes-Fyn/RasGAP	component>
+RASA1	FAK/Src-Yes-Fyn/RasGAP/p190RhoGAP	component>
+FAK/Src-Yes-Fyn/p130 CAS/CRK	RAPGEF1	ACTIVATION
+ACTN1	ACTN1	-a>
+RAP1	RAP1/GDP	component>
+RAP1	RAP1/GTP	component>
+ROCK2	None	ACTIVATION
+ROCK2	ROCK2	-a>
+JNK1-2	JNK1-2-active	-a>
+ARHGAP35	FAK/Src-Yes-Fyn/RasGAP/p190RhoGAP	component>
+FAK/Src-Yes-Fyn/Paxillin/PAK1/betaPIX/PKL/NCK1-2	None	ACTIVATION

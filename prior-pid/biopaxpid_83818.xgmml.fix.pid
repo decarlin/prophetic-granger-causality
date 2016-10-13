@@ -1,0 +1,56 @@
+protein	AKT1
+protein	APAF1
+complex	Apaf-1/Caspase 9
+protein	Apoptotic Caspase Substrates
+protein	Apoptotic Caspase Substrates (cleaved)
+protein	BAD
+protein	BAX
+complex	BAX/BCL-2/BCL-XL
+protein	BCL2
+protein	BCL2L1
+protein	BID
+protein	CASP3
+protein	CASP6
+protein	CASP7
+protein	CASP9
+protein	CYCS
+protein	None
+protein	TP53
+protein	tBID
+BCL2L1	BAX/BCL-2/BCL-XL	component>
+BCL2L1	CYCS	INHIBITION
+CASP7	Apoptotic Caspase Substrates (cleaved)	ACTIVATION
+CASP7	CASP7	-a>
+CASP7	None	ACTIVATION
+None	tBID	ACTIVATION
+None	AKT1	ACTIVATION
+Apoptotic Caspase Substrates	Apoptotic Caspase Substrates (cleaved)	-a>
+TP53	TP53	-a>
+CASP3	Apoptotic Caspase Substrates (cleaved)	ACTIVATION
+CASP3	None	ACTIVATION
+CASP3	CASP3	-a>
+BID	tBID	-a>
+BAX	BAX/BCL-2/BCL-XL	component>
+BAX	CYCS	ACTIVATION
+BAX	BAX	transport
+CASP9	Apaf-1/Caspase 9	component>
+Apoptotic Caspase Substrates (cleaved)	None	ACTIVATION
+AKT1	AKT1	-a>
+AKT1	BAD	ACTIVATION
+AKT1	TP53	ACTIVATION
+AKT1	Apaf-1/Caspase 9	ACTIVATION
+BAD	BAD	-a>
+BAD	CYCS	ACTIVATION
+CYCS	Apaf-1/Caspase 9	ACTIVATION
+CYCS	CYCS	transport
+tBID	BAX	ACTIVATION
+Apaf-1/Caspase 9	CASP6	ACTIVATION
+Apaf-1/Caspase 9	CASP7	ACTIVATION
+Apaf-1/Caspase 9	CASP3	ACTIVATION
+Apaf-1/Caspase 9	Apaf-1/Caspase 9	-a>
+BCL2	BAX/BCL-2/BCL-XL	component>
+BCL2	CYCS	INHIBITION
+APAF1	Apaf-1/Caspase 9	component>
+CASP6	Apoptotic Caspase Substrates (cleaved)	ACTIVATION
+CASP6	CASP6	-a>
+CASP6	None	ACTIVATION

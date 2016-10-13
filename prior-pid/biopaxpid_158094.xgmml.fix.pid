@@ -1,0 +1,80 @@
+SmallMolecule	DAG
+protein	EGF
+complex	EGF/EGF-R
+protein	EGFR
+protein	ELK1
+protein	GRB2
+protein	HRAS
+SmallMolecule	IP3
+protein	JAK1
+protein	MAP2K1
+protein	MAP2K4
+protein	MAP3K1
+protein	MAPK8
+complex	PI3K
+protein	PIK3CA
+protein	PIK3R1
+SmallMolecule	PIP2
+protein	PKC
+protein	PLCG1
+protein	RASA1
+complex	SHC/GRB2/SOS-1
+protein	SHC1
+protein	SOS1
+protein	STAT1
+complex	STAT1/STAT3
+protein	STAT3
+complex	STAT3/STAT3
+SmallMolecule	calcium
+SmallMolecule	guanosine 5`-triphosphate
+SmallMolecule	nucleoside diphosphate
+MAP3K1	MAP2K1	ACTIVATION
+MAP3K1	MAP3K1	-a>
+MAP3K1	MAP2K4	ACTIVATION
+guanosine 5`-triphosphate	HRAS	-a>
+guanosine 5`-triphosphate	nucleoside diphosphate	-a>
+HRAS	HRAS	-a>
+HRAS	MAP3K1	ACTIVATION
+HRAS	nucleoside diphosphate	-a>
+EGFR	EGF/EGF-R	component>
+IP3	calcium	ACTIVATION
+PLCG1	PLCG1	-a>
+PLCG1	DAG	ACTIVATION
+SHC/GRB2/SOS-1	nucleoside diphosphate	ACTIVATION
+SHC/GRB2/SOS-1	SHC/GRB2/SOS-1	-a>
+MAP2K4	MAPK8	ACTIVATION
+MAP2K4	MAP2K4	-a>
+EGF	EGF/EGF-R	component>
+DAG	PKC	ACTIVATION
+STAT3	STAT1/STAT3	component>
+STAT3	STAT3	-a>
+STAT3	STAT3/STAT3	component>
+STAT1	STAT1/STAT3	component>
+STAT1	STAT1	-a>
+PIK3CA	PI3K	component>
+PI3K	PI3K	-a>
+STAT1/STAT3	STAT1/STAT3	transport
+PKC	PKC	-a>
+PKC	ELK1	ACTIVATION
+ELK1	ELK1	-a>
+EGF/EGF-R	STAT3	ACTIVATION
+EGF/EGF-R	STAT1	ACTIVATION
+EGF/EGF-R	PI3K	ACTIVATION
+EGF/EGF-R	PLCG1	ACTIVATION
+EGF/EGF-R	SHC/GRB2/SOS-1	ACTIVATION
+EGF/EGF-R	JAK1	ACTIVATION
+EGF/EGF-R	RASA1	ACTIVATION
+PIK3R1	PI3K	component>
+JAK1	JAK1	-a>
+MAPK8	MAPK8	-a>
+SHC1	SHC/GRB2/SOS-1	component>
+PIP2	IP3	-a>
+PIP2	DAG	-a>
+RASA1	HRAS	ACTIVATION
+RASA1	RASA1	-a>
+STAT3/STAT3	STAT3/STAT3	transport
+SOS1	SHC/GRB2/SOS-1	component>
+MAP2K1	MAP2K1	-a>
+calcium	PKC	ACTIVATION
+calcium	calcium	transport
+GRB2	SHC/GRB2/SOS-1	component>

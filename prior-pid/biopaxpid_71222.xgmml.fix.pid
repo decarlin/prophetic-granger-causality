@@ -1,0 +1,333 @@
+protein	AKAP1
+protein	AKT1
+complex	AMPKK1-AMPKK2
+complex	AMPKK1-AMPKK2-active
+protein	ARF1
+complex	ARF1/GDP
+complex	ARF1/GTP
+protein	BRAF
+protein	CALM1
+protein	CAMKK2
+protein	CAV1
+protein	CBL
+protein	CDC42
+complex	CDC42/GDP
+complex	CDC42/GTP
+protein	CDH5
+protein	CTNNA1
+protein	CTNNB1
+SmallMolecule	Ca2+
+complex	CaM/Ca2+
+protein	DAG
+protein	DNM2
+complex	Dynamin 2/GTP
+protein	ERK1-2
+protein	Erk1-2-active
+complex	FAK/Paxillin
+complex	FAK/Vinculin
+protein	FBXW11
+protein	FES
+protein	FLT1
+protein	GAB1
+complex	GAB1/SHP2/PKA/eNOS
+SmallMolecule	GDP
+protein	GRB10
+protein	GRB2
+complex	GRB2/GAB1
+SmallMolecule	GTP
+protein	HGS
+protein	HSP90AA1
+protein	HSP90AB1
+complex	Hsp90B/eNOS
+SmallMolecule	IP3
+protein	IQGAP1
+protein	ITGAV
+protein	ITGB3
+protein	KDR
+SmallMolecule	L-arginine
+SmallMolecule	L-citrulline
+protein	MAP2K3
+protein	MAP2K6
+protein	MAPK11
+protein	MAPK14
+protein	MEK1-2
+protein	MEK1-2-active
+protein	MYOF
+SmallMolecule	NADP
+SmallMolecule	NADPH
+protein	NCK1-2
+protein	NEDD4
+complex	NEDD4/GRB10
+SmallMolecule	NO
+protein	NOS3
+protein	None
+SmallMolecule	O2
+protein	PAK2
+complex	PDK1/Src/Hsp90
+protein	PDPK1
+SmallMolecule	PI-3-4-5-P3
+SmallMolecule	PI-4-5-P2
+complex	PI3K
+protein	PIK3CA
+protein	PIK3R1
+protein	PLCG1
+protein	PRKACA
+protein	PRKCA
+protein	PRKCB
+protein	PRKCD
+protein	PTK2B
+protein	PTPN11
+protein	PTPN2
+protein	PTPN6
+protein	PTPRJ
+protein	PXN
+protein	RAF1
+protein	RHOA
+complex	RHOA/GDP
+complex	RHOA/GTP
+protein	ROCK1
+protein	SH2D2A
+protein	SHB
+protein	SRC
+protein	VCL
+protein	VEGFA
+complex	VEGFR1/2 (dimer)/VEGFA (dimer)
+complex	VEGFR2 (dimer)/VEGFA (dimer)
+complex	VEGFR2 (dimer)/VEGFA (dimer)/CBL
+complex	VEGFR2 (dimer)/VEGFA (dimer)/Fyn/NCK1-2/PAK2
+complex	VEGFR2 (dimer)/VEGFA (dimer)/Hsp90/alphav/beta3 Integrin/Vitronectin
+complex	VEGFR2 (dimer)/VEGFA (dimer)/IQGAP1
+complex	VEGFR2 (dimer)/VEGFA (dimer)/IQGAP1/VE-cadherin/beta catenin/alpha catenin
+complex	VEGFR2 (dimer)/VEGFA (dimer)/Myoferlin/Dynamin 2/GTP
+complex	VEGFR2 (dimer)/VEGFA (dimer)/Src
+complex	VEGFR2 (dimer)/VEGFA (dimer)/Src/Shb
+complex	VEGFR2 (dimer)/VEGFA (dimer)/TSAd
+complex	VEGFR2 (dimer)/VEGFA (dimer)/VE-cadherin/beta catenin/alpha catenin
+complex	VEGFR2 (dimer)/VEGFA (dimer)/alphav/beta3 Integrin/Vitronectin
+protein	VTN
+complex	beta catenin/NO/alpha catenin
+complex	eNOS/Hsp90
+VEGFR2 (dimer)/VEGFA (dimer)/Myoferlin/Dynamin 2/GTP	VEGFR2 (dimer)/VEGFA (dimer)/CBL	INHIBITION
+IP3	Ca2+	ACTIVATION
+PTK2B	PTK2B	-a>
+PTK2B	PTK2B	ACTIVATION
+PTK2B	FAK/Paxillin	component>
+PTK2B	None	ACTIVATION
+PTK2B	VEGFR2 (dimer)/VEGFA (dimer)/Fyn/NCK1-2/PAK2	component>
+PTK2B	FAK/Vinculin	component>
+O2	NADP	-a>
+O2	L-citrulline	-a>
+O2	NO	-a>
+CALM1	CaM/Ca2+	component>
+PIK3CA	PI3K	component>
+HSP90AB1	HSP90AB1	-a>
+HSP90AB1	Hsp90B/eNOS	component>
+GAB1/SHP2/PKA/eNOS	NO	ACTIVATION
+CDH5	VEGFR2 (dimer)/VEGFA (dimer)/VE-cadherin/beta catenin/alpha catenin	component>
+CDH5	VEGFR2 (dimer)/VEGFA (dimer)/IQGAP1/VE-cadherin/beta catenin/alpha catenin	component>
+PDK1/Src/Hsp90	AKT1	ACTIVATION
+MEK1-2-active	Erk1-2-active	ACTIVATION
+SH2D2A	VEGFR2 (dimer)/VEGFA (dimer)/TSAd	component>
+VEGFR2 (dimer)/VEGFA (dimer)/Hsp90/alphav/beta3 Integrin/Vitronectin	RHOA/GTP	ACTIVATION
+VEGFR2 (dimer)/VEGFA (dimer)/alphav/beta3 Integrin/Vitronectin	SRC	ACTIVATION
+AKAP1	None	INHIBITION
+AKAP1	PRKACA	ACTIVATION
+AKT1	AKT1	-a>
+AKT1	eNOS/Hsp90	ACTIVATION
+GRB10	NEDD4/GRB10	component>
+PTPN11	GAB1/SHP2/PKA/eNOS	component>
+GRB2	GRB2/GAB1	component>
+PAK2	VEGFR2 (dimer)/VEGFA (dimer)/Fyn/NCK1-2/PAK2	component>
+FBXW11	VEGFR2 (dimer)/VEGFA (dimer)	ACTIVATION
+Dynamin 2/GTP	VEGFR2 (dimer)/VEGFA (dimer)	ACTIVATION
+RHOA/GTP	ROCK1	ACTIVATION
+GAB1	GAB1/SHP2/PKA/eNOS	component>
+GAB1	PI3K	ACTIVATION
+GAB1	GRB2/GAB1	component>
+GAB1	GAB1	-a>
+DNM2	VEGFR2 (dimer)/VEGFA (dimer)/Myoferlin/Dynamin 2/GTP	component>
+DNM2	Dynamin 2/GTP	component>
+VEGFR2 (dimer)/VEGFA (dimer)/TSAd	None	ACTIVATION
+eNOS/Hsp90	eNOS/Hsp90	-a>
+eNOS/Hsp90	L-citrulline	ACTIVATION
+FAK/Paxillin	None	ACTIVATION
+Ca2+	PRKCA	ACTIVATION
+Ca2+	Ca2+	transport
+Ca2+	PRKCB	ACTIVATION
+Ca2+	CaM/Ca2+	component>
+Ca2+	PRKCD	ACTIVATION
+VEGFR2 (dimer)/VEGFA (dimer)/IQGAP1	None	ACTIVATION
+PIK3R1	PI3K	component>
+None	VEGFR2 (dimer)/VEGFA (dimer)	ACTIVATION
+HGS	None	INHIBITION
+SHB	VEGFR2 (dimer)/VEGFA (dimer)/Src/Shb	component>
+VEGFA	VEGFR2 (dimer)/VEGFA (dimer)/Myoferlin/Dynamin 2/GTP	component>
+VEGFA	VEGFR2 (dimer)/VEGFA (dimer)/IQGAP1/VE-cadherin/beta catenin/alpha catenin	component>
+VEGFA	VEGFR2 (dimer)/VEGFA (dimer)/TSAd	component>
+VEGFA	VEGFR2 (dimer)/VEGFA (dimer)/Fyn/NCK1-2/PAK2	component>
+VEGFA	VEGFR2 (dimer)/VEGFA (dimer)/VE-cadherin/beta catenin/alpha catenin	component>
+VEGFA	VEGFR1/2 (dimer)/VEGFA (dimer)	component>
+VEGFA	VEGFR2 (dimer)/VEGFA (dimer)/IQGAP1	component>
+VEGFA	VEGFR2 (dimer)/VEGFA (dimer)	component>
+VEGFA	VEGFR2 (dimer)/VEGFA (dimer)/alphav/beta3 Integrin/Vitronectin	component>
+VEGFA	VEGFR2 (dimer)/VEGFA (dimer)/Src/Shb	component>
+VEGFA	VEGFR2 (dimer)/VEGFA (dimer)/Src	component>
+VEGFA	VEGFR2 (dimer)/VEGFA (dimer)/Hsp90/alphav/beta3 Integrin/Vitronectin	component>
+VEGFA	VEGFR2 (dimer)/VEGFA (dimer)/CBL	component>
+PTPN2	VEGFR2 (dimer)/VEGFA (dimer)	ACTIVATION
+RHOA	RHOA/GDP	component>
+RHOA	RHOA/GTP	component>
+VEGFR2 (dimer)/VEGFA (dimer)/CBL	PLCG1	ACTIVATION
+VEGFR2 (dimer)/VEGFA (dimer)/CBL	VEGFR2 (dimer)/VEGFA (dimer)/CBL	transport
+VEGFR2 (dimer)/VEGFA (dimer)/CBL	VEGFR2 (dimer)/VEGFA (dimer)/CBL	-a>
+PTPN6	VEGFR2 (dimer)/VEGFA (dimer)	ACTIVATION
+NCK1-2	VEGFR2 (dimer)/VEGFA (dimer)/Fyn/NCK1-2/PAK2	component>
+CBL	VEGFR2 (dimer)/VEGFA (dimer)/CBL	component>
+CAMKK2	CAMKK2	-a>
+CAMKK2	AMPKK1-AMPKK2-active	ACTIVATION
+ERK1-2	Erk1-2-active	-a>
+RHOA/GDP	GDP	-a>
+RHOA/GDP	RHOA/GTP	-a>
+VEGFR2 (dimer)/VEGFA (dimer)/VE-cadherin/beta catenin/alpha catenin	PTPRJ	ACTIVATION
+GRB2/GAB1	GRB2/GAB1	-a>
+GRB2/GAB1	PI3K	ACTIVATION
+MAPK14	MAPK14	-a>
+CDC42/GTP	MAP2K3	ACTIVATION
+VEGFR2 (dimer)/VEGFA (dimer)/Src	VEGFR2 (dimer)/VEGFA (dimer)/Src	-a>
+VEGFR2 (dimer)/VEGFA (dimer)/Src	IQGAP1	ACTIVATION
+MAPK11	RAF1	ACTIVATION
+MAPK11	MAPK11	-a>
+RAF1	None	ACTIVATION
+RAF1	MEK1-2-active	ACTIVATION
+RAF1	RAF1	-a>
+FLT1	VEGFR1/2 (dimer)/VEGFA (dimer)	component>
+NO	beta catenin/NO/alpha catenin	component>
+NO	None	ACTIVATION
+ARF1	ARF1/GTP	component>
+ARF1	ARF1/GDP	component>
+NEDD4	None	ACTIVATION
+NEDD4	NEDD4/GRB10	component>
+VEGFR2 (dimer)/VEGFA (dimer)/Src/Shb	None	ACTIVATION
+KDR	VEGFR2 (dimer)/VEGFA (dimer)/Myoferlin/Dynamin 2/GTP	component>
+KDR	VEGFR2 (dimer)/VEGFA (dimer)/IQGAP1/VE-cadherin/beta catenin/alpha catenin	component>
+KDR	VEGFR2 (dimer)/VEGFA (dimer)/TSAd	component>
+KDR	VEGFR2 (dimer)/VEGFA (dimer)/Fyn/NCK1-2/PAK2	component>
+KDR	VEGFR2 (dimer)/VEGFA (dimer)/VE-cadherin/beta catenin/alpha catenin	component>
+KDR	VEGFR1/2 (dimer)/VEGFA (dimer)	component>
+KDR	VEGFR2 (dimer)/VEGFA (dimer)/IQGAP1	component>
+KDR	VEGFR2 (dimer)/VEGFA (dimer)	component>
+KDR	VEGFR2 (dimer)/VEGFA (dimer)/alphav/beta3 Integrin/Vitronectin	component>
+KDR	VEGFR2 (dimer)/VEGFA (dimer)/Src/Shb	component>
+KDR	VEGFR2 (dimer)/VEGFA (dimer)/Src	component>
+KDR	VEGFR2 (dimer)/VEGFA (dimer)/Hsp90/alphav/beta3 Integrin/Vitronectin	component>
+KDR	VEGFR2 (dimer)/VEGFA (dimer)/CBL	component>
+SRC	SRC	-a>
+SRC	GAB1	ACTIVATION
+SRC	HSP90AB1	ACTIVATION
+SRC	PTK2B	ACTIVATION
+SRC	VEGFR2 (dimer)/VEGFA (dimer)/Src	component>
+SRC	VEGFR2 (dimer)/VEGFA (dimer)/Src/Shb	component>
+SRC	PDK1/Src/Hsp90	component>
+PI3K	PI-3-4-5-P3	ACTIVATION
+PI3K	PI3K	-a>
+VTN	VEGFR2 (dimer)/VEGFA (dimer)/Hsp90/alphav/beta3 Integrin/Vitronectin	component>
+VTN	VEGFR2 (dimer)/VEGFA (dimer)/alphav/beta3 Integrin/Vitronectin	component>
+GTP	GDP	-a>
+GTP	VEGFR2 (dimer)/VEGFA (dimer)/Myoferlin/Dynamin 2/GTP	component>
+GTP	Dynamin 2/GTP	component>
+GTP	RHOA/GTP	component>
+GTP	CDC42/GTP	component>
+GTP	ARF1/GTP	component>
+FES	FES	-a>
+MEK1-2	MEK1-2-active	-a>
+GDP	CDC42/GDP	component>
+GDP	ARF1/GDP	component>
+GDP	RHOA/GDP	component>
+MAP2K3	MAP2K3	-a>
+MAP2K3	MAPK11	ACTIVATION
+MAP2K6	MAPK14	ACTIVATION
+MAP2K6	MAP2K6	-a>
+NEDD4/GRB10	None	INHIBITION
+VEGFR1/2 (dimer)/VEGFA (dimer)	PLCG1	ACTIVATION
+beta catenin/NO/alpha catenin	None	ACTIVATION
+PRKACA	GAB1/SHP2/PKA/eNOS	component>
+PRKACA	MAP2K6	ACTIVATION
+HSP90AA1	eNOS/Hsp90	component>
+HSP90AA1	VEGFR2 (dimer)/VEGFA (dimer)/Hsp90/alphav/beta3 Integrin/Vitronectin	component>
+HSP90AA1	PDK1/Src/Hsp90	component>
+FAK/Vinculin	None	ACTIVATION
+CDC42	CDC42/GDP	component>
+CDC42	CDC42/GTP	component>
+Erk1-2-active	None	ACTIVATION
+VEGFR2 (dimer)/VEGFA (dimer)/Fyn/NCK1-2/PAK2	CDC42/GTP	ACTIVATION
+CDC42/GDP	GDP	-a>
+CDC42/GDP	CDC42/GTP	-a>
+Hsp90B/eNOS	NADP	ACTIVATION
+CaM/Ca2+	CAMKK2	ACTIVATION
+CaM/Ca2+	CAV1	ACTIVATION
+ROCK1	PTK2B	ACTIVATION
+ROCK1	ROCK1	-a>
+CTNNB1	VEGFR2 (dimer)/VEGFA (dimer)/VE-cadherin/beta catenin/alpha catenin	component>
+CTNNB1	VEGFR2 (dimer)/VEGFA (dimer)/IQGAP1/VE-cadherin/beta catenin/alpha catenin	component>
+CTNNB1	beta catenin/NO/alpha catenin	component>
+AMPKK1-AMPKK2	AMPKK1-AMPKK2-active	-a>
+PLCG1	PLCG1	transport
+PLCG1	DAG	ACTIVATION
+ITGAV	VEGFR2 (dimer)/VEGFA (dimer)/Hsp90/alphav/beta3 Integrin/Vitronectin	component>
+ITGAV	VEGFR2 (dimer)/VEGFA (dimer)/alphav/beta3 Integrin/Vitronectin	component>
+ARF1/GTP	PI3K	ACTIVATION
+IQGAP1	VEGFR2 (dimer)/VEGFA (dimer)/IQGAP1/VE-cadherin/beta catenin/alpha catenin	component>
+IQGAP1	VEGFR2 (dimer)/VEGFA (dimer)/IQGAP1	component>
+IQGAP1	IQGAP1	-a>
+IQGAP1	BRAF	ACTIVATION
+DAG	PRKCA	ACTIVATION
+DAG	PRKCB	ACTIVATION
+DAG	PRKCD	ACTIVATION
+DAG	CaM/Ca2+	ACTIVATION
+ARF1/GDP	GDP	-a>
+ARF1/GDP	ARF1/GTP	-a>
+MYOF	VEGFR2 (dimer)/VEGFA (dimer)/Myoferlin/Dynamin 2/GTP	component>
+AMPKK1-AMPKK2-active	NOS3	ACTIVATION
+PXN	FAK/Paxillin	component>
+PI-4-5-P2	IP3	-a>
+PI-4-5-P2	DAG	-a>
+PI-4-5-P2	PI-3-4-5-P3	-a>
+ITGB3	VEGFR2 (dimer)/VEGFA (dimer)/Hsp90/alphav/beta3 Integrin/Vitronectin	component>
+ITGB3	VEGFR2 (dimer)/VEGFA (dimer)/alphav/beta3 Integrin/Vitronectin	component>
+NOS3	eNOS/Hsp90	component>
+NOS3	NOS3	-a>
+NOS3	GAB1/SHP2/PKA/eNOS	component>
+NOS3	L-citrulline	ACTIVATION
+NOS3	Hsp90B/eNOS	component>
+PRKCA	PRKCA	-a>
+PRKCA	Erk1-2-active	ACTIVATION
+PRKCB	Erk1-2-active	ACTIVATION
+PRKCB	PRKCB	-a>
+VCL	FAK/Vinculin	component>
+PRKCD	RAF1	ACTIVATION
+PRKCD	PRKCD	-a>
+CTNNA1	VEGFR2 (dimer)/VEGFA (dimer)/VE-cadherin/beta catenin/alpha catenin	component>
+CTNNA1	VEGFR2 (dimer)/VEGFA (dimer)/IQGAP1/VE-cadherin/beta catenin/alpha catenin	component>
+CTNNA1	beta catenin/NO/alpha catenin	component>
+NADPH	NADP	-a>
+NADPH	L-citrulline	-a>
+NADPH	NO	-a>
+L-arginine	NADP	-a>
+L-arginine	L-citrulline	-a>
+L-arginine	NO	-a>
+PI-3-4-5-P3	AKT1	ACTIVATION
+PI-3-4-5-P3	GAB1	ACTIVATION
+VEGFR2 (dimer)/VEGFA (dimer)	GDP	ACTIVATION
+VEGFR2 (dimer)/VEGFA (dimer)	SRC	ACTIVATION
+VEGFR2 (dimer)/VEGFA (dimer)	GAB1/SHP2/PKA/eNOS	ACTIVATION
+VEGFR2 (dimer)/VEGFA (dimer)	GRB2/GAB1	ACTIVATION
+VEGFR2 (dimer)/VEGFA (dimer)	PLCG1	ACTIVATION
+VEGFR2 (dimer)/VEGFA (dimer)	VEGFR2 (dimer)/VEGFA (dimer)	-a>
+VEGFR2 (dimer)/VEGFA (dimer)	VEGFR2 (dimer)/VEGFA (dimer)	transport
+VEGFR2 (dimer)/VEGFA (dimer)	FES	ACTIVATION
+BRAF	None	ACTIVATION
+BRAF	BRAF	-a>
+PDPK1	PDK1/Src/Hsp90	component>
+PTPRJ	SRC	ACTIVATION
+PTPRJ	VEGFR2 (dimer)/VEGFA (dimer)	ACTIVATION
+PTPRJ	PTPRJ	-a>

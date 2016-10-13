@@ -1,0 +1,92 @@
+complex	AP-1
+protein	CSNK2A1
+SmallMolecule	Ca ++
+SmallMolecule	DAG
+protein	ELK1
+protein	FOS
+protein	GRB2
+protein	HRAS
+SmallMolecule	IP3
+protein	JAK2
+protein	JUN
+protein	MAP2K1
+protein	MAPK3
+protein	MPL
+complex	PI3K
+protein	PIK3CA
+protein	PIK3R1
+SmallMolecule	PIP2
+protein	PKC
+protein	PLCG1
+protein	RAF1
+protein	RASA1
+complex	SHC/GRB2/SOS-1
+protein	SHC1
+protein	SOS1
+protein	STAT1
+complex	STAT1/STAT3
+protein	STAT3
+protein	STAT5
+complex	STAT5/STAT5
+protein	THPO
+complex	TPO/TPO/TPO R/TPO R
+SmallMolecule	guanosine 5'-diphosphate
+SmallMolecule	guanosine 5'-triphosphate
+HRAS	RAF1	ACTIVATION
+HRAS	HRAS	-a>
+HRAS	guanosine 5'-diphosphate	-a>
+HRAS	guanosine 5'-triphosphate	-a>
+IP3	Ca ++	ACTIVATION
+MAP2K1	MAPK3	ACTIVATION
+MAP2K1	MAP2K1	-a>
+SHC/GRB2/SOS-1	HRAS	ACTIVATION
+SHC/GRB2/SOS-1	SHC/GRB2/SOS-1	-a>
+STAT5/STAT5	STAT5/STAT5	transport
+RAF1	MAP2K1	ACTIVATION
+RAF1	RAF1	-a>
+STAT5	STAT5	-a>
+STAT5	STAT5/STAT5	component>
+DAG	PKC	ACTIVATION
+STAT3	STAT1/STAT3	component>
+STAT3	STAT3	-a>
+STAT1	STAT1/STAT3	component>
+STAT1	STAT1	-a>
+MAPK3	MAPK3	transport
+MAPK3	ELK1	ACTIVATION
+MAPK3	JUN	ACTIVATION
+PIK3CA	PI3K	component>
+Ca ++	PKC	ACTIVATION
+Ca ++	Ca ++	transport
+JUN	AP-1	component>
+JUN	JUN	-a>
+THPO	TPO/TPO/TPO R/TPO R	component>
+STAT1/STAT3	STAT1/STAT3	transport
+PKC	PKC	-a>
+ELK1	ELK1	-a>
+ELK1	FOS	ACTIVATION
+JAK2	JAK2	-a>
+PIK3R1	PI3K	component>
+guanosine 5'-triphosphate	HRAS	-a>
+guanosine 5'-triphosphate	guanosine 5'-diphosphate	-a>
+FOS	AP-1	component>
+FOS	FOS	-a>
+TPO/TPO/TPO R/TPO R	STAT5	ACTIVATION
+TPO/TPO/TPO R/TPO R	STAT3	ACTIVATION
+TPO/TPO/TPO R/TPO R	STAT1	ACTIVATION
+TPO/TPO/TPO R/TPO R	PI3K	ACTIVATION
+TPO/TPO/TPO R/TPO R	PLCG1	ACTIVATION
+TPO/TPO/TPO R/TPO R	SHC/GRB2/SOS-1	ACTIVATION
+TPO/TPO/TPO R/TPO R	JAK2	ACTIVATION
+SHC1	SHC/GRB2/SOS-1	component>
+PI3K	PI3K	-a>
+guanosine 5'-diphosphate	HRAS	-a>
+guanosine 5'-diphosphate	guanosine 5'-triphosphate	-a>
+RASA1	HRAS	ACTIVATION
+CSNK2A1	JUN	INHIBITION
+SOS1	SHC/GRB2/SOS-1	component>
+MPL	TPO/TPO/TPO R/TPO R	component>
+PLCG1	IP3	ACTIVATION
+PLCG1	PLCG1	-a>
+GRB2	SHC/GRB2/SOS-1	component>
+PIP2	IP3	-a>
+PIP2	DAG	-a>

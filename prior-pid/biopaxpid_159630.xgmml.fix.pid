@@ -1,0 +1,286 @@
+protein	ACTR2
+protein	ACTR3
+protein	APC
+complex	APC/DLG1
+protein	ARHGEF6
+protein	ARHGEF7
+protein	ARPC1B
+protein	ARPC2
+protein	ARPC3
+protein	ARPC4
+protein	ARPC5
+protein	ATF2
+complex	Arp2/3 complex
+protein	BAIAP2
+protein	BCAR1
+protein	CBL
+protein	CDC42
+complex	CDC42/GDP
+complex	CDC42/GTP
+complex	CDC42/GTP/ACK1
+complex	CDC42/GTP/IQGAP1
+complex	CDC42/GTP/IRSP53
+complex	CDC42/GTP/IRSP53/Eps8
+complex	CDC42/GTP/IRSP53/Mena
+complex	CDC42/GTP/IRSP53/N-WASP
+protein	CDC42BPA
+protein	CDH1
+protein	CFL1
+protein	CTNNA1
+protein	CTNNB1
+SmallMolecule	Ca2+
+SmallMolecule	Choline
+protein	DIAPH3
+protein	DLG1
+complex	E-cadherin/Ca2+/beta catenin/alpha catenin
+complex	E-cadherin/beta catenin/IQGAP1
+protein	ENAH
+protein	EPS8
+protein	ERK1-2
+protein	EXOC7
+protein	Erk1-2-active
+complex	Exo70/SEPT2/IQGAP1
+protein	F2RL2
+SmallMolecule	GDP
+SmallMolecule	GTP
+protein	HRAS
+complex	HRAS/GDP
+complex	HRAS/GTP
+protein	IQGAP1
+protein	IQGAP3
+protein	JUN
+protein	LIMK1
+protein	LIMK2
+protein	MAP2K4
+protein	MAP2K7
+protein	MAP3K1
+protein	MAP3K11
+protein	MAPK14
+protein	MAPK8
+protein	MAPK9
+protein	MKK3-MKK6
+protein	MKK3-MKK6-active
+protein	MTOR
+protein	MYL2
+protein	None
+protein	PAK1
+protein	PAK2-PAK4
+protein	PAK4
+protein	PARD6A
+SmallMolecule	PI-4-5-P2
+complex	PI3K
+protein	PIK3CA
+protein	PIK3R1
+complex	PKC epsilon/Par3/Par6/CDC42/GTP
+complex	PKC zeta/Par3/Par6/CDC42/GTP
+protein	PLD1
+protein	PRKCE
+protein	PRKCZ
+complex	Par6/PKC zeta
+protein	Phosphatidic acid
+SmallMolecule	Phosphatidylcholine
+protein	RAC1
+complex	RAC1/GDP
+complex	RAC1/GTP
+protein	RAF1-BRAF
+protein	RASGRF1
+protein	RPS6KB1
+protein	SEPT2
+protein	Src-Yes
+protein	TIAM1
+protein	TNK2
+protein	VAV2
+protein	WASL
+complex	alphaPIX/alphaPIX
+complex	betaPIX/CDC42/GTP/CBL
+complex	myosin II complex
+Par6/PKC zeta	DLG1	ACTIVATION
+Par6/PKC zeta	TNK2	ACTIVATION
+Par6/PKC zeta	Par6/PKC zeta	-a>
+MKK3-MKK6	MKK3-MKK6-active	-a>
+MYL2	myosin II complex	component>
+CDC42/GTP/IRSP53/Mena	None	ACTIVATION
+DLG1	DLG1	transport
+DLG1	APC/DLG1	component>
+Arp2/3 complex	None	ACTIVATION
+Arp2/3 complex	Arp2/3 complex	-a>
+ARHGEF6	alphaPIX/alphaPIX	component>
+ARHGEF7	betaPIX/CDC42/GTP/CBL	component>
+MAP3K1	MAP3K1	-a>
+MAP3K1	MAP2K7	ACTIVATION
+MAP3K1	MAP2K4	ACTIVATION
+PARD6A	PKC zeta/Par3/Par6/CDC42/GTP	component>
+PARD6A	PKC epsilon/Par3/Par6/CDC42/GTP	component>
+PARD6A	Par6/PKC zeta	component>
+CDH1	E-cadherin/beta catenin/IQGAP1	component>
+CDH1	E-cadherin/Ca2+/beta catenin/alpha catenin	component>
+PKC epsilon/Par3/Par6/CDC42/GTP	PAK2-PAK4	ACTIVATION
+DIAPH3	None	ACTIVATION
+DIAPH3	DIAPH3	-a>
+alphaPIX/alphaPIX	GDP	ACTIVATION
+alphaPIX/alphaPIX	alphaPIX/alphaPIX	-a>
+HRAS/GDP	GDP	-a>
+HRAS/GDP	HRAS/GTP	-a>
+PLD1	Phosphatidic acid	ACTIVATION
+PLD1	PLD1	-a>
+ARPC1B	Arp2/3 complex	component>
+PAK4	PAK4	-a>
+PAK4	None	ACTIVATION
+APC	APC	-a>
+APC	APC/DLG1	component>
+PAK1	RAC1/GDP	ACTIVATION
+PAK1	LIMK1	ACTIVATION
+PAK1	MKK3-MKK6-active	ACTIVATION
+PAK2-PAK4	PAK2-PAK4	-a>
+PAK2-PAK4	RAF1-BRAF	ACTIVATION
+HRAS	HRAS/GDP	component>
+HRAS	HRAS/GTP	component>
+myosin II complex	myosin II complex	-a>
+myosin II complex	None	ACTIVATION
+PKC zeta/Par3/Par6/CDC42/GTP	TIAM1	ACTIVATION
+PKC zeta/Par3/Par6/CDC42/GTP	None	ACTIVATION
+SEPT2	Exo70/SEPT2/IQGAP1	component>
+JUN	JUN	-a>
+Ca2+	E-cadherin/Ca2+/beta catenin/alpha catenin	component>
+CDC42BPA	myosin II complex	ACTIVATION
+CDC42BPA	CDC42BPA	-a>
+PIK3R1	PI3K	component>
+None	MTOR	ACTIVATION
+None	MAP2K7	ACTIVATION
+ARPC3	Arp2/3 complex	component>
+ARPC2	Arp2/3 complex	component>
+ARPC5	Arp2/3 complex	component>
+ARPC4	Arp2/3 complex	component>
+CDC42/GTP/IQGAP1	None	ACTIVATION
+CDC42/GTP/IQGAP1	CTNNA1	INHIBITION
+CDC42/GTP/IQGAP1	Exo70/SEPT2/IQGAP1	INHIBITION
+BCAR1	None	ACTIVATION
+BCAR1	BCAR1	-a>
+CDC42/GTP/IRSP53/Eps8	None	ACTIVATION
+TNK2	APC	ACTIVATION
+TNK2	CDC42/GTP/ACK1	component>
+TNK2	TNK2	-a>
+VAV2	RAC1/GTP	ACTIVATION
+VAV2	VAV2	-a>
+CBL	betaPIX/CDC42/GTP/CBL	component>
+ERK1-2	Erk1-2-active	-a>
+PIK3CA	PI3K	component>
+ACTR3	Arp2/3 complex	component>
+ACTR2	Arp2/3 complex	component>
+MAPK14	MAPK14	-a>
+CDC42/GTP	None	ACTIVATION
+CDC42/GTP	Par6/PKC zeta	ACTIVATION
+CDC42/GTP	PI3K	ACTIVATION
+CDC42/GTP	LIMK2	ACTIVATION
+CDC42/GTP	PLD1	ACTIVATION
+CDC42/GTP	VAV2	ACTIVATION
+CDC42/GTP	RPS6KB1	ACTIVATION
+CDC42/GTP	MAP3K11	ACTIVATION
+CDC42/GTP	MTOR	ACTIVATION
+CDC42/GTP	CDC42BPA	ACTIVATION
+CDC42/GTP	PAK4	ACTIVATION
+CDC42/GTP	alphaPIX/alphaPIX	ACTIVATION
+CDC42/GTP	DIAPH3	ACTIVATION
+CDC42/GTP	IQGAP3	ACTIVATION
+CDC42/GTP	PAK1	ACTIVATION
+CDC42/GTP	WASL	ACTIVATION
+APC/DLG1	None	ACTIVATION
+TIAM1	TIAM1	-a>
+RPS6KB1	None	ACTIVATION
+RPS6KB1	RPS6KB1	-a>
+Phosphatidic acid	MTOR	ACTIVATION
+MKK3-MKK6-active	MAPK14	ACTIVATION
+CDC42/GTP/IRSP53/N-WASP	None	ACTIVATION
+MAPK8	MAPK8	-a>
+MAPK8	JUN	ACTIVATION
+MAPK8	ATF2	ACTIVATION
+MAPK9	MAPK9	-a>
+MAPK9	ATF2	ACTIVATION
+ENAH	CDC42/GTP/IRSP53/Mena	component>
+CDC42/GDP	RASGRF1	INHIBITION
+PI3K	None	ACTIVATION
+PI3K	PI3K	-a>
+RAC1/GDP	GDP	-a>
+RAC1/GDP	RAC1/GTP	-a>
+E-cadherin/Ca2+/beta catenin/alpha catenin	Ca2+	-a>
+E-cadherin/Ca2+/beta catenin/alpha catenin	E-cadherin/beta catenin/IQGAP1	-a>
+E-cadherin/Ca2+/beta catenin/alpha catenin	CTNNA1	-a>
+GTP	GDP	-a>
+GTP	PKC epsilon/Par3/Par6/CDC42/GTP	component>
+GTP	CDC42/GTP/IRSP53	component>
+GTP	RAC1/GTP	component>
+GTP	CDC42/GTP/ACK1	component>
+GTP	CDC42/GTP/IQGAP1	component>
+GTP	CDC42/GTP	component>
+GTP	CDC42/GTP/IRSP53/Mena	component>
+GTP	CDC42/GTP/IRSP53/N-WASP	component>
+GTP	betaPIX/CDC42/GTP/CBL	component>
+GTP	PKC zeta/Par3/Par6/CDC42/GTP	component>
+GTP	HRAS/GTP	component>
+GTP	CDC42/GTP/IRSP53/Eps8	component>
+MTOR	RPS6KB1	ACTIVATION
+MTOR	MTOR	-a>
+GDP	RAC1/GDP	component>
+GDP	HRAS/GDP	component>
+GDP	CDC42/GDP	component>
+RASGRF1	GDP	ACTIVATION
+RASGRF1	RASGRF1	transport
+Src-Yes	PAK2-PAK4	ACTIVATION
+F2RL2	PKC zeta/Par3/Par6/CDC42/GTP	component>
+F2RL2	PKC epsilon/Par3/Par6/CDC42/GTP	component>
+CDC42/GTP/ACK1	BCAR1	ACTIVATION
+CDC42	CDC42/GDP	component>
+CDC42	PKC epsilon/Par3/Par6/CDC42/GTP	component>
+CDC42	CDC42/GTP/IRSP53	component>
+CDC42	CDC42/GTP/ACK1	component>
+CDC42	CDC42/GTP/IQGAP1	component>
+CDC42	CDC42/GTP	component>
+CDC42	CDC42/GTP/IRSP53/Mena	component>
+CDC42	CDC42/GTP/IRSP53/N-WASP	component>
+CDC42	betaPIX/CDC42/GTP/CBL	component>
+CDC42	PKC zeta/Par3/Par6/CDC42/GTP	component>
+CDC42	CDC42/GTP/IRSP53/Eps8	component>
+Erk1-2-active	None	ACTIVATION
+LIMK2	LIMK2	-a>
+LIMK2	CFL1	ACTIVATION
+LIMK1	LIMK1	-a>
+LIMK1	CFL1	ACTIVATION
+CTNNB1	E-cadherin/beta catenin/IQGAP1	component>
+CTNNB1	E-cadherin/Ca2+/beta catenin/alpha catenin	component>
+MAP2K7	MAPK9	ACTIVATION
+MAP2K7	MAP2K7	-a>
+WASL	Arp2/3 complex	ACTIVATION
+WASL	WASL	-a>
+WASL	CDC42/GTP/IRSP53/N-WASP	component>
+EPS8	CDC42/GTP/IRSP53/Eps8	component>
+MAP2K4	MAPK8	ACTIVATION
+MAP2K4	MAP2K4	-a>
+IQGAP1	CDC42/GTP/IQGAP1	component>
+IQGAP1	Ca2+	-a>
+IQGAP1	E-cadherin/beta catenin/IQGAP1	component>
+IQGAP1	CTNNA1	-a>
+IQGAP1	Exo70/SEPT2/IQGAP1	component>
+Exo70/SEPT2/IQGAP1	None	ACTIVATION
+IQGAP3	None	ACTIVATION
+IQGAP3	IQGAP3	-a>
+PI-4-5-P2	WASL	ACTIVATION
+Phosphatidylcholine	Phosphatidic acid	-a>
+Phosphatidylcholine	Choline	-a>
+RAC1	RAC1/GDP	component>
+RAC1	RAC1/GTP	component>
+PRKCE	PKC epsilon/Par3/Par6/CDC42/GTP	component>
+PRKCZ	PKC zeta/Par3/Par6/CDC42/GTP	component>
+PRKCZ	Par6/PKC zeta	component>
+CFL1	None	INHIBITION
+CFL1	CFL1	-a>
+BAIAP2	CDC42/GTP/IRSP53/Mena	component>
+BAIAP2	CDC42/GTP/IRSP53	component>
+BAIAP2	CDC42/GTP/IRSP53/Eps8	component>
+BAIAP2	CDC42/GTP/IRSP53/N-WASP	component>
+CTNNA1	E-cadherin/Ca2+/beta catenin/alpha catenin	component>
+EXOC7	Exo70/SEPT2/IQGAP1	component>
+MAP3K11	MAP3K11	transport
+MAP3K11	MAP3K1	ACTIVATION
+RAF1-BRAF	Erk1-2-active	ACTIVATION
+RAF1-BRAF	RAF1-BRAF	-a>
+ATF2	ATF2	-a>

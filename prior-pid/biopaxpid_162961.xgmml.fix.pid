@@ -1,0 +1,60 @@
+protein	ACIN1
+protein	APC
+protein	APC fragment (1-777)
+protein	APC fragment (778-2843)
+protein	BCAP31
+protein	BIRC2
+protein	BMX
+protein	CASP3
+protein	CASP6
+protein	CASP7
+protein	CASP8
+protein	CLSPN
+complex	Caspase-8 dimer
+protein	FNTA
+protein	MST4
+protein	None
+protein	PRKCD
+protein	PRKCQ
+protein	PTK2
+protein	ROCK1
+protein	SATB1
+protein	STK24
+complex	active caspase-3
+complex	active caspase-6
+complex	active caspase-7
+PhysicalEntity	unidentified caspase
+PTK2	PTK2	-a>
+CLSPN	CLSPN	-a>
+BIRC2	BIRC2	-a>
+active caspase-3	None	ACTIVATION
+active caspase-3	BIRC2	ACTIVATION
+active caspase-3	FNTA	ACTIVATION
+active caspase-3	MST4	ACTIVATION
+active caspase-3	ACIN1	ACTIVATION
+active caspase-3	PRKCD	ACTIVATION
+active caspase-3	APC fragment (778-2843)	ACTIVATION
+active caspase-3	ROCK1	ACTIVATION
+active caspase-3	PRKCQ	ACTIVATION
+active caspase-3	BMX	ACTIVATION
+active caspase-7	PTK2	ACTIVATION
+active caspase-7	CLSPN	ACTIVATION
+active caspase-6	SATB1	ACTIVATION
+MST4	MST4	-a>
+Caspase-8 dimer	BCAP31	ACTIVATION
+STK24	STK24	-a>
+BMX	BMX	-a>
+CASP6	active caspase-6	component>
+FNTA	FNTA	-a>
+ACIN1	ACIN1	-a>
+PRKCD	PRKCD	-a>
+unidentified caspase	STK24	ACTIVATION
+SATB1	SATB1	-a>
+PRKCQ	PRKCQ	-a>
+BCAP31	BCAP31	-a>
+CASP7	active caspase-7	component>
+CASP3	active caspase-3	component>
+ROCK1	ROCK1	-a>
+CASP8	Caspase-8 dimer	component>
+APC	APC fragment (1-777)	-a>
+APC	APC fragment (778-2843)	-a>

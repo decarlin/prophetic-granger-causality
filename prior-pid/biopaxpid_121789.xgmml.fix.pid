@@ -1,0 +1,107 @@
+protein	AP2B1
+protein	AP2M1
+protein	AP2S1
+complex	Adaptor protein 2 complex
+protein	Adaptor protein complex 2 (AP-2) large adaptins
+SmallMolecule	Adenosine 5'-diphosphate
+SmallMolecule	Adenosine 5'-triphosphate
+protein	CLTA
+protein	CLTC
+protein	CSNK2A1
+protein	CSNK2A2
+protein	CSNK2B
+complex	Casein kinase II
+complex	Clathrin
+complex	Clathrin-coated vesicle
+protein	EGFR
+protein	FGFR1
+SmallMolecule	Guanosine 5'-triphosphate
+SmallMolecule	Guanosine diphosphate
+PhysicalEntity	Integrins
+complex	L1 homodimer
+complex	L1-EGFR trans-heterodimer
+complex	L1:FGFR1
+complex	L1:Integrin complex
+complex	L1:NCAM1 complex
+complex	L1:NP-1
+protein	L1CAM
+protein	MAP2K1
+protein	MAP2K2
+protein	MAPK1
+protein	MAPK3
+complex	MEK1:ERK-1
+complex	MEK2:ERK-2
+protein	NCAM1
+protein	NRP1
+protein	PAK1
+protein	RAC1
+complex	RAC1-GDP
+complex	RAC1-GTP
+protein	SH3GL2
+protein	VAV2
+protein	p90rsk
+complex	pL1 (S1204, 1248):ERK2:clathrin-dynamin complex
+complex	pL1:CK-II
+complex	phospho-ERK-1:MEK1
+complex	phospho-ERK-2:MEK2
+PhysicalEntity	unidentified protein tyrosine kinase
+EGFR	L1-EGFR trans-heterodimer	component>
+MAP2K2	MEK2:ERK-2	component>
+MAP2K2	phospho-ERK-2:MEK2	component>
+MAP2K1	MEK1:ERK-1	component>
+MAP2K1	Adenosine 5'-diphosphate	INHIBITION
+MAP2K1	phospho-ERK-1:MEK1	component>
+CLTA	Clathrin	component>
+CLTC	Clathrin	component>
+RAC1-GDP	Guanosine diphosphate	-a>
+RAC1-GDP	RAC1-GTP	-a>
+p90rsk	Adenosine 5'-diphosphate	ACTIVATION
+Guanosine 5'-triphosphate	Guanosine diphosphate	-a>
+Guanosine 5'-triphosphate	RAC1-GTP	component>
+Guanosine 5'-triphosphate	RAC1-GTP	-a>
+AP2B1	Adaptor protein 2 complex	component>
+Casein kinase II	pL1:CK-II	component>
+Casein kinase II	pL1:CK-II	ACTIVATION
+SH3GL2	pL1 (S1204, 1248):ERK2:clathrin-dynamin complex	component>
+Integrins	L1:Integrin complex	component>
+AP2S1	Adaptor protein 2 complex	component>
+Clathrin	Clathrin-coated vesicle	component>
+L1 homodimer	L1:FGFR1	component>
+AP2M1	Adaptor protein 2 complex	component>
+MAPK3	MEK1:ERK-1	component>
+MAPK3	phospho-ERK-1:MEK1	component>
+MAPK1	MEK2:ERK-2	component>
+MAPK1	phospho-ERK-2:MEK2	component>
+MAPK1	pL1 (S1204, 1248):ERK2:clathrin-dynamin complex	component>
+MEK2:ERK-2	phospho-ERK-2:MEK2	-a>
+MEK2:ERK-2	Adenosine 5'-diphosphate	-a>
+RAC1	RAC1-GDP	component>
+RAC1	RAC1-GTP	component>
+MEK1:ERK-1	Adenosine 5'-diphosphate	-a>
+MEK1:ERK-1	phospho-ERK-1:MEK1	-a>
+unidentified protein tyrosine kinase	Adenosine 5'-diphosphate	ACTIVATION
+Clathrin-coated vesicle	pL1 (S1204, 1248):ERK2:clathrin-dynamin complex	component>
+CSNK2A2	Casein kinase II	component>
+CSNK2A1	Casein kinase II	component>
+FGFR1	L1:FGFR1	component>
+NCAM1	L1:NCAM1 complex	component>
+Adaptor protein 2 complex	Clathrin-coated vesicle	component>
+VAV2	Adenosine 5'-diphosphate	-a>
+VAV2	VAV2	-a>
+VAV2	Guanosine diphosphate	ACTIVATION
+PAK1	PAK1	ACTIVATION
+Adenosine 5'-triphosphate	phospho-ERK-2:MEK2	-a>
+Adenosine 5'-triphosphate	Adenosine 5'-diphosphate	-a>
+Adenosine 5'-triphosphate	VAV2	-a>
+Adenosine 5'-triphosphate	phospho-ERK-1:MEK1	-a>
+L1CAM	L1:NCAM1 complex	component>
+L1CAM	pL1 (S1204, 1248):ERK2:clathrin-dynamin complex	component>
+L1CAM	L1-EGFR trans-heterodimer	component>
+L1CAM	L1:NP-1	component>
+L1CAM	pL1:CK-II	component>
+L1CAM	L1 homodimer	component>
+L1CAM	L1:Integrin complex	component>
+NRP1	L1:NP-1	component>
+Adaptor protein complex 2 (AP-2) large adaptins	Adaptor protein 2 complex	component>
+CSNK2B	Casein kinase II	component>
+Guanosine diphosphate	RAC1-GDP	component>

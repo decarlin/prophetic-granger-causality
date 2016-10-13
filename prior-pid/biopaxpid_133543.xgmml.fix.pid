@@ -1,0 +1,139 @@
+protein	ATF2
+protein	GADD45B
+protein	GADD45G
+protein	HLX
+protein	IFNG
+complex	IL12/IL12R/TYK2/JAK2
+complex	IL12/IL12R/TYK2/JAK2/SOCS1
+complex	IL12/IL12R/TYK2/JAK2/SPHK2
+protein	IL12A
+protein	IL12B
+protein	IL12RB1
+protein	IL12RB2
+protein	IL18
+complex	IL18/IL18R
+protein	IL18R1
+protein	IL18RAP
+protein	IL1B
+protein	IL2
+complex	IL2/IL2R
+protein	IL2RA
+protein	IL2RB
+protein	IL2RG
+protein	IL4
+protein	JAK2
+protein	LCK
+protein	MAPK14
+protein	MKK3-MKK6
+protein	MKK3-MKK6-active
+protein	MTOR
+complex	NF kappa B1 p50/RelA
+complex	NF kappa B2 p52/RelB
+protein	NFKB1
+protein	NFKB2
+protein	NOS2
+protein	None
+protein	RAB7A
+protein	RELA
+protein	RELB
+protein	RIPK2
+protein	SOCS1
+protein	SPHK2
+protein	STAT1
+complex	STAT1 (dimer)
+protein	STAT3
+complex	STAT3 (dimer)-active
+protein	STAT4
+complex	STAT4 (dimer)
+protein	STAT5A
+complex	STAT5A (dimer)
+protein	STAT6
+protein	TBX21
+protein	TYK2
+protein	http://pid.nci.nih.gov/biopaxpid_133604
+protein	http://pid.nci.nih.gov/biopaxpid_133612
+protein	http://pid.nci.nih.gov/biopaxpid_133708
+IL12/IL12R/TYK2/JAK2/SOCS1	None	INHIBITION
+SPHK2	IL12/IL12R/TYK2/JAK2/SPHK2	component>
+MKK3-MKK6	MKK3-MKK6-active	-a>
+IL18/IL18R	NF kappa B1 p50/RelA	ACTIVATION
+IL18/IL18R	STAT4 (dimer)	ACTIVATION
+IL12A	IL12/IL12R/TYK2/JAK2/SPHK2	component>
+IL12A	IL12/IL12R/TYK2/JAK2/SOCS1	component>
+IL12A	IL12/IL12R/TYK2/JAK2	component>
+IL12/IL12R/TYK2/JAK2	STAT6	ACTIVATION
+IL12/IL12R/TYK2/JAK2	STAT5A (dimer)	ACTIVATION
+IL12/IL12R/TYK2/JAK2	STAT4 (dimer)	ACTIVATION
+IL12/IL12R/TYK2/JAK2	STAT3 (dimer)-active	ACTIVATION
+IL12/IL12R/TYK2/JAK2	STAT1 (dimer)	ACTIVATION
+IL12/IL12R/TYK2/JAK2	NF kappa B2 p52/RelB	ACTIVATION
+IL12/IL12R/TYK2/JAK2	LCK	ACTIVATION
+MAPK14	STAT3 (dimer)-active	ACTIVATION
+MAPK14	MAPK14	-a>
+MAPK14	STAT1 (dimer)	ACTIVATION
+MAPK14	STAT4 (dimer)	ACTIVATION
+MAPK14	ATF2	ACTIVATION
+RIPK2	STAT4 (dimer)	ACTIVATION
+IL12/IL12R/TYK2/JAK2/SPHK2	STAT4 (dimer)	ACTIVATION
+TYK2	IL12/IL12R/TYK2/JAK2/SPHK2	component>
+TYK2	IL12/IL12R/TYK2/JAK2/SOCS1	component>
+TYK2	IL12/IL12R/TYK2/JAK2	component>
+IL1B	IL12/IL12R/TYK2/JAK2	ACTIVATION
+IL2/IL2R	STAT3 (dimer)-active	ACTIVATION
+IL2/IL2R	STAT1 (dimer)	ACTIVATION
+STAT4	STAT4 (dimer)	component>
+STAT3	STAT3 (dimer)-active	component>
+STAT1	STAT1 (dimer)	component>
+IL12RB1	IL12/IL12R/TYK2/JAK2/SPHK2	component>
+IL12RB1	IL12/IL12R/TYK2/JAK2/SOCS1	component>
+IL12RB1	IL12/IL12R/TYK2/JAK2	component>
+GADD45B	MKK3-MKK6-active	ACTIVATION
+IL12RB2	IL12/IL12R/TYK2/JAK2/SPHK2	component>
+IL12RB2	IL12/IL12R/TYK2/JAK2/SOCS1	component>
+IL12RB2	IL12/IL12R/TYK2/JAK2	component>
+IL4	IL12/IL12R/TYK2/JAK2	INHIBITION
+GADD45G	MKK3-MKK6-active	ACTIVATION
+MKK3-MKK6-active	MAPK14	ACTIVATION
+JAK2	IL12/IL12R/TYK2/JAK2/SPHK2	component>
+JAK2	IL12/IL12R/TYK2/JAK2/SOCS1	component>
+JAK2	IL12/IL12R/TYK2/JAK2	component>
+RELB	NF kappa B2 p52/RelB	component>
+RELA	NF kappa B1 p50/RelA	component>
+RAB7A	None	ACTIVATION
+IL2RB	IL2/IL2R	component>
+STAT6	STAT6	-a>
+IFNG	STAT1 (dimer)	ACTIVATION
+IFNG	STAT5A (dimer)	ACTIVATION
+IL18R1	IL18/IL18R	component>
+STAT4 (dimer)	None	ACTIVATION
+STAT4 (dimer)	NF kappa B1 p50/RelA	ACTIVATION
+STAT4 (dimer)	STAT4 (dimer)	transport
+STAT4 (dimer)	STAT4 (dimer)	-a>
+IL12B	IL12/IL12R/TYK2/JAK2/SPHK2	component>
+IL12B	IL12/IL12R/TYK2/JAK2/SOCS1	component>
+IL12B	IL12/IL12R/TYK2/JAK2	component>
+NF kappa B1 p50/RelA	NF kappa B1 p50/RelA	transport
+None	STAT6	ACTIVATION
+None	http://pid.nci.nih.gov/biopaxpid_133708	ACTIVATION
+None	IL12/IL12R/TYK2/JAK2	ACTIVATION
+None	STAT3 (dimer)-active	ACTIVATION
+None	STAT1 (dimer)	ACTIVATION
+None	http://pid.nci.nih.gov/biopaxpid_133604	ACTIVATION
+None	http://pid.nci.nih.gov/biopaxpid_133612	ACTIVATION
+None	STAT4 (dimer)	ACTIVATION
+None	NF kappa B2 p52/RelB	ACTIVATION
+NF kappa B2 p52/RelB	NF kappa B2 p52/RelB	transport
+NFKB2	NF kappa B2 p52/RelB	component>
+IL18	IL18/IL18R	component>
+IL2RA	IL2/IL2R	component>
+SOCS1	IL12/IL12R/TYK2/JAK2/SOCS1	component>
+IL18RAP	IL18/IL18R	component>
+IL2RG	IL2/IL2R	component>
+HLX	STAT4 (dimer)	ACTIVATION
+NFKB1	NF kappa B1 p50/RelA	component>
+STAT5A	STAT5A (dimer)	component>
+IL2	IL2/IL2R	component>
+MTOR	STAT3 (dimer)-active	ACTIVATION
+ATF2	ATF2	-a>
+LCK	LCK	-a>
+NOS2	IL12/IL12R/TYK2/JAK2	ACTIVATION

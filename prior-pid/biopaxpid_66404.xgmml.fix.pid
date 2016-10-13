@@ -1,0 +1,87 @@
+protein	ACTB
+protein	ARID1A
+protein	ATF2
+protein	CREBBP
+protein	GTF2A1
+protein	GTF2B
+protein	GTF2E1
+protein	GTF2F1
+protein	GTF3A
+protein	HMGB1
+complex	IFN-beta nucleosome
+protein	IRF
+protein	JUN
+protein	KAT2B
+protein	NR3C1
+protein	None
+protein	POLR2A
+protein	RELA
+complex	RELA/p50
+complex	RELA/p50/ATF-2/IRF/c-JUN/HMG1
+complex	RELA/p50/ATF-2/IRF/c-JUN/HMG1/PCAF
+complex	RELA/p50/ATF-2/IRF/c-JUN/HMG1/PCAF/CBP
+complex	RELA/p50/ATF-2/IRF/c-JUN/HMG1/PCAF/CBP/hSWI/SNF
+protein	SMARCA4
+protein	SMARCB1
+protein	SMARCC1
+protein	SMARCC2
+protein	SMARCD1
+protein	SMARCE1
+protein	TAFs
+complex	TAFs/TF2A/TBP/TF2F/TF2B/TF2H/TF2E/RNA POL II
+complex	hSWI/SNF
+protein	p50
+SMARCC2	hSWI/SNF	component>
+SMARCC1	hSWI/SNF	component>
+JUN	RELA/p50/ATF-2/IRF/c-JUN/HMG1	component>
+JUN	RELA/p50/ATF-2/IRF/c-JUN/HMG1/PCAF/CBP	component>
+JUN	RELA/p50/ATF-2/IRF/c-JUN/HMG1/PCAF/CBP/hSWI/SNF	component>
+JUN	RELA/p50/ATF-2/IRF/c-JUN/HMG1/PCAF	component>
+JUN	IFN-beta nucleosome	component>
+HMGB1	RELA/p50/ATF-2/IRF/c-JUN/HMG1	component>
+HMGB1	RELA/p50/ATF-2/IRF/c-JUN/HMG1/PCAF/CBP	component>
+HMGB1	RELA/p50/ATF-2/IRF/c-JUN/HMG1/PCAF/CBP/hSWI/SNF	component>
+HMGB1	RELA/p50/ATF-2/IRF/c-JUN/HMG1/PCAF	component>
+HMGB1	IFN-beta nucleosome	component>
+NR3C1	TAFs/TF2A/TBP/TF2F/TF2B/TF2H/TF2E/RNA POL II	component>
+SMARCE1	hSWI/SNF	component>
+SMARCB1	hSWI/SNF	component>
+SMARCA4	hSWI/SNF	component>
+GTF2E1	TAFs/TF2A/TBP/TF2F/TF2B/TF2H/TF2E/RNA POL II	component>
+TAFs	TAFs/TF2A/TBP/TF2F/TF2B/TF2H/TF2E/RNA POL II	component>
+RELA/p50/ATF-2/IRF/c-JUN/HMG1/PCAF	None	ACTIVATION
+RELA/p50	RELA/p50/ATF-2/IRF/c-JUN/HMG1	component>
+RELA/p50	RELA/p50/ATF-2/IRF/c-JUN/HMG1/PCAF/CBP	component>
+RELA/p50	RELA/p50/ATF-2/IRF/c-JUN/HMG1/PCAF/CBP/hSWI/SNF	component>
+RELA/p50	RELA/p50/ATF-2/IRF/c-JUN/HMG1/PCAF	component>
+RELA/p50	IFN-beta nucleosome	component>
+RELA	RELA/p50	component>
+hSWI/SNF	IFN-beta nucleosome	component>
+hSWI/SNF	RELA/p50/ATF-2/IRF/c-JUN/HMG1/PCAF/CBP/hSWI/SNF	component>
+KAT2B	RELA/p50/ATF-2/IRF/c-JUN/HMG1/PCAF/CBP	component>
+KAT2B	RELA/p50/ATF-2/IRF/c-JUN/HMG1/PCAF/CBP/hSWI/SNF	component>
+KAT2B	RELA/p50/ATF-2/IRF/c-JUN/HMG1/PCAF	component>
+KAT2B	IFN-beta nucleosome	component>
+POLR2A	TAFs/TF2A/TBP/TF2F/TF2B/TF2H/TF2E/RNA POL II	component>
+SMARCD1	hSWI/SNF	component>
+p50	RELA/p50	component>
+IRF	RELA/p50/ATF-2/IRF/c-JUN/HMG1	component>
+IRF	RELA/p50/ATF-2/IRF/c-JUN/HMG1/PCAF/CBP	component>
+IRF	RELA/p50/ATF-2/IRF/c-JUN/HMG1/PCAF/CBP/hSWI/SNF	component>
+IRF	RELA/p50/ATF-2/IRF/c-JUN/HMG1/PCAF	component>
+IRF	IFN-beta nucleosome	component>
+GTF2F1	TAFs/TF2A/TBP/TF2F/TF2B/TF2H/TF2E/RNA POL II	component>
+ARID1A	hSWI/SNF	component>
+GTF2B	TAFs/TF2A/TBP/TF2F/TF2B/TF2H/TF2E/RNA POL II	component>
+GTF3A	TAFs/TF2A/TBP/TF2F/TF2B/TF2H/TF2E/RNA POL II	component>
+TAFs/TF2A/TBP/TF2F/TF2B/TF2H/TF2E/RNA POL II	IFN-beta nucleosome	component>
+ACTB	hSWI/SNF	component>
+ATF2	RELA/p50/ATF-2/IRF/c-JUN/HMG1	component>
+ATF2	RELA/p50/ATF-2/IRF/c-JUN/HMG1/PCAF/CBP	component>
+ATF2	RELA/p50/ATF-2/IRF/c-JUN/HMG1/PCAF/CBP/hSWI/SNF	component>
+ATF2	RELA/p50/ATF-2/IRF/c-JUN/HMG1/PCAF	component>
+ATF2	IFN-beta nucleosome	component>
+CREBBP	IFN-beta nucleosome	component>
+CREBBP	RELA/p50/ATF-2/IRF/c-JUN/HMG1/PCAF/CBP/hSWI/SNF	component>
+CREBBP	RELA/p50/ATF-2/IRF/c-JUN/HMG1/PCAF/CBP	component>
+GTF2A1	TAFs/TF2A/TBP/TF2F/TF2B/TF2H/TF2E/RNA POL II	component>

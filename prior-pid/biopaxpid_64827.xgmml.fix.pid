@@ -1,0 +1,49 @@
+protein	AGRN
+protein	AKT1
+protein	BAD
+protein	CHRNB1
+protein	CHRNG
+complex	FKHRL1/14-3-3
+protein	FOXO3
+protein	MUSK
+complex	MUSK/RAPSYN/SRC/RAPSYN/SRC/ACH Receptor gamma polypeptide/ACH Receptor beta polypeptide 1/agrin
+protein	PDPK1
+complex	PI3K
+protein	PIK3CA
+protein	PIK3R1
+SmallMolecule	PIP2
+SmallMolecule	PIP3
+protein	PTK2
+protein	PTK2B
+protein	RAPSN
+protein	SRC
+protein	TERT
+protein	YWHAH
+MUSK	MUSK/RAPSYN/SRC/RAPSYN/SRC/ACH Receptor gamma polypeptide/ACH Receptor beta polypeptide 1/agrin	component>
+FOXO3	FOXO3	-a>
+FOXO3	FKHRL1/14-3-3	component>
+PTK2	PTK2	-a>
+PTK2	PI3K	ACTIVATION
+PIP3	PDPK1	ACTIVATION
+PI3K	PIP3	ACTIVATION
+PI3K	PI3K	-a>
+CHRNB1	MUSK/RAPSYN/SRC/RAPSYN/SRC/ACH Receptor gamma polypeptide/ACH Receptor beta polypeptide 1/agrin	component>
+PIK3CA	PI3K	component>
+PTK2B	PTK2B	-a>
+SRC	MUSK/RAPSYN/SRC/RAPSYN/SRC/ACH Receptor gamma polypeptide/ACH Receptor beta polypeptide 1/agrin	component>
+RAPSN	MUSK/RAPSYN/SRC/RAPSYN/SRC/ACH Receptor gamma polypeptide/ACH Receptor beta polypeptide 1/agrin	component>
+AGRN	MUSK/RAPSYN/SRC/RAPSYN/SRC/ACH Receptor gamma polypeptide/ACH Receptor beta polypeptide 1/agrin	component>
+AKT1	FOXO3	ACTIVATION
+AKT1	AKT1	-a>
+AKT1	BAD	ACTIVATION
+AKT1	TERT	ACTIVATION
+BAD	BAD	-a>
+CHRNG	MUSK/RAPSYN/SRC/RAPSYN/SRC/ACH Receptor gamma polypeptide/ACH Receptor beta polypeptide 1/agrin	component>
+PIP2	PIP3	-a>
+MUSK/RAPSYN/SRC/RAPSYN/SRC/ACH Receptor gamma polypeptide/ACH Receptor beta polypeptide 1/agrin	PTK2B	ACTIVATION
+MUSK/RAPSYN/SRC/RAPSYN/SRC/ACH Receptor gamma polypeptide/ACH Receptor beta polypeptide 1/agrin	PTK2	ACTIVATION
+PIK3R1	PI3K	component>
+PDPK1	AKT1	ACTIVATION
+PDPK1	PDPK1	-a>
+TERT	TERT	transport
+YWHAH	FKHRL1/14-3-3	component>

@@ -1,0 +1,159 @@
+protein	ATR
+protein	CREBBP
+protein	CSF1
+complex	CSF1/CSF1R
+protein	CSF1R
+protein	EGF
+protein	EGFR
+complex	EGFR (dimer)
+complex	EGFR/EGFR/EGF/EGF
+complex	EGFR/EGFR/EGF/EGF/GRB2/GAB1
+protein	EIF2A
+protein	EIF2AK2
+protein	GAB1
+protein	GRB2
+complex	GRB2/SOS1
+SmallMolecule	GTP
+SmallMolecule	H2O2
+protein	HGF
+complex	HGF(dimer)/MET(dimer)
+protein	INS
+protein	INSR
+protein	ITGA1
+protein	ITGB1
+complex	Insulin Receptor/Insulin
+protein	JAK1
+protein	JAK3
+protein	KDR
+protein	KPNA2
+protein	KPNB1
+protein	LMAN1
+protein	MET
+protein	None
+complex	PDGF-BB/PDGFRB (dimer)
+protein	PDGFB
+protein	PDGFRB
+complex	PI3K Class IA family
+protein	PTPN1
+protein	PTPN2
+protein	RAB4A
+complex	RAB4A/GTP
+protein	SOS1
+protein	SRC
+protein	STAT1
+complex	STAT1 (dimer)
+complex	STAT1 (dimer)/TCPTP p45
+protein	STAT3
+complex	STAT3 (dimer)-active
+protein	STAT5A
+complex	STAT5A (dimer)
+complex	STAT5A (dimer)-active
+protein	STAT5B
+complex	STAT5B (dimer)
+complex	STAT5B (dimer) active
+protein	STAT6
+complex	STAT6 (dimer)
+protein	VEGFA
+complex	VEGFR2 homodimer/VEGFA homodimer
+complex	alpha1/beta1 Integrin/TCPTP p45
+protein	http://pid.nci.nih.gov/biopaxpid_40196
+protein	http://pid.nci.nih.gov/biopaxpid_40407
+VEGFR2 homodimer/VEGFA homodimer	VEGFR2 homodimer/VEGFA homodimer	-a>
+PDGFRB	PDGF-BB/PDGFRB (dimer)	component>
+HGF(dimer)/MET(dimer)	PTPN2	ACTIVATION
+HGF(dimer)/MET(dimer)	HGF(dimer)/MET(dimer)	-a>
+RAB4A	RAB4A/GTP	component>
+ITGA1	alpha1/beta1 Integrin/TCPTP p45	component>
+EGFR	EGFR/EGFR/EGF/EGF/GRB2/GAB1	component>
+EGFR	EGFR/EGFR/EGF/EGF	component>
+EGFR	EGFR (dimer)	component>
+GAB1	EGFR/EGFR/EGF/EGF/GRB2/GAB1	component>
+HGF	HGF(dimer)/MET(dimer)	component>
+EGFR/EGFR/EGF/EGF	EGFR/EGFR/EGF/EGF	-a>
+EGFR (dimer)	EGFR (dimer)	-a>
+EGFR (dimer)	PI3K Class IA family	ACTIVATION
+EGFR (dimer)	PI3K Class IA family	INHIBITION
+Insulin Receptor/Insulin	PTPN2	ACTIVATION
+Insulin Receptor/Insulin	Insulin Receptor/Insulin	-a>
+EGFR/EGFR/EGF/EGF/GRB2/GAB1	EGFR/EGFR/EGF/EGF/GRB2/GAB1	-a>
+EGFR/EGFR/EGF/EGF/GRB2/GAB1	PI3K Class IA family	ACTIVATION
+EGFR/EGFR/EGF/EGF/GRB2/GAB1	PI3K Class IA family	INHIBITION
+PDGF-BB/PDGFRB (dimer)	PDGF-BB/PDGFRB (dimer)	-a>
+EGF	EGFR/EGFR/EGF/EGF/GRB2/GAB1	component>
+EGF	EGFR/EGFR/EGF/EGF	component>
+PI3K Class IA family	PI3K Class IA family	-a>
+STAT6	STAT6 (dimer)	component>
+STAT3	STAT3 (dimer)-active	component>
+STAT3	STAT3	transport
+H2O2	PTPN2	ACTIVATION
+STAT1	STAT1 (dimer)	component>
+STAT1	STAT1 (dimer)/TCPTP p45	component>
+STAT5B	STAT5B (dimer) active	component>
+STAT5B	STAT5B (dimer)	component>
+CSF1R	CSF1/CSF1R	component>
+STAT6 (dimer)	STAT6 (dimer)	-a>
+STAT6 (dimer)	None	INHIBITION
+STAT1 (dimer)	STAT1 (dimer)	-a>
+JAK3	JAK3	-a>
+JAK1	STAT3	ACTIVATION
+JAK1	JAK1	-a>
+RAB4A/GTP	None	ACTIVATION
+KDR	VEGFR2 homodimer/VEGFA homodimer	component>
+ITGB1	alpha1/beta1 Integrin/TCPTP p45	component>
+SRC	SRC	-a>
+SRC	None	INHIBITION
+PDGFB	PDGF-BB/PDGFRB (dimer)	component>
+PDGFB	PDGF-BB/PDGFRB (dimer)	component>
+alpha1/beta1 Integrin/TCPTP p45	VEGFR2 homodimer/VEGFA homodimer	ACTIVATION
+alpha1/beta1 Integrin/TCPTP p45	EGFR/EGFR/EGF/EGF	ACTIVATION
+KPNB1	PTPN2	ACTIVATION
+GTP	RAB4A/GTP	component>
+LMAN1	PTPN2	ACTIVATION
+None	http://pid.nci.nih.gov/biopaxpid_40196	ACTIVATION
+None	PTPN2	ACTIVATION
+None	None	ACTIVATION
+None	alpha1/beta1 Integrin/TCPTP p45	ACTIVATION
+None	http://pid.nci.nih.gov/biopaxpid_40407	ACTIVATION
+PTPN2	GRB2/SOS1	ACTIVATION
+PTPN2	SRC	ACTIVATION
+PTPN2	STAT5A (dimer)-active	ACTIVATION
+PTPN2	HGF(dimer)/MET(dimer)	ACTIVATION
+PTPN2	alpha1/beta1 Integrin/TCPTP p45	component>
+PTPN2	Insulin Receptor/Insulin	INHIBITION
+PTPN2	CSF1/CSF1R	ACTIVATION
+PTPN2	None	ACTIVATION
+PTPN2	STAT3 (dimer)-active	ACTIVATION
+PTPN2	STAT6 (dimer)	ACTIVATION
+PTPN2	STAT1 (dimer)	ACTIVATION
+PTPN2	EGFR (dimer)	ACTIVATION
+PTPN2	JAK3	ACTIVATION
+PTPN2	JAK1	ACTIVATION
+PTPN2	EGFR/EGFR/EGF/EGF/GRB2/GAB1	ACTIVATION
+PTPN2	PTPN2	transport
+PTPN2	PDGF-BB/PDGFRB (dimer)	ACTIVATION
+PTPN2	STAT1 (dimer)/TCPTP p45	component>
+PTPN2	STAT5B (dimer)	ACTIVATION
+PTPN1	Insulin Receptor/Insulin	ACTIVATION
+CSF1	CSF1/CSF1R	component>
+STAT5A (dimer)	STAT5A (dimer)-active	-a>
+VEGFA	VEGFR2 homodimer/VEGFA homodimer	component>
+SOS1	GRB2/SOS1	component>
+CSF1/CSF1R	None	INHIBITION
+CSF1/CSF1R	CSF1/CSF1R	-a>
+STAT5B (dimer) active	STAT5B (dimer)	-a>
+EIF2AK2	PTPN2	ACTIVATION
+EIF2AK2	EIF2A	ACTIVATION
+INSR	Insulin Receptor/Insulin	component>
+EIF2A	STAT1 (dimer)	ACTIVATION
+EIF2A	EIF2A	-a>
+INS	Insulin Receptor/Insulin	component>
+STAT3 (dimer)-active	STAT3 (dimer)-active	-a>
+STAT3 (dimer)-active	None	INHIBITION
+MET	HGF(dimer)/MET(dimer)	component>
+STAT5A	STAT5A (dimer)-active	component>
+STAT5A	STAT5A (dimer)	component>
+GRB2	EGFR/EGFR/EGF/EGF/GRB2/GAB1	component>
+GRB2	GRB2/SOS1	component>
+KPNA2	PTPN2	ACTIVATION
+ATR	None	ACTIVATION
+CREBBP	STAT1 (dimer)	ACTIVATION

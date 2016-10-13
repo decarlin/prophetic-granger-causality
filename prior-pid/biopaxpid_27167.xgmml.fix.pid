@@ -1,0 +1,168 @@
+complex	AP-1
+protein	CD247
+protein	CD3D
+protein	CD3E
+protein	CD3G
+protein	CD4
+protein	CaM
+complex	CaM/Ca ++
+complex	Calcineurin
+SmallMolecule	DAG
+protein	ELK1
+protein	FOS
+protein	FYN
+protein	GAP
+protein	GRB2
+protein	HLA-DRA
+protein	HRAS
+SmallMolecule	IP3
+protein	JUN
+protein	LAT
+protein	LCK
+protein	MAP2K1
+protein	MAP2K4
+protein	MAP3K1
+protein	MAPK3
+protein	MAPK8
+protein	MHC class II beta
+protein	NFATc
+protein	None
+complex	PI3K
+protein	PIK3CA
+protein	PIK3R1
+SmallMolecule	PIP2
+protein	PKC
+protein	PLCG1
+protein	PPP3CA
+protein	PPP3CB
+protein	PPP3CC
+protein	PTPN7
+protein	PTPRC
+protein	RAC1
+protein	RAF1
+protein	RELA
+complex	RELA/p50
+complex	SHC/GRB2/SOS-1
+protein	SHC1
+protein	SOS1
+complex	TCR-CD3/MHC II/CD4
+complex	TCR-CD3/MHC II/CD4/LCK
+complex	TCR-CD3/MHC II/CD4/LCK/ZAP70
+protein	TCR-alpha
+protein	TCR-beta
+protein	VAV1
+protein	ZAP70
+SmallMolecule	calcium
+SmallMolecule	cyclosporine (usp)
+SmallMolecule	guanosine 5'-diphosphate
+SmallMolecule	guanosine 5'-triphosphate
+protein	p50
+SmallMolecule	tacrolimus
+tacrolimus	Calcineurin	ACTIVATION
+MAP3K1	MAP3K1	-a>
+MAP3K1	MAP2K4	ACTIVATION
+HRAS	RAF1	ACTIVATION
+HRAS	HRAS	-a>
+HRAS	guanosine 5'-diphosphate	-a>
+HRAS	guanosine 5'-triphosphate	-a>
+HRAS	PI3K	ACTIVATION
+CD4	TCR-CD3/MHC II/CD4	component>
+CD4	TCR-CD3/MHC II/CD4/LCK	component>
+CD4	TCR-CD3/MHC II/CD4/LCK/ZAP70	component>
+IP3	calcium	ACTIVATION
+MAP2K1	MAPK3	ACTIVATION
+MAP2K1	MAP2K1	-a>
+CD247	TCR-CD3/MHC II/CD4	component>
+CD247	TCR-CD3/MHC II/CD4/LCK	component>
+CD247	TCR-CD3/MHC II/CD4/LCK/ZAP70	component>
+SHC/GRB2/SOS-1	HRAS	ACTIVATION
+SHC/GRB2/SOS-1	SHC/GRB2/SOS-1	-a>
+MAP2K4	MAPK8	ACTIVATION
+MAP2K4	MAP2K4	-a>
+TCR-CD3/MHC II/CD4/LCK/ZAP70	LAT	ACTIVATION
+TCR-CD3/MHC II/CD4/LCK/ZAP70	VAV1	ACTIVATION
+RAF1	MAP2K1	ACTIVATION
+RAF1	RAF1	-a>
+DAG	PKC	ACTIVATION
+HLA-DRA	TCR-CD3/MHC II/CD4	component>
+HLA-DRA	TCR-CD3/MHC II/CD4/LCK	component>
+HLA-DRA	TCR-CD3/MHC II/CD4/LCK/ZAP70	component>
+CaM/Ca ++	Calcineurin	ACTIVATION
+MHC class II beta	TCR-CD3/MHC II/CD4	component>
+MHC class II beta	TCR-CD3/MHC II/CD4/LCK	component>
+MHC class II beta	TCR-CD3/MHC II/CD4/LCK/ZAP70	component>
+PIK3CA	PI3K	component>
+RAC1	MAP3K1	ACTIVATION
+RAC1	guanosine 5'-diphosphate	-a>
+RAC1	RAC1	-a>
+JUN	AP-1	component>
+JUN	JUN	-a>
+GAP	guanosine 5'-triphosphate	ACTIVATION
+RELA/p50	RELA/p50	transport
+PKC	PKC	-a>
+PKC	None	ACTIVATION
+ELK1	ELK1	-a>
+TCR-alpha	TCR-CD3/MHC II/CD4	component>
+TCR-alpha	TCR-CD3/MHC II/CD4/LCK	component>
+TCR-alpha	TCR-CD3/MHC II/CD4/LCK/ZAP70	component>
+PIK3R1	PI3K	component>
+NFATc	NFATc	-a>
+RELA	RELA/p50	component>
+guanosine 5'-triphosphate	HRAS	-a>
+guanosine 5'-triphosphate	guanosine 5'-diphosphate	-a>
+guanosine 5'-triphosphate	RAC1	-a>
+MAPK3	MAPK3	transport
+MAPK3	ELK1	ACTIVATION
+MAPK3	FOS	ACTIVATION
+TCR-beta	TCR-CD3/MHC II/CD4	component>
+TCR-beta	TCR-CD3/MHC II/CD4/LCK	component>
+TCR-beta	TCR-CD3/MHC II/CD4/LCK/ZAP70	component>
+ZAP70	TCR-CD3/MHC II/CD4/LCK/ZAP70	component>
+Calcineurin	Calcineurin	-a>
+Calcineurin	NFATc	ACTIVATION
+SHC1	SHC/GRB2/SOS-1	component>
+FOS	AP-1	component>
+FOS	FOS	-a>
+PIP2	IP3	-a>
+PIP2	DAG	-a>
+FYN	VAV1	ACTIVATION
+FYN	FYN	-a>
+guanosine 5'-diphosphate	HRAS	-a>
+guanosine 5'-diphosphate	guanosine 5'-triphosphate	-a>
+p50	RELA/p50	component>
+PTPN7	MAPK3	ACTIVATION
+MAPK8	MAPK8	-a>
+MAPK8	JUN	ACTIVATION
+cyclosporine (usp)	Calcineurin	ACTIVATION
+PI3K	VAV1	ACTIVATION
+PI3K	PI3K	-a>
+SOS1	SHC/GRB2/SOS-1	component>
+VAV1	VAV1	-a>
+VAV1	RAC1	ACTIVATION
+PLCG1	IP3	ACTIVATION
+PLCG1	PLCG1	-a>
+LCK	TCR-CD3/MHC II/CD4/LCK/ZAP70	component>
+LCK	TCR-CD3/MHC II/CD4/LCK	component>
+LCK	LCK	-a>
+calcium	PKC	ACTIVATION
+calcium	CaM/Ca ++	component>
+calcium	calcium	transport
+GRB2	SHC/GRB2/SOS-1	component>
+PTPRC	FYN	ACTIVATION
+PTPRC	LCK	ACTIVATION
+CaM	CaM/Ca ++	component>
+LAT	LAT	-a>
+LAT	PLCG1	ACTIVATION
+LAT	SHC/GRB2/SOS-1	ACTIVATION
+PPP3CA	Calcineurin	component>
+PPP3CB	Calcineurin	component>
+PPP3CC	Calcineurin	component>
+CD3D	TCR-CD3/MHC II/CD4	component>
+CD3D	TCR-CD3/MHC II/CD4/LCK	component>
+CD3D	TCR-CD3/MHC II/CD4/LCK/ZAP70	component>
+CD3E	TCR-CD3/MHC II/CD4	component>
+CD3E	TCR-CD3/MHC II/CD4/LCK	component>
+CD3E	TCR-CD3/MHC II/CD4/LCK/ZAP70	component>
+CD3G	TCR-CD3/MHC II/CD4	component>
+CD3G	TCR-CD3/MHC II/CD4/LCK	component>
+CD3G	TCR-CD3/MHC II/CD4/LCK/ZAP70	component>

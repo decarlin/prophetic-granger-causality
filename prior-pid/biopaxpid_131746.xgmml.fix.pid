@@ -1,0 +1,82 @@
+SmallMolecule	Adenosine 5'-diphosphate
+SmallMolecule	Adenosine 5'-triphosphate
+complex	CAK
+protein	CCNE1
+protein	CCNE2
+protein	CCNH
+protein	CDC25A
+protein	CDK2
+protein	CDK7
+protein	CDKN1A
+protein	CDKN1B
+protein	Cyclin E
+complex	Cyclin E1:Cdk2 complex
+complex	Cyclin E1:phospho-Cdk2 complex
+complex	Cyclin E2:Cdk2 complex
+complex	Cyclin E2:phospho-Cdk2 complex
+complex	Cyclin E:Cdk2 complex
+complex	Cyclin E:Cdk2 complexes
+complex	Cyclin E:Cdk2:p21/p27 complex
+complex	Cyclin E:Phosho-Cdk2 (Thr 160)
+complex	Cyclin E:Phospho-Cdk2(Thr160):Rb complex
+complex	Cyclin E:phospho-Cdk2 Complex
+protein	MNAT1
+protein	MYC
+PhysicalEntity	Max
+complex	Myc/Max heterodimer
+SmallMolecule	Orthophosphate
+protein	PKMYT1
+protein	RB1
+protein	WEE1
+SmallMolecule	Water
+protein	p21/p27
+Cyclin E	Cyclin E:phospho-Cdk2 Complex	component>
+Cyclin E	Cyclin E:Cdk2 complex	component>
+Cyclin E	Cyclin E:Phosho-Cdk2 (Thr 160)	component>
+Cyclin E	Cyclin E:Cdk2 complexes	component>
+CDKN1B	CDKN1B	-a>
+CDKN1A	CDKN1A	transport
+PKMYT1	Adenosine 5'-diphosphate	ACTIVATION
+PKMYT1	Cyclin E2:phospho-Cdk2 complex	ACTIVATION
+CAK	Adenosine 5'-diphosphate	ACTIVATION
+Adenosine 5'-triphosphate	Cyclin E:phospho-Cdk2 Complex	-a>
+Adenosine 5'-triphosphate	Adenosine 5'-diphosphate	-a>
+Adenosine 5'-triphosphate	Cyclin E1:phospho-Cdk2 complex	-a>
+Adenosine 5'-triphosphate	Cyclin E:Phosho-Cdk2 (Thr 160)	-a>
+Adenosine 5'-triphosphate	Cyclin E2:phospho-Cdk2 complex	-a>
+Cyclin E:Phosho-Cdk2 (Thr 160)	Cyclin E:Phospho-Cdk2(Thr160):Rb complex	component>
+Cyclin E:Cdk2 complex	Cyclin E:Cdk2 complexes	-a>
+CCNE2	Cyclin E2:Cdk2 complex	component>
+CCNE2	Cyclin E2:phospho-Cdk2 complex	component>
+Max	Myc/Max heterodimer	component>
+CCNE1	Cyclin E1:Cdk2 complex	component>
+CCNE1	Cyclin E1:phospho-Cdk2 complex	component>
+RB1	Cyclin E:Phospho-Cdk2(Thr160):Rb complex	component>
+Water	Orthophosphate	-a>
+Water	Cyclin E:Cdk2 complexes	-a>
+MYC	Myc/Max heterodimer	component>
+Cyclin E2:Cdk2 complex	Adenosine 5'-diphosphate	-a>
+Cyclin E2:Cdk2 complex	Cyclin E2:phospho-Cdk2 complex	-a>
+CDC25A	Cyclin E:Cdk2 complexes	ACTIVATION
+Cyclin E1:Cdk2 complex	Adenosine 5'-diphosphate	-a>
+Cyclin E1:Cdk2 complex	Cyclin E1:phospho-Cdk2 complex	-a>
+MNAT1	CAK	component>
+WEE1	Adenosine 5'-diphosphate	ACTIVATION
+Cyclin E:Cdk2 complexes	Cyclin E:phospho-Cdk2 Complex	-a>
+Cyclin E:Cdk2 complexes	Adenosine 5'-diphosphate	-a>
+Cyclin E:Cdk2 complexes	Cyclin E:Phosho-Cdk2 (Thr 160)	-a>
+Cyclin E:Cdk2 complexes	Cyclin E:Cdk2:p21/p27 complex	component>
+Myc/Max heterodimer	CDC25A	ACTIVATION
+Cyclin E:phospho-Cdk2 Complex	Orthophosphate	-a>
+Cyclin E:phospho-Cdk2 Complex	Cyclin E:Cdk2 complexes	-a>
+CDK2	Cyclin E2:Cdk2 complex	component>
+CDK2	Cyclin E:Cdk2 complex	component>
+CDK2	Cyclin E:Cdk2 complexes	component>
+CDK2	Cyclin E1:phospho-Cdk2 complex	component>
+CDK2	Cyclin E:phospho-Cdk2 Complex	component>
+CDK2	Cyclin E:Phosho-Cdk2 (Thr 160)	component>
+CDK2	Cyclin E2:phospho-Cdk2 complex	component>
+CDK2	Cyclin E1:Cdk2 complex	component>
+CDK7	CAK	component>
+p21/p27	Cyclin E:Cdk2:p21/p27 complex	component>
+CCNH	CAK	component>

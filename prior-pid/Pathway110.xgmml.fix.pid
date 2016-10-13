@@ -1,0 +1,60 @@
+family	AKT
+protein	AKT1
+protein	AKT2
+protein	AKT3
+complex	AKT:PIP3
+family	Active AKT
+SmallMolecule	Adenosine triphosphate
+rna	ENSEMBL:ENST00000371953 PTEN
+protein	PDPK1
+complex	PDPK1:PIP2
+complex	PDPK1:PIP3
+SmallMolecule	PIP2
+protein	PTEN
+complex	PTEN (Mg2+ cofactor)
+complex	PTEN mRNA:miR-26A RISC
+SmallMolecule	PtsIns-3,4,5-P3
+SmallMolecule	adenosine 5'-(trihydrogen diphosphate)
+SmallMolecule	magnesium, ion (Mg(2+))
+complex	miR-26A-induced Silencing Complex
+family	p-S-AKT
+complex	p-S-AKT:PDPK1:PIP3
+complex	p-S-AKT:PIP3
+ENSEMBL:ENST00000371953 PTEN	PTEN (Mg2+ cofactor)	-a>
+ENSEMBL:ENST00000371953 PTEN	PTEN mRNA:miR-26A RISC	component>
+AKT	AKT:PIP3	-a>
+AKT	AKT:PIP3	component>
+AKT1	p-S-AKT	member>
+AKT1	Active AKT	member>
+AKT1	AKT	member>
+AKT2	p-S-AKT	member>
+AKT2	Active AKT	member>
+AKT2	AKT	member>
+AKT3	p-S-AKT	member>
+AKT3	Active AKT	member>
+AKT3	AKT	member>
+PDPK1:PIP3	p-S-AKT:PDPK1:PIP3	component>
+Active AKT	Active AKT	-a>
+Adenosine triphosphate	adenosine 5'-(trihydrogen diphosphate)	-a>
+Adenosine triphosphate	Active AKT	-a>
+Adenosine triphosphate	PtsIns-3,4,5-P3	-a>
+Adenosine triphosphate	PDPK1:PIP3	-a>
+Adenosine triphosphate	p-S-AKT:PIP3	-a>
+miR-26A-induced Silencing Complex	PTEN mRNA:miR-26A RISC	component>
+PtsIns-3,4,5-P3	AKT:PIP3	component>
+PtsIns-3,4,5-P3	p-S-AKT:PIP3	component>
+PtsIns-3,4,5-P3	PDPK1:PIP3	component>
+magnesium, ion (Mg(2+))	PTEN (Mg2+ cofactor)	component>
+AKT:PIP3	adenosine 5'-(trihydrogen diphosphate)	-a>
+AKT:PIP3	p-S-AKT:PIP3	-a>
+PIP2	adenosine 5'-(trihydrogen diphosphate)	-a>
+PIP2	PtsIns-3,4,5-P3	-a>
+PIP2	PDPK1:PIP2	component>
+p-S-AKT:PIP3	p-S-AKT:PDPK1:PIP3	component>
+PTEN	PTEN (Mg2+ cofactor)	component>
+p-S-AKT	p-S-AKT:PIP3	component>
+p-S-AKT:PDPK1:PIP3	adenosine 5'-(trihydrogen diphosphate)	-a>
+p-S-AKT:PDPK1:PIP3	Active AKT	-a>
+p-S-AKT:PDPK1:PIP3	PDPK1:PIP3	-a>
+PDPK1	PDPK1:PIP3	component>
+PDPK1	PDPK1:PIP2	component>

@@ -1,0 +1,27 @@
+SmallMolecule	DAG
+SmallMolecule	IP3
+protein	P2RY2
+SmallMolecule	PIP2
+protein	PLCG1
+protein	PRKCA
+protein	PRKCB
+SmallMolecule	Phorbol Esters
+SmallMolecule	calcium
+SmallMolecule	ionomycin
+DAG	PRKCA	ACTIVATION
+DAG	PRKCB	ACTIVATION
+P2RY2	PLCG1	ACTIVATION
+PIP2	IP3	-a>
+PIP2	DAG	-a>
+PRKCA	PRKCA	-a>
+PRKCA	PRKCB	-a>
+ionomycin	calcium	ACTIVATION
+PRKCB	PRKCA	-a>
+PRKCB	PRKCB	-a>
+calcium	PRKCA	ACTIVATION
+calcium	calcium	transport
+calcium	PRKCB	ACTIVATION
+PLCG1	IP3	ACTIVATION
+PLCG1	PLCG1	-a>
+Phorbol Esters	PRKCA	ACTIVATION
+Phorbol Esters	PRKCB	ACTIVATION

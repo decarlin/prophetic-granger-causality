@@ -1,0 +1,190 @@
+complex	Activated Growth Hormone Receptor:JAK2
+complex	Activated Growth Hormone Receptor:JAK2 dimer
+complex	Activated Growth Hormone Receptor:p(Y1007)-JAK2
+complex	Activated Growth Hormone Receptor:p(Y1007)-JAK2 dimer
+complex	Activated cytokine-like hormone receptors
+complex	Activated cytokine-like hormone receptors, p(Y1007)-JAK2
+SmallMolecule	Adenosine triphosphate
+family	CIS, SOCS1-3
+protein	CISH
+family	ERK
+protein	GH1
+protein	GH2
+complex	GHBP:GH
+complex	GHBP:GHR
+protein	GHR
+family	Growth Hormone
+complex	Growth Hormone Receptor-JAK2 dimer
+complex	Growth Hormone Receptor:JAK2
+complex	Growth Hormone: Activated Growth Hormone Receptor- p(Y1007)-JAK2 dimer
+complex	Growth Hormone: Activated Growth Hormone Receptor-JAK2 dimer
+complex	Growth Hormone: Activated Growth Hormone Receptor:p(Y1007)-JAK2 dimer:STAT1/STAT3
+complex	Growth Hormone: Activated Growth Hormone Receptor:p(Y1007)-JAK2 dimer:p(Y701)-STAT1/p(Y705)-STAT3
+complex	Growth Hormone: Growth Hormone Receptor-JAK2 dimer
+complex	Growth Hormone: Tyrosine phosphorylated Growth Hormone Receptor-JAK2 dimer
+complex	Growth Hormone: Tyrosine phosphorylated Growth Hormone Receptor-JAK2 dimer:SHP1
+complex	Growth Hormone: Tyrosine phosphorylated Growth Hormone Receptor-JAK2 dimer:SHP2
+complex	Growth Hormone: Tyrosine phosphorylated Growth Hormone Receptor-p(Y1007)-JAK2 dimer
+complex	Growth Hormone: Tyrosine phosphorylated Growth Hormone Receptor-p(Y1007)-JAK2 dimer:CIS/SOCS1-3
+complex	Growth Hormone: Tyrosine phosphorylated Growth Hormone Receptor-p(Y1007)-JAK2 dimer:SHP1
+complex	Growth Hormone: Tyrosine phosphorylated Growth Hormone Receptor-p(Y1007)-JAK2 dimer:SHP2
+complex	Growth Hormone: Tyrosine phosphorylated Growth Hormone Receptor-p(Y1007)-JAK2 dimer:SOCS
+complex	Growth Hormone:Growth Hormone Receptor-JAK2 dimer:LYN
+complex	Growth Hormone:Tyrosine phosphorylated Growth Hormone Receptor-p(Y1007)-JAK2 dimer:STAT5
+complex	Growth Hormone:Tyrosine phosphorylated Growth Hormone Receptor-p(Y1007)-JAK2 dimer:p-STAT5
+complex	Growth Hormone:p(Y332,487,627)-Growth Hormone Receptor-p(Y1007)-JAK2 dimer
+complex	Growth Hormone:p(Y332,487,627)-Growth Hormone Receptor-p(Y1007)-JAK2 dimer:SHP2
+PhysicalEntity	Growth hormone oligomer
+protein	IRS1
+family	IRS1,2
+protein	IRS2
+protein	JAK2
+protein	LYN
+protein	MAPK1
+protein	MAPK3
+protein	PTPN1
+protein	PTPN6
+family	Phospho-ERK
+family	SOCS
+protein	SOCS1
+protein	SOCS2
+protein	SOCS3
+protein	STAT1
+family	STAT1, STAT3
+protein	STAT3
+protein	STAT5A
+protein	STAT5B
+complex	Tyrosine phosphorylated Growth Hormone Receptor-JAK2 dimer
+complex	Tyrosine phosphorylated Growth Hormone Receptor:JAK2
+complex	Tyrosine phosphorylated Growth Hormone Receptor:p(Y1007)-JAK2
+complex	Tyrosine phosphorylated Growth Hormone Receptor:p(Y1007)-JAK2 dimer
+SmallMolecule	adenosine 5'-(trihydrogen diphosphate)
+SmallMolecule	dihydrogen oxide
+complex	p(Y332,487,627)-Growth Hormone Receptor:p(Y1007)-JAK2
+complex	p(Y332,487,627)-Growth Hormone Receptor:p(Y1007)-JAK2 dimer
+family	p(Y701)-STAT1, p(Y705)-STAT3
+family	p-IRS1,2
+family	p-STAT5
+complex	p-STAT5 dimer
+family	p-STAT5A/B
+SmallMolecule	tetraoxidophosphate(3-)
+GHR	GHBP:GHR	component>
+GHR	Activated Growth Hormone Receptor:p(Y1007)-JAK2	component>
+GHR	GHR	-a>
+GHR	Activated Growth Hormone Receptor:JAK2	component>
+GHR	Tyrosine phosphorylated Growth Hormone Receptor:p(Y1007)-JAK2	component>
+GHR	GHBP:GH	component>
+GHR	p(Y332,487,627)-Growth Hormone Receptor:p(Y1007)-JAK2	component>
+GHR	Tyrosine phosphorylated Growth Hormone Receptor:JAK2	component>
+GHR	Growth Hormone Receptor:JAK2	component>
+GH2	Growth Hormone	member>
+Growth Hormone: Tyrosine phosphorylated Growth Hormone Receptor-JAK2 dimer	Growth Hormone: Tyrosine phosphorylated Growth Hormone Receptor-JAK2 dimer:SHP2	component>
+Growth Hormone: Tyrosine phosphorylated Growth Hormone Receptor-JAK2 dimer	Growth Hormone: Tyrosine phosphorylated Growth Hormone Receptor-JAK2 dimer:SHP1	component>
+p(Y332,487,627)-Growth Hormone Receptor:p(Y1007)-JAK2	p(Y332,487,627)-Growth Hormone Receptor:p(Y1007)-JAK2 dimer	component>
+PTPN6	Growth Hormone: Tyrosine phosphorylated Growth Hormone Receptor-JAK2 dimer:SHP1	component>
+PTPN6	Growth Hormone: Tyrosine phosphorylated Growth Hormone Receptor-p(Y1007)-JAK2 dimer:SHP1	component>
+Growth Hormone: Activated Growth Hormone Receptor- p(Y1007)-JAK2 dimer	adenosine 5'-(trihydrogen diphosphate)	-a>
+Growth Hormone: Activated Growth Hormone Receptor- p(Y1007)-JAK2 dimer	Growth Hormone: Activated Growth Hormone Receptor:p(Y1007)-JAK2 dimer:p(Y701)-STAT1/p(Y705)-STAT3	component>
+Growth Hormone: Activated Growth Hormone Receptor- p(Y1007)-JAK2 dimer	Growth Hormone: Tyrosine phosphorylated Growth Hormone Receptor-p(Y1007)-JAK2 dimer	-a>
+Growth Hormone: Activated Growth Hormone Receptor- p(Y1007)-JAK2 dimer	Growth Hormone: Activated Growth Hormone Receptor:p(Y1007)-JAK2 dimer:STAT1/STAT3	component>
+Adenosine triphosphate	Growth Hormone:Tyrosine phosphorylated Growth Hormone Receptor-p(Y1007)-JAK2 dimer:p-STAT5	-a>
+Adenosine triphosphate	Growth Hormone: Tyrosine phosphorylated Growth Hormone Receptor-p(Y1007)-JAK2 dimer	-a>
+Adenosine triphosphate	Activated cytokine-like hormone receptors, p(Y1007)-JAK2	-a>
+Adenosine triphosphate	p-IRS1,2	-a>
+Adenosine triphosphate	adenosine 5'-(trihydrogen diphosphate)	-a>
+Adenosine triphosphate	Phospho-ERK	-a>
+Adenosine triphosphate	Growth Hormone: Activated Growth Hormone Receptor:p(Y1007)-JAK2 dimer:p(Y701)-STAT1/p(Y705)-STAT3	-a>
+p-STAT5 dimer	p-STAT5 dimer	-a>
+ERK	adenosine 5'-(trihydrogen diphosphate)	-a>
+ERK	Phospho-ERK	-a>
+Growth Hormone:Tyrosine phosphorylated Growth Hormone Receptor-p(Y1007)-JAK2 dimer:p-STAT5	Growth Hormone: Tyrosine phosphorylated Growth Hormone Receptor-p(Y1007)-JAK2 dimer	-a>
+Growth Hormone:Tyrosine phosphorylated Growth Hormone Receptor-p(Y1007)-JAK2 dimer:p-STAT5	p-STAT5A/B	-a>
+Activated Growth Hormone Receptor:p(Y1007)-JAK2	Activated Growth Hormone Receptor:p(Y1007)-JAK2 dimer	component>
+Activated Growth Hormone Receptor:JAK2	Activated Growth Hormone Receptor:JAK2 dimer	component>
+IRS1,2	adenosine 5'-(trihydrogen diphosphate)	-a>
+IRS1,2	p-IRS1,2	-a>
+Growth Hormone: Tyrosine phosphorylated Growth Hormone Receptor-p(Y1007)-JAK2 dimer:SHP1	Growth Hormone: Tyrosine phosphorylated Growth Hormone Receptor-JAK2 dimer:SHP1	-a>
+Growth Hormone: Tyrosine phosphorylated Growth Hormone Receptor-p(Y1007)-JAK2 dimer:SHP1	tetraoxidophosphate(3-)	-a>
+Growth Hormone: Tyrosine phosphorylated Growth Hormone Receptor-p(Y1007)-JAK2 dimer:SHP2	Growth Hormone: Tyrosine phosphorylated Growth Hormone Receptor-JAK2 dimer:SHP2	-a>
+Growth Hormone: Tyrosine phosphorylated Growth Hormone Receptor-p(Y1007)-JAK2 dimer:SHP2	Growth Hormone:p(Y332,487,627)-Growth Hormone Receptor-p(Y1007)-JAK2 dimer:SHP2	-a>
+Growth Hormone: Tyrosine phosphorylated Growth Hormone Receptor-p(Y1007)-JAK2 dimer:SHP2	tetraoxidophosphate(3-)	-a>
+MAPK3	Phospho-ERK	member>
+MAPK3	ERK	member>
+Growth Hormone: Growth Hormone Receptor-JAK2 dimer	Growth Hormone: Activated Growth Hormone Receptor-JAK2 dimer	-a>
+Growth Hormone: Growth Hormone Receptor-JAK2 dimer	Growth Hormone:Growth Hormone Receptor-JAK2 dimer:LYN	component>
+MAPK1	Phospho-ERK	member>
+MAPK1	ERK	member>
+p-STAT5A/B	Growth Hormone:Tyrosine phosphorylated Growth Hormone Receptor-p(Y1007)-JAK2 dimer:p-STAT5	component>
+p-STAT5A/B	p-STAT5 dimer	component>
+CISH	CIS, SOCS1-3	member>
+CISH	SOCS	member>
+Activated Growth Hormone Receptor:JAK2 dimer	Growth Hormone: Activated Growth Hormone Receptor-JAK2 dimer	component>
+STAT5B	STAT5A	member>
+STAT5B	p-STAT5A/B	member>
+STAT5B	p-STAT5	member>
+JAK2	Activated Growth Hormone Receptor:p(Y1007)-JAK2	component>
+JAK2	Activated Growth Hormone Receptor:JAK2	component>
+JAK2	Tyrosine phosphorylated Growth Hormone Receptor:p(Y1007)-JAK2	component>
+JAK2	p(Y332,487,627)-Growth Hormone Receptor:p(Y1007)-JAK2	component>
+JAK2	Tyrosine phosphorylated Growth Hormone Receptor:JAK2	component>
+JAK2	Growth Hormone Receptor:JAK2	component>
+LYN	Growth Hormone:Growth Hormone Receptor-JAK2 dimer:LYN	component>
+Growth Hormone Receptor:JAK2	Growth Hormone Receptor-JAK2 dimer	component>
+Tyrosine phosphorylated Growth Hormone Receptor:JAK2	Tyrosine phosphorylated Growth Hormone Receptor-JAK2 dimer	component>
+p(Y332,487,627)-Growth Hormone Receptor:p(Y1007)-JAK2 dimer	Growth Hormone:p(Y332,487,627)-Growth Hormone Receptor-p(Y1007)-JAK2 dimer	component>
+STAT1, STAT3	Growth Hormone: Activated Growth Hormone Receptor:p(Y1007)-JAK2 dimer:STAT1/STAT3	component>
+STAT3	STAT1, STAT3	member>
+STAT3	p(Y701)-STAT1, p(Y705)-STAT3	member>
+Growth Hormone:Tyrosine phosphorylated Growth Hormone Receptor-p(Y1007)-JAK2 dimer:STAT5	adenosine 5'-(trihydrogen diphosphate)	-a>
+Growth Hormone:Tyrosine phosphorylated Growth Hormone Receptor-p(Y1007)-JAK2 dimer:STAT5	Growth Hormone:Tyrosine phosphorylated Growth Hormone Receptor-p(Y1007)-JAK2 dimer:p-STAT5	-a>
+Tyrosine phosphorylated Growth Hormone Receptor-JAK2 dimer	Growth Hormone: Tyrosine phosphorylated Growth Hormone Receptor-JAK2 dimer	component>
+Activated Growth Hormone Receptor:p(Y1007)-JAK2 dimer	Growth Hormone: Activated Growth Hormone Receptor- p(Y1007)-JAK2 dimer	component>
+Growth Hormone Receptor-JAK2 dimer	Growth Hormone: Growth Hormone Receptor-JAK2 dimer	component>
+Activated cytokine-like hormone receptors	adenosine 5'-(trihydrogen diphosphate)	-a>
+Activated cytokine-like hormone receptors	Activated cytokine-like hormone receptors, p(Y1007)-JAK2	-a>
+PTPN1	Growth Hormone: Tyrosine phosphorylated Growth Hormone Receptor-JAK2 dimer:SHP2	component>
+PTPN1	Growth Hormone:p(Y332,487,627)-Growth Hormone Receptor-p(Y1007)-JAK2 dimer:SHP2	component>
+PTPN1	Growth Hormone: Tyrosine phosphorylated Growth Hormone Receptor-p(Y1007)-JAK2 dimer:SHP2	component>
+Growth Hormone:p(Y332,487,627)-Growth Hormone Receptor-p(Y1007)-JAK2 dimer	Growth Hormone:p(Y332,487,627)-Growth Hormone Receptor-p(Y1007)-JAK2 dimer:SHP2	component>
+GH1	Growth Hormone	member>
+SOCS1	CIS, SOCS1-3	member>
+SOCS1	SOCS	member>
+STAT1	STAT1, STAT3	member>
+STAT1	p(Y701)-STAT1, p(Y705)-STAT3	member>
+SOCS3	CIS, SOCS1-3	member>
+SOCS3	SOCS	member>
+SOCS2	CIS, SOCS1-3	member>
+SOCS2	SOCS	member>
+Tyrosine phosphorylated Growth Hormone Receptor:p(Y1007)-JAK2	Tyrosine phosphorylated Growth Hormone Receptor:p(Y1007)-JAK2 dimer	component>
+Growth Hormone	Growth Hormone: Tyrosine phosphorylated Growth Hormone Receptor-p(Y1007)-JAK2 dimer	component>
+Growth Hormone	Growth Hormone: Activated Growth Hormone Receptor-JAK2 dimer	component>
+Growth Hormone	Growth hormone oligomer	-a>
+Growth Hormone	GHBP:GH	component>
+Growth Hormone	Growth Hormone: Tyrosine phosphorylated Growth Hormone Receptor-JAK2 dimer	component>
+Growth Hormone	Growth Hormone: Growth Hormone Receptor-JAK2 dimer	component>
+Growth Hormone	Growth Hormone:p(Y332,487,627)-Growth Hormone Receptor-p(Y1007)-JAK2 dimer	component>
+Growth Hormone	Growth Hormone: Activated Growth Hormone Receptor- p(Y1007)-JAK2 dimer	component>
+CIS, SOCS1-3	Growth Hormone: Tyrosine phosphorylated Growth Hormone Receptor-p(Y1007)-JAK2 dimer:CIS/SOCS1-3	component>
+IRS1	IRS1,2	member>
+IRS1	p-IRS1,2	member>
+IRS2	IRS1,2	member>
+IRS2	p-IRS1,2	member>
+Growth Hormone: Tyrosine phosphorylated Growth Hormone Receptor-p(Y1007)-JAK2 dimer	Growth Hormone:Tyrosine phosphorylated Growth Hormone Receptor-p(Y1007)-JAK2 dimer:p-STAT5	component>
+Growth Hormone: Tyrosine phosphorylated Growth Hormone Receptor-p(Y1007)-JAK2 dimer	Growth Hormone:Tyrosine phosphorylated Growth Hormone Receptor-p(Y1007)-JAK2 dimer:STAT5	component>
+Growth Hormone: Tyrosine phosphorylated Growth Hormone Receptor-p(Y1007)-JAK2 dimer	Growth Hormone: Tyrosine phosphorylated Growth Hormone Receptor-p(Y1007)-JAK2 dimer:CIS/SOCS1-3	component>
+Growth Hormone: Tyrosine phosphorylated Growth Hormone Receptor-p(Y1007)-JAK2 dimer	Growth Hormone: Tyrosine phosphorylated Growth Hormone Receptor-p(Y1007)-JAK2 dimer:SHP1	component>
+Growth Hormone: Tyrosine phosphorylated Growth Hormone Receptor-p(Y1007)-JAK2 dimer	Growth Hormone: Tyrosine phosphorylated Growth Hormone Receptor-p(Y1007)-JAK2 dimer:SHP2	component>
+Growth Hormone: Tyrosine phosphorylated Growth Hormone Receptor-p(Y1007)-JAK2 dimer	Growth Hormone: Tyrosine phosphorylated Growth Hormone Receptor-p(Y1007)-JAK2 dimer:SOCS	component>
+STAT5A	Growth Hormone:Tyrosine phosphorylated Growth Hormone Receptor-p(Y1007)-JAK2 dimer:STAT5	component>
+STAT5A	STAT5A	member>
+STAT5A	p-STAT5A/B	member>
+STAT5A	p-STAT5	member>
+SOCS	Growth Hormone: Tyrosine phosphorylated Growth Hormone Receptor-p(Y1007)-JAK2 dimer:SOCS	component>
+p(Y701)-STAT1, p(Y705)-STAT3	Growth Hormone: Activated Growth Hormone Receptor:p(Y1007)-JAK2 dimer:p(Y701)-STAT1/p(Y705)-STAT3	component>
+Growth Hormone: Activated Growth Hormone Receptor:p(Y1007)-JAK2 dimer:STAT1/STAT3	adenosine 5'-(trihydrogen diphosphate)	-a>
+Growth Hormone: Activated Growth Hormone Receptor:p(Y1007)-JAK2 dimer:STAT1/STAT3	Growth Hormone: Activated Growth Hormone Receptor:p(Y1007)-JAK2 dimer:p(Y701)-STAT1/p(Y705)-STAT3	-a>
+dihydrogen oxide	Growth Hormone: Tyrosine phosphorylated Growth Hormone Receptor-JAK2 dimer:SHP2	-a>
+dihydrogen oxide	Growth Hormone:p(Y332,487,627)-Growth Hormone Receptor-p(Y1007)-JAK2 dimer:SHP2	-a>
+dihydrogen oxide	tetraoxidophosphate(3-)	-a>
+p-STAT5	p-STAT5 dimer	component>
+Tyrosine phosphorylated Growth Hormone Receptor:p(Y1007)-JAK2 dimer	Growth Hormone: Tyrosine phosphorylated Growth Hormone Receptor-p(Y1007)-JAK2 dimer	component>

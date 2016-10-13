@@ -1,0 +1,128 @@
+SmallMolecule	9cRA
+protein	AKT1
+protein	CCNH
+protein	CDK1
+protein	CDK7
+complex	CRBP1/9-cic-RA
+protein	Cbp/p300
+rna	DNA
+protein	Erk1-2-active
+protein	HDAC1
+protein	KAT2B
+protein	MAPK14
+protein	MAPK8
+protein	MNAT1
+protein	NCOA1
+protein	NCOA2
+protein	NCOA3
+protein	NCOR2
+protein	NRIP1
+protein	None
+protein	PRKACA
+protein	PRKCA
+protein	PRKCG
+complex	RAR alpha/9cRA
+complex	RAR alpha/9cRA/Cyclin H
+complex	RAR alpha/Jnk1
+complex	RAR alpha/RXRs
+complex	RAR gamma1/9cRA
+complex	RAR gamma2/9cRA
+protein	RARA
+protein	RARG
+protein	RARs
+complex	RARs/AIB1/Cbp/p300/PCAF/9cRA
+complex	RARs/Src-1/Cbp/p300/PCAF/9cRA
+complex	RARs/TIF2/Cbp/p300/PCAF/9cRA
+protein	RBP1
+protein	RXRA
+protein	RXRs
+complex	RXRs/RARs/NRIP1/9cRA/HDAC1
+complex	RXRs/RARs/SMRT(N-CoR2)/9cRA
+complex	RXRs/RXRs/DNA/9cRA
+complex	RXRs/VDR/DNA/Vit D3
+complex	TFIIH
+complex	TFIIH core complex
+protein	VDR
+SmallMolecule	Vit D3
+HDAC1	RXRs/RARs/NRIP1/9cRA/HDAC1	component>
+Erk1-2-active	RXRs/RARs/SMRT(N-CoR2)/9cRA	ACTIVATION
+VDR	RXRs/VDR/DNA/Vit D3	component>
+RARs/AIB1/Cbp/p300/PCAF/9cRA	None	ACTIVATION
+RARs/AIB1/Cbp/p300/PCAF/9cRA	RARs/AIB1/Cbp/p300/PCAF/9cRA	-a>
+KAT2B	RARs/AIB1/Cbp/p300/PCAF/9cRA	component>
+KAT2B	RARs/TIF2/Cbp/p300/PCAF/9cRA	component>
+KAT2B	RARs/Src-1/Cbp/p300/PCAF/9cRA	component>
+MAPK14	RARs/AIB1/Cbp/p300/PCAF/9cRA	ACTIVATION
+MAPK14	RXRA	ACTIVATION
+MAPK14	RAR gamma2/9cRA	ACTIVATION
+AKT1	AKT1	-a>
+AKT1	RXRs/RARs/SMRT(N-CoR2)/9cRA	ACTIVATION
+AKT1	RAR alpha/RXRs	ACTIVATION
+RARs	RARs/TIF2/Cbp/p300/PCAF/9cRA	component>
+RARs	RXRs/RARs/NRIP1/9cRA/HDAC1	component>
+RARs	RARs/AIB1/Cbp/p300/PCAF/9cRA	component>
+RARs	AKT1	ACTIVATION
+RARs	RARs/Src-1/Cbp/p300/PCAF/9cRA	component>
+RARs	RXRs/RARs/SMRT(N-CoR2)/9cRA	component>
+9cRA	RAR alpha/9cRA/Cyclin H	component>
+9cRA	RXRs/RARs/NRIP1/9cRA/HDAC1	component>
+9cRA	RARs/AIB1/Cbp/p300/PCAF/9cRA	component>
+9cRA	RAR gamma1/9cRA	component>
+9cRA	CRBP1/9-cic-RA	component>
+9cRA	RARs/TIF2/Cbp/p300/PCAF/9cRA	component>
+9cRA	RAR gamma2/9cRA	component>
+9cRA	RARs/Src-1/Cbp/p300/PCAF/9cRA	component>
+9cRA	RXRs/RARs/SMRT(N-CoR2)/9cRA	component>
+9cRA	9cRA	transport
+9cRA	RXRs/RXRs/DNA/9cRA	component>
+9cRA	RAR alpha/9cRA	component>
+NCOR2	RXRs/RARs/SMRT(N-CoR2)/9cRA	component>
+NCOA2	RARs/TIF2/Cbp/p300/PCAF/9cRA	component>
+NCOA3	RARs/AIB1/Cbp/p300/PCAF/9cRA	component>
+NCOA1	RARs/Src-1/Cbp/p300/PCAF/9cRA	component>
+RARG	RAR gamma1/9cRA	component>
+RARG	RAR gamma2/9cRA	component>
+RARA	RARA	-a>
+RARA	None	ACTIVATION
+RARA	RAR alpha/9cRA/Cyclin H	component>
+RARA	RAR alpha/RXRs	component>
+RARA	RAR alpha/Jnk1	component>
+RARA	RAR alpha/9cRA	component>
+None	RARA	ACTIVATION
+None	RXRA	ACTIVATION
+RAR alpha/9cRA/Cyclin H	None	ACTIVATION
+DNA	RXRs/VDR/DNA/Vit D3	component>
+DNA	RXRs/RXRs/DNA/9cRA	component>
+PRKCA	RXRs	ACTIVATION
+RXRA	RAR alpha/9cRA/Cyclin H	component>
+RXRA	RXRA	-a>
+PRKCG	RXRs	ACTIVATION
+RBP1	AKT1	INHIBITION
+RBP1	CRBP1/9-cic-RA	component>
+RAR gamma2/9cRA	None	ACTIVATION
+MNAT1	TFIIH	component>
+RAR alpha/RXRs	RAR alpha/RXRs	-a>
+MAPK8	RARA	ACTIVATION
+MAPK8	RAR alpha/Jnk1	component>
+MAPK8	RXRA	ACTIVATION
+Vit D3	RXRs/VDR/DNA/Vit D3	component>
+Cbp/p300	RARs/AIB1/Cbp/p300/PCAF/9cRA	component>
+Cbp/p300	RARs/TIF2/Cbp/p300/PCAF/9cRA	component>
+Cbp/p300	RARs/Src-1/Cbp/p300/PCAF/9cRA	component>
+NRIP1	RXRs/RARs/NRIP1/9cRA/HDAC1	component>
+CDK1	RXRA	ACTIVATION
+PRKACA	RAR gamma1/9cRA	ACTIVATION
+PRKACA	RAR alpha/9cRA	ACTIVATION
+PRKACA	RAR gamma2/9cRA	ACTIVATION
+CDK7	TFIIH	component>
+TFIIH	RAR alpha/9cRA/Cyclin H	ACTIVATION
+TFIIH	RAR gamma2/9cRA	ACTIVATION
+TFIIH	RAR alpha/9cRA	ACTIVATION
+TFIIH core complex	TFIIH	component>
+CCNH	TFIIH	component>
+CCNH	RAR alpha/9cRA/Cyclin H	component>
+RXRs	RXRs/VDR/DNA/Vit D3	component>
+RXRs	RXRs/RARs/NRIP1/9cRA/HDAC1	component>
+RXRs	RXRs/RARs/SMRT(N-CoR2)/9cRA	component>
+RXRs	RAR alpha/RXRs	component>
+RXRs	RXRs/RXRs/DNA/9cRA	component>

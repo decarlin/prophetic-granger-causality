@@ -1,0 +1,94 @@
+protein	ACTA1
+protein	BCAR1
+protein	BCR
+protein	CAPN1
+protein	CAV1
+protein	CRKL
+protein	CSK
+protein	ECM
+complex	ECM/Integrin-alpha/Integrin-beta/Caveolin-1/FYN
+complex	ECM/Integrin-alpha/Integrin-beta/Talin/Paxillin/Vinculin
+complex	ECM/Integrin-alpha/Integrin-betaTalin/Calpain1/actin/p130cas/FAK/CSK/Paxillin/Vinculin/alpha-actinin
+protein	FYN
+protein	GRB2
+protein	HRAS
+protein	ITGA1
+protein	ITGB1
+protein	LRPAP1
+protein	MAPK8
+protein	MLC1
+protein	PPP1R12B
+protein	PTK2
+protein	PXN
+protein	RAPGEF1
+protein	RHOA
+protein	ROCK1
+complex	SHC/GRB2/SOS-1
+protein	SHC1
+protein	SOS1
+protein	SRC
+protein	TLN1
+protein	TNS1
+protein	VCL
+protein	ZYX
+protein	alpha-actinin
+SmallMolecule	guanosine 5`-triphosphate
+SmallMolecule	nucleoside diphosphate
+PTK2	ECM/Integrin-alpha/Integrin-betaTalin/Calpain1/actin/p130cas/FAK/CSK/Paxillin/Vinculin/alpha-actinin	component>
+CRKL	MAPK8	ACTIVATION
+CRKL	CRKL	-a>
+CRKL	BCR	ACTIVATION
+CRKL	RAPGEF1	ACTIVATION
+LRPAP1	LRPAP1	-a>
+guanosine 5`-triphosphate	HRAS	-a>
+guanosine 5`-triphosphate	nucleoside diphosphate	-a>
+guanosine 5`-triphosphate	RHOA	-a>
+HRAS	HRAS	-a>
+HRAS	nucleoside diphosphate	-a>
+CAPN1	ECM/Integrin-alpha/Integrin-betaTalin/Calpain1/actin/p130cas/FAK/CSK/Paxillin/Vinculin/alpha-actinin	component>
+ZYX	ECM/Integrin-alpha/Integrin-betaTalin/Calpain1/actin/p130cas/FAK/CSK/Paxillin/Vinculin/alpha-actinin	component>
+ACTA1	ECM/Integrin-alpha/Integrin-betaTalin/Calpain1/actin/p130cas/FAK/CSK/Paxillin/Vinculin/alpha-actinin	component>
+SHC/GRB2/SOS-1	HRAS	ACTIVATION
+SHC/GRB2/SOS-1	SHC/GRB2/SOS-1	-a>
+RAPGEF1	LRPAP1	ACTIVATION
+RAPGEF1	RHOA	ACTIVATION
+RAPGEF1	RAPGEF1	-a>
+BCR	BCR	-a>
+CAV1	ECM/Integrin-alpha/Integrin-beta/Caveolin-1/FYN	component>
+alpha-actinin	ECM/Integrin-alpha/Integrin-betaTalin/Calpain1/actin/p130cas/FAK/CSK/Paxillin/Vinculin/alpha-actinin	component>
+FYN	ECM/Integrin-alpha/Integrin-beta/Caveolin-1/FYN	component>
+TLN1	ECM/Integrin-alpha/Integrin-betaTalin/Calpain1/actin/p130cas/FAK/CSK/Paxillin/Vinculin/alpha-actinin	component>
+TLN1	ECM/Integrin-alpha/Integrin-beta/Talin/Paxillin/Vinculin	component>
+MLC1	MLC1	-a>
+PXN	ECM/Integrin-alpha/Integrin-betaTalin/Calpain1/actin/p130cas/FAK/CSK/Paxillin/Vinculin/alpha-actinin	component>
+PXN	ECM/Integrin-alpha/Integrin-beta/Talin/Paxillin/Vinculin	component>
+PPP1R12B	MLC1	ACTIVATION
+PPP1R12B	PPP1R12B	-a>
+ITGA1	ECM/Integrin-alpha/Integrin-beta/Caveolin-1/FYN	component>
+ITGA1	ECM/Integrin-alpha/Integrin-betaTalin/Calpain1/actin/p130cas/FAK/CSK/Paxillin/Vinculin/alpha-actinin	component>
+ITGA1	ECM/Integrin-alpha/Integrin-beta/Talin/Paxillin/Vinculin	component>
+TNS1	ECM/Integrin-alpha/Integrin-betaTalin/Calpain1/actin/p130cas/FAK/CSK/Paxillin/Vinculin/alpha-actinin	component>
+ITGB1	ECM/Integrin-alpha/Integrin-beta/Caveolin-1/FYN	component>
+ITGB1	ECM/Integrin-alpha/Integrin-betaTalin/Calpain1/actin/p130cas/FAK/CSK/Paxillin/Vinculin/alpha-actinin	component>
+ITGB1	ECM/Integrin-alpha/Integrin-beta/Talin/Paxillin/Vinculin	component>
+SRC	SRC	-a>
+ECM/Integrin-alpha/Integrin-betaTalin/Calpain1/actin/p130cas/FAK/CSK/Paxillin/Vinculin/alpha-actinin	SRC	ACTIVATION
+ECM/Integrin-alpha/Integrin-betaTalin/Calpain1/actin/p130cas/FAK/CSK/Paxillin/Vinculin/alpha-actinin	RHOA	ACTIVATION
+ECM/Integrin-alpha/Integrin-betaTalin/Calpain1/actin/p130cas/FAK/CSK/Paxillin/Vinculin/alpha-actinin	CRKL	ACTIVATION
+SHC1	SHC/GRB2/SOS-1	component>
+CSK	ECM/Integrin-alpha/Integrin-betaTalin/Calpain1/actin/p130cas/FAK/CSK/Paxillin/Vinculin/alpha-actinin	component>
+VCL	ECM/Integrin-alpha/Integrin-betaTalin/Calpain1/actin/p130cas/FAK/CSK/Paxillin/Vinculin/alpha-actinin	component>
+VCL	ECM/Integrin-alpha/Integrin-beta/Talin/Paxillin/Vinculin	component>
+RHOA	RHOA	-a>
+RHOA	nucleoside diphosphate	-a>
+RHOA	ROCK1	ACTIVATION
+BCAR1	ECM/Integrin-alpha/Integrin-betaTalin/Calpain1/actin/p130cas/FAK/CSK/Paxillin/Vinculin/alpha-actinin	component>
+MAPK8	MAPK8	-a>
+SOS1	SHC/GRB2/SOS-1	component>
+ROCK1	ROCK1	-a>
+ROCK1	PPP1R12B	ACTIVATION
+GRB2	SHC/GRB2/SOS-1	component>
+ECM/Integrin-alpha/Integrin-beta/Caveolin-1/FYN	SHC/GRB2/SOS-1	ACTIVATION
+ECM	ECM/Integrin-alpha/Integrin-beta/Caveolin-1/FYN	component>
+ECM	ECM/Integrin-alpha/Integrin-betaTalin/Calpain1/actin/p130cas/FAK/CSK/Paxillin/Vinculin/alpha-actinin	component>
+ECM	ECM/Integrin-alpha/Integrin-beta/Talin/Paxillin/Vinculin	component>

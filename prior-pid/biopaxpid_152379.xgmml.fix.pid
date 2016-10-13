@@ -1,0 +1,54 @@
+protein	ADRBK1
+protein	ARRB1
+protein	DNM1
+protein	G-alpha-S
+complex	G-alpha-s/GTP
+protein	G-protein Receptor
+protein	GNB1
+protein	GNGT1
+protein	GPCR
+protein	Ligand
+complex	Ligand/GPCR(+)/Arrestin
+complex	Ligand/GPCR(+)/Arrestin/RAF1/MEK1/MEK2/ERK1/ERK2
+complex	Ligand/GPCR(+)/Arrestin/RAF1/MEK1/MEK2/ERK1/ERK2(cy)
+complex	Ligand/GPCR(+)/g-beta/g-gamma
+complex	Ligand/GPCR/g-beta/g-gamma
+protein	MAP2K1
+protein	MAP2K2
+protein	MAPK1
+protein	MAPK3
+protein	RAF1
+SmallMolecule	guanosine 5'-triphosphate
+Ligand/GPCR/g-beta/g-gamma	Ligand/GPCR(+)/g-beta/g-gamma	-a>
+Ligand	Ligand/GPCR(+)/g-beta/g-gamma	component>
+Ligand	Ligand/GPCR/g-beta/g-gamma	component>
+Ligand	Ligand/GPCR(+)/Arrestin	component>
+Ligand	Ligand/GPCR(+)/Arrestin/RAF1/MEK1/MEK2/ERK1/ERK2	component>
+Ligand	Ligand/GPCR(+)/Arrestin/RAF1/MEK1/MEK2/ERK1/ERK2(cy)	component>
+RAF1	Ligand/GPCR(+)/Arrestin/RAF1/MEK1/MEK2/ERK1/ERK2	component>
+RAF1	Ligand/GPCR(+)/Arrestin/RAF1/MEK1/MEK2/ERK1/ERK2(cy)	component>
+GNB1	Ligand/GPCR(+)/g-beta/g-gamma	component>
+GNB1	Ligand/GPCR/g-beta/g-gamma	component>
+GPCR	Ligand/GPCR(+)/Arrestin	component>
+GPCR	Ligand/GPCR(+)/Arrestin/RAF1/MEK1/MEK2/ERK1/ERK2	component>
+GPCR	Ligand/GPCR(+)/Arrestin/RAF1/MEK1/MEK2/ERK1/ERK2(cy)	component>
+MAP2K1	Ligand/GPCR(+)/Arrestin/RAF1/MEK1/MEK2/ERK1/ERK2	component>
+MAP2K1	Ligand/GPCR(+)/Arrestin/RAF1/MEK1/MEK2/ERK1/ERK2(cy)	component>
+G-protein Receptor	Ligand/GPCR(+)/g-beta/g-gamma	component>
+G-protein Receptor	Ligand/GPCR/g-beta/g-gamma	component>
+MAP2K2	Ligand/GPCR(+)/Arrestin/RAF1/MEK1/MEK2/ERK1/ERK2	component>
+MAP2K2	Ligand/GPCR(+)/Arrestin/RAF1/MEK1/MEK2/ERK1/ERK2(cy)	component>
+MAPK3	Ligand/GPCR(+)/Arrestin/RAF1/MEK1/MEK2/ERK1/ERK2	component>
+MAPK3	Ligand/GPCR(+)/Arrestin/RAF1/MEK1/MEK2/ERK1/ERK2(cy)	component>
+MAPK1	Ligand/GPCR(+)/Arrestin/RAF1/MEK1/MEK2/ERK1/ERK2	component>
+MAPK1	Ligand/GPCR(+)/Arrestin/RAF1/MEK1/MEK2/ERK1/ERK2(cy)	component>
+DNM1	Ligand/GPCR(+)/Arrestin/RAF1/MEK1/MEK2/ERK1/ERK2(cy)	ACTIVATION
+GNGT1	Ligand/GPCR(+)/g-beta/g-gamma	component>
+GNGT1	Ligand/GPCR/g-beta/g-gamma	component>
+ARRB1	Ligand/GPCR(+)/Arrestin	component>
+ARRB1	Ligand/GPCR(+)/Arrestin/RAF1/MEK1/MEK2/ERK1/ERK2	component>
+ARRB1	Ligand/GPCR(+)/Arrestin/RAF1/MEK1/MEK2/ERK1/ERK2(cy)	component>
+G-alpha-S	G-alpha-s/GTP	component>
+guanosine 5'-triphosphate	G-alpha-s/GTP	component>
+ADRBK1	Ligand/GPCR(+)/g-beta/g-gamma	ACTIVATION
+Ligand/GPCR(+)/Arrestin/RAF1/MEK1/MEK2/ERK1/ERK2	Ligand/GPCR(+)/Arrestin/RAF1/MEK1/MEK2/ERK1/ERK2(cy)	-a>
